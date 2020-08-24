@@ -6,12 +6,11 @@ import retrofit2.http.Query
 
 interface BlizzardService {
 
-
     @GET
     fun getCards(
+        @Query("access_token") accessToken: String,
         @Query("page") page: Int,
         @Query("locale") locale: String = "ko_KR",
-        @Query("access_token") accessToken: String,
     )
 
     companion object {

@@ -2,25 +2,23 @@ package api
 
 import BLIZZARD_API_ID
 import BLIZZARD_API_SECRET
-import api.response.OathResponse
+import api.response.OAuthResponse
 import okhttp3.MediaType
 import okhttp3.RequestBody
-import okhttp3.ResponseBody
-import retrofit2.Call
 import retrofit2.http.Header
 import retrofit2.http.Multipart
 import retrofit2.http.POST
 import retrofit2.http.Part
 import java.util.*
 
-interface BlizzardOathService {
+interface BlizzardOAuthService {
 
     @Multipart
     @POST("oauth/token")
-    fun requestOathToken(
+    suspend fun requestOAuthToken(
         @Header("Authorization") auth: String = getEncodedCredential(),
         @Part("grant_type") grant_type: RequestBody = getGrantType(),
-    ): Call<OathResponse>
+    ): OAuthResponse
 
     private fun getEncodedCredential(): String {
         val authCredentials = String.format("%s:%s", BLIZZARD_API_ID, BLIZZARD_API_SECRET)
