@@ -1,0 +1,27 @@
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	manaCost	name	text	image	imageGold	flavorText	cropImage	parentId	childIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	manaCost	name	text	image	imageGold	flavorText	cropImage
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	attack	manaCost	durability	name	text	image	imageGold	flavorText	cropImage
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	attack	manaCost	durability	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	attack	manaCost	durability	name	text	image	imageGold	flavorText	cropImage	keywordIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	manaCost	armor	name	text	image	imageGold	flavorText	cropImage
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	manaCost	armor	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	parentId	keywordIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	durability	name	text	image	imageGold	flavorText	cropImage	keywordIds
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	parentId
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	attack	manaCost	durability	name	text	image	imageGold	flavorText	cropImage	childIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	manaCost	durability	name	text	image	imageGold	flavorText	cropImage	keywordIds
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	durability	name	text	image	imageGold	flavorText	cropImage	keywordIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	manaCost	durability	name	text	image	imageGold	flavorText	cropImage
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	durability	name	text	image	imageGold	flavorText	cropImage
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	manaCost	durability	name	text	image	imageGold	flavorText	cropImage	childIds

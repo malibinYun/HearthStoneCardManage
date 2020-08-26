@@ -5,13 +5,13 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 private val gsonConverterFactory = GsonConverterFactory.create()
 
-val blizzardService = Retrofit.Builder()
+val blizzardService: BlizzardService = Retrofit.Builder()
     .baseUrl(BlizzardService.BASE_URL)
     .addConverterFactory(gsonConverterFactory)
     .build()
     .create(BlizzardService::class.java)
 
-val blizzardOAuthService = Retrofit.Builder()
+val blizzardOAuthService: BlizzardOAuthService = Retrofit.Builder()
     .baseUrl(BlizzardOAuthService.BASE_URL)
     .addConverterFactory(gsonConverterFactory)
     .build()

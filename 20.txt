@@ -1,0 +1,2 @@
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	parentId
+2634	1	"2634-dreadscale"	3	[]	20	4	15	5	"Zoltan Boros"	2	4	3	"공포비늘"	"내 턴이 끝날 때, 다른 <b>모든</b> 하수인에게 피해를 1 줍니다."	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26e31e9614c7860fc3e3b8c7facf9e9ddb5172fd2524ef84bafe4b6d3718d1ef.png"	""	"이거 하나는 확실하게 하죠. <i>산성아귀</i>가 공포비늘의 졸개입니다."	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e11a34b5cfc37933103e153e1282c9b9fdea1d69de380a5aa2b11dc251260ee.jpg"	2633

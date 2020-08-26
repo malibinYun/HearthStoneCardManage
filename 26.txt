@@ -1,0 +1,2 @@
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	manaCost	durability	name	text	image	imageGold	flavorText	cropImage	childIds
+59151	1	"59151-sphere-of-sapience"	12	[]	7	1443	5	"Jakub Kasper"	1	4	"예지의 구슬"	"내 턴이 시작될 때, 내 다음 카드를 봅니다. 내구도를 1 잃고 그 카드를 내 덱 맨 아래에 놓을 수 있습니다."	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b6cf1c0b678f84d4653c839d6f456a180fd401f6dd908d4c0b49c5649d5759c.png"	""	"점술의 구슬이라고도 할 수 있겠네요."	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/903a891f757832b9ca54154d6f1ef54c8ebf31cb8a64336a5f370b8cde835323.png"	[62233]

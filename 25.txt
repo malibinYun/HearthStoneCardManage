@@ -1,0 +1,2 @@
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	durability	name	text	image	imageGold	flavorText	cropImage
+48526	1	"48526-supercollider"	10	[]	7	1127	4	"Jason Kang"	0	1	5	3	"자동충돌망치"	"내 영웅이 하수인을 공격한 후에, 그 하수인이 자신의 양옆에 있는 하수인 중 하나를 공격하게 만듭니다."	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/536d580dc0debbb76b6df8449354fc59ad5b9c89a29e95ea972e289b1b879e7a.png"	""	"붐의 운동의 제2법칙: 세게 때리면 아프다!"	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e70abc29c5030990de17f26cef854e080d034cbe7e7523b35a2c347c44d184c5.png"
