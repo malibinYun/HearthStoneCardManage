@@ -19,7 +19,7 @@ fun main() {
 }
 
 suspend fun getAccessToken(): String {
-    return blizzardOAuthService.requestOAuthToken().access_token
+    return blizzardOAuthService.requestOAuthToken().accessToken
 }
 
 suspend fun createCategoryCardMap(blizzardService: BlizzardService, accessToken: String): Map<Category, Cards> {
