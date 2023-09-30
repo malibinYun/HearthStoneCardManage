@@ -1,2 +1,0 @@
-id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	duels
-75072	1	"75072-fossil-fanatic"	14	[]	4	1658	1	"Arthur Gimaldinov"	2	2	2	"화석 애호가"	"내 영웅이 공격한 후에, 지옥 주문을 뽑습니다."	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7856b0db9fade833f5b6b158acb5d1c122d8a3a8d8f83559d728e7af44f60dfd.png"	""	"조개화석이 국룰인거 아시죠?"	{"relevant":true,"constructed":true}

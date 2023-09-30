@@ -1,2 +1,0 @@
-id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	manaCost	name	text	image	imageGold	flavorText	copyOfCardId	duels
-89145	1	"89145-war-cache"	10	[]	5	1635	3	"Jason Kang"	3	"전쟁 보관함"	"무작위 전사 하수인, 주문, 무기를 내 손으로 가져옵니다."	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e559316250a219c2014366202c016659f2ed6063bb0e85cfa55a425d9b858bc.png"	""	"일리단의 보관함보다 훨씬 깔끔하네요."	62463	{"relevant":true,"constructed":true}

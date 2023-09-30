@@ -1,2 +1,0 @@
-id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	manaCost	name	text	image	imageGold	flavorText	cropImage	parentId	childIds
-40195	1	"40195-maiev-shadowsong"	7	[]	3	17	4	"Chris Rahn"	30	0	"마이에브 섀도송"	""	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4467b81ece86a889d917574ba2fc17c88ca79b22169d61305b7b889fb302121b.png"	""	""	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a60b28b4a9bb70748ce68815582bbde7a0c2ebfdf70988adb51da88c5d655fc.png"	930	[730,485]

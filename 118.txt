@@ -1,2 +1,0 @@
-id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	keywordIds	copyOfCardId	duels
-89148	1	"89148-enslaved-fel-lord"	9	[]	15	4	1635	1	"Nicola Saviori"	10	4	7	"사로잡힌 지옥 군주"	"<b>도발</b>, 공격하는 대상 양옆의 하수인들에게도 피해를 줍니다."	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/944ac075f0648b32690fc47c1170b16117d2f4ec8a62b76d1812e8994601d988.png"	""	"실제로 사로잡힌 것은 아닙니다. 임프들이 너무 까불면 겁주기 위해 일부러 사슬에 묶인 겁니다."	[1]	66259	{"relevant":true,"constructed":true}

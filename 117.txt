@@ -1,2 +1,0 @@
-id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	keywordIds	duels
-75639	1	"75639-commander-ulthok"	9	[]	4	1658	5	"James Ryman"	7	7	5	"사령관 울톡"	"<b>전투의 함성:</b> 다음 턴에 상대편이 사용하는 카드들은 마나 대신 생명력을 비용으로 사용합니다."	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8070ca71f04bda0fe2a830f8c8f16dc23243dd47472ab42edb4bc9d378b6d069.png"	""	"휴일에는 정원에서 핏빛순무, 핏빛양배추, 그리고 가장 아끼는 핏빛꽃을 키운다고 합니다."	[8]	{"relevant":true,"constructed":true}

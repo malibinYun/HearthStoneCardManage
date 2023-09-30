@@ -1,2 +1,0 @@
-id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	parentId	keywordIds
-47930	1	"47930-hunting-mastiff"	3	[]	20	4	1125	1	"Konstantin Turovec"	1	2	2	"사냥용 파수견"	"<b>잔상</b> <b>속공</b>"	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/672c33cd63f81794ccfe1b7f3376749911bf6184bc508e18558d96796139f21c.png"	""	"\"야! 개 짖는 소리 좀 안 나게 해라!\""	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4dec049d8a7c1dd0826e79a9af60cc8fd4fad859669b0ef1c0a0998a208fc57.png"	47256	[52,53]

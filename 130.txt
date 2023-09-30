@@ -1,2 +1,0 @@
-id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	childIds	duels
-72024	1	"72024-lady-nazjar"	4	[]	92	4	1658	5	"A.J. Nazzaro"	5	5	5	"여군주 나즈자르"	"이 카드는 내 손에 있을 때, 화염, 냉기, 또는 비전 주문을 시전한 후에 변신합니다."	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2969d5bf2b1df2e3560a0164ad9bbf807873a571057b7587b0d592a2f6c91fe9.png"	""	"정말 귀가 얇은가 봅니다."	[72033,72034,72032]	{"relevant":true,"constructed":true}
