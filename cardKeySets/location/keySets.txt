@@ -1,0 +1,7 @@
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	manaCost	name	text	image	imageGold	flavorText	cropImage	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	manaCost	name	text	image	imageGold	flavorText	cropImage
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds

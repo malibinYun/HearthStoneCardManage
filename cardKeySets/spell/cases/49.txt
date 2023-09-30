@@ -1,0 +1,2 @@
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	manaCost	name	text	image	imageGold	flavorText	cropImage	runeCost
+98410	1	"98410-dead-air"	1	[]	5	1809	3	"Grace Liu"	2	"침묵의 공기"	"내 언데드를 처치합니다. 그 하수인들을 다시 소환합니다."	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1e72d00da70f5ce8d8b28f13e61bb853b9892eb26c5928372440abe1c2c96d3.png"	""	"유령 관객들의 소감을 듣고 다시 돌아오겠습니다."	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1af04ac4130219c93d79270e54d1f6601b643a34c86d8df2bf1e963648db391.png"	{"blood":0,"frost":1,"unholy":1}

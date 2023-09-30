@@ -1,0 +1,2 @@
+id	collectible	slug	classId	multiClassIds	spellSchoolId	cardTypeId	cardSetId	rarityId	artistName	manaCost	name	text	image	imageGold	flavorText	childIds	copyOfCardId	duels
+89144	1	"89144-ritual-of-doom"	9	[]	6	5	1635	3	"L. Lullabi & A. Bozonnet"	0	"파멸의 의식"	"아군 하수인을 처치합니다. 하수인이 다섯 이상 있었다면, 5/5 악마를 소환합니다."	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37aff63c78d8b249032afca9ff975f02e959439cb85f0364dfe5962f3e16e9dd.png"	""	"\"같이 파멸의 노래 부를래?\""	[63157]	62349	{"relevant":true,"constructed":true}

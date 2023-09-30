@@ -1,0 +1,75 @@
+id	collectible	slug	classId	multiClassIds	minionTypeId	multiTypeIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds
+id	collectible	slug	classId	multiClassIds	minionTypeId	multiTypeIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds	copyOfCardId	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds	copyOfCardId
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	bannedFromSideboard	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds	copyOfCardId	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds	copyOfCardId
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds	copyOfCardId
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	copyOfCardId
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	multiTypeIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	keywordIds	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds	duels	runeCost
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	multiTypeIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds	copyOfCardId
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds	copyOfCardId	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	copyOfCardId	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	copyOfCardId	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds	bannedFromSideboard
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds	duels	runeCost
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	multiTypeIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds	copyOfCardId	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	multiTypeIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds	bannedFromSideboard	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	parentId
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	copyOfCardId
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds	runeCost
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds	runeCost
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds	duels	runeCost
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds	runeCost
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds	copyOfCardId	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	keywordIds	copyOfCardId	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds	bannedFromSideboard
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	copyOfCardId
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds
+id	collectible	slug	classId	multiClassIds	minionTypeId	multiTypeIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	keywordIds	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	multiTypeIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	childIds	keywordIds	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds	maxSideboardCards	bannedFromSideboard
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	durability	name	text	image	imageGold	flavorText	cropImage	keywordIds
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	parentId	keywordIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	keywordIds	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	keywordIds	copyOfCardId	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds	bannedFromSideboard	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	multiTypeIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds	duels	runeCost
+id	collectible	slug	classId	multiClassIds	minionTypeId	multiTypeIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	keywordIds	duels	runeCost
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	parentId	childIds	keywordIds	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds	copyOfCardId	bannedFromSideboard	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	childIds	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	duels	runeCost
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	durability	name	text	image	imageGold	flavorText	cropImage	keywordIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	bannedFromSideboard
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	copyOfCardId	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	copyOfCardId
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	bannedFromSideboard
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds	duels	runeCost
+id	collectible	slug	classId	multiClassIds	minionTypeId	multiTypeIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	duels	runeCost
+id	collectible	slug	classId	multiClassIds	minionTypeId	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	duels
+id	collectible	slug	classId	multiClassIds	minionTypeId	multiTypeIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	duels
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	cropImage	childIds	keywordIds	bannedFromSideboard

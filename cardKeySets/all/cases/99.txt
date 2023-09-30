@@ -1,0 +1,2 @@
+id	collectible	slug	classId	multiClassIds	minionTypeId	multiTypeIds	cardTypeId	cardSetId	rarityId	artistName	health	attack	manaCost	name	text	image	imageGold	flavorText	keywordIds	duels
+76223	1	"76223-k-0tron"	3	[]	17	[20]	4	1658	1	"Zoltan Boros"	3	2	2	"멍멍로봇"	"<b>전투의 함성:</b> <b>인양</b>, 그 카드가 비용이 1인 하수인이면, 그 하수인을 소환합니다."	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/87c3e6f1a50c2551b487ec67ea8035b09c2c1cc28f3294706ebfd1d8e24c29a3.png"	""	"너는 전장을 받아들였을 뿐. 나는 전장 속에서 태어나, 전장으로 빚어졌다."	[8,232]	{"relevant":true,"constructed":true}

@@ -1,0 +1,3 @@
+id	collectible	slug	classId	multiClassIds	cardTypeId	cardSetId	rarityId	artistName	manaCost	name	text	image	imageGold	flavorText	duels
+80121	1	"80121-jackpot"	7	[]	5	1658	1	"Arthur Bozonnet"	2	"잭팟!"	"다른 직업의 비용이 (5) 이상인 무작위 주문 둘을 내 손으로 가져옵니다."	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7a673fbc3d4c66ee9434f8d78ac860f10c802b7132954d43ccc526415996f16.png"	""	"후크터스크가 보물을 보는 눈빛으로 나를 봐 주는 상대를 찾으세요."	{"relevant":true,"constructed":true}
+80117	1	"80117-front-lines"	5	[]	5	1658	4	"Daniil Kudriavtsev"	9	"전선 대치"	"각 플레이어 모두 덱에서 하수인을 소환합니다. 한 전장을 가득 채울 때까지 반복합니다."	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11306c1af22623a498aed7c3743232e74eb4b74bb49af0ea080ddf0cd9f21d20.png"	""	"한쪽이 모래에 그은 선을 넘자, 파도의 왕좌가 걸린 전쟁이 시작되었습니다."	{"relevant":true,"constructed":true}

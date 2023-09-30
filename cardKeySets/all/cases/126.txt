@@ -1,0 +1,2 @@
+id	collectible	slug	classId	multiClassIds	spellSchoolId	cardTypeId	cardSetId	rarityId	artistName	manaCost	name	text	image	imageGold	flavorText	copyOfCardId	duels
+89149	1	"89149-pursuit-of-justice"	5	[]	5	5	1635	4	"James Ryman"	2	"심판의 추격"	"이번 게임 동안 내가 소환하는 은빛 성기사단 신병에게 공격력을 +1 부여합니다."	"https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6978dd9379b21b7b4c641c63fb703272a7e47c544acb05472541cf476b087cd6.png"	""	"\"정의를 위한 겁니까? 아니면 우리를 위한 겁니까?\""	66862	{"relevant":true,"constructed":true}
