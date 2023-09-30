@@ -8,6 +8,7 @@ import api.blizzardOAuthService
 import api.blizzardService
 import com.google.gson.GsonBuilder
 import com.google.gson.JsonObject
+import data.RemoteHearthStoneSource
 import kotlinx.coroutines.delay
 import okhttp3.MediaType
 import okhttp3.RequestBody
@@ -16,7 +17,7 @@ import java.util.*
 
 suspend fun main() {
     val gson = GsonBuilder().setPrettyPrinting().create()
-    val source = createRemoteHearthStoneSource()
+    val source = RemoteHearthStoneSource()
 
     val directory = File("allCardsJson")
     if (!directory.exists()) {
@@ -93,17 +94,3 @@ class BlizzardOAuthRepository(
         return "Basic $encodedCredentials"
     }
 }
-
-class RemoteHearthStoneSource(
-    private val blizzardService: BlizzardService,
-    private val blizzardOAuthRepository: BlizzardOAuthRepository,
-) {
-    suspend fun getCard(page: Int): JsonObject {
-        return blizzardService.getCards(blizzardOAuthRepository.getAccessToken(), page)
-    }
-}
-
-private fun createRemoteHearthStoneSource(): RemoteHearthStoneSource = RemoteHearthStoneSource(
-    blizzardService = blizzardService,
-    blizzardOAuthRepository = BlizzardOAuthRepository(blizzardOAuthService),
-)
