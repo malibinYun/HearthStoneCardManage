@@ -1,0 +1,1049 @@
+{
+  "cards": [
+    {
+      "id": 2923,
+      "collectible": 1,
+      "slug": "2923-jungle-moonkin",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 20,
+      "rarityId": 3,
+      "artistName": "Mike Sass",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "밀림 달빛야수",
+      "text": "두 플레이어 모두 \u003cb\u003e주문 공격력 +2\u003c/b\u003e를 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce8c24849b13f14809c3c9ac24f5a314856916676b61f3742bb07c64c2c6ef9f.png",
+      "imageGold": "",
+      "flavorText": "진정한 화난 닭입니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e071426503784ab3865dfec91c84cf6a329755b9bd7cdf0c709792edafb0188.png",
+      "keywordIds": [
+        2
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41885,
+      "collectible": 1,
+      "slug": "41885-hemet-jungle-hunter",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 27,
+      "rarityId": 5,
+      "artistName": "Sam Nielson",
+      "health": 6,
+      "attack": 6,
+      "manaCost": 6,
+      "name": "밀림 사냥꾼 헤멧",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에 있는 비용이 (3) 이하인 카드를 모두 파괴합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fbdf2fff7bd32fea6efbaf9fc29f8a5250de90bc4dd334430050b8db82517d48.png",
+      "imageGold": "",
+      "flavorText": "고블린 여행사가 짐을 모조리 분실했지만, 그래도 휴가를 재밌게 보내고 있나보군요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29faec3507bb0170b8a4efe8087d94d77d33c397c93934b0b649f25839804498.jpg",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 921,
+      "collectible": 1,
+      "slug": "921-jungle-panther",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 1,
+      "artistName": "Jaemin Kim",
+      "health": 2,
+      "attack": 4,
+      "manaCost": 3,
+      "name": "밀림 표범",
+      "text": "\u003cb\u003e은신\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/121eb496d180a65e3c22e68a53e388a07034d93860c4ecf2d28cc7855a2424d8.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18ca8598e64e07f6957e04caacc5dd114733933e2992a3237810c9d08687c4e7.png",
+      "flavorText": "가시덤불 골짜기는 아름답습니다. 등 뒤에 항상 누군가 있다는 걸 빼면요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3a5c6ee9d1b50d0a6afb206d57ac00d0069b8f13e76d81312a2b6b44188a62c.png",
+      "keywordIds": [
+        6
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69816,
+      "collectible": 1,
+      "slug": "69816-jungle-panther",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 1,
+      "artistName": "Jaemin Kim",
+      "health": 2,
+      "attack": 4,
+      "manaCost": 3,
+      "name": "밀림 표범",
+      "text": "\u003cb\u003e은신\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a95286ca408682ba47e02c55fff22eb21cc08400cfa1cfa251082053abf83ea.png",
+      "imageGold": "",
+      "flavorText": "가시덤불 골짜기는 아름답습니다. 등 뒤에 항상 누군가 있다는 걸 빼면요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3a5c6ee9d1b50d0a6afb206d57ac00d0069b8f13e76d81312a2b6b44188a62c.png",
+      "keywordIds": [
+        6
+      ],
+      "copyOfCardId": 921
+    },
+    {
+      "id": 41099,
+      "collectible": 1,
+      "slug": "41099-jungle-giants",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 27,
+      "rarityId": 5,
+      "artistName": "Konstantin Turovec",
+      "manaCost": 1,
+      "name": "밀림의 괴수들",
+      "text": "\u003cb\u003e퀘스트:\u003c/b\u003e 공격력이 5 이상인 하수인을 5회 소환해야 합니다. \u003cb\u003e보상:\u003c/b\u003e 바르나부스",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf429e2082f9a1a39dc493f7a274fb5ad5b71733e829952cfb634f4665374924.png",
+      "imageGold": "",
+      "flavorText": "골락카 분화구가 생긴 후로 바르나부스는 무용수가 되려는 꿈을 접었습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d10342fc5b1dbbff11ba47b5464d820a1b43836bece5c9cf3a024078bb312a54.jpg",
+      "childIds": [
+        41100
+      ],
+      "keywordIds": [
+        31
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 91495,
+      "collectible": 1,
+      "slug": "91495-jungle-jammer",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1809,
+      "rarityId": 4,
+      "artistName": "Cynthia  Garcia",
+      "attack": 4,
+      "manaCost": 4,
+      "durability": 2,
+      "name": "밀림의 악기",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 비용이 인 무작위 야수를 소환합니다. \u003ci\u003e(장착하고 있을 때 주문을 시전하면 강화됩니다.)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1652dda8dbd364853816e4b6009c056707e7d054a96f32969f7a4195ceda2c9b.png",
+      "imageGold": "",
+      "flavorText": "밀림에서 구할 수 있는 재료로만 만든 밀림의 왕이 다루는 악기입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3628d0f75b1a3642611b26350dc9a655669be887a8ac06a7a69f323f016babee.png",
+      "keywordIds": [
+        12
+      ]
+    },
+    {
+      "id": 1693,
+      "collectible": 1,
+      "slug": "1693-king-mukla",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 5,
+      "artistName": "Sunny Gho",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 3,
+      "name": "밀림의 왕 무클라",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 상대편에게 바나나를 2개 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43201cdf65878f2885cf353fd1af758559e7a5414fda559c35e5a12dea6300b9.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14c3511b32470b880807992836cc774994b57e65d7bee37765a52257e06933e9.png",
+      "flavorText": "밀림의 왕 무클라는 오늘도 자구에로 섬을 떠돕니다. 진정한 사랑을 찾기 위해...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5687bb72c37aba9eb6f60c0fbd9f386361ff0d4f45dd5260687acf2d924f94bf.png",
+      "childIds": [
+        1694
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69814,
+      "collectible": 1,
+      "slug": "69814-king-mukla",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 5,
+      "artistName": "Sunny Gho",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 3,
+      "name": "밀림의 왕 무클라",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 상대편에게 바나나를 2개 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a22eb2792bac21ecb8a4803f2fb57476f7666891c7ac9d97d319d2905a017bc8.png",
+      "imageGold": "",
+      "flavorText": "밀림의 왕 무클라는 오늘도 자구에로 섬을 떠돕니다. 진정한 사랑을 찾기 위해...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5687bb72c37aba9eb6f60c0fbd9f386361ff0d4f45dd5260687acf2d924f94bf.png",
+      "childIds": [
+        1694
+      ],
+      "keywordIds": [
+        8
+      ],
+      "copyOfCardId": 1693
+    },
+    {
+      "id": 40679,
+      "collectible": 1,
+      "slug": "40679-smugglers-crate",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 25,
+      "rarityId": 1,
+      "artistName": "Grace Liu",
+      "manaCost": 0,
+      "name": "밀수업자의 상자",
+      "text": "내 손에 있는 무작위 야수에게 +2/+2를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe3e933cb25834bc8d1ee11ac7fd038c617175c2af0ecd8730c078b538be5b6d.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c37ef92196d5a5bb2385a9e83c2d89a1ae87ccb908a0fca25aeae841e47ff46f.png",
+      "flavorText": "이게 정말로 가젯잔 동물원으로 가는 상자들이라고요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc2fed97c4e8c17042f3187207a23c6ae348c10359d4ac9a1c055a4b578a2ce0.png"
+    },
+    {
+      "id": 105901,
+      "collectible": 1,
+      "slug": "105901-smugglers-crate",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1898,
+      "rarityId": 1,
+      "artistName": "Grace Liu",
+      "manaCost": 0,
+      "name": "밀수업자의 상자",
+      "text": "내 손에 있는 무작위 야수에게 +2/+2를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fe12666d8bcb9817365f47f989ab868f9a7262509881b3e352683b4b4cbe26d.png",
+      "imageGold": "",
+      "flavorText": "이게 정말로 가젯잔 동물원으로 가는 상자들이라고요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc2fed97c4e8c17042f3187207a23c6ae348c10359d4ac9a1c055a4b578a2ce0.png",
+      "copyOfCardId": 40679
+    },
+    {
+      "id": 40371,
+      "collectible": 1,
+      "slug": "40371-smugglers-run",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 25,
+      "rarityId": 1,
+      "artistName": "Alex Horley Orlandelli",
+      "manaCost": 1,
+      "name": "밀수업자의 일상",
+      "text": "내 손에 있는 모든 하수인에게 +1/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59dbb57d1d2f8f0e2964b6bfb8eade0c728dfa77055c860ae3927f5a3bae6674.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d3f1d859f8630441a222dc7f20b052b574f5b652216fd12aeb7d9fbdff28267.png",
+      "flavorText": "가젯잔 역사상 가장 유명한 사건 중 하나는 경관 샐리가 불법으로 생선을 밀수하고 있던 험악한 떡대들 패거리 하나를 홀로 상대한 것입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5cabe3bff4198adc19c545f5463caec94ea737ce107959eb3289dca8610c848.png"
+    },
+    {
+      "id": 70636,
+      "collectible": 1,
+      "slug": "70636-contraband-stash",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1626,
+      "rarityId": 3,
+      "artistName": "Anton Zemskov",
+      "manaCost": 5,
+      "name": "밀수품 더미",
+      "text": "이번 게임에서 내가 낸 다른 직업의 카드 5장을 다시 사용합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/48ee15057908cbea684d42bcb383f027f1cd3d2abc166c33dd5c50de71bb6f4f.png",
+      "imageGold": "",
+      "flavorText": "\"톱니바퀴다! 이거 잘 된거야?\" \"그래, 잘 됐네.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf481cb88372014527c3f91ae481c50bd670298e94335535aca35979d876a767.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 855,
+      "collectible": 1,
+      "slug": "855-millhouse-manastorm",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 5,
+      "artistName": "Jim Nelson",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 2,
+      "name": "밀하우스 마나스톰",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 다음 턴에 상대편이 시전하는 주문의 비용이 (0)이 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9cf6faff41cbc821727d4018a5b0f30a5e7d310321753a41abba6e0645f7cb87.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4139fb578d47025a453c55d24ba47bf7e1aa206c76e8263ecf77d5cdda0f5a17.png",
+      "flavorText": "\"화끈하게 놀아주마, 귀여운 것!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/efb6733802292e42a73a5ab6398bdc229cfc665ab28945517d2cc1baec288a75.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70092,
+      "collectible": 1,
+      "slug": "70092-millhouse-manastorm",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 5,
+      "artistName": "Jim Nelson",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 2,
+      "name": "밀하우스 마나스톰",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 다음 턴에 상대편이 시전하는 주문의 비용이 (0)이 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a1e2e945973a15d6a79e4e495b061fad47011eba80d15f24515f383ba592ffd.png",
+      "imageGold": "",
+      "flavorText": "\"화끈하게 놀아주마, 귀여운 것!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/efb6733802292e42a73a5ab6398bdc229cfc665ab28945517d2cc1baec288a75.png",
+      "keywordIds": [
+        8
+      ],
+      "copyOfCardId": 855
+    },
+    {
+      "id": 55102,
+      "collectible": 1,
+      "slug": "55102-stowaway",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 3,
+      "artistName": "Jakub Kasper",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "밀항자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 게임이 시작됐을 때 내 덱에 없던 카드들이 내 덱에 있으면, 그 카드들 중 2장을 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49ac9502815dd6e4f6c3cf1b45763067f8c1891992f83d73cd0765fa963d474a.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/421a6009514f64ebe569ea64ffd7af6fe94273bec3c665b608dd204e4b3beed2.png",
+      "flavorText": "이해는 해줍시다. 요즘은 일반석도 원체 비싸서...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a635ff76e5ec22030d6dd4789881311de2a9246504dc50683a18e19dfd9ec191.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 72320,
+      "collectible": 1,
+      "slug": "72320-rock-bottom",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1658,
+      "rarityId": 3,
+      "artistName": "Mauricio Herrera",
+      "manaCost": 1,
+      "name": "밑바닥",
+      "text": "1/1 멀록을 소환합니다. \u003cb\u003e인양\u003c/b\u003e, 그 카드가 멀록이면, 하나 더 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e7d3b724e0eb234151914924f910ec6f385ec83482dbb92282abce117e1f2a5.png",
+      "imageGold": "",
+      "flavorText": "대체... (아옳옳) 뭐라는... (아옳옳) 거야? (아옳옳)",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e86d8efd4823cc1d490b24f77910a83da7e3af53f053be33a255a55fce270f7a.png",
+      "childIds": [
+        73733
+      ],
+      "keywordIds": [
+        232
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 96996,
+      "collectible": 1,
+      "slug": "96996-bunch-of-bananas",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1809,
+      "rarityId": 1,
+      "artistName": "Jim Nelson",
+      "manaCost": 1,
+      "name": "바나나 뭉치",
+      "text": "하수인에게 +1/+1을 부여합니다. \u003ci\u003e(바나나 3개 남음!)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e14dab3ac624025408e804602272c90cc172db60aca2e2ed8729e581072f7627.png",
+      "imageGold": "",
+      "flavorText": "이 카드에 바나나 안 바나나?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a81f02ab37d9973c23db38e6862ce25822c805ab96cc015e58fc5fc96a4e42b.png",
+      "childIds": [
+        97434,
+        97435
+      ]
+    },
+    {
+      "id": 61616,
+      "collectible": 1,
+      "slug": "61616-banana-vendor",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1466,
+      "rarityId": 1,
+      "artistName": "Jim Nelson",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "바나나 상인",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 각 플레이어가 바나나 2개를 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62ab63fdfcca9f575cee9a51f318dac582ade8ffcb044aa995c79f827e6c3933.png",
+      "imageGold": "",
+      "flavorText": "혹시 철분이 부족하시다면 바나나를 흔들어주세요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/513d58386a09b14c93a5de66c93b1fd724d99d4e75a2d403bece5a1c6dcd2dfe.png",
+      "childIds": [
+        1694
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 50386,
+      "collectible": 1,
+      "slug": "50386-banana-buffoon",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1129,
+      "rarityId": 1,
+      "artistName": "Jim Nelson",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "바나나 장사꾼",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 바나나 2개를 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77501b336124d43a0944eeba94f202fb0cd072bd3107338c45ee54e7dd7c0a58.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/126ecc8327836bb8ce28ee81a1951fe155ca7c9d92a6589595110089dc17281e.png",
+      "flavorText": "바나나 많아요! 드셔보세요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/836421b7ef0c9d414f84559503b7b8353f77d8b9d8f2d3df629c0a2f098e9ccd.png",
+      "childIds": [
+        53215
+      ],
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 211,
+      "collectible": 1,
+      "slug": "211-sea-giant",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 4,
+      "artistName": "Svetlin Velinov",
+      "health": 8,
+      "attack": 8,
+      "manaCost": 10,
+      "name": "바다 거인",
+      "text": "전장의 다른 하수인 하나당 비용이 (1)씩 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5bca07fa5745b5416a7a6015e98757d3a0a9550debd39d36cdfc345b0b025f58.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e31cc2fe7e9d8df8f8f3ef1a1474ee739a694db4377b599d8e0e63c9a35fb689.png",
+      "flavorText": "거인과 바다",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d42d76ca907beca75bc617855b5b43165050d59d018915b897c8abd7e8695229.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70037,
+      "collectible": 1,
+      "slug": "70037-sea-giant",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 4,
+      "artistName": "Svetlin Velinov",
+      "health": 8,
+      "attack": 8,
+      "manaCost": 10,
+      "name": "바다 거인",
+      "text": "전장의 다른 하수인 하나당 비용이 (1)씩 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a10202f05dfa441aded742fb23b1fe36cc3a44b477de272be695893ee01354eb.png",
+      "imageGold": "",
+      "flavorText": "거인과 바다",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d42d76ca907beca75bc617855b5b43165050d59d018915b897c8abd7e8695229.png",
+      "copyOfCardId": 211
+    },
+    {
+      "id": 76322,
+      "collectible": 1,
+      "slug": "76322-sea-giant",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 4,
+      "artistName": "Svetlin Velinov",
+      "health": 8,
+      "attack": 8,
+      "manaCost": 10,
+      "name": "바다 거인",
+      "text": "전장의 다른 하수인 하나당 비용이 (1)씩 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05ca173c7b1e5269adfe3212be492b97d26a2b7aa409baacad429201dfa28c63.png",
+      "imageGold": "",
+      "flavorText": "거인과 바다",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bfdc66899839f2ce3cdf7e1abc8bbfcf6b0228af22e55eb8ca41fc0a9c571c00.png",
+      "copyOfCardId": 211,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 73462,
+      "collectible": 1,
+      "slug": "73462-flipper-friends",
+      "classId": 2,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1658,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "manaCost": 5,
+      "name": "바다 동물 친구들",
+      "text": "\u003cb\u003e선택\u003c/b\u003e - \u003cb\u003e도발\u003c/b\u003e 능력이 있는 6/6 범고래를 소환합니다. 또는 \u003cb\u003e속공\u003c/b\u003e 능력이 있는 1/1 수달을 여섯 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd0f2523e7a8eacde4302daf15bf7ad895599526f751238fc8676898ea8a3830.png",
+      "imageGold": "",
+      "flavorText": "비록 바다 아래는 척박할지 몰라도, 친구들을 사귈 수 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07f9b4c96be844e94f2b54f6d13d1d42d5297de041fa66060ed23f6bb6738751.png",
+      "childIds": [
+        73463,
+        73553
+      ],
+      "keywordIds": [
+        1,
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 54077,
+      "collectible": 1,
+      "slug": "54077-serpent-egg",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1158,
+      "rarityId": 1,
+      "artistName": "Daria Tuzova",
+      "health": 3,
+      "attack": 0,
+      "manaCost": 2,
+      "name": "바다뱀 알",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 3/4 바다뱀을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/489b7ebb9ac0569d19ff9de562a0d1bfee230f8d31edbbed37f3143c4d2cd7d8.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5cd436acfe3ebf8ddab4286c5abb1efe27ceebd0c185eafa5e6deaba7aa290f9.png",
+      "flavorText": "\"우와, 이 귀여운 뱀 좀 봐으아아악 내 얼굴이 녹고 있어!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/597cb73feb491de578ac550776482c2e1cbecf139f2a95669a907406780650d9.png",
+      "childIds": [
+        54570
+      ],
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 75583,
+      "collectible": 1,
+      "slug": "75583-neptulon-the-tidehunter",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 5,
+      "artistName": "James Ryman",
+      "health": 7,
+      "attack": 7,
+      "manaCost": 10,
+      "name": "바다사냥꾼 넵튤론",
+      "text": "\u003cb\u003e거수 +2\u003c/b\u003e, \u003cb\u003e속공\u003c/b\u003e, \u003cb\u003e질풍\u003c/b\u003e, 넵튤론이 공격할 때 내 전장에 넵튤론의 손이 있으면, 대신 손이 공격합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc5233b6228a6dbc8f1029111ea7822c49e39dbcfd764b9a5782b06c2e6f346c.png",
+      "imageGold": "",
+      "flavorText": "손을 쓰지 않고 손을 쓰는 넵튤론?",
+      "childIds": [
+        75584,
+        80016
+      ],
+      "keywordIds": [
+        11,
+        53,
+        231
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 40691,
+      "collectible": 1,
+      "slug": "40691-seadevil-stinger",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 14,
+      "cardTypeId": 4,
+      "cardSetId": 25,
+      "rarityId": 3,
+      "artistName": "Yewon Park",
+      "health": 2,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "바다아귀 쐐기술사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이번 턴에 내가 내는 다음 멀록은 마나 대신 생명력을 비용으로 사용합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71557659f98a23008eea40cef846c97bef4453c3f9b2dd6bae9caadcc4ba28cf.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f72c0e3424dbca686a72c3ea30b174d3f5cff85f51a47788ff88c8ce6bb19cd.png",
+      "flavorText": "엄살 부리지 마세요. 비용이 10인 멀록은 아직 나오지도 않았다고요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3ac474155b317e63365a290bba51dad7c831093b24006444dd847f87b63e9a6.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 72473,
+      "collectible": 1,
+      "slug": "72473-blood-in-the-water",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1658,
+      "rarityId": 1,
+      "artistName": "Kleston Marques",
+      "manaCost": 6,
+      "name": "바다에 흘린 피",
+      "text": "적에게 피해를 3 줍니다. \u003cb\u003e속공\u003c/b\u003e 능력이 있는 5/5 상어를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0cb9a68032b4a0f270606dfd52cb98bc2e17ce563dae8fb8f5a82e80dd0b29b.png",
+      "imageGold": "",
+      "flavorText": "물고기는 식량이 아닌 친구라고 강력히 주장합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f94323f825450acb537460bc354aef7b7ca097afc7b7f76c67fc058f7847e661.png",
+      "childIds": [
+        72532
+      ],
+      "keywordIds": [
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2723,
+      "collectible": 1,
+      "slug": "2723-sea-reaver",
+      "classId": 10,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 15,
+      "rarityId": 4,
+      "artistName": "James Ryman",
+      "health": 7,
+      "attack": 6,
+      "manaCost": 6,
+      "name": "바다의 학살자",
+      "text": "이 카드를 뽑을 때, 내 하수인들에게 피해를 1 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c8b9000f32fec06176857a50fd61db635efbbf5fd30b96a71f2bef328c07ab0.png",
+      "imageGold": "",
+      "flavorText": "등장과 동시에 학살을 일삼습니다. 그런데 왜 내 하수인들에게만?!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52a6b1d9c3694e38df94616670bc0748861cef2f205d04405013b6ad19596a46.png"
+    },
+    {
+      "id": 72932,
+      "collectible": 1,
+      "slug": "72932-seascout-operator",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 1,
+      "artistName": "Moon Colony",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "바다탐험 운전수",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 전장에 기계가 있으면, 2/1 기계물고기를 둘 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6aa2e5d797fd5be47c096557753d6d0d1cb9e1cc991dc067377f18379b7e5e88.png",
+      "imageGold": "",
+      "flavorText": "사실 기계물고기는 조종할 수 없습니다. 운전수에게 준 조종장치는 가짜예요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b88117afa13db5d15e22b1240fd3983932cd2a13d555699c394fce7290e633e.png",
+      "childIds": [
+        72934
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 71234,
+      "collectible": 1,
+      "slug": "71234-dont-stand-in-the-fire",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 2,
+      "cardTypeId": 5,
+      "cardSetId": 1626,
+      "rarityId": 3,
+      "artistName": "L. Lullabi \u0026 A. Zemskov",
+      "manaCost": 5,
+      "name": "바닥 피하라고!",
+      "text": "모든 적 하수인에게 10의 피해를 무작위로 나누어 입힙니다. \u003cb\u003e과부하:\u003c/b\u003e (1)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76cb4444906bdc8176a809c36f125ca926b3f920412cbac66a198c026a4217e4.png",
+      "imageGold": "",
+      "flavorText": "브득 즘 즐 프흐르그.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0a47185066923c51a6319ab6dc6f6addd98f2b76b2632e4813f31e500785e72.png",
+      "keywordIds": [
+        14
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 63461,
+      "collectible": 1,
+      "slug": "63461-barak-kodobane",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 5,
+      "artistName": "Ivan Fomin",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 5,
+      "name": "바라크 코도베인",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 비용이 1, 2, 3인 주문을 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3858bbdd2815cd4abb16327890691252240b7c4287c042e662fe01203e36cedf.png",
+      "imageGold": "",
+      "flavorText": "기마양궁 선수라고 하네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4aba6d20e4d466bcc80518d2dc16e2214f0793c129dff00a8f4972b2290a5571.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 67932,
+      "collectible": 1,
+      "slug": "67932-windchill",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Todd Harris",
+      "manaCost": 1,
+      "name": "바람 냉각",
+      "text": "하수인을 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다. 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e3444d1ebfe7031048643a98ca49911976cfcc2b07440f6a1132b80c537f01d.png",
+      "imageGold": "",
+      "flavorText": "온도계는 0°를 가리키지만, 바람 냉각 효과를 더하면 -25°처럼 느껴집니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b0716c517705e3d45cb9bd03ecc794cbad400f1cf20ff8e74d4f926c3c8c2ab.png",
+      "keywordIds": [
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41152,
+      "collectible": 1,
+      "slug": "41152-air-elemental",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 27,
+      "rarityId": 1,
+      "artistName": "Evgeniy Dlinnov",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 1,
+      "name": "바람 정령",
+      "text": "주문이나 영웅 능력의 대상으로 지정되지 않습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da7a8fb318f1c5742ea8ed57b7f9b2578a464d5d59423c98b9ef8b0a1fb2fe6b.png",
+      "imageGold": "",
+      "flavorText": "화를 내면 몸을 부풀립니다. 귀엽습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6196d5ab1eb5f3b32199f642954c52e20aebf6a3ad5ad3c583fc0ad8ad5287f0.jpg",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 178,
+      "collectible": 1,
+      "slug": "178-windspeaker",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Vance Kovacs",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "바람예언자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 아군 하수인에게 \u003cb\u003e질풍\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/835f6f8b872d449aa5500c1bbe36ef2652554f2ae3de145889d53e9f86f53c9f.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/80d5ab9b3bb7dff302dd06fe8269f739e998a3e90d5862aac7a2c38d03d639c1.png",
+      "flavorText": "입 냄새 심한 바람예언자보다 끔찍한 게 있을까요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/393381f1cbb80ac2362f808c0cc9b5427e97cc4ed5f302bf971bf276d1d452f7.png",
+      "keywordIds": [
+        8,
+        11
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68477,
+      "collectible": 1,
+      "slug": "68477-windspeaker",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Vance Kovacs",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "바람예언자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 아군 하수인에게 \u003cb\u003e질풍\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c549e14236636db0251d2dd15e5ae628ccae5b7aa6eca196fde4ed0722dda40f.png",
+      "imageGold": "",
+      "flavorText": "입 냄새 심한 바람예언자보다 끔찍한 게 있을까요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/393381f1cbb80ac2362f808c0cc9b5427e97cc4ed5f302bf971bf276d1d452f7.png",
+      "keywordIds": [
+        8,
+        11
+      ],
+      "copyOfCardId": 178
+    },
+    {
+      "id": 32,
+      "collectible": 1,
+      "slug": "32-alakir-the-windlord",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 5,
+      "artistName": "Raymond Swanland",
+      "health": 6,
+      "attack": 3,
+      "manaCost": 8,
+      "name": "바람의 군주 알아키르",
+      "text": "\u003cb\u003e질풍, 돌진, 도발, 천상의 보호막\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd676b42bc118b8e935c6f174fc08a99c633758a2689a214cbd4fcdc4a927077.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/838487bce9b7246778d5a569e4d578a75b511efea4a58ef2fb215861bf7c9d44.png",
+      "flavorText": "정령 군주 넷 중에 가장 약합니다. 그리고 나머지 셋이 그 사실을 확실하게 각인시키죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b480b37e82db941960fbb6749574d1a8e74b3cfa2768a8a236f77fdcf78b93e.png",
+      "keywordIds": [
+        1,
+        3,
+        4,
+        11
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69632,
+      "collectible": 1,
+      "slug": "69632-alakir-the-windlord",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 5,
+      "artistName": "Raymond Swanland",
+      "health": 6,
+      "attack": 3,
+      "manaCost": 8,
+      "name": "바람의 군주 알아키르",
+      "text": "\u003cb\u003e질풍, 돌진, 도발, 천상의 보호막\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40772686bff9b906d93e5f195318940d4d1c247f3d46c3d0c6fc24b2bf76ac06.png",
+      "imageGold": "",
+      "flavorText": "정령 군주 넷 중에 가장 약합니다. 그리고 나머지 셋이 그 사실을 확실하게 각인시키죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71d75588f696415a119cfc62a2154d1ac62bebbe2345d93b07693f56d17234f4.png",
+      "keywordIds": [
+        1,
+        3,
+        4,
+        11
+      ],
+      "copyOfCardId": 32,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70078,
+      "collectible": 1,
+      "slug": "70078-alakir-the-windlord",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 5,
+      "artistName": "Raymond Swanland",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 8,
+      "name": "바람의 군주 알아키르",
+      "text": "\u003cb\u003e질풍, 돌진, 도발, 천상의 보호막\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02d9d5c96e23a68c57638db8bd6f03a34ae586f1b80256d4d2d8b29ff27e1d9e.png",
+      "imageGold": "",
+      "flavorText": "정령 군주 넷 중에 가장 약합니다. 그리고 나머지 셋이 그 사실을 확실하게 각인시키죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b480b37e82db941960fbb6749574d1a8e74b3cfa2768a8a236f77fdcf78b93e.png",
+      "keywordIds": [
+        1,
+        3,
+        4,
+        11
+      ],
+      "copyOfCardId": 32
+    },
+    {
+      "id": 95350,
+      "collectible": 1,
+      "slug": "95350-horn-of-the-windlord",
+      "classId": 8,
+      "multiClassIds": [
+        5,
+        8
+      ],
+      "cardTypeId": 7,
+      "cardSetId": 1809,
+      "rarityId": 3,
+      "artistName": "Studio Hive ",
+      "attack": 3,
+      "manaCost": 6,
+      "durability": 4,
+      "name": "바람의 군주의 관악기",
+      "text": "\u003cb\u003e질풍\u003c/b\u003e, 내 영웅이 하수인을 공격할 때마다 그 하수인의 능력치를 3/3으로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1d4643bf49174cef120dbc0dc4c7a41f85620cb0e6918a73ac1355bd3ad2e47.png",
+      "imageGold": "",
+      "flavorText": "목관악기여! 내 명을 따르라!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c732ba773fa3595d8a9087916d4070a8b0f7c652b169dee20e65c7ba0b285431.png",
+      "keywordIds": [
+        11
+      ]
+    },
+    {
+      "id": 63261,
+      "collectible": 1,
+      "slug": "63261-varden-dawngrasp",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 5,
+      "artistName": "Arthur Bozonnet",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "바르덴 던그래스프",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 모든 적 하수인을 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다. 이미 \u003cb\u003e빙결\u003c/b\u003e 상태라면, 피해를 4 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7791ea9a707371aeb9f3320e56c4ad51882acd30e3ecaa8ee6c53b77e4f69ac6.png",
+      "imageGold": "",
+      "flavorText": "바르덴 던그래스프는 불을 다루고 우박 폭풍을 소환하며 손가락을 튕기면 나이트 엘프를 양으로 변신시킬 수 있습니다. 현실이 얼마나 자유롭게 변화할 수 있는지 아니 일부 존재들은 정말 사소하게 느껴졌습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31bfc99002d59bddfc9c9f884e62ef9c59fff787c0d7fa34e26dcdb270496469.png",
+      "keywordIds": [
+        8,
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 39
+}

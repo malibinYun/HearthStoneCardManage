@@ -1,0 +1,1065 @@
+{
+  "cards": [
+    {
+      "id": 86505,
+      "collectible": 1,
+      "slug": "86505-cold-storage",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1776,
+      "rarityId": 3,
+      "artistName": "Vladimir Kafanov",
+      "manaCost": 1,
+      "name": "냉동 창고",
+      "text": "하수인을 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다. 그 하수인을 복사하여 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/06689547e05c8c7f9da97f7e273c5c3691edbd5c5aff081e82a588f3fa6e1c4b.png",
+      "imageGold": "",
+      "flavorText": "사피론은 예나 지금이나 얼음과자를 제일 좋아합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/12b2fa71e11818c1bb8f4878414fd59e39f4bc2ad0384d0b839a03e4ca4462a6.png",
+      "keywordIds": [
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 268,
+      "collectible": 1,
+      "slug": "268-cold-blood",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 3,
+      "rarityId": 1,
+      "artistName": "Alex Horley Orlandelli",
+      "manaCost": 1,
+      "name": "냉혈",
+      "text": "하수인에게 공격력을 +2 부여합니다. \u003cb\u003e연계:\u003c/b\u003e 대신 공격력을 +4 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a62af3b410b748202ef5c5b040f14209c689891880d557f11d342b5a07b157a.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/933d7920318238281cfa06f731891e43ead42cb0599140a8cbc1ca13748b7e2f.png",
+      "flavorText": "나는야 차가운 도적 남자.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6654ad1235970f7c9d83dac5140e3c02a86616583a5ba151290eb011f634c46.png",
+      "keywordIds": [
+        13
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69752,
+      "collectible": 1,
+      "slug": "69752-cold-blood",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 1,
+      "artistName": "Alex Horley Orlandelli",
+      "manaCost": 1,
+      "name": "냉혈",
+      "text": "하수인에게 공격력을 +2 부여합니다. \u003cb\u003e연계:\u003c/b\u003e 대신 공격력을 +4 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd5df8094b6a6e62e5ce59abbff697b2930714e346adde7e3de374736d4f9b7a.png",
+      "imageGold": "",
+      "flavorText": "나는야 차가운 도적 남자.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0618e3f1a104443fee211d9cc632c6748e23ff104a7b37c8aa92c6059397aa53.png",
+      "keywordIds": [
+        13
+      ],
+      "copyOfCardId": 268
+    },
+    {
+      "id": 80648,
+      "collectible": 1,
+      "slug": "80648-remorseless-winter",
+      "classId": 1,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Grafit ",
+      "manaCost": 4,
+      "name": "냉혹한 겨울",
+      "text": "모든 적에게 피해를 2 줍니다. 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a48302ff7160d337b54e4d7f0df4ab513cd53d2d3f6e7daff6234ea73ddf149a.png",
+      "imageGold": "",
+      "flavorText": "황야의 땅 확장팩이었다면 희귀 카드로 나왔을 텐데.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae7501d3f62ab5f52ef885be70f4d1bf8217eb2c88579c7644fbceaab41febf8.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      },
+      "runeCost": {
+        "blood": 0,
+        "frost": 1,
+        "unholy": 0
+      }
+    },
+    {
+      "id": 50012,
+      "collectible": 1,
+      "slug": "50012-grim-rally",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1129,
+      "rarityId": 3,
+      "artistName": "Skan Srisuwan",
+      "manaCost": 1,
+      "name": "냉혹한 집결",
+      "text": "아군 하수인을 처치합니다. 내 하수인들에게 +1/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9956803691939b9e8775a4239095c85bbbbb020317f92bb3994c6bcc5b6d2301.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5f0530997343217f5c873b8fad85856d31d16c98c6e1badac96380689b961cb.png",
+      "flavorText": "\"다 좋은데 말이야, 자네만 없으면 좋겠군.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3042e85a839ea0243f9237f8891fb32b22a00a3c2b4c18ac7cbe7c5b3ec5d5ec.png"
+    },
+    {
+      "id": 65684,
+      "collectible": 1,
+      "slug": "65684-arcane-overflow",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 1,
+      "cardTypeId": 5,
+      "cardSetId": 1578,
+      "rarityId": 3,
+      "artistName": "Arthur Gimaldinov",
+      "manaCost": 5,
+      "name": "넘쳐나는 비전",
+      "text": "적 하수인에게 피해를 8 줍니다. 초과한 피해량과 능력치가 같은 비전 잔여물을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4def338fc670baa623d83a7522adce9b773671deee5502defa00e83e5964e930.png",
+      "imageGold": "",
+      "flavorText": "이 배에서는 머리를 쓸 줄 모른다면 물에 뜰 줄은 알아야 할 겁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f8997097cc7b7ecfdac0c6b7b3fe28aed30110e725a4245e56a5c866d7c300a.png",
+      "childIds": [
+        69499
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 63219,
+      "collectible": 1,
+      "slug": "63219-neeru-fireblade",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 5,
+      "artistName": "Paul Mafayon",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 5,
+      "name": "네루 파이어블레이드",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에 카드가 없으면, 내 턴이 끝날 때마다 내 전장에 3/2 임프를 가득 채우는 차원문을 엽니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1bb78786e0a6895f6cd0cd8124b98a701b76fb41338087d95e785516a6eee934.png",
+      "imageGold": "",
+      "flavorText": "이놈 봐요! 나쁜 놈처럼 생겼잖아요! 아무튼 나쁜 놈이에요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e94aff7bb1890b9b7613a8ef56c99174773962dafc10325ddf72274656d15b9.png",
+      "childIds": [
+        65578,
+        63194
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 78354,
+      "collectible": 1,
+      "slug": "78354-nerubian-swarmguard",
+      "classId": 1,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1869,
+      "rarityId": 1,
+      "artistName": "Mauricio Herrera",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 4,
+      "name": "네루비안 무리수호병",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 이 하수인을 둘 복사하여 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c06e49ff683409cc8c3e1d4632ca6d4740afe0dfa20905d6835c8219c78fbd4.png",
+      "imageGold": "",
+      "flavorText": "죽어서도 나는 계속 섬기리라.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f432d43c5350376174ac9e9f686db23107417c5e085ae3eb4c73dcea763a336.png",
+      "keywordIds": [
+        1,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      },
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 1
+      }
+    },
+    {
+      "id": 85649,
+      "collectible": 1,
+      "slug": "85649-nerubian-flyer",
+      "classId": 2,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 1,
+      "artistName": "Brian Despain",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "네루비안 비행병",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 지난 턴 이후에 아군 언데드가 죽었으면, 2/2 네루비안을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa5dab0c66279a142a0cc05ddb16485c4734c98b10a09d1f24d3c819575e1a01.png",
+      "imageGold": "",
+      "flavorText": "언데드 항공은 노스렌드와 인근 지역에서만 운영합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/577096d74be22787833c381b7c2614e1efbdf686f235a081a675c68d5893f863.png",
+      "childIds": [
+        85650
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 1786,
+      "collectible": 1,
+      "slug": "1786-nerubian-egg",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 12,
+      "rarityId": 3,
+      "artistName": "Justin Thavirat",
+      "health": 2,
+      "attack": 0,
+      "manaCost": 2,
+      "name": "네루비안 알",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 4/4 네루비안을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8822642e92d86df4712458446ae664698d103d8799c6f113691ad7a219b81d35.png",
+      "imageGold": "",
+      "flavorText": "네루비안 알은 좋은 단백질 공급원이죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb28c56ea24a470b34df177a43b9a71777a462bddd64306ff885ddf5257686c7.png",
+      "childIds": [
+        1787
+      ],
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69713,
+      "collectible": 1,
+      "slug": "69713-nerubian-egg",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 3,
+      "artistName": "Justin Thavirat",
+      "health": 2,
+      "attack": 0,
+      "manaCost": 2,
+      "name": "네루비안 알",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 4/4 네루비안을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0fda4fec01da97f42a897b03c360216f13b9961467e09761c50e2042ab4db4f.png",
+      "imageGold": "",
+      "flavorText": "네루비안 알은 좋은 단백질 공급원이죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42fe6d50a47558f01b941a1894442e31bae8fcd646ce7cb8a5e73eee12a6586b.png",
+      "childIds": [
+        1787
+      ],
+      "keywordIds": [
+        12
+      ],
+      "copyOfCardId": 1786,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 38517,
+      "collectible": 1,
+      "slug": "38517-nerubian-prophet",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 21,
+      "rarityId": 1,
+      "artistName": "Lars Grant-West",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 6,
+      "name": "네루비안 예언자",
+      "text": "내 턴이 시작될 때, 이 카드의 비용이 (1) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3141f7efd5acdffed1a318d6a4ac6a2c156975f060f9c3870634e22573bc9f2.png",
+      "imageGold": "",
+      "flavorText": "그분께서 별빛으로 속삭이셨다... 그분은 내 비용을 감소시키겠다고 하셨다...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d331089b804f04f8f993aa163031258b78ed37e3470f286907bf62b543f673a7.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 85154,
+      "collectible": 1,
+      "slug": "85154-nerubian-vizier",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 1,
+      "artistName": "Brian Despain",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "네루비안 장로",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 주문을 \u003cb\u003e발견\u003c/b\u003e합니다. 지난 턴 이후에 아군 언데드가 죽었으면, 비용이 (2) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1599300ea5479d77c1ca3dcdbbed5a51a94d4d9e265d7ea8ab9836709f1d1401.png",
+      "imageGold": "",
+      "flavorText": "노스렌드 연결망의 핵심 건설자 중 한 명입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ecfbebddd7814f8301966498dd674e97360ba2bd0cc8891396ee2c5a431ec25e.png",
+      "keywordIds": [
+        8,
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42791,
+      "collectible": 1,
+      "slug": "42791-nerubian-unraveler",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 4,
+      "artistName": "Lars Grant-West",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 6,
+      "name": "네루비안 해결자",
+      "text": "주문의 비용이 (2) 증가합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56cb273102d9a538734f130c21d4c25881abd294a5edab09c438ae17c17ca03b.png",
+      "imageGold": "",
+      "flavorText": "범인은 이 안에 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ca21a7b7c95531b52890c0f5a3397a6ef848aa7ebf2458b0035d86eedd709c7.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 1800,
+      "collectible": 1,
+      "slug": "1800-nerubar-weblord",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 12,
+      "rarityId": 1,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 4,
+      "attack": 1,
+      "manaCost": 2,
+      "name": "네룹아르 그물군주",
+      "text": "\u003cb\u003e전투의 함성\u003c/b\u003e 하수인의 비용이 (2) 증가합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e7b00d67a570fa1f588ecef3576c6a9565f97120102b9e953d4d9a66df0edf5.png",
+      "imageGold": "",
+      "flavorText": "그물군주들은 하루 종일 거대한 트램펄린을 만들며 시간을 보낸답니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2fe9fd67c37748cc666e6a598351fa82140316eba69f8e36ff2e300cee6544d3.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 58172,
+      "collectible": 1,
+      "slug": "58172-nethrandamus",
+      "classId": 14,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 1463,
+      "rarityId": 5,
+      "artistName": "Rafael Zanchetin",
+      "health": 8,
+      "attack": 8,
+      "manaCost": 9,
+      "name": "네스란다무스",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 비용이 인 무작위 하수인을 둘 소환합니다. \u003ci\u003e(아군 하수인이 죽을 때마다 강화됩니다!)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e20125254b6891acdff66cb96cc32c97a7c77f3ae77d62e778b3a6ddbafe03b.png",
+      "imageGold": "",
+      "flavorText": "아쉽게도 다른 용들과 함께 강림하진 못했다고 하네요. 그래도 황천길로 가는 것보단 느린 게 낫죠!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34f440fd1921649681b7d0f56f55c5f645fed6489990b6e9e3f7a3d584983a81.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 48478,
+      "collectible": 1,
+      "slug": "48478-necrium-blade",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1127,
+      "rarityId": 3,
+      "artistName": "Vlad Botos",
+      "attack": 3,
+      "manaCost": 3,
+      "durability": 2,
+      "name": "네크리움 단검",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 무작위 아군 하수인의 \u003cb\u003e죽음의 메아리\u003c/b\u003e 능력을 발동시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/275fb2759615c8e034029275bf32a88aa2e48a1fc98c9c448f200a3222266940.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9779e153e18890cbf32a68950e0e1270a9ad14ff941e4772581a44292576c46.png",
+      "flavorText": "죽음의 힘을 손에 거머쥐어 보세요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0c92ddb3119b8ddfa042046af30afdf07c2a6a55baa517254a0e6d34a7050f9.png",
+      "keywordIds": [
+        12
+      ]
+    },
+    {
+      "id": 48748,
+      "collectible": 1,
+      "slug": "48748-necrium-vial",
+      "classId": 7,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1127,
+      "rarityId": 4,
+      "artistName": "Vlad Botos",
+      "manaCost": 5,
+      "name": "네크리움 약병",
+      "text": "아군 하수인의 \u003cb\u003e죽음의 메아리\u003c/b\u003e 능력을 2번 발동시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a4ea3a6a0cd0f623f214683c17da8be2687d73561a22ed79b58ecbf8828bf8e.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92950e21a347d954e631898fc764431f3c4c7e091d791b65333ca357698e25e2.png",
+      "flavorText": "죽을 뻔한 경험을 두 번 연속으로 체험하게 해드립니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1831c9b7a78ae9edd1ec87eada97785d65885dead4064f54a2adaaf09e1655b.png",
+      "keywordIds": [
+        12
+      ]
+    },
+    {
+      "id": 55099,
+      "collectible": 1,
+      "slug": "55099-necrium-apothecary",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 4,
+      "artistName": "Yewon Park",
+      "health": 5,
+      "attack": 2,
+      "manaCost": 4,
+      "name": "네크리움 약제사",
+      "text": "\u003cb\u003e연계:\u003c/b\u003e 내 덱에서 \u003cb\u003e죽음의 메아리\u003c/b\u003e 하수인을 뽑습니다. 그 하수인의 \u003cb\u003e죽음의 메아리\u003c/b\u003e 능력도 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d99034d717cfb6b1ebbd96619096bc77ad6289060a2b76ba323d842c61f0bc9b.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/906b2cc1deb11027a20cf7378e29d2821c05081677df9fa97cea413fa2fe34d4.png",
+      "flavorText": "네크리움. 부작용 없이 곧바로 저세상으로 보내드립니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ad7b68f1f3c11b0e29aa5a8fcaa706a259a7e1ae188df6d435fc9723ab350c3.png",
+      "keywordIds": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": 2261,
+      "collectible": 1,
+      "slug": "2261-nefarian",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 14,
+      "rarityId": 5,
+      "artistName": "Ruan Jia",
+      "health": 8,
+      "attack": 8,
+      "manaCost": 9,
+      "name": "네파리안",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e \u003ci\u003e상대편 직업\u003c/i\u003e의 무작위 주문 둘을 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/931fc5bf7cb7b96101719e430bbd095404a8bd9202ddc6ebeeb74cf018df1224.png",
+      "imageGold": "",
+      "flavorText": "왠지 사제가 애용할 것 같은 카드입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c892be7eb854d62b0aec6cecd53ef2d87a65eb199cdb1c2a101c79d5356e09fb.png",
+      "childIds": [
+        2421
+      ],
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 71289,
+      "collectible": 1,
+      "slug": "71289-tooth-of-nefarian",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Ware Lee",
+      "manaCost": 2,
+      "name": "네파리안의 이빨",
+      "text": "피해를 3 줍니다. \u003cb\u003e명예로운 일격:\u003c/b\u003e 다른 직업의 주문을 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f7ff89ceb9d6fede57d4cb6ca22fe12d8ec55fbf32e282786833a6544af3e87.png",
+      "imageGold": "",
+      "flavorText": "검은바위의 군주이자 오색용군단의 창시자인 네파리안의 발치된 이빨입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e70ad9bb3e53941e32defecc7089b6384fbfd9e24233ee90eca7847bf830fc4.png",
+      "keywordIds": [
+        21,
+        100
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 53883,
+      "collectible": 1,
+      "slug": "53883-neferset-thrasher",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1158,
+      "rarityId": 1,
+      "artistName": "Eric Braddock",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 3,
+      "name": "네페르세트 난동꾼",
+      "text": "이 하수인이 공격할 때마다 내 영웅에게 피해를 3 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f03647e9a7fbe8bd650be91a093e8840e2866d2330b584bdb33454461689a503.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36da2853a3917419ae2ea52be912903953fd18f71f0993939f7b506a21cb48f5.png",
+      "flavorText": "난동꾼 앞에서는 너도 한 방, 나도 한 방.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b7ea8184e84b884ebe4b6fb112d00ad2a72dc30dd118d5fdbcfc25649ac43ba.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 54276,
+      "collectible": 1,
+      "slug": "54276-neferset-ritualist",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1158,
+      "rarityId": 3,
+      "artistName": "Slawomir Maniak",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "네페르세트 의식술사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 양옆의 하수인들의 생명력을 모두 회복시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7aebd253aa76a4a77d4f4131612fd15b3ef9d62ffff2ad3c4383d3dba5b5c627.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e733beea6c42bcf585cded71fc75cf7cdbf460e2a36ad765e736cba7bd178674.png",
+      "flavorText": "옆에만 있어도 힐링된다는 게 이런 거군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7da8cae584ee92b9c72304f65dc880cf34eaa00d7a835e5158ed06b6968ed8a.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 47817,
+      "collectible": 1,
+      "slug": "47817-nemsy-necrofizzle",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 3,
+      "cardSetId": 17,
+      "rarityId": 4,
+      "artistName": "Tooth",
+      "health": 30,
+      "manaCost": 0,
+      "name": "넴지 네크로피즐",
+      "text": "",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b18ad67319cd0d47ef98e8b155a299de19cd44bfb8fc90873fdd65e7dd687161.png",
+      "imageGold": "",
+      "flavorText": "",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a60b28b4a9bb70748ce68815582bbde7a0c2ebfdf70988adb51da88c5d655fc.png",
+      "parentId": 893
+    },
+    {
+      "id": 2010,
+      "collectible": 1,
+      "slug": "2010-neptulon",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 13,
+      "rarityId": 5,
+      "artistName": "Ruan Jia",
+      "health": 7,
+      "attack": 7,
+      "manaCost": 7,
+      "name": "넵튤론",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 무작위 멀록 4마리를 내 손으로 가져옵니다. \u003cb\u003e과부하:\u003c/b\u003e (3)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ccc136de23c1352f0a65b6e59a3a8339bfa7e1b38c2c33011faf20feb3e2f518.png",
+      "imageGold": "",
+      "flavorText": "넵튤론과 라그나로스를 구분 못 하시면, 물불 못 가리시는 겁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25fa92834ea069a7f394a25f8792a7d6433fb6e59f670fc8cb59363c92b0263b.jpg",
+      "keywordIds": [
+        8,
+        14
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 75590,
+      "collectible": 1,
+      "slug": "75590-command-of-neptulon",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1658,
+      "rarityId": 3,
+      "artistName": "BOSi Studio",
+      "manaCost": 5,
+      "name": "넵튤론의 명령",
+      "text": "\u003cb\u003e속공\u003c/b\u003e 능력이 있는 5/4 정령을 둘 소환합니다. \u003cb\u003e과부하: (1)\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91ec1a099b13781bb7292f2ecd408724909e3709bdd86c068f52522038d728ce.png",
+      "imageGold": "",
+      "flavorText": "망령을 F6으로. 체크메이트다, 오주마트!",
+      "childIds": [
+        75591
+      ],
+      "keywordIds": [
+        14,
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 55975,
+      "collectible": 1,
+      "slug": "55975-grizzled-wizard",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 4,
+      "artistName": "David Kegg",
+      "health": 2,
+      "attack": 3,
+      "manaCost": 2,
+      "name": "노련한 마술사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 다음 턴까지 상대편과 영웅 능력을 바꿉니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc9bae18f372d9b519fc3e05e30548fecbda27632e597ea9c2c1ede7f0f5a88b.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55cd6e51b5f418942da07459ea682dc37aa7e113f035dded4a9d6d24941602f6.png",
+      "flavorText": "어렸을 적에는 별단 마도사였습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7938e6f91f94fbd9bee21aae5d0d959f74acabf55f7ef8b77ecfab9c14d9ce11.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 2038,
+      "collectible": 1,
+      "slug": "2038-salty-dog",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 23,
+      "cardTypeId": 4,
+      "cardSetId": 13,
+      "rarityId": 1,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 4,
+      "attack": 7,
+      "manaCost": 5,
+      "name": "노련한 뱃사람",
+      "text": "",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16776083de8037f01646cb3c8e1e3ab6a319b633d0d672c3ab17e6c8f1c46cf0.png",
+      "imageGold": "",
+      "flavorText": "난 해적왕이 될 남자다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90102dfaafb8c10370a58f22cb83280a58ddb18586fdebde47fb22bbcbe46330.jpg",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 62933,
+      "collectible": 1,
+      "slug": "62933-veteran-warmedic",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 4,
+      "artistName": "Wayne Wu",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "노련한 전쟁의무관",
+      "text": "내가 신성 주문을 시전한 후에, \u003cb\u003e생명력 흡수\u003c/b\u003e 능력이 있는 2/2 의무병을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/148ce70548c771f50d1bafada88be9747166d894ac11b522d048c6ce86282ebc.png",
+      "imageGold": "",
+      "flavorText": "전쟁이 일어나면 전쟁의무관은 의무병을 데리고 다닙니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fef3e59d7909a7c0e92b3a754124f79ae09a2f71a90749784fd37dd2a1a592e4.png",
+      "childIds": [
+        63321
+      ],
+      "keywordIds": [
+        38
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 59170,
+      "collectible": 1,
+      "slug": "59170-wolpertinger",
+      "classId": 3,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1443,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "노루토끼",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이 하수인을 복사하여 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fe210e2c50153defefac3a1612ccaa4ef301fcd823cd03221eeaac454b45ef8.png",
+      "imageGold": "",
+      "flavorText": "스칼로맨스 학생의 가을 축제 장난이 뒤틀렸군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/702bbffd32baa00744e4cd55abcca205eda336f117e0e2bfcdf9c54cf8a7230b.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 96903,
+      "collectible": 1,
+      "slug": "96903-norgannon",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1858,
+      "rarityId": 5,
+      "artistName": "Mooncolony ",
+      "health": 8,
+      "attack": 3,
+      "manaCost": 6,
+      "name": "노르간논",
+      "text": "\u003cb\u003e티탄\u003c/b\u003e 이 카드의 능력을 사용한 후에, 내 다른 티탄 능력들의 효과가 2배 증가합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5367bec3068dad1a72acf9389700afe9e965ef00ca1f9057e73ef9f5c852b4e9.png",
+      "imageGold": "",
+      "flavorText": "그의 강력한 비전 마법은 살게라스가 티탄의 육신을 파괴한 후에 모든 티탄의 영혼을 구할 수 있을 만큼 강력했습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9bfdb891d17554e3f2dba388e19cd9ba81f2e56714b518e00a2e9354e88a68f.png",
+      "childIds": [
+        96904,
+        96905,
+        96906
+      ],
+      "keywordIds": [
+        270
+      ]
+    },
+    {
+      "id": 97132,
+      "collectible": 1,
+      "slug": "97132-wisdom-of-norgannon",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 1,
+      "cardTypeId": 5,
+      "cardSetId": 1858,
+      "rarityId": 4,
+      "artistName": "A.J. Nazzaro",
+      "manaCost": 5,
+      "name": "노르간논의 지혜",
+      "text": "카드를 2장 뽑습니다. 이번 게임에서 시전한 주문의 속성 하나당 비용이 (1)씩 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4afbc310cde6be3aa0662fe243ac3d506bc817753eaaa5e82da3c3e90c43a250.png",
+      "imageGold": "",
+      "flavorText": "이제 우리에게 필요한 것은 노르간논의 힘과 용기뿐입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8b0d26c816bbd8007bff05537cf523461cfb8e07dbb85330da79931795332b1.png"
+    },
+    {
+      "id": 308,
+      "collectible": 1,
+      "slug": "308-gnomish-inventor",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Court Jones",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 4,
+      "name": "노움 발명가",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11b457c2659b95ad77df683b6c45cf29eb41b0ba98c5bf5cfa8bbb97827d7cb6.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3ac1ad2a5f59b1be67fff0585ad16a07a6b91d9a1bedae17b802c6b530ec244.png",
+      "flavorText": "사실 본인도 뭘 만들고 있는지 잘 모릅니다. 그게 끝내주는 물건이라는 점만 빼고요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/564e638f04d484eb2a67179f04b5ffac07bf0d2c1f80ae0993aa9548a66dce9c.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68391,
+      "collectible": 1,
+      "slug": "68391-gnomish-inventor",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Court Jones",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 4,
+      "name": "노움 발명가",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6aac91952355f942f0af2bb5b7ceab92e585e0983451742df98ab0b995e2597.png",
+      "imageGold": "",
+      "flavorText": "사실 본인도 뭘 만들고 있는지 잘 모릅니다. 그게 끝내주는 물건이라는 점만 빼고요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/564e638f04d484eb2a67179f04b5ffac07bf0d2c1f80ae0993aa9548a66dce9c.png",
+      "keywordIds": [
+        8
+      ],
+      "copyOfCardId": 308
+    },
+    {
+      "id": 70219,
+      "collectible": 1,
+      "slug": "70219-gnome-private",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "노움 병사",
+      "text": "\u003cb\u003e명예로운 일격:\u003c/b\u003e 공격력을 +2 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b2f53af687832f32adcb60b873f2e269d579a63549a143a88b77a9130d155e0.png",
+      "imageGold": "",
+      "flavorText": "자신의 몫을 다하고 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8517cdae1842fb54382aef749146098a1eded185736f2f25ba00f13017576afc.png",
+      "keywordIds": [
+        100
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2060,
+      "collectible": 1,
+      "slug": "2060-gnomish-experimenter",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 13,
+      "rarityId": 3,
+      "artistName": "Jesper Ejsing",
+      "health": 2,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "노움 실험가",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 카드를 뽑습니다. 그 카드가 하수인이면, 닭으로 변신시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/363f18d095f268965ec4ce6237c28f2d4e2cde51e9467aa0887dcae51e29db3e.png",
+      "imageGold": "",
+      "flavorText": "닭으로 변신시킬 때마다 의외로 엄청나게 놀란다고 합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b69ceff5ad3b9023b39da8ac842d906d3681f4fb4dfa5fa4a42d4ab5a415b6b7.jpg",
+      "childIds": [
+        2240
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 1658,
+      "collectible": 1,
+      "slug": "1658-alarm-o-bot",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 3,
+      "artistName": "Sean O’Daniels",
+      "health": 3,
+      "attack": 0,
+      "manaCost": 3,
+      "name": "노움 자동경보기",
+      "text": "내 턴이 시작될 때, 이 하수인이 내 손에 있는 무작위 하수인과 교체됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ff49bb3d531871054c548a1f8935ec7a432db97be6acb5f7833f3504a002bdf.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ea51bc252f56f9f270a19ee033e4fed71de1248e0be6819a7ed84f5faebde97.png",
+      "flavorText": "삐뽀. 삐뽀. 삐뽀.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58e70a147792e487d606a720f466648da7342d5f805a02037671e68ad9a045ac.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69808,
+      "collectible": 1,
+      "slug": "69808-alarm-o-bot",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 3,
+      "artistName": "Sean O’Daniels",
+      "health": 3,
+      "attack": 0,
+      "manaCost": 3,
+      "name": "노움 자동경보기",
+      "text": "내 턴이 시작될 때, 이 하수인이 내 손에 있는 무작위 하수인과 교체됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37bab4360bc6eb43a4428089485559278a2d4dcdc7898f1c69c7478af08f1106.png",
+      "imageGold": "",
+      "flavorText": "삐뽀. 삐뽀. 삐뽀.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58e70a147792e487d606a720f466648da7342d5f805a02037671e68ad9a045ac.png",
+      "copyOfCardId": 1658
+    },
+    {
+      "id": 80819,
+      "collectible": 1,
+      "slug": "80819-gnome-muncher",
+      "classId": 1,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Mauricio Herrera",
+      "health": 6,
+      "attack": 5,
+      "manaCost": 6,
+      "name": "노움 쩝쩝이",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e생명력 흡수\u003c/b\u003e 내 턴이 끝날 때, 생명력이 가장 낮은 적을 공격합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1fca8b8961ec581b87a48d852e60bdff9bce34b19cb1516cb94219d4b9a5b9e9.png",
+      "imageGold": "",
+      "flavorText": "쩝쩝쩝.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39fbaadfd85409edfc23cb3cdc5a8cc9dc9127d4944aa71a89e0041f0b3ca6b8.png",
+      "keywordIds": [
+        1,
+        38
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      },
+      "runeCost": {
+        "blood": 1,
+        "frost": 0,
+        "unholy": 0
+      }
+    },
+    {
+      "id": 42670,
+      "collectible": 1,
+      "slug": "42670-gnomeferatu",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 4,
+      "artistName": "Matt Dixon",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "노움페라투",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 상대편의 다음 카드를 없앱니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fe103d8b1801bea7cf025c8c331f54555657b7473f0b50d31ecc1c7dc2fa4d4.png",
+      "imageGold": "",
+      "flavorText": "\"아름다운 뱀파이어 여신님\"이라고 불리길 원합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a38ad163cd9ff60c875950ffcc0b6dc655de2ca616547f98f8f02be8edf58c6c.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 20
+}

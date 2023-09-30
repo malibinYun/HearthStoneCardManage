@@ -1,0 +1,1021 @@
+{
+  "cards": [
+    {
+      "id": 86547,
+      "collectible": 1,
+      "slug": "86547-wrathscale-naga",
+      "classId": 14,
+      "multiClassIds": [],
+      "minionTypeId": 92,
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 4,
+      "artistName": "Ware Lee",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "성난비늘 나가",
+      "text": "아군 하수인이 죽은 후에, 무작위 적에게 피해를 3 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79bae4e28333607d4f5e27b592c1e36fd15b9a85c8facaee3cd178041ba6762d.png",
+      "imageGold": "",
+      "flavorText": "이런 걸 옆구리를 주고 목을 가져가는 전략이라고 하죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eca8d41b80bf72b8b0f056d711a9f2e0e10a14ccb45def1a182fe64df82927d2.png",
+      "copyOfCardId": 59710,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 40531,
+      "collectible": 1,
+      "slug": "40531-grimscale-chum",
+      "classId": 5,
+      "multiClassIds": [],
+      "minionTypeId": 14,
+      "cardTypeId": 4,
+      "cardSetId": 25,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 1,
+      "name": "성난비늘 불량배",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 있는 무작위 멀록에게 +1/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6866c1fee0b55e36313429187fd314cf1b901f59430998ee4e1fe9a30a15eec2.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0260e39b0b6dab753378649df8c2295a3d4bd730df5ce4c00bb3cc94461d48d1.png",
+      "flavorText": "들어봐, 응? 우선 부두로 데려가는 거야, 응? 그리고 바다에 던져버리는 거야, 응?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea598c7822cedea0801b38985a07f6487b8208a1d6a3e1dc95320b91b526c9d7.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 510,
+      "collectible": 1,
+      "slug": "510-grimscale-oracle",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 14,
+      "cardTypeId": 4,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Phil Saunders",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "성난비늘 수련사",
+      "text": "내 다른 멀록들이 공격력을 +1 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/87fe8e105052521b70724d33e84be9efedb5ac712074cfc32e172183a2feb0b2.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7138e0e14fe0b91ff11f21a5f0577ab2bbed0b05d129528e3670cfb964180560.png",
+      "flavorText": "아주 똑똑한 멀록입니다. 그래도 다른 멀록들과 크게 다르지는 않습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6c61e6fe18f8dba1a78f075c00cea3f2e7a19148d4ed361cb72a93e30802c75.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68470,
+      "collectible": 1,
+      "slug": "68470-grimscale-oracle",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 14,
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Phil Saunders",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "성난비늘 수련사",
+      "text": "다른 \u003cb\u003e모든\u003c/b\u003e 멀록이 공격력을 +1 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2a1d27c5b042399eea5ddff3768a1bbe44f0c77ffd3b8adb1cf8fd558a752be.png",
+      "imageGold": "",
+      "flavorText": "아주 똑똑한 멀록입니다. 그래도 다른 멀록들과 크게 다르지는 않습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6c61e6fe18f8dba1a78f075c00cea3f2e7a19148d4ed361cb72a93e30802c75.png",
+      "copyOfCardId": 510
+    },
+    {
+      "id": 86559,
+      "collectible": 1,
+      "slug": "86559-sunfury-clergy",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 1,
+      "artistName": "Vika Yarova",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "성난태양 성직자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 모든 아군 캐릭터의 생명력을 3 회복시킵니다. \u003cb\u003e마나갈증 (6):\u003c/b\u003e 대신 생명력을 6 회복시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2d045d362af4fe0a71a82ae1cc51021265415d35f1541b439e01fdd5385a486.png",
+      "imageGold": "",
+      "flavorText": "왜 태양이 성난 거죠? 왜 아무도 알려고 하지 않는 건가요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d15f94bfc6f2467b05f1a9dcb456b3a187e8c9d35f7b4e162f65d87b875386c.png",
+      "keywordIds": [
+        8,
+        257
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 84301,
+      "collectible": 1,
+      "slug": "84301-sunfury-champion",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 4,
+      "artistName": "Caroline Gariba",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "성난태양 용사",
+      "text": "내가 화염 주문을 시전한 후에, \u003cb\u003e모든\u003c/b\u003e 하수인에게 피해를 1 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b57380e6c65521ad96709a28e2e1b512e7a86361d666e180c3308d07e9c15f7e.png",
+      "imageGold": "",
+      "flavorText": "블러드 엘프 제과 대회 12회 연속 우승자입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b8ff28f81631949daa1ed58159e163a71793c223c60079c0d8334e47d729d63.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 891,
+      "collectible": 1,
+      "slug": "891-sunfury-protector",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 3,
+      "artistName": "James Ryman",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "성난태양 파수병",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 양옆의 하수인들에게 \u003cb\u003e도발\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c26b27f7190b06a6ecff0aab26763e34fde0c001bb58c5e716acc32425aa1ba2.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ba3b124408d056a034d2808977dd323ccb334c72b729143c5a1d054051d9545.png",
+      "flavorText": "방패를 가지고는 있지만, 다른 이들에게 넘기고 자신은 숨어버리더군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d91daf777b7f98e170cea2610f6c63848fffd5faaf0084745cc698f913647f5.png",
+      "keywordIds": [
+        1,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69833,
+      "collectible": 1,
+      "slug": "69833-sunfury-protector",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 3,
+      "artistName": "James Ryman",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "성난태양 파수병",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 양옆의 하수인들에게 \u003cb\u003e도발\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58f2fe74b293dad73404af35b80c324c07067edbb9d0916f2926d9f1574a95bf.png",
+      "imageGold": "",
+      "flavorText": "방패를 가지고는 있지만, 다른 이들에게 넘기고 자신은 숨어버리더군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d91daf777b7f98e170cea2610f6c63848fffd5faaf0084745cc698f913647f5.png",
+      "keywordIds": [
+        1,
+        8
+      ],
+      "copyOfCardId": 891
+    },
+    {
+      "id": 84207,
+      "collectible": 1,
+      "slug": "84207-sister-svalna",
+      "classId": 6,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 5,
+      "artistName": "James Ryman",
+      "health": 6,
+      "attack": 6,
+      "manaCost": 6,
+      "name": "성녀 스발나",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 어둠의 환영을 \u003ci\u003e영구히\u003c/i\u003e 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/549ae02f76bfb574399f008510ef30246b472b4fdacbe248320442ab342439cf.png",
+      "imageGold": "",
+      "flavorText": "안녕 어둠, 나의 오랜 친구여.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/214e7c4ea12ec6a8bc0e9dc250398cb325da2c7ce061fbff9955041cb3c1b0ba.png",
+      "childIds": [
+        85059
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 47416,
+      "collectible": 1,
+      "slug": "47416-cathedral-gargoyle",
+      "classId": 5,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1125,
+      "rarityId": 4,
+      "artistName": "Jakub Kasper",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "성당 가고일",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 용족이 있으면, \u003cb\u003e도발\u003c/b\u003e과 \u003cb\u003e천상의 보호막\u003c/b\u003e을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/297b1f1f0c37c2e894810a006dc92b409348ebf874c10f5a9c0cca10870f7fd5.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2252efbeabbac704e8eb0ce26803699ade255492265ca98c094392803398d836.png",
+      "flavorText": "바위처럼 날아서 바위처럼 떨어집니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ebf1401bb31b5f7e731e2711bf5442a92e208e671c4ea8a0e69072ba7c854dea.png",
+      "keywordIds": [
+        1,
+        3,
+        8
+      ]
+    },
+    {
+      "id": 13334,
+      "collectible": 1,
+      "slug": "13334-reliquary-seeker",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 20,
+      "rarityId": 3,
+      "artistName": "Wayne Reynolds",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "성물회 구도자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 전장에 다른 하수인이 여섯 있으면, +4/+4를 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1c550307fbb688bf08c0228895a64cb16fb34bfec1e43c81fea737b717d91c4.png",
+      "imageGold": "",
+      "flavorText": "성물회는 탐험가 연맹을 경쟁 상대라고 생각합니다. 하지만 탐험가 연맹은 성물회 따위 안중에도 없죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/718fe68531e014021e04b33ac2c6d76b1f8062d9ff5bb888f74db9f8fef4a4ca.jpg",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 64435,
+      "collectible": 1,
+      "slug": "64435-sanctum-chandler",
+      "classId": 4,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 3,
+      "artistName": "Jakub Kasper",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "성소 양초꾼",
+      "text": "내가 화염 주문을 시전한 후에, 주문을 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f83e8c4955082b77067ce1965175d2e7697d77cac3ce39d0466736efa9ab92ba.png",
+      "imageGold": "",
+      "flavorText": "아무리 어두운 곳에 가도 손전등은 필요 없겠군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/331b259e6e70117f5e69196d4de959ca27ea0bbdb11c96137762d709c1a1b9eb.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 93434,
+      "collectible": 1,
+      "slug": "93434-sanctum-spellbender",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 4,
+      "artistName": "Vika Yarova",
+      "health": 6,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "성소 주문왜곡사",
+      "text": "상대편이 다른 하수인을 주문의 대상으로 지정할 때마다, 대신 이 하수인이 대상이 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ffed575c29be6d42fbb8f8dbf164725419a8aa577f6a40d8bb452da320d454b6.png",
+      "imageGold": "",
+      "flavorText": "\"이것도 주세요... 저것도... 그것도요.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f45f59a83e596d5660c8491a43fa51415fe6004a332d86241def4af1fe0f223.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 46694,
+      "collectible": 1,
+      "slug": "46694-holy-water",
+      "classId": 6,
+      "multiClassIds": [],
+      "spellSchoolId": 5,
+      "cardTypeId": 5,
+      "cardSetId": 1125,
+      "rarityId": 3,
+      "artistName": "Vladimir Kafanov",
+      "manaCost": 5,
+      "name": "성수",
+      "text": "하수인에게 피해를 4 줍니다. 이 피해로 하수인이 죽으면, 그 카드를 복사하여 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/665c5a5283d01e61540f17f67e69a4d6ea41c73ffe5ad2cf4d2215193293169f.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca1d904c870563252889a0d7133de7ab98cd7e6678fe722a8ac2b43744649b2a.png",
+      "flavorText": "칼로리가 신경 쓰인다면 성수: 제로를 드셔보세요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65be317c422c5ceaf6425a8e31cd77d99a148ccd95b3f7adbb3ca971f2e99822.png"
+    },
+    {
+      "id": 291,
+      "collectible": 1,
+      "slug": "291-holy-light",
+      "classId": 5,
+      "multiClassIds": [],
+      "spellSchoolId": 5,
+      "cardTypeId": 5,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Zoltan \u0026 Gabor",
+      "manaCost": 2,
+      "name": "성스러운 빛",
+      "text": "내 영웅의 생명력을 8 회복시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1feaf9dc3359cabbd7bd28e9d5b5be1c9bb97523ed2dc9920aa5c8a035ef52fe.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99a81f4e35ba9b264e02baf3875fb3d6eb6f90e0f8862a22567f1d619dcf3781.png",
+      "flavorText": "종종 성스러운 빛에 노출되신다면, 자외선 차단제를 바르세요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5eb7d27316a8dacb81be9e463388a159748900341e5754706250b83e20c91c3.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68362,
+      "collectible": 1,
+      "slug": "68362-holy-light",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Zoltan \u0026 Gabor",
+      "manaCost": 2,
+      "name": "성스러운 빛",
+      "text": "생명력을 6 회복시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40492abcaea03200990c9fb1ee4ba95450ad640b82ab1e7f60c99475548538fd.png",
+      "imageGold": "",
+      "flavorText": "종종 성스러운 빛에 노출되신다면, 자외선 차단제를 바르세요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5eb7d27316a8dacb81be9e463388a159748900341e5754706250b83e20c91c3.png",
+      "copyOfCardId": 291
+    },
+    {
+      "id": 279,
+      "collectible": 1,
+      "slug": "279-holy-smite",
+      "classId": 6,
+      "multiClassIds": [],
+      "spellSchoolId": 5,
+      "cardTypeId": 5,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Steve Ellis",
+      "manaCost": 1,
+      "name": "성스러운 일격",
+      "text": "하수인에게 피해를 3 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77a53475919571e7f9516650fd4d2ab5938bb590742e738fd7e4748e990e2406.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e44fad7673a564fe34d5d5d04a2bf650dccece99b27355f2e1c04a21b15b3d0.png",
+      "flavorText": "생각은 성스럽게, 주먹은 상스럽게.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fb8e912dc91f5f8c1483ee57056ccdb875926d00ef2a426171199ad76932635.png",
+      "childIds": [
+        62850
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68301,
+      "collectible": 1,
+      "slug": "68301-holy-smite",
+      "classId": 6,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Steve Ellis",
+      "manaCost": 1,
+      "name": "성스러운 일격",
+      "text": "피해를 2 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ce2f00e903f308d02866405a84ff7d9e9b7fa10c18167ad79be0df6b4c24d5e.png",
+      "imageGold": "",
+      "flavorText": "생각은 성스럽게, 주먹은 상스럽게.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fb8e912dc91f5f8c1483ee57056ccdb875926d00ef2a426171199ad76932635.png",
+      "copyOfCardId": 279
+    },
+    {
+      "id": 69509,
+      "collectible": 1,
+      "slug": "69509-holy-smite",
+      "classId": 6,
+      "multiClassIds": [],
+      "spellSchoolId": 5,
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Steve Ellis",
+      "manaCost": 1,
+      "name": "성스러운 일격",
+      "text": "하수인에게 피해를 3 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f86a0146f2fb18940f6d6be9d8e23d1c4e273224138015304bad977da6434c47.png",
+      "imageGold": "",
+      "flavorText": "생각은 성스럽게, 주먹은 상스럽게.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a768f73ec6d919f924981a4f1a4ae0d5b8a8f9d00fe55c32efb82523753ee31.png",
+      "copyOfCardId": 279,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 58977,
+      "collectible": 1,
+      "slug": "58977-diligent-notetaker",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1443,
+      "rarityId": 3,
+      "artistName": "Peter Stapleton",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "성실한 모범생",
+      "text": "\u003cb\u003e주문폭주:\u003c/b\u003e 그 주문을 내 손으로 다시 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dee5e34cef01584017bd7843fef96c668a768845a8ac4716fddb926906640da.png",
+      "imageGold": "",
+      "flavorText": "이 카드가 시험에 나올지도 몰라.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f54c70a60a9be8c4a08b9003f9e43e28a416477655022fc327e97a4440d6757b.png",
+      "keywordIds": [
+        88
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 63520,
+      "collectible": 1,
+      "slug": "63520-floecaster",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 6,
+      "name": "성에술사",
+      "text": "\u003cb\u003e빙결\u003c/b\u003e 상태인 적 하나당 비용이 (2)씩 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d79136d5a6d8fac54016e4537725519bab252418ec4c97afb512709e72baeaa.png",
+      "imageGold": "",
+      "flavorText": "본명은 멜빈이지만, 친구들보고... \"성에술사\"라고 불러달라네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86f6751ef092477c06c0f07ffa4c2c7c19d814bbfff1b279813906b6dd36b5b8.png",
+      "keywordIds": [
+        9
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 55342,
+      "collectible": 1,
+      "slug": "55342-sanctuary",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1347,
+      "rarityId": 4,
+      "artistName": "Ludo Lullabi",
+      "manaCost": 2,
+      "name": "성역",
+      "text": "\u003cb\u003e부가 퀘스트:\u003c/b\u003e 한 턴 동안 피해를 받지 않아야 합니다. \u003cb\u003e보상:\u003c/b\u003e \u003cb\u003e도발\u003c/b\u003e 능력이 있는 3/6 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a766ce63864a3bcc28417107b1bea34fdd13ccf180f343d5a4bb59e3484854e.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a263d2482244e90d06a3666e617505349e5c6e1369f7d8b4587b78bae2bb4692.png",
+      "flavorText": "탁자 밑에 숨어있는 것만으로 완료되는 퀘스트는 몇 없긴 하죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a760670781c33ed3553a577c49f15f9754285e7b6f969e9e2e7a50a56d12a5f.png",
+      "childIds": [
+        57723
+      ],
+      "keywordIds": [
+        1,
+        89
+      ]
+    },
+    {
+      "id": 98017,
+      "collectible": 1,
+      "slug": "98017-ancient-of-growth",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1858,
+      "rarityId": 4,
+      "artistName": "Edgar Hidalgo",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 7,
+      "name": "성장의 고대정령",
+      "text": "\u003cb\u003e선택 -\u003c/b\u003e 2/2 나무정령 셋을 소환합니다. 또는 내 나무정령들을 \u003cb\u003e도발\u003c/b\u003e 능력이 있는 5/5 고대정령으로 변신시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b1bde73e96965cf66b45adc219a021b7dac8838dd62a2bd66a8aeb7ef1e87261.png",
+      "imageGold": "",
+      "flavorText": "누가 온실가스를 방출했나요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99b11941bc611965923131e0a7f3371e7e27efc5228b8ccd65dd9591ac8be891.png",
+      "childIds": [
+        99806,
+        97457
+      ],
+      "keywordIds": [
+        1
+      ]
+    },
+    {
+      "id": 67040,
+      "collectible": 1,
+      "slug": "67040-lightforged-cariel",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 3,
+      "cardSetId": 1626,
+      "rarityId": 5,
+      "artistName": "Ursula Dorada",
+      "health": 30,
+      "manaCost": 8,
+      "armor": 5,
+      "name": "성전사 카리엘",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 모든 적에게 피해를 2 줍니다. 2/5 불굴의 방패를 장착합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b0c503bb5213c8ec89b4001a935d789aced4d9b7b4cc3d1241010f5fcab001f.png",
+      "imageGold": "",
+      "flavorText": "흔들리지 않는 신념, 움직이지 않는 방패, 그리고 구원받지 못할 적들.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56a1c1fe71237ad34df51a3a0d137e42c63aa2a9acfcac82495ed25f55617f9c.png",
+      "childIds": [
+        67041,
+        70495
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 96917,
+      "collectible": 1,
+      "slug": "96917-crusader-aura",
+      "classId": 5,
+      "multiClassIds": [],
+      "spellSchoolId": 5,
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 4,
+      "artistName": "Vlad Botos",
+      "manaCost": 4,
+      "name": "성전사의 오라",
+      "text": "아군 하수인이 공격할 때마다 그 하수인에게 +2/+1을 부여합니다. 3턴 동안 지속됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a1ddde255aa45f280b39419408579ed557a5006389dbecbe1f213184363a8c0.png",
+      "imageGold": "",
+      "flavorText": "내 애니메이션 재생 속도도 20% 빨라집니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/439ad1f51368542bf3dd75357b7c7f0bc0a84ee635fd8f02f435881422fe99f7.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 78418,
+      "collectible": 1,
+      "slug": "78418-castle-kennels",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 39,
+      "cardSetId": 1691,
+      "rarityId": 3,
+      "artistName": "Mooncolony ",
+      "health": 3,
+      "manaCost": 2,
+      "name": "성채 사육장",
+      "text": "아군 하수인에게 공격력을 +2 부여합니다. 대상이 야수면, \u003cb\u003e속공\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7db458e5298c7efec76e25bf1c714db403a60164a0b683cc5afcbd4190f7d96.png",
+      "imageGold": "",
+      "flavorText": "개는 잘못이 없습니다. 누가 어떻게 훈련시키느냐에 따라 달라지죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c66ce2ca6c0abf3f1bf366e023cbe013c38e9b69d6d49528135089e167d04327.png",
+      "keywordIds": [
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 46107,
+      "collectible": 1,
+      "slug": "46107-twig-of-the-world-tree",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1004,
+      "rarityId": 5,
+      "artistName": "Alexey Aparin",
+      "attack": 1,
+      "manaCost": 4,
+      "durability": 5,
+      "name": "세계수의 가지",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 내 마나 수정을 모두 회복합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2fc74bdbe779cde01aca913ccb28d3c1da0853a6424f598007a071e6ed7d579.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f4dd59bbf5da9ac7afc037cc8cb63031f19538bf6aaf479f25ad97eb338cdeb.png",
+      "flavorText": "세계로 뻗어 나가는 우수한 드루이드를 위한 가지입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3be0e8a9bf861b5d82e37c0302150311f03d7e44c652d739b3c85f9315f5dee6.png",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 98468,
+      "collectible": 1,
+      "slug": "98468-weight-of-the-world",
+      "classId": 14,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1858,
+      "rarityId": 3,
+      "artistName": "Vladimir Kafanov",
+      "manaCost": 3,
+      "name": "세계의 무게",
+      "text": "카드를 2장 뽑습니다. \u003cb\u003e제련:\u003c/b\u003e 먼저 상대편 손에 있는 카드와 같은 수가 될 때까지 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b61d93260939cc4b16a6abbe6a020203fe90345edb3ebb50bbee60c7c137eca.png",
+      "imageGold": "",
+      "flavorText": "토막 상식: 아제로스는 약 2년 주기로 성장합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/139c7995a5efa820b94f74f8fd0b6e56b4e992e3f7ca8f565b7114fa8ad52231.png",
+      "childIds": [
+        98471
+      ],
+      "keywordIds": [
+        266
+      ]
+    },
+    {
+      "id": 45995,
+      "collectible": 1,
+      "slug": "45995-grumble-worldshaker",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1004,
+      "rarityId": 5,
+      "artistName": "Hideaki Takamura",
+      "health": 7,
+      "attack": 7,
+      "manaCost": 6,
+      "name": "세계전율자 그럼블",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 다른 하수인들을 내 손으로 다시 가져옵니다. 그 하수인들의 비용이 (1)이 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8dd89d3f9d0df8d2000a0552783468cd3c87e8a81194c2e1244c1f76e9e05df7.png",
+      "imageGold": "",
+      "flavorText": "구릉지 구릉이 가랑거리는가 싶더니 고원 아래 미궁 동굴에서 코볼트가 데구루루 나옵니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c56ee58785a71304f73f437b2b565d7122e60827164164e1fd00b4a4d773af6.jpg",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 61604,
+      "collectible": 1,
+      "slug": "61604-cenarion-ward",
+      "classId": 2,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1466,
+      "rarityId": 4,
+      "artistName": "MAR Studio",
+      "manaCost": 8,
+      "name": "세나리온 수호물",
+      "text": "방어도를 +8 얻습니다. 비용이 8인 무작위 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f4f819807fb5762cd2b81a8eacf8c64f930e0b69143e4f50d3163e2d8d2c3b0.png",
+      "imageGold": "",
+      "flavorText": "왼손잡이다보니 오른손의 성장이 조금 더딘 편입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81299eae2cd5636028495406c5bfd358416c89acadea57b0b808620c96fb79ea.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 102538,
+      "collectible": 1,
+      "slug": "102538-cenarion-hold",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 39,
+      "cardSetId": 1898,
+      "rarityId": 4,
+      "artistName": "Evgeniy Dlinnov",
+      "health": 2,
+      "manaCost": 1,
+      "name": "세나리온 요새",
+      "text": "이번 턴에 내 다음 \u003cb\u003e선택\u003c/b\u003e 카드의 두 능력이 모두 발동합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65292ad67928dd5aaac26f4a97d32bb76917b496ea60ab8757c7f70eda31eb64.png",
+      "imageGold": "",
+      "flavorText": "흐르는 모래의 전쟁이 끝나고 세나리온 요새는 전략적 전초기지가 되어 크툰의 군대가 다시 나타날 때를 기다리고 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/632e973d7727fe61ae619f0496f84b208a1875a5a154565293db3ada3ba7b7e1.png"
+    },
+    {
+      "id": 36,
+      "collectible": 1,
+      "slug": "36-cenarius",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 5,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 8,
+      "attack": 5,
+      "manaCost": 8,
+      "name": "세나리우스",
+      "text": "\u003cb\u003e선택 -\u003c/b\u003e 내 다른 하수인들에게 +2/+2를 부여합니다. 또는 \u003cb\u003e도발\u003c/b\u003e 능력이 있는 2/2 나무정령을 둘 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a979a2f8045e04caefe8c341fbf2f06993f4ddfb758ca4fc96c19d444dc7a4d1.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0232d288dc0f7a5fb15f08abc5dbe5011f9940c4f071d97259a9c2aac7151e31.png",
+      "flavorText": "반신반의하시나요? 네, 이 친구 반신반인 맞습니다. 그래서인지 반신욕을 싫어한다더군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75bfd42165394b1635edd50957bc3d25a4c1e01e02be039f63664529c88f7bae.png",
+      "childIds": [
+        678
+      ],
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69598,
+      "collectible": 1,
+      "slug": "69598-cenarius",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 5,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 8,
+      "attack": 5,
+      "manaCost": 8,
+      "name": "세나리우스",
+      "text": "\u003cb\u003e선택 -\u003c/b\u003e 내 다른 하수인들에게 +2/+2를 부여합니다. 또는 \u003cb\u003e도발\u003c/b\u003e 능력이 있는 2/2 나무정령을 둘 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/540a631e43afa33437c30dc2f8e64d894715ee91696f298d4fcffe8fd2cfedca.png",
+      "imageGold": "",
+      "flavorText": "반신반의하시나요? 네, 이 친구 반신반인 맞습니다. 그래서인지 반신욕을 싫어한다더군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be37ef0b2969eea1fa7b064ae63f18872bfce7286b2703caec7e993350a4598b.png",
+      "childIds": [
+        678
+      ],
+      "keywordIds": [
+        1
+      ],
+      "copyOfCardId": 36,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70031,
+      "collectible": 1,
+      "slug": "70031-cenarius",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 5,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 8,
+      "attack": 5,
+      "manaCost": 9,
+      "name": "세나리우스",
+      "text": "\u003cb\u003e선택 -\u003c/b\u003e 내 다른 하수인들에게 +2/+2를 부여합니다. 또는 \u003cb\u003e도발\u003c/b\u003e 능력이 있는 2/2 나무정령을 둘 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60eea2ee37fd1264db0c50a33cbba8c3ba35f9b3d5b629a36d9a1dd25143e4b2.png",
+      "imageGold": "",
+      "flavorText": "반신반의하시나요? 네, 이 친구 반신반인 맞습니다. 그래서인지 반신욕을 싫어한다더군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75bfd42165394b1635edd50957bc3d25a4c1e01e02be039f63664529c88f7bae.png",
+      "childIds": [
+        678
+      ],
+      "keywordIds": [
+        1
+      ],
+      "copyOfCardId": 36
+    },
+    {
+      "id": 56603,
+      "collectible": 1,
+      "slug": "56603-sethekk-veilweaver",
+      "classId": 6,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1414,
+      "rarityId": 4,
+      "artistName": "Jim Nelson",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "세데크 장막직공",
+      "text": "내가 하수인에게 주문을 시전한 후에, 무작위 사제 주문을 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4676e950110900e897ad9e8e44266947d5aca241da74b7ca950d0d850c3aef22.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d49c05345eacafd51f575e77ce0db59465a3c43aba68c7581c4f6be8341c4a63.png",
+      "flavorText": "세데크가 오랜 세월 동안 생존할 수 있던 비결은 힘, 그리고 패션에 대한 남다른 철학이라고 합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/15956d8b74c18754bb18f7490e5e1e6d28eca373bd730c7545d443e144a1c17d.png"
+    },
+    {
+      "id": 70523,
+      "collectible": 1,
+      "slug": "70523-cerathine-fleetrunner",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 5,
+      "artistName": "James Ryman",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 5,
+      "name": "세라틴 플릿러너",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손과 덱에 있는 하수인들을 다른 직업의 하수인들로 교체합니다. 그 하수인들의 비용이 (2) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75ec4ab3e44a8f82d2cb37ab0430a9ee813d216d52a1068c2ebd7cad8ef8e7cf.png",
+      "imageGold": "",
+      "flavorText": "16년째 깃발 뺏기의 챔피언으로 질주하고 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d219f2af49e122d97d9a7f2075903981c7e33eec50e95fe3f177e873d0e50c23.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 635,
+      "collectible": 1,
+      "slug": "635-senjin-shieldmasta",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Brian Despain",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "센진 방패대가",
+      "text": "\u003cb\u003e도발\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0d5b8dc98fcdc59a81c553d9cfa6dd0f22cf049b16afe57897a2848b30cf6de.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b5e50fb5e8caefddc5d70cacc9fe171f30cd93171775577005f30f842e8f792.png",
+      "flavorText": "센진 마을은 쾌적합니다. 트롤과 먼지만 감당할 수 있으면요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f895da90de785673c28c82b17e0d23b0c8934b891104a6d83d1d0e60792f101.png",
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68399,
+      "collectible": 1,
+      "slug": "68399-senjin-shieldmasta",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Brian Despain",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "센진 방패대가",
+      "text": "\u003cb\u003e도발\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cfd7c567dd925caae59b10ce549b0d91a14ecd8cbded054480777b5891a0f3ee.png",
+      "imageGold": "",
+      "flavorText": "센진 마을은 쾌적합니다. 트롤과 먼지만 감당할 수 있으면요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f895da90de785673c28c82b17e0d23b0c8934b891104a6d83d1d0e60792f101.png",
+      "keywordIds": [
+        1
+      ],
+      "copyOfCardId": 635
+    },
+    {
+      "id": 69542,
+      "collectible": 1,
+      "slug": "69542-senjin-shieldmasta",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Brian Despain",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "센진 방패대가",
+      "text": "\u003cb\u003e도발\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/397e6f90de4d3c945d0755b746c100b65b60aef8a2ba0ee294b34669b83a1722.png",
+      "imageGold": "",
+      "flavorText": "센진 마을은 쾌적합니다. 트롤과 먼지만 감당할 수 있으면요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3777037fae1d9f3a363e05851148eeb1c7c63e734531d1b7c6e12af9c79d1400.png",
+      "keywordIds": [
+        1
+      ],
+      "copyOfCardId": 635,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 64439,
+      "collectible": 1,
+      "slug": "64439-sheldras-moontree",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 5,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 8,
+      "name": "셸드라스 문트리",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내가 뽑는 다음 주문 셋은 \u003cb\u003e뽑을 때 시전\u003c/b\u003e됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/484655c2a31c02fd482078ffc3ceac55eb6a54896fc09f62cf762da2d7b6d516.png",
+      "imageGold": "",
+      "flavorText": "셸드라는 순례를 위해 공원에 갔습니다. 농담 아니에요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5db9db543ef3d4c02401f694d44ac4264700884de37dbb081163e77e3669eae2.png",
+      "keywordIds": [
+        8,
+        72
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 59
+}

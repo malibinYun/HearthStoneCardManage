@@ -1,0 +1,1035 @@
+{
+  "cards": [
+    {
+      "id": 63079,
+      "collectible": 1,
+      "slug": "63079-invigorating-sermon",
+      "classId": 5,
+      "multiClassIds": [],
+      "spellSchoolId": 5,
+      "cardTypeId": 5,
+      "cardSetId": 1525,
+      "rarityId": 1,
+      "artistName": "Arthur Bozonnet",
+      "manaCost": 4,
+      "name": "북돋우는 설교",
+      "text": "내 손, 덱, 전장에 있는 모든 하수인에게 +1/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a376e22e2a83c5cb81ef076e737d13b605df0dcb022614c490ed835fee88cdef.png",
+      "imageGold": "",
+      "flavorText": "열세에 놓인 감독님들이 갖춰야 할 필수 요소입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2137df651a189f91ca3e919b82bc86e1871c8b8cdb723caa0ebf03f0e01ed841.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 98282,
+      "collectible": 1,
+      "slug": "98282-northern-navigation",
+      "classId": 1,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1858,
+      "rarityId": 1,
+      "artistName": "Studio Hive ",
+      "manaCost": 2,
+      "name": "북부 항해",
+      "text": "내 덱에서 주문을 \u003cb\u003e발견\u003c/b\u003e합니다. 냉기 주문이면, 무작위 적 하수인을 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b0ea542427e7c9c855002f50c06d628ba1a2a6730ea2b16b8f9155f733b8e3e3.png",
+      "imageGold": "",
+      "flavorText": "겨울 할아버지의 작업실을 향해 가리킵니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/524aa0ae57accf6309238710034ec49318cc7d4cbf76b7dbd9871edf738883e1.png",
+      "keywordIds": [
+        10,
+        21
+      ],
+      "runeCost": {
+        "blood": 0,
+        "frost": 1,
+        "unholy": 0
+      }
+    },
+    {
+      "id": 62927,
+      "collectible": 1,
+      "slug": "62927-northwatch-commander",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 3,
+      "artistName": "Leonardo Santanna",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "북부감시 지휘관",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 전장에 \u003cb\u003e비밀\u003c/b\u003e이 있으면, 하수인을 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d56975d0675e7d0e0b91af626fbe321459f06da0f815139d054c25d03a04ef73.png",
+      "imageGold": "",
+      "flavorText": "호드가 남쪽에서 공격해오기 전까지는 모든 일이 순탄했습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ec51c44d950cbe4f037ab115feb86b53610fc479cc0c97b49e49b92034db5be.png",
+      "keywordIds": [
+        5,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2520,
+      "collectible": 1,
+      "slug": "2520-north-sea-kraken",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 15,
+      "rarityId": 1,
+      "artistName": "Seamus Gallagher",
+      "health": 7,
+      "attack": 9,
+      "manaCost": 9,
+      "name": "북해 크라켄",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 피해를 4 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4941f07510b3393f2ddabbffdae51bc1218285850318a85b100f93ad99bdbb0d.png",
+      "imageGold": "",
+      "flavorText": "가끔은 그냥 북해에서 조용히 지냈으면 하는 생각을 한다는군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c72762e35566e71748c72769a470dece6505b88769373216f88d24850f024d52.jpg",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 48764,
+      "collectible": 1,
+      "slug": "48764-prismatic-lens",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1127,
+      "rarityId": 4,
+      "artistName": "Cicily He",
+      "manaCost": 4,
+      "name": "분광 렌즈",
+      "text": "내 덱에서 하수인과 주문을 뽑습니다. 두 카드의 비용을 바꿉니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/468d8b643aee6c2bd4d487422aaeab553dbb32ec66c2787a6f907b724a6e7343.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c9390267f5aa189ec6c9bb92213c2797b0fd4708125e4173b7a0e246e2cc397.png",
+      "flavorText": "달의 반대편에서 캐 온 광물입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/382f08aa4d9a7ce6e53e5e28b3315c3b5f08dc7a2c533258b172b353372bb92b.png"
+    },
+    {
+      "id": 63682,
+      "collectible": 1,
+      "slug": "63682-fury-rank-1",
+      "classId": 14,
+      "multiClassIds": [],
+      "spellSchoolId": 7,
+      "cardTypeId": 5,
+      "cardSetId": 1525,
+      "rarityId": 1,
+      "artistName": "Slawomir Maniak",
+      "manaCost": 1,
+      "name": "분노 (1 레벨)",
+      "text": "이번 턴에 내 영웅이 공격력을 +2 얻습니다. \u003ci\u003e(보유한 마나가 5일때 강화됩니다.)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea635a04d56b98359ad1ff979991278e7a4f2ae0caa1a7967bb6621baa6a8629.png",
+      "imageGold": "",
+      "flavorText": "가족에게 밥 먹으라고 부를 때는 대부분 3 레벨까지 갑니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8e2be3e6860ec30ae34199488d8633b2fad61e461ceb66bd604e10e379f9547.png",
+      "childIds": [
+        63683,
+        63684
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 72415,
+      "collectible": 1,
+      "slug": "72415-wrathspine-enchanter",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 92,
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 4,
+      "artistName": "Konstantin Porubov",
+      "health": 4,
+      "attack": 5,
+      "manaCost": 7,
+      "name": "분노가시 마술사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 있는 화염, 냉기, 자연 주문을 복사하여 시전합니다. \u003ci\u003e(대상은 무작위로 선택)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0408c6dc346dea73eaed2a58a838eee2495c570659be7a672d86862fd2218309.png",
+      "imageGold": "",
+      "flavorText": "앞이 보인다면 대상을 선택할 수 있을까요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c12817c7daccfa0014005acdd460ff05cbaec65cbc566261e39b0e3d3057d49.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 59865,
+      "collectible": 1,
+      "slug": "59865-wrathspike-brute",
+      "classId": 14,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1463,
+      "rarityId": 4,
+      "artistName": "Vladimir Kafanov",
+      "health": 6,
+      "attack": 2,
+      "manaCost": 5,
+      "name": "분노가시 투사",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, 이 하수인이 공격받은 후에, 모든 적에게 피해를 1 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa720bd9b7dfdd9442aa164fbb57a2973e19389afd54e81c47213fe835feea60.png",
+      "imageGold": "",
+      "flavorText": "등 뒤를 조심하세요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ae9106e169494d8425e6fef1034740611914545ac5862e333614167d02e254b.png",
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 64373,
+      "collectible": 1,
+      "slug": "64373-irebound-brute",
+      "classId": 14,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 1,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 7,
+      "attack": 6,
+      "manaCost": 7,
+      "name": "분노결속 투사",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, 이번 턴에 뽑은 카드 하나당 비용이 (1)씩 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb8626f2d2aed2eac098339fdbbea581c68fa441b0fa14217baa0bfc5e5ebf4e.png",
+      "imageGold": "",
+      "flavorText": "\"복수와 증오를 오우거와 합치면 완전 대박 날 거야. 내 말 믿어 봐.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce4e13c56bf09ee0ad0500b85c5591c2413daf4206ce0960157fd72c04b91315.png",
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 58455,
+      "collectible": 1,
+      "slug": "58455-priestess-of-fury",
+      "classId": 14,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1414,
+      "rarityId": 3,
+      "artistName": "Bayard Wu",
+      "health": 7,
+      "attack": 6,
+      "manaCost": 7,
+      "name": "분노의 여사제",
+      "text": "내 턴이 끝날 때, 모든 적에게 6의 피해를 무작위로 나누어 입힙니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b06d198c6e53a3b824791e1b1fb156b0f268766492eadc6cb8336f255a78f212.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f527fd67672974c66d3dad594001a9c74e64a4cd33f2254f42b8afb73232bc1b.png",
+      "flavorText": "눈먼 감시자가 여덟 개의 쌍날검을 가지고 있는 걸 본 뒤, 자신의 쌍날검이 여섯 개뿐이라는 사실에 분노하고 있습니다. 남의 칼이 더 커 보이는 법이라더니.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/182bf62101d1d9224a2e1be08602c5c879498a715b158476d51a84eae7a1deb8.png"
+    },
+    {
+      "id": 54386,
+      "collectible": 1,
+      "slug": "54386-plague-of-wrath",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1158,
+      "rarityId": 3,
+      "artistName": "Ludo Lullabi",
+      "manaCost": 5,
+      "name": "분노의 역병",
+      "text": "피해를 받은 \u003cb\u003e모든\u003c/b\u003e 하수인을 처치합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff353de2dc1514ebfd911d36f543fc3608a838a65d2e70abd9000fffcddd649e.png",
+      "imageGold": "",
+      "flavorText": "줄여서 화병이라고 합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fcd4ecbaa62b072ad427b2a8ec56065807eb7cddb8861548ccdcf46d56a70b20.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 58495,
+      "collectible": 1,
+      "slug": "58495-furious-felfin",
+      "classId": 14,
+      "multiClassIds": [],
+      "minionTypeId": 14,
+      "multiTypeIds": [
+        15
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1414,
+      "rarityId": 3,
+      "artistName": "Matt Dixon",
+      "health": 2,
+      "attack": 3,
+      "manaCost": 2,
+      "name": "분노하는 지옥지느러미",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이번 턴에 내 영웅이 공격했다면, 공격력 +1과 \u003cb\u003e속공\u003c/b\u003e을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ab3c1dde52e830d17f5c7f8d4cf8f7d5ecdb223f7a932ad5fcabc85ab7bb560.png",
+      "imageGold": "",
+      "flavorText": "혼돈의 가오리, 비릿해지기, 해물의 오라 등의 기술을 사용한다고 하네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ad67258ca2701784c83cd4c9f2c7e615a51b9d7f9b6653b7067b4af55b2c7fa.png",
+      "keywordIds": [
+        8,
+        53
+      ]
+    },
+    {
+      "id": 43322,
+      "collectible": 1,
+      "slug": "43322-crushing-hand",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1004,
+      "rarityId": 1,
+      "artistName": "Phil Saunders",
+      "manaCost": 2,
+      "name": "분쇄의 손",
+      "text": "하수인에게 피해를 8 줍니다. \u003cb\u003e과부하:\u003c/b\u003e (3)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee02aae0f19704940720a3addc2f297b487dac1a56f2edd1ba79e486dbe840ce.png",
+      "imageGold": "",
+      "flavorText": "주술사들과 악수할 땐 항상 조심해야겠습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c68887ced8caa32ea17a9e3f229eb34e0a656c5526b293dbbd3d1951823c7253.jpg",
+      "keywordIds": [
+        14
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 71940,
+      "collectible": 1,
+      "slug": "71940-crushclaw-enforcer",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 92,
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 3,
+      "artistName": "Vladimir Kafanov",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "분쇄집게 집행자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 있을 때 주문을 시전했으면, 나가를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd4a21cfbe1005aaa5649b112c32e0029b0b0a6fa7313d178faa68cea577eba8.png",
+      "imageGold": "",
+      "flavorText": "게로 진화한 살아있는 증거입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1bc0cddf8d4484bbdee49a492a270baa059eaa74df50df07578d7d72a511d4c.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 40953,
+      "collectible": 1,
+      "slug": "40953-doppelgangster",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 25,
+      "rarityId": 3,
+      "artistName": "Zoltan Boros",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 5,
+      "name": "분신수",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이 하수인을 둘 복사하여 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dca2f0702d9e3833a880321fe89d61f970ec20100ee5942a8ed19c0579da63f5.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/774b367815fea27d1542a0ef592460d15b0a75f38f7f314dc43b3e46b519b933.png",
+      "flavorText": "\"다들 모여!\" \"다들 모여!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f40d32655858a56b86b4480656df21a9ccc8d9f4acf88eeef4543ada5eb9ae4.png",
+      "childIds": [
+        42146,
+        42213
+      ],
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 63277,
+      "collectible": 1,
+      "slug": "63277-kindling-elemental",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 1,
+      "artistName": "Max Grecke",
+      "health": 2,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "불 붙이는 정령",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 다음에 내가 내는 정령의 비용이 (1) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc23a0d62e4bc749aa44c013f25a1a2a63c1cc77a1d2c7815ac51b168afd5fac.png",
+      "imageGold": "",
+      "flavorText": "불타올라라! 작은 지옥불이다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49eb01930e76a91b5ec43947104be7677f96af58ea6c9cd2d5e087a56bb43890.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 61202,
+      "collectible": 1,
+      "slug": "61202-fire-breather",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1466,
+      "rarityId": 3,
+      "artistName": "J. Cheung \u0026 K. Turovec",
+      "health": 3,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "불 뿜는 기인",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 악마를 제외한 모든 하수인에게 피해를 2 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b130a2cf76b6289a71e0e15d50da1346d5e674c49567d3829d45b0fe8b2dc183.png",
+      "imageGold": "",
+      "flavorText": "치약 및 구강 청정제 광고 제의는 정중히 거절합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bce911a26011441935444670075b468c7ba15677c12147acf568bfbb5a7d0ef5.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 86595,
+      "collectible": 1,
+      "slug": "86595-nofins-imp-ossible",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1776,
+      "rarityId": 3,
+      "artistName": "Jakub Kasper",
+      "manaCost": 2,
+      "name": "불가능은 없어욣",
+      "text": "모든 아군 악마와 멀록에게 \"\u003cb\u003e죽음의 메아리:\u003c/b\u003e 2/2 임프록을 소환함\" 능력을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7ae97e8a7b9f27173913a87ba24ef2b887b804af354663e1af1885fd6bc0cc4.png",
+      "imageGold": "",
+      "flavorText": "멀록과 임프록은 취향 차이.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3675366eeb04fd422f8783602c445e20a865908a9a3b861d1ae25af29241b1df.png",
+      "childIds": [
+        86596
+      ],
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42760,
+      "collectible": 1,
+      "slug": "42760-glacial-mysteries",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1001,
+      "rarityId": 4,
+      "artistName": "Evgeniy Dlinnov",
+      "manaCost": 8,
+      "name": "불가사의한 빙하",
+      "text": "내 덱에 있는 모든 종류의 \u003cb\u003e비밀\u003c/b\u003e을 하나씩 시전합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08108f8e136fd02eff626cc6412c4126e93339620d6940f6830b53c18e839490.png",
+      "imageGold": "",
+      "flavorText": "이 책에는 가젯잔 최고의 작가가 쓴 글이 담겨 있습니다. 우둔한 사람들이 자신의 미래를 팔아 헛된 재물을 구하려는 이야기죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61832bd2ef3b4a67599cee185d787a380c20e0fd47c8df37f62713257f1fdd6f.png",
+      "keywordIds": [
+        5
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 45835,
+      "collectible": 1,
+      "slug": "45835-grizzled-guardian",
+      "classId": 2,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1004,
+      "rarityId": 3,
+      "artistName": "Alexey Aparin",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 8,
+      "name": "불곰 수호병",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e 비용이 (4) 이하인 하수인을 둘 \u003cb\u003e소집\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7fe354e45dfa1a24ae5f556c181c3274ceee2593406d13adcd9a8c2758d61b52.png",
+      "imageGold": "",
+      "flavorText": "제일 좋아하는 건 불곰 치즈 샌드위치의 빨간 맛!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a85e3aff96ee2e38cdd7f39f9c7201ccc7a1956a047e7acc793ed10e51e907ea.jpg",
+      "keywordIds": [
+        1,
+        12,
+        39
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 52494,
+      "collectible": 1,
+      "slug": "52494-never-surrender",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1130,
+      "rarityId": 1,
+      "artistName": "Mauricio Herrera",
+      "manaCost": 1,
+      "name": "불굴",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 상대편이 주문을 시전하면, 아군 하수인들에게 생명력을 +2 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75d79ad5aa1c7c52d28a228f7a213c42b43b0622f51cf39eb447f54e4d8ff90a.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35b67b687cfe53b696ea67fcc52aa9e698a195999dad28eeb3f2d0bc76a1fe4e.png",
+      "flavorText": "절대 굴하지 않습니다. 항복할 뿐이죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b9cd803ff0bdaf3570d9f916a51f71042a7329f7b34df684d54a01f048b1b7eb.png",
+      "keywordIds": [
+        5
+      ]
+    },
+    {
+      "id": 86572,
+      "collectible": 1,
+      "slug": "86572-tenacious-sanlayn",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 3,
+      "artistName": "Ramzy Kamen",
+      "health": 6,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "불굴의 산레인",
+      "text": "\u003cb\u003e생명력 흡수\u003c/b\u003e 이 하수인은 공격할 때마다 적 영웅에게 피해를 2 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/805225ebc6682fae7161d9f596ad9e04d8fddefb1c48626c40b8f8c2f1e7c778.png",
+      "imageGold": "",
+      "flavorText": "한 번 물리면, 두 배로 회복합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42865b4d4e4af4e504ae6e1faba7ec2ae48d2fc0841efdd971d2ea0ed1a765aa.png",
+      "keywordIds": [
+        38
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 1004,
+      "collectible": 1,
+      "slug": "1004-flamestrike",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 2,
+      "cardTypeId": 5,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Romain De Santi",
+      "manaCost": 7,
+      "name": "불기둥",
+      "text": "모든 적 하수인에게 피해를 5 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72da0ac01136057fb830f48bfb10a9ac116043b2832bc2426d803a75df8decab.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6eeb5811fa4e5da6825b78de62312d88a5652c42198df967e885aace9f3c1b8d.png",
+      "flavorText": "바닥에 불이 붙었을 땐, 멈춰서서 엎드리고 굴러서는 \u003ci\u003e절대\u003c/i\u003e 안 됩니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/beffe5e9b379d50dd7aa366c824f4fc65ad6250a3f1e7886882c0a4d22b9071b.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68327,
+      "collectible": 1,
+      "slug": "68327-flamestrike",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Romain De Santi",
+      "manaCost": 7,
+      "name": "불기둥",
+      "text": "모든 적 하수인에게 피해를 4 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6903da384e33fae9c1271410b4934a215856db5c31a8dd6c1f92d53f2e7166d9.png",
+      "imageGold": "",
+      "flavorText": "바닥에 불이 붙었을 땐, 멈춰서서 엎드리고 굴러서는 \u003ci\u003e절대\u003c/i\u003e 안 됩니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/beffe5e9b379d50dd7aa366c824f4fc65ad6250a3f1e7886882c0a4d22b9071b.png",
+      "copyOfCardId": 1004
+    },
+    {
+      "id": 63062,
+      "collectible": 1,
+      "slug": "63062-wildfire",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 2,
+      "cardTypeId": 5,
+      "cardSetId": 1525,
+      "rarityId": 4,
+      "artistName": "David Kegg",
+      "manaCost": 1,
+      "name": "불길",
+      "text": "이번 게임에서 내 영웅 능력의 피해량이 1 증가합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad9037fba6e47d294cf7bb52cb23de5738282d5fa4fef7ee1a5034164bdea673.png",
+      "imageGold": "",
+      "flavorText": "불모의 땅은 우거진 밀림이었습니다. 이 일이 벌어지기 전까지는요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f7bdf1c01ce4fac4d4cd3a6a41c95c0e6c335b317ebb73cdbbbc2a304e4f5e1.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41928,
+      "collectible": 1,
+      "slug": "41928-blazecaller",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 27,
+      "rarityId": 4,
+      "artistName": "Dave Allsop",
+      "health": 6,
+      "attack": 6,
+      "manaCost": 7,
+      "name": "불길소환사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내가 이전 턴에 정령을 냈다면, 피해를 5 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/096356fc87497fecfb5c7207116e71f6c8bb400e5a1489659917984f6779c8c7.png",
+      "imageGold": "",
+      "flavorText": "불꽃소환사로는 부족할 때 영입합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd30b4050642034976d075e3a8c83a14dd934dc1f1e06ac7cdc9c2bb96f07227.jpg",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41260,
+      "collectible": 1,
+      "slug": "41260-fire-plume-phoenix",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "multiTypeIds": [
+        20
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 27,
+      "rarityId": 1,
+      "artistName": "Dan Scott",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "불길의 불사조",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 피해를 2 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a963764cf4b2380db19cedaac459d9b116b0a338c0182340fe99e3ca81cca9dd.png",
+      "imageGold": "",
+      "flavorText": "화산을 조류용 욕조로 쓰면 이렇게 됩니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e0aa19a6dd641920994e4af1f17ce24d6c6a09dd44824b03fe8204a73f46dc6.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41107,
+      "collectible": 1,
+      "slug": "41107-fire-plume-harbinger",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 27,
+      "rarityId": 3,
+      "artistName": "Mike Azevedo",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 2,
+      "name": "불길의 선구자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 있는 정령들의 비용이 (1) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac8f3e1ab12ac72c58e16b6e1fd33efe3fece3d25da9604534201dc5a9930e03.png",
+      "imageGold": "",
+      "flavorText": "정령들을 소환할 때, 그리고 요리할 때 유용합니다. 불 조절을 잘하거든요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9e8bbf33f23ab908d94dc9a92e1073287b61efeaeb788372d693bb2adea58ae.jpg",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41427,
+      "collectible": 1,
+      "slug": "41427-fire-plumes-heart",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 27,
+      "rarityId": 5,
+      "artistName": "Nate Bowden",
+      "manaCost": 1,
+      "name": "불길의 심장",
+      "text": "\u003cb\u003e퀘스트:\u003c/b\u003e \u003cb\u003e도발\u003c/b\u003e 하수인을 7회 내야 합니다. \u003cb\u003e보상:\u003c/b\u003e 설퍼라스",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49c9751a62c197c0028246565b57c71076e4c23ae21a46cb58fa5ec85e4d01de.png",
+      "imageGold": "",
+      "flavorText": "어서 나를 보호해라! 어서! 벌레 같은 놈들아!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b416ab82b13c268dcc5c37e2dd8a7e0800c215dccde9d249a141d75e017c2491.jpg",
+      "childIds": [
+        41426,
+        41940
+      ],
+      "keywordIds": [
+        1,
+        31
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 48039,
+      "collectible": 1,
+      "slug": "48039-baleful-banker",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1125,
+      "rarityId": 4,
+      "artistName": "Dave Allsop",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "불길한 은행원",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 아군 하수인을 선택합니다. 그 하수인을 복사하여 내 덱에 섞어 넣습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f12da0c50e4d8d57f3c019daeaeeef178aaebfb4209af5bc5d9b57198ec68b39.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7f434d0a06b6b340cb34d650aace440525bf719f28a65c345d8f66d87dcefb6.png",
+      "flavorText": "요즘 따라 암호 화폐를 눈여겨보고 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8be8a717130e36a6e2dc1c15ede5728fafceef262c11cde7ce55e60bc7f46b44.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 2580,
+      "collectible": 1,
+      "slug": "2580-flame-juggler",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 15,
+      "rarityId": 1,
+      "artistName": "James Zhang",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "불꽃 곡예사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 무작위 적에게 피해를 1 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e91b0cb3bc72e23cba8a3f21de8b380de76eca339c88c530d0a5769a59267fcb.png",
+      "imageGold": "",
+      "flavorText": "처음에는 톱날로 곡예를 부렸지만 최근에 불꽃으로 갈아탔습니다. \"더 화끈하니까!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e99b5c36fee9b5f4a901432a87f6732665f2b9a59c15f22b441152d30935b619.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 92235,
+      "collectible": 1,
+      "slug": "92235-pyrotechnician",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 1,
+      "artistName": "Mauricio Herrera",
+      "health": 5,
+      "attack": 2,
+      "manaCost": 4,
+      "name": "불꽃 기술자",
+      "text": "내가 주문을 시전한 후에, 무작위 화염 주문을 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dca912451fa0bdf2d1dc4029493de34d6f84eccef8e1464d39dea9aaa678f473.png",
+      "imageGold": "",
+      "flavorText": "불꽃 기술자와 방화광의 차이요? 돈을 받느냐 마느냐죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f3b032df68b27b1d7666f2c9987c1a1df46d169b025cb5e68bab899185a054e.png"
+    },
+    {
+      "id": 47979,
+      "collectible": 1,
+      "slug": "47979-spark-drill",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1127,
+      "rarityId": 3,
+      "artistName": "Ivan Fomin",
+      "health": 1,
+      "attack": 5,
+      "manaCost": 6,
+      "name": "불꽃 드릴",
+      "text": "\u003cb\u003e속공\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e \u003cb\u003e속공\u003c/b\u003e 능력이 있는 1/1 불꽃 둘을 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/057ab24b55c331865b2bd8a04dfe667120727a87cf668447f6ecd12a083f5e41.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ecff1a43878d02dfc5ae249279fdce5468aa25954602e4378a5c6f05d477b11.png",
+      "flavorText": "박사 붐의 치과 의사가 즐겨 사용하는 무기입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a910e7a00ac4b19917e838db5add1a0b26da56d6b558b9f681949527cbeec6f6.png",
+      "childIds": [
+        48557
+      ],
+      "keywordIds": [
+        12,
+        53
+      ]
+    },
+    {
+      "id": 64423,
+      "collectible": 1,
+      "slug": "64423-fire-sale",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 2,
+      "cardTypeId": 5,
+      "cardSetId": 1578,
+      "rarityId": 1,
+      "artistName": "L. Lullabi \u0026 A. Bozonnet",
+      "manaCost": 4,
+      "name": "불꽃 세일",
+      "text": "\u003cb\u003e교환성\u003c/b\u003e \u003cb\u003e모든\u003c/b\u003e 하수인에게 피해를 3 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d7c8f25d802627dd7ddb9a6d19137ba16316686cde3ca70e4226cdd3fb1470d.png",
+      "imageGold": "",
+      "flavorText": "불탄 물류 창고 재고는 불꽃 세일, 50% 값에 드립니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9215e9732d0cbfd3030c06b2dde1c262f2cd3ec614a993970b5dcacae49f1308.png",
+      "keywordIds": [
+        97
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 102193,
+      "collectible": 1,
+      "slug": "102193-fire-sale",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 2,
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "L. Lullabi \u0026 A. Bozonnet",
+      "manaCost": 4,
+      "name": "불꽃 세일",
+      "text": "\u003cb\u003e교환성\u003c/b\u003e \u003cb\u003e모든\u003c/b\u003e 하수인에게 피해를 3 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ff79628f60aed4a4f8712003f0838b50052faaa6b1dc34669fd28d134cda00a.png",
+      "imageGold": "",
+      "flavorText": "불탄 물류 창고 재고는 불꽃 세일, 50% 값에 드립니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9215e9732d0cbfd3030c06b2dde1c262f2cd3ec614a993970b5dcacae49f1308.png",
+      "keywordIds": [
+        97
+      ],
+      "copyOfCardId": 64423,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 49170,
+      "collectible": 1,
+      "slug": "49170-spark-engine",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1127,
+      "rarityId": 3,
+      "artistName": "L Chanchai",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "불꽃 엔진",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e \u003cb\u003e속공\u003c/b\u003e 능력이 있는 1/1 불꽃을 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30f268ba924bbdd830eba2ad6d93d7324b9e7c260390e1d04043116f1f65dda8.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/739a45d50cbdba0f549a6bbb7bb8f75d6e864bf6035352c1bbcb09aa9c6e4a25.png",
+      "flavorText": "불꽃이 엔진인 걸까요, 아니면 조종사가 불꽃인 걸까요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf46de7aa5836ae8763fc0fb5c8349afa2f0ed2a1d661f686e5ab588eece196b.png",
+      "childIds": [
+        48557
+      ],
+      "keywordIds": [
+        8,
+        53
+      ]
+    },
+    {
+      "id": 2275,
+      "collectible": 1,
+      "slug": "2275-flamewaker",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 14,
+      "rarityId": 3,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "불꽃꼬리 전사",
+      "text": "내가 주문을 시전한 후에, 모든 적에게 2의 피해를 무작위로 나누어 입힙니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f802227dd256c0885cc0fab02d1ae0cdca51f613f63b0acc896ccbe8e2c51afd.png",
+      "imageGold": "",
+      "flavorText": "불꽃꼬리 전사는 빨간색 나가라고 불리는 것을 엄청나게 싫어합니다. 이들은 불꽃꼬리 전사입니다. 나가는 물에서 찾으세요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afa260f1bccce78830014bf7d0347d9c32cf3151ba0c900472d2548bed752df1.png"
+    },
+    {
+      "id": 63064,
+      "collectible": 1,
+      "slug": "63064-mordresh-fire-eye",
+      "classId": 4,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 5,
+      "artistName": "Qinghao Wu",
+      "health": 8,
+      "attack": 8,
+      "manaCost": 8,
+      "name": "불꽃눈 모드레쉬",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이번 게임에서 내 영웅 능력으로 피해를 10 이상 줬다면, 모든 적에게 피해를 10 줍니다. \u003ci\u003e( 남음!)\u003c/i\u003e \u003ci\u003e(달성!)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ffcfd0d9c0bc5c8f708b32201ec84ab8317da15adf4069d5f07555987b79b1ec.png",
+      "imageGold": "",
+      "flavorText": "죽는 순간까지 심취하지 않았다면 진정으로 좋아했던 것이 아닙니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/613650df6ee237c8ff9af284d8f3de64fa9987d60198e346f11ee2115aea1e52.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 55405,
+      "collectible": 1,
+      "slug": "55405-fire-hawk",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "multiTypeIds": [
+        20
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 1,
+      "artistName": "Servando Lupini",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 3,
+      "name": "불꽃매",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 상대편의 손에 있는 카드 1장당 공격력을 +1 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a0274feddfed326e1579692a4fca80f433ace14a7e418f83a7b878004af915e.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7178851c854b815b1de16e6561502a0a47a0331e5ead0539054944b9b1df0b0e.png",
+      "flavorText": "카드 뒷면에 그려진 음식이 너무 사실적이었나 봐요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d6ccb14ac4cc9b79f128074018eb59c6abe4471b11606ddc997ad7f6756a8e8.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 72587,
+      "collectible": 1,
+      "slug": "72587-forged-in-flame",
+      "classId": 10,
+      "multiClassIds": [],
+      "spellSchoolId": 2,
+      "cardTypeId": 5,
+      "cardSetId": 1658,
+      "rarityId": 1,
+      "artistName": "Konstantin Turovec",
+      "manaCost": 2,
+      "name": "불꽃벼림",
+      "text": "내 무기를 파괴합니다. 그 무기의 공격력만큼 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe2616e69e29efa180a5327584d9ad3f8bd018e16daa88b7db7be82ed536b71c.png",
+      "imageGold": "",
+      "flavorText": "상처도 내고 소작도 해 줍니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/13819d8e400e4ced92a6896b5af703724bde8b4c670bc0d39aafa930d1c47161.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 46
+}

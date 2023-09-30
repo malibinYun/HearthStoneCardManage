@@ -1,0 +1,1051 @@
+{
+  "cards": [
+    {
+      "id": 42596,
+      "collectible": 1,
+      "slug": "42596-acolyte-of-agony",
+      "classId": 6,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 1,
+      "artistName": "Brom",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "고뇌의 수행사제",
+      "text": "\u003cb\u003e생명력 흡수\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4bbb4901d8cd054c241cd491ab5b02aff2e8eed0c024d3804d31de8676accc5.png",
+      "imageGold": "",
+      "flavorText": "수년에 걸쳐 고뇌를 통달한 자들만이 선발됩니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e341db43b444b9bc80d45a24c5c9acf8aa739d2924874de15860a1f31e0196f.png",
+      "keywordIds": [
+        38
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 38655,
+      "collectible": 1,
+      "slug": "38655-wisps-of-the-old-gods",
+      "classId": 2,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 21,
+      "rarityId": 4,
+      "artistName": "Skan Srisuwan",
+      "manaCost": 7,
+      "name": "고대 신의 위습",
+      "text": "\u003cb\u003e선택 -\u003c/b\u003e 1/1 위습을 7마리 소환합니다. 또는 내 하수인들에게 +2/+2를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5ce24c08e13d3e702ef00a54e292547af9be2eecbe3ba12ed6730cf76361773.png",
+      "imageGold": "",
+      "flavorText": "사실 보통 위습이랑 다를 바가 없습니다. \"고대 신의\"라는 호칭이 몸값을 올려줘서 선택했다고 하는군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca205afcbe967303f4644495739d895c2b6719b781834bc28aa8d261e9264956.png",
+      "childIds": [
+        38653
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41168,
+      "collectible": 1,
+      "slug": "41168-open-the-waygate",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 27,
+      "rarityId": 5,
+      "artistName": "Rafael Zanchetin",
+      "manaCost": 1,
+      "name": "고대 차원문 개방",
+      "text": "\u003cb\u003e퀘스트:\u003c/b\u003e 게임이 시작됐을 때 내 덱에 없던 주문을 8회 시전해야 합니다. \u003cb\u003e보상:\u003c/b\u003e 시간 왜곡",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86a6025be6ef6c1347d951423cd42ede286513e1542bc8a1e7444ffc5ffb8619.png",
+      "imageGold": "",
+      "flavorText": "내가... 시간을 왜곡했다...!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58b6a53ef2992b91e157de284c0a8de1d8d37bad64b04b473ed020ad0554e976.jpg",
+      "childIds": [
+        41167
+      ],
+      "keywordIds": [
+        31
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 605,
+      "collectible": 1,
+      "slug": "605-ancient-watcher",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 3,
+      "artistName": "Richard Wright",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 2,
+      "name": "고대의 감시자",
+      "text": "공격할 수 없습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29ab35a81b134ba0357c4f04e84906364c69550e3902dd119f06c7e6aec11401.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7cea4e352c230c4d6d41b0434a6d290b46faadece718fac44a6fb2d9a61ca43.png",
+      "flavorText": "왜 지날 때마다 눈이 날 따라 움직이는 것 같을까요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e80cb2d535e98acf3645023a661f1a7bba360c825eae7c7b1b3300305348a9ef.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69826,
+      "collectible": 1,
+      "slug": "69826-ancient-watcher",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 3,
+      "artistName": "Richard Wright",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 2,
+      "name": "고대의 감시자",
+      "text": "공격할 수 없습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/970b3fe284dd531aa317e35d83d48fef6244065284c7d9904956687955e9e940.png",
+      "imageGold": "",
+      "flavorText": "왜 지날 때마다 눈이 날 따라 움직이는 것 같을까요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e80cb2d535e98acf3645023a661f1a7bba360c825eae7c7b1b3300305348a9ef.png",
+      "copyOfCardId": 605
+    },
+    {
+      "id": 60143,
+      "collectible": 1,
+      "slug": "60143-ancient-void-hound",
+      "classId": 14,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1443,
+      "rarityId": 4,
+      "artistName": "Jaemin Kim",
+      "health": 10,
+      "attack": 10,
+      "manaCost": 9,
+      "name": "고대의 공허 사냥개",
+      "text": "내 턴이 끝날 때, 모든 적 하수인으로부터 공격력과 생명력을 1씩 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb194bd02b5236bc7764e0bf0c1d432104e9265d3a71fe3b3b3497dbee6b9995.png",
+      "imageGold": "",
+      "flavorText": "내 1/1 공허 깜찍이는 어떻게 된 거야?!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b728b073b2c12c466134487bd567079a7eae35890041b6936d8c4a258f806bc.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 915,
+      "collectible": 1,
+      "slug": "915-ancient-mage",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 3,
+      "artistName": "Howard Lyon",
+      "health": 5,
+      "attack": 2,
+      "manaCost": 4,
+      "name": "고대의 마법사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 양옆의 하수인들에게 \u003cb\u003e주문 공격력 +1\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ac462f6040f7c8b9a28b2842ce1537554c48db275a91cae6558f237eee05131.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4eb2bacd0eac9c473e218fda9e32c05af12bdf2532defd71b2235e226f29574c.png",
+      "flavorText": "깜빡하고 다른 사람의 게임에 등장하기도 합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65e154299cdc7fed7d42706ef2f278b509f7dcde98afe116f244feaf3d4411f0.png",
+      "keywordIds": [
+        2,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70036,
+      "collectible": 1,
+      "slug": "70036-ancient-mage",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 3,
+      "artistName": "Howard Lyon",
+      "health": 5,
+      "attack": 2,
+      "manaCost": 4,
+      "name": "고대의 마법사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 양옆의 하수인들에게 \u003cb\u003e주문 공격력 +1\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/234e5d2a4386d6124e8965e724b576ba85b45c9d0d5d98934ea110a0b4a47bc5.png",
+      "imageGold": "",
+      "flavorText": "깜빡하고 다른 사람의 게임에 등장하기도 합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/65e154299cdc7fed7d42706ef2f278b509f7dcde98afe116f244feaf3d4411f0.png",
+      "keywordIds": [
+        2,
+        8
+      ],
+      "copyOfCardId": 915
+    },
+    {
+      "id": 9081,
+      "collectible": 1,
+      "slug": "9081-ancient-shade",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 20,
+      "rarityId": 3,
+      "artistName": "Slawomir Maniak",
+      "health": 4,
+      "attack": 7,
+      "manaCost": 4,
+      "name": "고대의 망령",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e \u0027고대의 저주\u0027를 내 덱에 섞어 넣습니다. 그 카드를 뽑으면, 피해를 7 입습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/985c84ef91d183c266a9d0396a1ebc7dc3503d83220356acd3f93919f384c687.png",
+      "imageGold": "",
+      "flavorText": "주의: 햇빛에 노출시키지 마시오.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5866bfe1916a076f34b9dce21d8e9d8a9c4e08430b958947e5569f806a682cc.png",
+      "childIds": [
+        9082
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 38897,
+      "collectible": 1,
+      "slug": "38897-ancient-shieldbearer",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 21,
+      "rarityId": 3,
+      "artistName": "Alex Konstad",
+      "health": 6,
+      "attack": 6,
+      "manaCost": 6,
+      "name": "고대의 방패병",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 크툰의 공격력이 10 이상이면, 방어도를 +10 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f57c6e149955e216cbec2edb28eecff8c03632e1e2bf6b8b3235b8af3d654ae3.png",
+      "imageGold": "",
+      "flavorText": "고대에는 지금보다 훨씬 무거운 방패를 양손에 4개씩 들었다고 하는군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/744318e8d43bd84c7bf61eaed22ab3b48468c5e7b5f27cbda419a8c66361c5f3.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 102655,
+      "collectible": 1,
+      "slug": "102655-ancient-shieldbearer",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1898,
+      "rarityId": 3,
+      "artistName": "Alex Konstad",
+      "health": 6,
+      "attack": 6,
+      "manaCost": 6,
+      "name": "고대의 방패병",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 크툰의 공격력이 10 이상이면, 방어도를 +10 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb1c9ba8110100e6bd1ff9e493ab5d53bed5bda702aa0f3b7b90c5936a2b2540.png",
+      "imageGold": "",
+      "flavorText": "고대에는 지금보다 훨씬 무거운 방패를 양손에 네 개씩 들었다고 하는군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ea2fbdee4762218bc642da20458b96011f0a34b2b5f1b7c0dc4116dc09c17cb.png",
+      "keywordIds": [
+        8
+      ],
+      "copyOfCardId": 38897
+    },
+    {
+      "id": 54772,
+      "collectible": 1,
+      "slug": "54772-ancient-mysteries",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 1,
+      "cardTypeId": 5,
+      "cardSetId": 1158,
+      "rarityId": 1,
+      "artistName": "Jim Nelson",
+      "manaCost": 2,
+      "name": "고대의 비밀",
+      "text": "내 덱에서 \u003cb\u003e비밀\u003c/b\u003e을 뽑습니다. 그 비밀의 비용이 (0)이 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e166198b00fa2456f211dfbd29a09a4560f70022d4ea25e3abdf67ac167bea9.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/239713e12f1c5ad5e468ae9b7ffafbc9e29d4503efab7e1b539975b93998ef6c.png",
+      "flavorText": "상상도 못한 비밀 ㄴㅇㄱ",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5e84337af90319730bafad652891703d21a8ac90a47175bc337abe178274423.png",
+      "keywordIds": [
+        5
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 38873,
+      "collectible": 1,
+      "slug": "38873-ancient-harbinger",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 21,
+      "rarityId": 4,
+      "artistName": "Zoltan Boros",
+      "health": 6,
+      "attack": 4,
+      "manaCost": 6,
+      "name": "고대의 선구자",
+      "text": "내 턴이 시작될 때, 내 덱에서 비용이 10인 하수인을 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d776f33876df89b0792a4f721ba39871a8a15898343df9c8cf32eda7cb31b55e.png",
+      "imageGold": "",
+      "flavorText": "\"여보, 잠깐 상점에 가서 비용이 10인 하수인 하나만 구해다줄래? 고마워.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/263d79e63a472529f039941b4ee1397e316cb91172a8881977bd78d6f4f79ddd.jpg",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 186,
+      "collectible": 1,
+      "slug": "186-ancient-brewmaster",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 1,
+      "artistName": "Bernie Kang",
+      "health": 4,
+      "attack": 5,
+      "manaCost": 4,
+      "name": "고대의 양조사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 아군 하수인을 내 손으로 다시 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68a9dbe896ce95ab4eb421a86013e1726d2d39cfca0bea1ce5d9d0a4f6b317fa.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e77018cdf7ac7d60037d17011895e70f7aa2963181c407964650b1979cbf77b.png",
+      "flavorText": "대부분의 판다렌은 그의 맥주에서 야크 맛이 난다고 평합니다... 네, 칭찬입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f4fd1841995db5af1fabf193e38d3fc9825dc67164627a3cd21601a8928bf8a.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69832,
+      "collectible": 1,
+      "slug": "69832-ancient-brewmaster",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 1,
+      "artistName": "Bernie Kang",
+      "health": 4,
+      "attack": 5,
+      "manaCost": 4,
+      "name": "고대의 양조사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 아군 하수인을 내 손으로 다시 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a42f601b179aebc4ecb2c864e52231a9b1256d30e5b33641aa7de923badc809c.png",
+      "imageGold": "",
+      "flavorText": "대부분의 판다렌은 그의 맥주에서 야크 맛이 난다고 평합니다... 네, 칭찬입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f4fd1841995db5af1fabf193e38d3fc9825dc67164627a3cd21601a8928bf8a.png",
+      "keywordIds": [
+        8
+      ],
+      "copyOfCardId": 186
+    },
+    {
+      "id": 404,
+      "collectible": 1,
+      "slug": "404-ancestral-spirit",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 3,
+      "rarityId": 3,
+      "artistName": "Zoltan \u0026 Gabor",
+      "manaCost": 2,
+      "name": "고대의 영혼",
+      "text": "하수인에게 \"\u003cb\u003e죽음의 메아리:\u003c/b\u003e 이 하수인을 다시 소환함\" 능력을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35a6bd2f511530c1d6bcaccf3557781fc2404f1e88d660c63dd0a9ac21dbb5a3.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ac7fac05bb5ff69909e49fec98373635eb34f7263bf059b47280ff7b087761c.png",
+      "flavorText": "네가 죽은 건 추진력을 얻기 위해서였다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c70191cd835c8e427ba0f297efe8473b6a82099c493bdfa90b957a8ca085e1d.png",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69749,
+      "collectible": 1,
+      "slug": "69749-ancestral-spirit",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 3,
+      "artistName": "Zoltan \u0026 Gabor",
+      "manaCost": 2,
+      "name": "고대의 영혼",
+      "text": "하수인을 선택합니다. 그 하수인이 처치되면 다시 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63350d26b4a6b652c68345acaa42a62a942f53b429a0bcfc2427ed386b3d568c.png",
+      "imageGold": "",
+      "flavorText": "네가 죽은 건 추진력을 얻기 위해서였다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/adef14b2ef3a9a68b343b6f27cb3fed2e9192fec9ecf69b60693703069527011.png",
+      "keywordIds": [
+        12
+      ],
+      "copyOfCardId": 404
+    },
+    {
+      "id": 38567,
+      "collectible": 1,
+      "slug": "38567-blood-of-the-ancient-one",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 21,
+      "rarityId": 4,
+      "artistName": "A. J. Nazzaro",
+      "health": 9,
+      "attack": 9,
+      "manaCost": 9,
+      "name": "고대의 존재의 피",
+      "text": "내 턴이 끝날 때 내 전장에 이 하수인이 둘 있으면, 고대의 존재로 융합시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af135b2505da73af28c8470bda8a3987ad063de87b9c8958f1e3b519b2b62fc7.png",
+      "imageGold": "",
+      "flavorText": "고대의 존재의 피 두 컵이랑 레몬 쥬스 한 컵, 그리고 설탕을 약간 넣어서 저어주면 세계의 종말이 도래합니다. 참 쉽죠?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e273bd850256a183ca2909195de9fb4bf639958fee0c360ab02ee46e243aded.jpg",
+      "childIds": [
+        38566
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 51779,
+      "collectible": 1,
+      "slug": "51779-blessing-of-the-ancients",
+      "classId": 2,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1130,
+      "rarityId": 1,
+      "artistName": "Steven Prescott",
+      "manaCost": 3,
+      "name": "고대의 축복",
+      "text": "\u003cb\u003e이중 주문\u003c/b\u003e 내 하수인들에게 +1/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50dad3c9315eaf8af3d146b79b021b54972d193a52651ba2c3673d53e14a8c26.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e7d30f40ebfa00dafb6cdd16c5c50bb4628bd5a04dba849c221cdf8fa412ac5.png",
+      "flavorText": "매우 깜찍한 축복입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b14db57d7729c78f05c624cf29aa8868ba843ea6796010b53a0c2fd3fbdda853.png",
+      "childIds": [
+        54128
+      ],
+      "keywordIds": [
+        76
+      ]
+    },
+    {
+      "id": 76224,
+      "collectible": 1,
+      "slug": "76224-ancient-krakenbane",
+      "classId": 3,
+      "multiClassIds": [],
+      "minionTypeId": 92,
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 3,
+      "artistName": "Zoltan Boros",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "고대의 크라켄파멸자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 있을 때 주문을 셋 시전했으면, 피해를 5 줍니다. \u003ci\u003e( 남음!)\u003c/i\u003e \u003ci\u003e(달성!)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45d5c639c42af071c5c5be68d9016f68bc1fa06700309f051db5ed466d5f798c.png",
+      "imageGold": "",
+      "flavorText": "\"피시마엘이라고 불러주세요.\"",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 97570,
+      "collectible": 1,
+      "slug": "97570-ancient-totem",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 21,
+      "cardTypeId": 4,
+      "cardSetId": 1858,
+      "rarityId": 1,
+      "artistName": "Melvin Chan",
+      "health": 3,
+      "attack": 0,
+      "manaCost": 0,
+      "name": "고대의 토템",
+      "text": "",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dd3e23457d577a9d805480f6a88d3c361ad7beefa55a3b7a045c3c3c4952aa74.png",
+      "imageGold": "",
+      "flavorText": "아기 멀록보다 훨씬 더 귀엽네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47be7f6db628302feb80a4c18bdb1aa23a7fc15be2739de1782ea3436f157186.png"
+    },
+    {
+      "id": 43473,
+      "collectible": 1,
+      "slug": "43473-lone-champion",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1004,
+      "rarityId": 3,
+      "artistName": "Jomaro Kindred",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "고독한 용사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 전장에 다른 하수인이 없으면, \u003cb\u003e도발\u003c/b\u003e과 \u003cb\u003e천상의 보호막\u003c/b\u003e을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c09a7b54a78357f1fd932ac78162ca6a8f979481b3ec35e63fc3fe2dfb2cb10f.png",
+      "imageGold": "",
+      "flavorText": "나 혼자 전장에 있고, 나 혼자 보호막 얻고, 나 혼자 전쟁하고, 이렇게 나 울고 불고...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2442eb5a3472e3a56372dbb58f8f8019470f42a281c49c06d4a5c09b3960a6c3.png",
+      "keywordIds": [
+        1,
+        3,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 1858,
+      "collectible": 1,
+      "slug": "1858-echoing-ooze",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 12,
+      "rarityId": 4,
+      "artistName": "Eric Browning",
+      "health": 2,
+      "attack": 1,
+      "manaCost": 2,
+      "name": "고동치는 수액괴물",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 턴이 끝날 때, 이 하수인을 복사하여 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/179cade524c0895413b398817cd612e9757a41b0a5c2bd295cb613364f86f9f1.png",
+      "imageGold": "",
+      "flavorText": "끈적... 끈적... 끈적...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc2691483665f9920164ad9bb662a475ffbc1d95d233c31f753413344a0ef21b.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 52255,
+      "collectible": 1,
+      "slug": "52255-icicle",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1635,
+      "rarityId": 4,
+      "artistName": "Arthur Gimaldinov",
+      "manaCost": 2,
+      "name": "고드름",
+      "text": "하수인에게 피해를 2 줍니다. 그 하수인이 \u003cb\u003e빙결\u003c/b\u003e 상태라면, 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49618696be5df19160a9a1015ddce02eb16bdc199bd1e4b944c2331fc99ddda8.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb086c66a0339297b85605b3da3b467ab6b1ddf4136ee29acf058cd494b348f2.png",
+      "flavorText": "첫인상은 차갑지만, 알고 보면 참 괜찮은 주문입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7d755f28e830fe0fed32f167d128db4042b3ecbc04667b7fa296320e02b8cda.png",
+      "keywordIds": [
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 48156,
+      "collectible": 1,
+      "slug": "48156-lord-godfrey",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1125,
+      "rarityId": 5,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 7,
+      "name": "고드프리 경",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 다른 \u003cb\u003e모든\u003c/b\u003e 하수인에게 피해를 2 줍니다. 하나라도 죽으면, 이 \u003cb\u003e전투의 함성\u003c/b\u003e을 반복합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ebfd76d537d83445f490021747ae4dc5de4e06f51ead24ca0306d8b7bac82e52.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51e32fd2234742856023b3c3e82c2859dc7020662738e9b238a7e20f001e3087.png",
+      "flavorText": "업적 점수 200점을 위해 얼라이언스를 배신하고 호드를 배신했습니다. 아, 형상변환용으로 최고인 모자도 얻었군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98f0c5077e9513c168269ae5645415b5282ffebc47f3de5d43e6382ef94f2bf6.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 39210,
+      "collectible": 1,
+      "slug": "39210-book-wyrm",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 23,
+      "rarityId": 3,
+      "artistName": "Dave Allsop",
+      "health": 6,
+      "attack": 3,
+      "manaCost": 6,
+      "name": "고룡 독서가",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 용족이 있으면, 공격력이 3 이하인 적 하수인을 처치합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b13875e0424cb66cb0be601705ec6d7d9c64a79d1cd0e2cae5a3f5cfe6813d3.png",
+      "imageGold": "",
+      "flavorText": "\"호빗\"이나 \"그렌델\" 같은 고전 비극을 즐겨 읽습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/30a0e9575261f729d3f17786b2ceacbffc13d4af814f69805c1f0320c30f7663.jpg",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 46988,
+      "collectible": 1,
+      "slug": "46988-wyrmguard",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1125,
+      "rarityId": 1,
+      "artistName": "Tyler West Studio",
+      "health": 11,
+      "attack": 3,
+      "manaCost": 7,
+      "name": "고룡수호병",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 용족이 있으면, 공격력 +1과 \u003cb\u003e도발\u003c/b\u003e을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c8a70d23e676266b4420f887e1108ff830eb662fae402856d663cb7c5928f79.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/849f64ef95dfacb97ef5ddabfefed8d83013b381f66ff5dc7570b27b8af396e5.png",
+      "flavorText": "스스로를 고룡들의 총애를 받는 수호병이라 생각합니다. 고룡들은 그들을 비상용 식량이라 생각합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0790e916c6de634861f108ed62f4325159e42c18ccca299db2e74d28a46e05f.png",
+      "keywordIds": [
+        1,
+        8
+      ]
+    },
+    {
+      "id": 2596,
+      "collectible": 1,
+      "slug": "2596-wyrmrest-agent",
+      "classId": 6,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 15,
+      "rarityId": 3,
+      "artistName": "Jeff Easley",
+      "health": 4,
+      "attack": 1,
+      "manaCost": 2,
+      "name": "고룡쉼터 요원",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 용족이 있으면, 공격력 +1과 \u003cb\u003e도발\u003c/b\u003e을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/886cf203dbdf5bcf647b824654d70b36b4457821407dfb56c87125b9f8654d22.png",
+      "imageGold": "",
+      "flavorText": "다섯 용군단의 위상들도 대 마상시합에 큰 관심을 보이고 있습니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/80a9d1e1febcd735bf7035eebbfbd16d4181e69dd589943c0347a6ccf57ec8fe.jpg",
+      "keywordIds": [
+        1,
+        8
+      ]
+    },
+    {
+      "id": 55407,
+      "collectible": 1,
+      "slug": "55407-wyrmrest-purifier",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 4,
+      "artistName": "Eva Widermann",
+      "health": 2,
+      "attack": 3,
+      "manaCost": 2,
+      "name": "고룡쉼터 정화자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에 있는 모든 중립 카드를 내 직업의 카드로 변신시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/919302027d11b4c5fa993826f3fd2fe13dd2adef7716de509c797761e625a173.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e00ffcbf75fb81cb056e4991bde72c9dc9bc670ebca499e1728c214aafbd78f3.png",
+      "flavorText": "직업 정신이 아주 투철합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c36a3b28222e248be48c64cf9ae5f8764a1207bbfef721dafe1801d061877c67.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 46403,
+      "collectible": 1,
+      "slug": "46403-zola-the-gorgon",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 92,
+      "cardTypeId": 4,
+      "cardSetId": 1004,
+      "rarityId": 5,
+      "artistName": "Sean McNally",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "고르곤 졸라",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 아군 하수인을 선택합니다. 그 하수인을 황금 카드로 복사하여 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3a1367d0b1dd3c7069a994223f0098d73c2c1a48bb37e116396c69d21f3ae12.png",
+      "imageGold": "",
+      "flavorText": "이름에서 맛있는 냄새가 납니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f90817362b43bda91e75346d52a0056154851e7ae571eab9e9f173e7593fbc57.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 76310,
+      "collectible": 1,
+      "slug": "76310-zola-the-gorgon",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 92,
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 5,
+      "artistName": "Sean McNally",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "고르곤 졸라",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 아군 하수인을 선택합니다. 그 하수인을 황금 카드로 복사하여 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4dd21e17b05b64a287cf8e0627a090ebc1e047abb7f904022ed6a321a9cc8184.png",
+      "imageGold": "",
+      "flavorText": "이름에서 맛있는 냄새가 납니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f90817362b43bda91e75346d52a0056154851e7ae571eab9e9f173e7593fbc57.png",
+      "keywordIds": [
+        8
+      ],
+      "copyOfCardId": 46403,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 47516,
+      "collectible": 1,
+      "slug": "47516-festeroot-hulk",
+      "classId": 10,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1125,
+      "rarityId": 3,
+      "artistName": "Evgeniy Dlinnov",
+      "health": 7,
+      "attack": 2,
+      "manaCost": 5,
+      "name": "고름뿌리 거목",
+      "text": "아군 하수인이 공격한 후에, 공격력을 +1 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4700b8535cf36d8f5e4ad4a4769be83eb54f25426a92922bdf8cc2adc12b405.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61df97206bf6806e747043dafe6def6bbb91d4311c29505b3320ac36926b2476.png",
+      "flavorText": "나무 관련 말장난이 점점 시들시들해지는군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41f76880d034890c4f64b30cb1f3dcfca46739c0a658d2058452bd4e74eb06eb.png"
+    },
+    {
+      "id": 61291,
+      "collectible": 1,
+      "slug": "61291-ring-toss",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1466,
+      "rarityId": 3,
+      "artistName": "Matt Dixon",
+      "manaCost": 4,
+      "name": "고리 던지기",
+      "text": "\u003cb\u003e비밀\u003c/b\u003e을 \u003cb\u003e발견\u003c/b\u003e하여 시전합니다. \u003cb\u003e타락:\u003c/b\u003e 대신 \u003cb\u003e비밀\u003c/b\u003e을 둘 \u003cb\u003e발견\u003c/b\u003e하여 시전합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19d7f2f712fef1e8a133ab8f902bc98620ead8034289fd6a1b5b5307ff897e3b.png",
+      "imageGold": "",
+      "flavorText": "제가 마음에 들었다면 반지를 끼워주세요. 그게 약속이니까요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71609dac4dcad7cff36759ef7ac9d12115170ca3e3d104fc5a1a3889278ede65.png",
+      "childIds": [
+        61292
+      ],
+      "keywordIds": [
+        5,
+        21,
+        91
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 61884,
+      "collectible": 1,
+      "slug": "61884-ring-matron",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1466,
+      "rarityId": 1,
+      "artistName": "James Ryman",
+      "health": 4,
+      "attack": 6,
+      "manaCost": 6,
+      "name": "고리 조련사",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e 3/2 임프를 둘 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/526df20b10aff20afa470d78eea04b6fa5cdaf797fd8aae15ac9d499fcf7bcd2.png",
+      "imageGold": "",
+      "flavorText": "공연이 끝나면 바로 찬물로 세척한다고 합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/719598a122d74ee664dd2f94c0041b20bad56de202bd6a38a78e7a722b8c64b0.png",
+      "childIds": [
+        63273
+      ],
+      "keywordIds": [
+        1,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 64363,
+      "collectible": 1,
+      "slug": "64363-loan-shark",
+      "classId": 7,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 1,
+      "artistName": "Jakub Kasper",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "고리대금상어",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 상대편에게 동전을 줍니다. \u003cb\u003e죽음의 메아리:\u003c/b\u003e 동전을 2개 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/977674bc149aaff5669e0e41442ae5dfdf3411e4840e703e96afbe10310c7cc7.png",
+      "imageGold": "",
+      "flavorText": "돈이 없으면 몸으로라도 때워야지!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/76b88e17da607acf7e45d0e655bb71b8471a040cd6a9c2f45d23643e3ce14fd8.png",
+      "keywordIds": [
+        8,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2911,
+      "collectible": 1,
+      "slug": "2911-gorillabot-a-",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "multiTypeIds": [
+        20
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 20,
+      "rarityId": 1,
+      "artistName": "Skan Srisuwan",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "고릴라로봇 A-3",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 전장에 다른 기계가 있으면, 기계를 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f90e2e90f0b0beec143da1d42ab7d79c4c313344892576209177927b4f4aec5b.png",
+      "imageGold": "",
+      "flavorText": "A-1과 A-2는 오류가 나서 폐기되었습니다. 무슨 37 이라고 하던데...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b34e251529c69dd99f63cecc48bec9714ca5b1e51b4c2a013b358a79b692e6e2.png",
+      "keywordIds": [
+        8,
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 86548,
+      "collectible": 1,
+      "slug": "86548-gorillabot-a-",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "multiTypeIds": [
+        20
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Skan Srisuwan",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "고릴라로봇 A-3",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 전장에 다른 기계가 있으면, 기계를 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2444dabeed60a527b3563a0665f2ee81b81dcb8718841a590e77f38d5590af92.png",
+      "imageGold": "",
+      "flavorText": "A-1과 A-2는 오류가 나서 폐기되었습니다. 무슨 37 이라고 하던데...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b34e251529c69dd99f63cecc48bec9714ca5b1e51b4c2a013b358a79b692e6e2.png",
+      "keywordIds": [
+        8,
+        21
+      ],
+      "copyOfCardId": 2911,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2754,
+      "collectible": 1,
+      "slug": "2754-bolster",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 15,
+      "rarityId": 1,
+      "artistName": "Mishi McCaig",
+      "manaCost": 2,
+      "name": "고무",
+      "text": "아군 \u003cb\u003e도발\u003c/b\u003e 하수인들에게 +2/+2를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b27a0c0ba609aeeb5bef27713ace964885ef3ef5eb888f63fceb3ba6e3932894.png",
+      "imageGold": "",
+      "flavorText": "고무고무 총난타!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37a09fd34ddbbfbc5fe2d1048c587a1a4010e5f0572cf395dfb9e759dfe245c0.jpg",
+      "keywordIds": [
+        1
+      ]
+    },
+    {
+      "id": 55404,
+      "collectible": 1,
+      "slug": "55404-goboglide-tech",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "고블라이더 기술자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 전장에 기계가 있으면, +1/+1과 \u003cb\u003e속공\u003c/b\u003e을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d191f5a1aaad551e027474d39f036b3960325d8469db9b5a89ff28f3bb1e8e1.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/474cbd628a67535b04a8ddb1af78f3ff35616ec8c707ba8bcbea2b78c6f12abc.png",
+      "flavorText": "\"추락\"과 \"저공 비행\"의 차이를 아직도 깨닫지 못했습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/06686457cc4568c69f72f957d8e40597addc8ec9f0a0bac672cac368387a101b.png",
+      "keywordIds": [
+        8,
+        53
+      ]
+    },
+    {
+      "id": 2063,
+      "collectible": 1,
+      "slug": "2063-goblin-sapper",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 13,
+      "rarityId": 3,
+      "artistName": "Jesper Ejsing",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "고블린 공병",
+      "text": "상대편의 손에 카드가 6장 이상 있으면 공격력을 +4 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34017b4f6e5efc4f5a5483a95141c0c2532ef953d3d8af94da4010837fb8fd3f.png",
+      "imageGold": "",
+      "flavorText": "전직하기 전에는 정신 나간 폭격수였답니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a11726b4a839d76181689da101953873d8e57f52f6a728d1172d966adc4ad368.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 7
+}

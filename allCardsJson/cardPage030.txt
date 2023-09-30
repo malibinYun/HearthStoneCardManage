@@ -1,0 +1,1040 @@
+{
+  "cards": [
+    {
+      "id": 57183,
+      "collectible": 1,
+      "slug": "57183-rocket-augmerchant",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1414,
+      "rarityId": 1,
+      "artistName": "Anton Zemskov",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 1,
+      "name": "로켓 강화상인",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 하수인에게 피해를 1 주고 \u003cb\u003e속공\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bdf8d183c4a33594c459b426e46e577f05260d032874dac6cc8b99920cce34ed.png",
+      "imageGold": "",
+      "flavorText": "\"안심하세요, 전 안 다칠 거니까요.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2090508cabec83b59d7965de0080a29502bcbfed94cf6c5934bdbadb9634f83d.png",
+      "keywordIds": [
+        8,
+        53
+      ]
+    },
+    {
+      "id": 47925,
+      "collectible": 1,
+      "slug": "47925-rocket-boots",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1127,
+      "rarityId": 1,
+      "artistName": "Steve Prescott",
+      "manaCost": 2,
+      "name": "로켓 장화",
+      "text": "하수인에게 \u003cb\u003e속공\u003c/b\u003e을 부여합니다. 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59cf953956155ad0abf57744798c69b0f28dbaf232b42243367b383b9ea91ba0.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/44b35cd83c1a39a51396054aee61f4a7b2ee7f9769f8c2e64697d14b238104ed.png",
+      "flavorText": "발바닥에 불나도록!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/855693033481ecf420e01d25631e3a0c218a90c941251efcf755a175ec21c8e0.png",
+      "keywordIds": [
+        53
+      ]
+    },
+    {
+      "id": 66880,
+      "collectible": 1,
+      "slug": "66880-herald-of-lokholar",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Zoltan Boros",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "로크홀라의 전령",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 냉기 주문을 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a23b51b0f81929575221153537d43902441d104accf6cf0ed316100dc2990e95.png",
+      "imageGold": "",
+      "flavorText": "\"거기가 얼마나 뜨겁든 내 알 바 아니야. 바꿀 생각 없어. 돌아가.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d417daa668b5061d11572f8be3114ab2d6e8bbc580e85cfaf39bc61f8c910a03.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 86132,
+      "collectible": 1,
+      "slug": "86132-rotgill",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "multiTypeIds": [
+        14
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 5,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 6,
+      "attack": 3,
+      "manaCost": 5,
+      "name": "로트길",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 다른 하수인들에게 \"\u003cb\u003e죽음의 메아리:\u003c/b\u003e 내 하수인들에게 +1/+1을 부여함\" 능력을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0a23b4f5f9efeb82e6d0af003792685c88c2b29ad69cd26b450afbd28d518a7.png",
+      "imageGold": "",
+      "flavorText": "여름엔 안 덥길, 상대는 봇이길, 월요일 아니길.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e00d5b72b2f927cb908bbd385bc1ed4e1e97669983eaffaee9d1dd34e801fbe.png",
+      "keywordIds": [
+        8,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 94248,
+      "collectible": 1,
+      "slug": "94248-rock-master-voone",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 5,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 3,
+      "attack": 4,
+      "manaCost": 3,
+      "name": "록의 대장군 분",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 있는 모든 아군 종족을 복사합니다. (종족마다 하나씩)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/420ea84e28860ef8dd9804207a3d1c65f6ad9bb4b5727d9e25ad80322b16df05.png",
+      "imageGold": "",
+      "flavorText": "관객 몇 명이 새까맣게 불타버리는 사건이 일어난 후, 분의 밴드는 용족에만 치우치지 않게 되었습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa3348b2e1020091183ddd852b06988cfc17237fb556efc8ed3fb03a05f11b2a.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 50484,
+      "collectible": 1,
+      "slug": "50484-lunara",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 3,
+      "cardSetId": 17,
+      "rarityId": 4,
+      "artistName": "Luke Mancini",
+      "health": 30,
+      "manaCost": 0,
+      "name": "루나라",
+      "text": "",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff539433bd4506e944eabc0a71c1d90cc7f9e4b4a023f815980a3758430ea9f9.png",
+      "imageGold": "",
+      "flavorText": "",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a60b28b4a9bb70748ce68815582bbde7a0c2ebfdf70988adb51da88c5d655fc.png",
+      "parentId": 274
+    },
+    {
+      "id": 48198,
+      "collectible": 1,
+      "slug": "48198-lunas-pocket-galaxy",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 1,
+      "cardTypeId": 5,
+      "cardSetId": 1127,
+      "rarityId": 5,
+      "artistName": "Jakub Kasper",
+      "manaCost": 7,
+      "name": "루나의 휴대용 우주",
+      "text": "내 덱에 있는 하수인들의 비용을 (1)로 바꿉니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b9e10667ba0a42470fb1def4ac3136751ccefc15f9a4bd8e3be8fce1f8f13c3d.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d060383ba8c3cdb27f1a45a05fca1366ecce726cd803fac43c663b66936b006.png",
+      "flavorText": "루나는 선임자가 휴대용 블랙홀을 만든 후에 점성학 부서를 이어받았습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3be6f23b747bb1f0ec49877c6ac7c752a0ee36be75a212e07c131cc8077f381.png"
+    },
+    {
+      "id": 58790,
+      "collectible": 1,
+      "slug": "58790-rune-dagger",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1443,
+      "rarityId": 1,
+      "artistName": "Kagi",
+      "attack": 1,
+      "manaCost": 2,
+      "durability": 3,
+      "name": "룬 단검",
+      "text": "내 영웅이 공격한 후에, 이번 턴 동안 \u003cb\u003e주문 공격력 +1\u003c/b\u003e을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7cfb2248ff8bb6ffc3279f6efbf9f1e2cd9bc7785f34f464df893c7b7ec7de3.png",
+      "imageGold": "",
+      "flavorText": "단검에 찔리면 주문에 더 취약해진다는 사실을 알고 계셨나요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d128d3b4b76d40cf07a2a1082acd801bb36afc62446f91cb3ba255f956324770.png",
+      "keywordIds": [
+        2
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 54873,
+      "collectible": 1,
+      "slug": "54873-grave-rune",
+      "classId": 6,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1347,
+      "rarityId": 1,
+      "artistName": "Eva Widermann",
+      "manaCost": 4,
+      "name": "룬 새기기",
+      "text": "하수인에게 \"\u003cb\u003e죽음의 메아리:\u003c/b\u003e 이 하수인을 둘 복사하여 소환함\"능력을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ea2a94d366a8669f19eb59182491758163c3589231569e07e83767123e55df8.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28a069734abd1781613a3f9d87fa52a2ab361417810d635a8765021c5d186eab.png",
+      "flavorText": "토그왜글의 미궁에서 발견한 이상한 상자로부터 비롯된 룬입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35d46aaf0d4e0a2e2f9ebc87243d4af0798e88178dc29b06e36e6f9777a28e87.png",
+      "keywordIds": [
+        12
+      ]
+    },
+    {
+      "id": 97527,
+      "collectible": 1,
+      "slug": "97527-runic-adornment",
+      "classId": 14,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1858,
+      "rarityId": 4,
+      "artistName": "Anton Zemskov",
+      "manaCost": 2,
+      "name": "룬 장식",
+      "text": "비용이 (3) 이하인 주문을 \u003cb\u003e발견\u003c/b\u003e합니다. 그 주문을 \u003cb\u003e뽑을 때 시전\u003c/b\u003e되는 주문으로 2장 복사하여 내 덱에 섞어 넣습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5fa80178a389b7cf3a936230a7c59a1833a64f911331e214e020010ef2de051b.png",
+      "imageGold": "",
+      "flavorText": "룬아, 룬아, 이 세상에서 누가 가장 녹색이니?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0081ffdb1ecfaa401b7b89585c730fbe513fb6e86bbbc7935827e3b18c3bafd.png",
+      "keywordIds": [
+        21,
+        72
+      ]
+    },
+    {
+      "id": 97574,
+      "collectible": 1,
+      "slug": "97574-runefueled-golem",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1858,
+      "rarityId": 3,
+      "artistName": "Alex Stone",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "룬가동 골렘",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 무작위 직업의 무기를 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e0ae87e66e4603f778b3eee24e18465f5381af6e3aa96fee070e3ca4f4677dd.png",
+      "imageGold": "",
+      "flavorText": "흠, 게이지가 얼마 없네요. 다음 마을에서 보충하는 것이 좋겠어요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/207a46f2cac2fec4b1e6d295ce8a183638fbfc07b466fe89522b3779c0d3df7b.png",
+      "keywordIds": [
+        8,
+        21
+      ]
+    },
+    {
+      "id": 42819,
+      "collectible": 1,
+      "slug": "42819-runeforge-haunter",
+      "classId": 7,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 3,
+      "artistName": "Slawomir Maniak",
+      "health": 3,
+      "attack": 5,
+      "manaCost": 4,
+      "name": "룬가열로 외눈깨비",
+      "text": "내 턴 동안 내 무기가 내구도를 잃지 않습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63467d0149a15a27802deb14f78561b162f16beb5776abe78d36a5d00fb56268.png",
+      "imageGold": "",
+      "flavorText": "한 눈 똑바로 뜨고 당신의 무기가 닳지 않나 확인합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/67186cf6bc61c64e65f209173ae59bb4a8c21d5f0553fdc32a2785d4855776c1.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 80736,
+      "collectible": 1,
+      "slug": "80736-runeforging",
+      "classId": 1,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 3,
+      "artistName": "Vladimir Kafanov",
+      "manaCost": 1,
+      "name": "룬벼리기",
+      "text": "무기를 뽑습니다. \u003cb\u003e시체\u003c/b\u003e를 소모해 그 무기의 비용이 (1) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c7b2ba0e757aa8f35b6faccb0ff5ac694b028cdb6cb019065626583c15e577a.png",
+      "imageGold": "",
+      "flavorText": "룬은 진짜라니까요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/464779ee59843f5ac236df9c112a237f16ecc33c04bfa3cbae6a04eab8b214f3.png",
+      "keywordIds": [
+        247
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 63056,
+      "collectible": 1,
+      "slug": "63056-runed-orb",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 1,
+      "cardTypeId": 5,
+      "cardSetId": 1525,
+      "rarityId": 1,
+      "artistName": "Hideaki Takamura",
+      "manaCost": 2,
+      "name": "룬새김 구슬",
+      "text": "피해를 2 줍니다. 주문을 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8cfe1995344914cd9876743f776b2848b0b3561c7bb706b9cdcc2cca6257f06d.png",
+      "imageGold": "",
+      "flavorText": "가장 위험한 겨울맞이 장식입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2cad7e1598543fde1569debef828f14613e7969dbdee8383a331b7612f6650bb.png",
+      "keywordIds": [
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 63677,
+      "collectible": 1,
+      "slug": "63677-runed-mithril-rod",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1578,
+      "rarityId": 3,
+      "artistName": "Akkapoj T.",
+      "attack": 0,
+      "manaCost": 5,
+      "durability": 2,
+      "name": "룬새김 미스릴 마법막대",
+      "text": "내가 카드를 4장 뽑은 후에, 내 손에 있는 카드들의 비용이 (1) 감소하고 내구도를 1 잃습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d196340427db90b60d74b1455d30856915b536f7bd1cda6bca1c1b1f638d8874.png",
+      "imageGold": "",
+      "flavorText": "녹템 팔아요 아니면 갈아요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3a4e48e9108bdc0ffcbcf40884dc668f886b38598f8a800bb69ac59ec6b687b.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 46305,
+      "collectible": 1,
+      "slug": "46305-the-runespear",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1004,
+      "rarityId": 5,
+      "artistName": "Jakub Kasper",
+      "attack": 3,
+      "manaCost": 8,
+      "durability": 3,
+      "name": "룬의 창",
+      "text": "내 영웅이 공격한 후에, 주문을 \u003cb\u003e발견\u003c/b\u003e하여 무작위 대상에게 시전합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0979a279f2fc2688f2d0c9c569bced70dffceb4eb8d6215a09c2d799fd2c61f6.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c8c08746234f9087332777d119065189683e5966b6a93b29163dab6c72cf5e1.png",
+      "flavorText": "\"어떤 방패도 뚫는 창\"이라며 물건을 넘긴 타우렌 대장장이는 \"어떤 창도 막아내는 룬의 방패\"도 팔고 있었습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ba0a7d378dda4dff7c43d0c39eeddd1fd5018c9c8c1d2a3278f5e35a6f3d982.jpg",
+      "keywordIds": [
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 39433,
+      "collectible": 1,
+      "slug": "39433-runic-egg",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 23,
+      "rarityId": 1,
+      "artistName": "A. J. Nazzaro",
+      "health": 2,
+      "attack": 0,
+      "manaCost": 1,
+      "name": "룬이 새겨진 알",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af885b219028b052d8e65105dc43530a3b8d13670e8da9434a1f0c49554d90c0.png",
+      "imageGold": "",
+      "flavorText": "오믈렛을 만들어도 룬이 새겨져 있습니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/14e0288a6d6d01c97b24ccb08a5c33daafc4b77ab8987bc1211e0483dbf0b210.jpg",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 59542,
+      "collectible": 1,
+      "slug": "59542-runic-carvings",
+      "classId": 2,
+      "multiClassIds": [
+        2,
+        8
+      ],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1443,
+      "rarityId": 4,
+      "artistName": "Konstantin Turovec",
+      "manaCost": 6,
+      "name": "룬이 새겨진 조각",
+      "text": "\u003cb\u003e선택 -\u003c/b\u003e 2/2 나무정령 토템을 넷 소환합니다. 또는 \u003cb\u003e과부하:\u003c/b\u003e (2), 그 하수인들에게 \u003cb\u003e속공\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4d503ebbdbd12bf75a7a938c3c9b5297a2eb8935a739e5787c4081a3da26d55.png",
+      "imageGold": "",
+      "flavorText": "\"이토록 아름다운 토템에 룬을 끼얹다니!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51c032182291cd9579006793811279fe88aa90c67d92dd17d0b8cbf8f287dc19.png",
+      "keywordIds": [
+        14,
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 45539,
+      "collectible": 1,
+      "slug": "45539-lynessa-sunsorrow",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1004,
+      "rarityId": 5,
+      "artistName": "Tyler West Studio",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 7,
+      "name": "리네사 선소로우",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이번 게임에서 내 하수인들에게 시전했던 모든 주문을 이 하수인에게 시전합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/80c53c435b88ec8ba1dc49c99c07b74f1a2efe452fa0ff2b788751f9f9013a0d.png",
+      "imageGold": "",
+      "flavorText": "대량의 마력을 한꺼번에 받아들이면 안색이 나빠지거나 급격한 감정변화가 일어날 수 있으므로, 위와 같은 증상이 나타날 경우 전문 마법사와 상의하십시오.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6ac118878b378e1d3bb0d92a2718358361882db4ab4a7bef76508c751dd286f.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2883,
+      "collectible": 1,
+      "slug": "2883-reno-jackson",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 20,
+      "rarityId": 5,
+      "artistName": "Tyson Murphy",
+      "health": 6,
+      "attack": 4,
+      "manaCost": 6,
+      "name": "리노 잭슨",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에 똑같은 카드가 없으면, 내 영웅의 생명력을 모두 회복시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6203bf0f8c1e801604d4ba9b62e11c99d82eafeb2619b684c86a6fdbab61004.png",
+      "imageGold": "",
+      "flavorText": "리노는 4년 연속으로 \u0027부티나는 탐험가\u0027 부문에서 우승을 거뒀습니다. 비결이 뭘까요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40453875365bf91fe1948e78e32f33ad44936d741ed528a2f4b9559912944061.jpg",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 94802,
+      "collectible": 1,
+      "slug": "94802-rhythmdancer-risa",
+      "classId": 7,
+      "multiClassIds": [
+        7,
+        14
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 5,
+      "artistName": "Sergey Tsvelykh",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "리듬춤꾼 리사",
+      "text": "\u003cb\u003e속공\u003c/b\u003e, 내 영웅이 공격한 후에, 이 하수인을 내 손으로 다시 가져오고 비용이 (1)이 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a629cee0a52ab537bee280dd74f33f9bacd0857283991fc1222db7829a36486.png",
+      "imageGold": "",
+      "flavorText": "왼쪽으로 그림자 밟기! 오른쪽으로 이중 도약! 두 직업 교차하고!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dcaebcc431f907dee86133e4c9112735c434c2d05a0016685f233cc50ccf2c63.png",
+      "keywordIds": [
+        53
+      ]
+    },
+    {
+      "id": 559,
+      "collectible": 1,
+      "slug": "559-leeroy-jenkins",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 5,
+      "artistName": "Gabe from Penny Arcade",
+      "health": 2,
+      "attack": 6,
+      "manaCost": 5,
+      "name": "리로이 젠킨스",
+      "text": "\u003cb\u003e돌진\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 상대편에게 1/1 새끼용을 2마리 소환해 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4f94c34a472fb824eae916b89f148e9efbfd4dabd45e60ae1c9d23b50db5541.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf21572abd2583e7520733ac221c35fd5aeb5d700de9b43895712a74c2c68eb4.png",
+      "flavorText": "\"때가 왔다! 가자! 리로이이이이이이이이 젠킨스으으으으으으!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17f7efd0a408273341fe82cbe8dfb2b187cff5cf931a0ad45ffafd59f580120c.png",
+      "childIds": [
+        1912
+      ],
+      "keywordIds": [
+        4,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69852,
+      "collectible": 1,
+      "slug": "69852-leeroy-jenkins",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 5,
+      "artistName": "Gabe from Penny Arcade",
+      "health": 2,
+      "attack": 6,
+      "manaCost": 4,
+      "name": "리로이 젠킨스",
+      "text": "\u003cb\u003e돌진\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 상대편에게 1/1 새끼용을 2마리 소환해 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1dc070cea33ab20ce364da046857696312d1362d9ea1db4916cc0e237eed87c.png",
+      "imageGold": "",
+      "flavorText": "\"때가 왔다! 가자! 리로이이이이이이이이 젠킨스으으으으으으!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17f7efd0a408273341fe82cbe8dfb2b187cff5cf931a0ad45ffafd59f580120c.png",
+      "childIds": [
+        1912
+      ],
+      "keywordIds": [
+        4,
+        8
+      ],
+      "copyOfCardId": 559
+    },
+    {
+      "id": 43419,
+      "collectible": 1,
+      "slug": "43419-frost-lich-jaina",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 3,
+      "cardSetId": 1001,
+      "rarityId": 5,
+      "artistName": "Glenn Rane",
+      "health": 30,
+      "manaCost": 9,
+      "armor": 5,
+      "name": "리치 여왕 제이나",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 3/6 물의 정령을 소환합니다. 이번 게임에서 내 정령들이 \u003cb\u003e생명력 흡수\u003c/b\u003e를 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e26faa48e796cf2a21c2152ddf2e865b0afbdf4936488874dff7d2d5dbbdc96b.png",
+      "imageGold": "",
+      "flavorText": "\"아서스는 버릇 없는 아이였다. 통제하지도, 이해하지도 못할 장난감들을 가지고 놀았으니. 한기를 받아들여라. 내가 너에게 얼어붙은 왕좌의 진정한 힘을 보여주겠노라.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee5fdd394985e5e6fd26e6414cd3efb45fc39a461fe119d6ff61c89ba6552373.png",
+      "childIds": [
+        42944,
+        46458
+      ],
+      "keywordIds": [
+        8,
+        38
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42818,
+      "collectible": 1,
+      "slug": "42818-the-lich-king",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 5,
+      "artistName": "Glenn Rane",
+      "health": 8,
+      "attack": 8,
+      "manaCost": 8,
+      "name": "리치 왕",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, 내 턴이 끝날 때, 무작위 \u003cb\u003e리치 왕\u003c/b\u003e 카드를 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f879d944454fafaee042da20e58811aed1495cf3f7c6a7d38639106265da7bb9.png",
+      "imageGold": "",
+      "flavorText": "\"분노, 복수, 잔혹함, 공격력 +8. 나는 그 모든 것이다. 선택받은 나의 기사여, 이를 너에게 내리겠다.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1822e028fb79503658a5ac6c395387e45fc619bf7dca57aeb75567623d4fc58.png",
+      "childIds": [
+        45384,
+        42590,
+        43120,
+        46194,
+        45387,
+        42587,
+        42586,
+        43012
+      ],
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 61839,
+      "collectible": 1,
+      "slug": "61839-rinlings-rifle",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1466,
+      "rarityId": 5,
+      "artistName": "Vladimir Kafanov",
+      "attack": 2,
+      "manaCost": 4,
+      "durability": 2,
+      "name": "린링의 소총",
+      "text": "내 영웅이 공격한 후에, \u003cb\u003e비밀\u003c/b\u003e을 \u003cb\u003e발견\u003c/b\u003e하여 시전합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34bb631eca92aca231a5abae713df2533df9f8300042dd47739adcd02ba943b6.png",
+      "imageGold": "",
+      "flavorText": "어찌나 말이 많은지 하루종일 따발총처럼 쏘아댑니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de0466f5a20bdbac3af7d470c8ef8c2a744671c0e7c968094df407a5236a08be.png",
+      "keywordIds": [
+        5,
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 64007,
+      "collectible": 1,
+      "slug": "64007-first-blade-of-wrynn",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 4,
+      "artistName": "Vladimir Kafanov",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "린의 첫 번째 칼날",
+      "text": "\u003cb\u003e천상의 보호막\u003c/b\u003e \u003cb\u003e전투의 함성:\u003c/b\u003e 이 하수인의 공격력이 4 이상이면, \u003cb\u003e속공\u003c/b\u003e을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec582d1a8e1c19fa37389a34de4b92e690f2d5862d4bf237731844d6fdb68bb7.png",
+      "imageGold": "",
+      "flavorText": "기사 학교의 수석 기사입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e5368dce0cdd5ed03de226d2fa47b1e5272be69b89fb7b8fc546591cce18070.png",
+      "keywordIds": [
+        3,
+        8,
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43031,
+      "collectible": 1,
+      "slug": "43031-lilian-voss",
+      "classId": 7,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 5,
+      "artistName": "Gonzalo Ordonez",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "릴리안 보스",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 있는 모든 주문을 \u003ci\u003e상대편 직업\u003c/i\u003e의 무작위 주문으로 교체합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd4d599995108331f2b3748c19a85085a22da4871b58d4537089b8546395a0ac.png",
+      "imageGold": "",
+      "flavorText": "동정심도, 후회도, 공포도 느끼지 않습니다. 모든 강령술사들을 사냥하기 전까지 그녀는 멈추지 않을 것입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7626ba0860d7c4fd84ca3019da62d64c5b1c4e0a469a23a591660d52998ecb0.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2639,
+      "collectible": 1,
+      "slug": "2639-stablemaster",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 15,
+      "rarityId": 4,
+      "artistName": "Tyson Murphy",
+      "health": 2,
+      "attack": 4,
+      "manaCost": 3,
+      "name": "마구간지기",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이번 턴에 아군 야수에게 \u003cb\u003e면역\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff3f1594fd69d091e37e245f37d3c5889056bdd93137d2858dd481de4b40e781.png",
+      "imageGold": "",
+      "flavorText": "유니콘 말고도 여러 야수들을 관리합니다. 마구간보다 더 큰 녀석들도 말이죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f4e3601d47afc50c88aa3fe04c3659e28aecefd47e134e8e97ca5bc55c81301.jpg",
+      "keywordIds": [
+        8,
+        17
+      ]
+    },
+    {
+      "id": 2828,
+      "collectible": 1,
+      "slug": "2828-magni-bronzebeard",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 3,
+      "cardSetId": 17,
+      "rarityId": 4,
+      "artistName": "Glenn Rane",
+      "health": 30,
+      "manaCost": 0,
+      "name": "마그니 브론즈비어드",
+      "text": "",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/548e74e513aa0ef13d517f4e1d9317260cdc5da492e68e3b2ce7aa80627ab2a2.png",
+      "imageGold": "",
+      "flavorText": "",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4cffcf6b96598f145ddc002bb604d5091bf6ce7c1ae45f2d20c835cad24a31f.png",
+      "parentId": 7
+    },
+    {
+      "id": 58549,
+      "collectible": 1,
+      "slug": "58549-magtheridon",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1414,
+      "rarityId": 5,
+      "artistName": "Slawomir Maniak",
+      "health": 12,
+      "attack": 12,
+      "manaCost": 4,
+      "name": "마그테리돈",
+      "text": "\u003cb\u003e휴면\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 상대편에게 1/3 교도관을 3명 소환해 줍니다. 그 하수인들이 모두 죽으면, \u003cb\u003e모든\u003c/b\u003e 하수인을 처치하고 깨어납니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f387110587010e792ebd6bba83efb3f5841a5375a8b257e1c06f6e147872d1f.png",
+      "imageGold": "",
+      "flavorText": "세 명이 오리라. 그들 셋으로 길이 열릴 것이며...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f046b7b0d412f75fd1b9b3ca3cd67005e9f1d9d3ef6af8af8de128fd7a7d320.png",
+      "childIds": [
+        58550
+      ],
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 54909,
+      "collectible": 1,
+      "slug": "54909-mana-giant",
+      "classId": 4,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 4,
+      "artistName": "SARIYA",
+      "health": 8,
+      "attack": 8,
+      "manaCost": 8,
+      "name": "마나 거인",
+      "text": "게임이 시작됐을 때 내 덱에 없던 카드를 낼 때마다 비용이 (1)씩 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c3010eafe847eef010f9b93d1b8d3e3986abdb45182e804b04ce4ab9f12f6b1.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf0c4ec7f8a87c0e8c720a47d12d0de0323449c22ad11e59cf7c9f88a078eb7d.png",
+      "flavorText": "주문을 많이 시전할수록 할인율이 더욱 거대해집니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69b0d55cb8bbe7e8729103c1d1569e235f8f8d095d32e8aad6e541c6d5fd0b79.png"
+    },
+    {
+      "id": 41158,
+      "collectible": 1,
+      "slug": "41158-mana-bind",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 1,
+      "cardTypeId": 5,
+      "cardSetId": 27,
+      "rarityId": 3,
+      "artistName": "Izzy Hoover",
+      "manaCost": 3,
+      "name": "마나 결속",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 상대편이 주문을 시전하면, 그 주문을 복사하여 내 손으로 가져옵니다. 그 주문의 비용이 (0)이 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82af8a55edded915e61ae0bac57e9d69ced3efba5fa1bb58f02abfb23426d9a2.png",
+      "imageGold": "",
+      "flavorText": "그 주문, 마음에 드는데... 내가 가져야겠어!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5fa592c55638b784c439cb8425525bee2c4379a069b1333c0bb8fa365ee2fd1.png",
+      "keywordIds": [
+        5
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 715,
+      "collectible": 1,
+      "slug": "715-mana-wraith",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 3,
+      "artistName": "Luca Zontini",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "마나 망령",
+      "text": "\u003cb\u003e모든\u003c/b\u003e 하수인의 비용이 (1) 증가합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbd9698d2eaf05207c5dbc8a8d06d4e471d69f75de37c804edf5cc95bb14e8d0.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f74631b3f0ccd2dce3ac73248e590441464425330a2ea5cf3cf2fcbc025d90d6.png",
+      "flavorText": "이들은 밤에 나타나 남은 마나 수정을 먹습니다. \"으으으음...\" 소리를 내곤 하지요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3782f74033b331f62a3f1d751cb60c3f01027c89875e5ba5071602b4d43706f5.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70055,
+      "collectible": 1,
+      "slug": "70055-mana-wraith",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 3,
+      "artistName": "Luca Zontini",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "마나 망령",
+      "text": "\u003cb\u003e모든\u003c/b\u003e 하수인의 비용이 (1) 증가합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08790242379554e1a802a2d3a6e40ee6ed1186785a1c7530acb01dfbbce2011f.png",
+      "imageGold": "",
+      "flavorText": "이들은 밤에 나타나 남은 마나 수정을 먹습니다. \"으으으음...\" 소리를 내곤 하지요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3782f74033b331f62a3f1d751cb60c3f01027c89875e5ba5071602b4d43706f5.png",
+      "copyOfCardId": 715
+    },
+    {
+      "id": 58610,
+      "collectible": 1,
+      "slug": "58610-mana-burn",
+      "classId": 14,
+      "multiClassIds": [],
+      "spellSchoolId": 7,
+      "cardTypeId": 5,
+      "cardSetId": 1463,
+      "rarityId": 1,
+      "artistName": "Hideaki Takamura",
+      "manaCost": 1,
+      "name": "마나 연소",
+      "text": "상대편이 다음 턴에 획득하는 마나 수정이 2개 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fbbf2570a91b7163005777b03c374590b79dffb1999e1118b20016960823e530.png",
+      "imageGold": "",
+      "flavorText": "너흰 아직 (마나 수정이) 준비가 안 됐다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/01bd597571edfa3815343637e7c9cfd35613a6c4d498a31aa8f1ab220288f30b.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 52942,
+      "collectible": 1,
+      "slug": "52942-mana-reservoir",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1130,
+      "rarityId": 1,
+      "artistName": "Jakub Kasper",
+      "health": 6,
+      "attack": 0,
+      "manaCost": 2,
+      "name": "마나 저장소",
+      "text": "\u003cb\u003e주문 공격력 +1\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dcdb7403f5873c500dfc63c964954b3af781a20c63e2e63cc3a906959c411f36.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be11a96aafae7c1620187a53b79bc5c73c8d0d5749e7661bd917cbf23341f2c6.png",
+      "flavorText": "몸집이 커지면 마나 저수지가 됩니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d923ccb4ea2894877f4fc66822ab3a0a9c17bb0123e7631ff0a079f7f17bd69.png",
+      "keywordIds": [
+        2
+      ]
+    },
+    {
+      "id": 40381,
+      "collectible": 1,
+      "slug": "40381-mana-geode",
+      "classId": 6,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 25,
+      "rarityId": 4,
+      "artistName": "A. J. Nazzaro",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "마나 정동석",
+      "text": "\u003cb\u003e초과 치유:\u003c/b\u003e 2/2 수정을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e85045d08641c4decc292f2e15b9739c24b575164c3cb9272366a0b271284b0.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51bcd4651d63d994d85f180fd33172b95c85da62e3cd812baf9e15264c574d9f.png",
+      "flavorText": "가젯잔에서는 애완용 돌에게도 애완용 돌이 있습니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2eafe8ce57fe2262f46a8d0f23f784b2e8ccce99e5951f03779ddc9c20b0dbce.png",
+      "childIds": [
+        42053
+      ],
+      "keywordIds": [
+        256
+      ]
+    },
+    {
+      "id": 97608,
+      "collectible": 1,
+      "slug": "97608-mana-geode",
+      "classId": 6,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 4,
+      "artistName": "A. J. Nazzaro",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "마나 정동석",
+      "text": "\u003cb\u003e초과 치유:\u003c/b\u003e 2/2 수정을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0567d775ac3096695621393ad73b82180c01c06f0f090b8c975d41b94b93314f.png",
+      "imageGold": "",
+      "flavorText": "가젯잔에서는 애완용 돌에게도 애완용 돌이 있습니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2eafe8ce57fe2262f46a8d0f23f784b2e8ccce99e5951f03779ddc9c20b0dbce.png",
+      "childIds": [
+        42053
+      ],
+      "keywordIds": [
+        256
+      ],
+      "copyOfCardId": 40381,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 12,
+      "collectible": 1,
+      "slug": "12-mana-addict",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 3,
+      "artistName": "Hideaki Takamura",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 2,
+      "name": "마나 중독자",
+      "text": "내가 주문을 시전할 때마다 이번 턴에 공격력을 +2 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8df13a5e95afcfe6312a838e145ef22e1ce126e31d83bc889343391bbafa555.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5cd41fe1030f36fe687aa8b227c1c3083c22f565938c5fbff9b664b898381dbd.png",
+      "flavorText": "끊으려고 노력하는 그녀지만 스트레스 받은 날에는 참기 힘들답니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99695fd6f2433f7c383e7b2df2a538e112edaa869672b8f6580278c29e3075d4.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 30
+}

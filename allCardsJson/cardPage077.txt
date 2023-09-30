@@ -1,0 +1,1051 @@
+{
+  "cards": [
+    {
+      "id": 38521,
+      "collectible": 1,
+      "slug": "38521-faceless-behemoth",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 21,
+      "rarityId": 1,
+      "artistName": "Zoltan Boros",
+      "health": 10,
+      "attack": 10,
+      "manaCost": 10,
+      "name": "얼굴 없는 괴수",
+      "text": "",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f336b486d29892153fe06883e7aad160d78b0870838eb69fb9558c241e8fe9e3.png",
+      "imageGold": "",
+      "flavorText": "이름 후보: 집채만한 얼굴 없는 자, 얼큰이, 테디.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/482ae5ab65a6c2fea84e4d8086864a7418a337f5d844b34fa686a1d9dbb3e6fd.jpg",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 531,
+      "collectible": 1,
+      "slug": "531-faceless-manipulator",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 4,
+      "artistName": "Raymond Swanland",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 5,
+      "name": "얼굴 없는 배후자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 선택한 하수인으로 변신합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2c588d45909cf2768ec638391bbab2d1cedcf2490b0d02f94724a5cbffb8e16.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33ad5718d18f36c2ad32c207732e09cd51b159022c71ddabaec64a68c92673d0.png",
+      "flavorText": "얼굴 없는 자들은 공포를 먹고 사는 요그사론의 하수인입니다. 지금도 좋은 카드들을 실수로 마력 추출해버리면 어쩌나 걱정하고 있는 당신의 공포를 먹고 있죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bb1c31f43118212c7c2bfe9eea42c75449dae739c28394d587c0716a010d50c.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69980,
+      "collectible": 1,
+      "slug": "69980-faceless-manipulator",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 4,
+      "artistName": "Raymond Swanland",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 5,
+      "name": "얼굴 없는 배후자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 선택한 하수인으로 변신합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6283efdc67018ce7e77bd6c236fa1a2eba4006583a00546221c8b0fe4981ce6.png",
+      "imageGold": "",
+      "flavorText": "얼굴 없는 자들은 공포를 먹고 사는 요그사론의 하수인입니다. 지금도 좋은 카드들을 실수로 마력 추출해버리면 어쩌나 걱정하고 있는 당신의 공포를 먹고 있죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bb1c31f43118212c7c2bfe9eea42c75449dae739c28394d587c0716a010d50c.png",
+      "keywordIds": [
+        8
+      ],
+      "copyOfCardId": 531
+    },
+    {
+      "id": 38569,
+      "collectible": 1,
+      "slug": "38569-faceless-shambler",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 21,
+      "rarityId": 4,
+      "artistName": "Alex Alexandrov",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 4,
+      "name": "얼굴 없는 불가사의",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 아군 하수인의 공격력과 생명력을 복사합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/271d8019bcc8340100e97fcd2f5c0ab8016d308b7a61bddc58bb998c332390c1.png",
+      "imageGold": "",
+      "flavorText": "\"저건 도대체 정체가 뭐지?!\" \"글쎄, 뭔가 이세라를 닮으려고 애를 쓰는 것 같은데.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1fde2007de88b6bfd1573cfade49ac71e74363f372d23fc5776968cb55686d7.jpg",
+      "keywordIds": [
+        1,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 38725,
+      "collectible": 1,
+      "slug": "38725-faceless-summoner",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 21,
+      "rarityId": 1,
+      "artistName": "Mark Abadier",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 6,
+      "name": "얼굴 없는 소환사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 비용이 3인 무작위 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4a1e74c592be9abd4f99fed5e2cc0243f4ee19814ad730ae69fab929208346a.png",
+      "imageGold": "",
+      "flavorText": "새 친구를 무작위로 소환해보자!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/337851247f44684dedb56019429c216a3e5ed4af2324f5680496e3984e067770.jpg",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 54265,
+      "collectible": 1,
+      "slug": "54265-faceless-lurker",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1158,
+      "rarityId": 1,
+      "artistName": "Luca Zontini",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 5,
+      "name": "얼굴 없는 잠복꾼",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 이 하수인의 생명력이 2배가 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a301a50c17b32cb0417bded8afaae64792f8f51a656b0442757ea6736450be1.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09b19739a53ab4a844665bb495d194de354be882ebba3d25291f23bb0c9650a8.png",
+      "flavorText": "매번 눈팅만 하다가 이번에 처음으로 등장한답니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eea152961ade207e1d355d0e1eea31393d3e305ff8b475c4db4171958d2e7f77.png",
+      "keywordIds": [
+        1,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 55426,
+      "collectible": 1,
+      "slug": "55426-faceless-corruptor",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 3,
+      "artistName": "Slawomir Maniak",
+      "health": 4,
+      "attack": 5,
+      "manaCost": 5,
+      "name": "얼굴 없는 타락자",
+      "text": "\u003cb\u003e속공\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 아군 하수인을 이 하수인으로 변신시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36cf80e22cfb7ecd03f09bfffb435613107e0a0128f19efaf0f8cb19657bdd5a.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f51681161390e46e02a3a6887be9b2c77da7f4d42155dd52fb61842036015598.png",
+      "flavorText": "부인 라줄은 얼굴에 뭔가 집착하는 게 분명합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d98233d83fed5aca8dadca38d5b223f8fc7f41ed470696cc2aa741c2b899917.png",
+      "keywordIds": [
+        8,
+        53
+      ]
+    },
+    {
+      "id": 38263,
+      "collectible": 1,
+      "slug": "38263-flamewreathed-faceless",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 21,
+      "rarityId": 1,
+      "artistName": "E. M. Gist",
+      "health": 7,
+      "attack": 7,
+      "manaCost": 4,
+      "name": "얼굴 없는 화염투사",
+      "text": "\u003cb\u003e과부하:\u003c/b\u003e (2)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0da0e143dd2ab460555dd1aa8dc28c25b98fb706cf6369a5ac91aaa9280b9d4.png",
+      "imageGold": "",
+      "flavorText": "붐샤칼라카! 불붙었습니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c40ef95011ce27ead7e235fd57c65a89ca74a425cbe94aa4415800380db6d767.png",
+      "keywordIds": [
+        14
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 64368,
+      "collectible": 1,
+      "slug": "64368-alliance-bannerman",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 1,
+      "artistName": "Vladimir Kafanov",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "얼라이언스 기수",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 하수인을 뽑습니다. 내 손에 있는 하수인들에게 +1/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69c6c06964fd3bf5e99307676fdfe6abc314b93f0c2296bdb420bf346e1d3b59.png",
+      "imageGold": "",
+      "flavorText": "\"나 때는 말이야, 이 깃발을 전쟁에 나갈 때도, 전쟁에서 돌아올 때도 항상 들고 다녔다고.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73c0d5e909191172543a614eac9a48c2751d2366d8e8a3cb07b4b91b9aa24a2a.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42678,
+      "collectible": 1,
+      "slug": "42678-brrrloc",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 14,
+      "multiTypeIds": [
+        11
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 1,
+      "artistName": "Jaemin Kim",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "얼록",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 적을 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/364b1d04b0ec397d23980ef2c83aa9063fc7e7d71e54b0951fe1e9bb49c4f513.png",
+      "imageGold": "",
+      "flavorText": "얼어버린 멀록의 얼얼한 주먹!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/13c5f342e54a4618d4658a88922ed9e511e097cda8280a112ae92f2ebf748a26.png",
+      "keywordIds": [
+        8,
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70228,
+      "collectible": 1,
+      "slug": "70228-frozen-mammoth",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 4,
+      "artistName": "Patrik Bjorkstrom",
+      "health": 7,
+      "attack": 6,
+      "manaCost": 4,
+      "name": "얼어붙은 매머드",
+      "text": "내가 화염 주문을 시전할 때까지 \u003cb\u003e빙결\u003c/b\u003e 상태가 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ab0f8ff168156e3d2c56b12f977d5ab165b556be8af33afd7a533943df43760.png",
+      "imageGold": "",
+      "flavorText": "\u003ci\u003e\u003cb\u003e*레코드 긁는 소리*\u003c/b\u003e\u003c/i\u003e \"그러니까, 제가 이렇게 된 사정이 말이죠.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8002e3a1cd4cd7e9aa6d51bbb25b7f9dd6c797eae6236d3b29ab5e134331f7d8.png",
+      "keywordIds": [
+        9
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 67194,
+      "collectible": 1,
+      "slug": "67194-frozen-buckler",
+      "classId": 10,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1626,
+      "rarityId": 4,
+      "artistName": "Konstantin Turovec",
+      "manaCost": 2,
+      "name": "얼어붙은 버클러",
+      "text": "방어도를 +10 얻습니다. 내 다음 턴이 시작될 때, 방어도를 5 잃습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6ce851293e7fde01a03157e316a0e91405613da762ce37e05a2a738b9da28fd.png",
+      "imageGold": "",
+      "flavorText": "\"기다려 봐, 얼음부터 하나씩 깨자고.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2a6fb19ddf06baace72e3850a8857ba26b4576c3a6161dd866e693dcbb636bd.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41253,
+      "collectible": 1,
+      "slug": "41253-frozen-crusher",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 27,
+      "rarityId": 3,
+      "artistName": "Konstantin Turovec",
+      "health": 8,
+      "attack": 8,
+      "manaCost": 6,
+      "name": "얼어붙은 분쇄자",
+      "text": "이 하수인은 공격한 후에 \u003cb\u003e빙결\u003c/b\u003e 상태가 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7e5f9a7e076985aada3c0092d312d5e04660ceb6c65b03bf6504c5484d52057.png",
+      "imageGold": "",
+      "flavorText": "격일제로 출근하시는 분입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7756470c6b3f69349b10e8c7f9f1135c56712df50cc401166ef289381f42419a.png",
+      "keywordIds": [
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42754,
+      "collectible": 1,
+      "slug": "42754-frozen-clone",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1001,
+      "rarityId": 1,
+      "artistName": "Mike Sass",
+      "manaCost": 3,
+      "name": "얼어붙은 분신",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 상대편이 하수인을 낸 후에, 그 하수인을 둘 복사하여 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d0cde2f35c7911936940151282bcd9b5f0e0581977322d29e55315f53484229.png",
+      "imageGold": "",
+      "flavorText": "데자뷔, 두 번 느껴본 적 있어?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db4bb53a9cd2266e90cd56a9c20072f649fe3bf3102ccfe1fd212f4cfb0e8d99.png",
+      "keywordIds": [
+        5
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 84354,
+      "collectible": 1,
+      "slug": "84354-frozen-touch",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1691,
+      "rarityId": 1,
+      "artistName": "Melvin Chan",
+      "manaCost": 2,
+      "name": "얼어붙은 손길",
+      "text": "피해를 3 줍니다. \u003cb\u003e주입 ( ):\u003c/b\u003e 얼어붙은 손길을 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50f9221feda0a7a5027a60184630d458a522186aca3a1a804cb3195deb57bd01.png",
+      "imageGold": "",
+      "flavorText": "이 묵직하고도 서늘한 감각.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7504e428b82dbb102a9e5f41424ff7cf8d5de2e3816f0ef92c1ae1ff138f5334.png",
+      "childIds": [
+        79542,
+        79552,
+        79593,
+        84355,
+        79545,
+        537,
+        850,
+        764,
+        62320,
+        79554,
+        79595
+      ],
+      "keywordIds": [
+        238
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 57174,
+      "collectible": 1,
+      "slug": "57174-frozen-shadoweaver",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1414,
+      "rarityId": 1,
+      "artistName": "Ivan Fomin",
+      "health": 3,
+      "attack": 4,
+      "manaCost": 3,
+      "name": "얼어붙은 암흑술사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 적을 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/015cea507750ebe149129d84cddc4b2cc92377429ef9acd26c165c0f8a192476.png",
+      "imageGold": "",
+      "flavorText": "수없이 하향된 후에도 얼어붙은 그림자매듭 세트를 착용하고 있다고 합니다. 역시 추억을 다 잊을 순 없겠죠!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7ce942e009a0f4e8acd8be3e2593943edcce3cb85dacb0206ca9b7c770f6c9e.png",
+      "keywordIds": [
+        8,
+        10
+      ]
+    },
+    {
+      "id": 2594,
+      "collectible": 1,
+      "slug": "2594-ice-rager",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 15,
+      "rarityId": 1,
+      "artistName": "Anton Zemskov",
+      "health": 2,
+      "attack": 5,
+      "manaCost": 3,
+      "name": "얼음 광전사",
+      "text": "",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f7c00933d85e63018514867dfcf60896fcafa6d67f986ea678aecc9a337da58.png",
+      "imageGold": "",
+      "flavorText": "생명력은 더 높지만 용암 광전사의 명성을 넘어서진 못했습니다. 평등하지도 않고, 참회할 것도 많은 하수인이거든요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3cacfe1cc66956691b4598694d61d657858545b6221b76ff626e3ad84ac0d51c.png"
+    },
+    {
+      "id": 42763,
+      "collectible": 1,
+      "slug": "42763-ice-fishing",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1001,
+      "rarityId": 1,
+      "artistName": "Jaemin Kim",
+      "manaCost": 2,
+      "name": "얼음 낚시",
+      "text": "내 덱에서 멀록을 2마리 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df6c274c08e0e93486683bc6dfc2da726e98a1401da9cf041d962e5aa4bf22d3.png",
+      "imageGold": "",
+      "flavorText": "반짝이는 물고기, 전투 물고기... 터지는 물고기, 낚여라 물고기...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0627026873edab49e35bcca28350603f6a2da041d1fc9cd52b230c46e1799700.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 67243,
+      "collectible": 1,
+      "slug": "67243-ice-trap",
+      "classId": 3,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1626,
+      "rarityId": 4,
+      "artistName": "Matt Dixon",
+      "manaCost": 2,
+      "name": "얼음 덫",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 상대편이 주문을 시전하면, 그 주문을 주인의 손으로 돌려보내고 비용을 (1) 증가시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb17338c75ce693f52e6c803d8b6a3ea7a314c931b0047c8304d12b56360b6a7.png",
+      "imageGold": "",
+      "flavorText": "분명 코앞에 덫을 놓는 것을 봤는데도 밟아버렸네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99832c14e1e9a73cf966721a370489155250ee0d9ce5dce8c111cad85f7351c0.png",
+      "keywordIds": [
+        5
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70227,
+      "collectible": 1,
+      "slug": "70227-ice-revenant",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Jakub Kasper",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "얼음 망령",
+      "text": "내가 냉기 주문을 시전할 때마다 +2/+2를 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d1c76c0fed29a61dda22854d0b482733b4f0c94764dd5a321dab595643505eb.png",
+      "imageGold": "",
+      "flavorText": "저 오래된 철퇴에 뭔가 마법이 걸려 있었던 모양이군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52c5af7f66c64e811c10ed23be3017a9c91e99d6250bed6d941b06367725b78e.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 192,
+      "collectible": 1,
+      "slug": "192-ice-block",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 3,
+      "rarityId": 4,
+      "artistName": "Carl Frank",
+      "manaCost": 3,
+      "name": "얼음 방패",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 내 영웅이 치명적인 피해를 받으면, 피해를 막고 이번 턴에 \u003cb\u003e면역\u003c/b\u003e 상태가 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c191cf82dc8a2f0dde97df40d6851fffc229307e00508acb7a5033a9fe6285d.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40009b5a51d5ec4b12bb217e0e19086d49591f3085e6bfe00602506b573fabd0.png",
+      "flavorText": "얼음, 막음, 좋음!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4fe6cd6b45ef7d334a4a641c1abbd02a55ee8b37eafd0576ddc18dd20e12a60.png",
+      "keywordIds": [
+        5,
+        17
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69911,
+      "collectible": 1,
+      "slug": "69911-ice-block",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 4,
+      "artistName": "Carl Frank",
+      "manaCost": 3,
+      "name": "얼음 방패",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 내 영웅이 치명적인 피해를 받으면, 피해를 막고 이번 턴에 \u003cb\u003e면역\u003c/b\u003e 상태가 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de414801289474bc185bd8329fbcfc52f5ddad4d03aaa11adf982366e33ade24.png",
+      "imageGold": "",
+      "flavorText": "얼음, 막음, 좋음!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4fe6cd6b45ef7d334a4a641c1abbd02a55ee8b37eafd0576ddc18dd20e12a60.png",
+      "keywordIds": [
+        5,
+        17
+      ],
+      "copyOfCardId": 192
+    },
+    {
+      "id": 621,
+      "collectible": 1,
+      "slug": "621-ice-barrier",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 3,
+      "rarityId": 1,
+      "artistName": "Alex Garner",
+      "manaCost": 3,
+      "name": "얼음 보호막",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 내 영웅이 공격받으면, 방어도를 +8 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f58a60041599efdc21ff1a2c8cb09dbd7255d58f08d2797f3e291975d68e57c5.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/449282fa4cb4edf453124b6f9ddc26b5f20f562350938e5a6c3d7a8130804a1a.png",
+      "flavorText": "공격대 뛰다 보면 그런 사람 꼭 있죠. 맞을 거 다 맞고 생존기 켜는 사람.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f38da867f056808c74be7dd5195308706a64a61523d08d10285b5778cc72bb2.png",
+      "keywordIds": [
+        5
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69608,
+      "collectible": 1,
+      "slug": "69608-ice-barrier",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Alex Garner",
+      "manaCost": 3,
+      "name": "얼음 보호막",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 내 영웅이 공격받으면, 방어도를 +8 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0d630203c811ebea5e6479e1e62cb9fa31a096920fb0f8f7a12782137707711.png",
+      "imageGold": "",
+      "flavorText": "공격대 뛰다 보면 그런 사람 꼭 있죠. 맞을 거 다 맞고 생존기 켜는 사람.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed39c51664f8fe9fe2e914ec1dd5e867bde1249af136a934120169975959e0b5.png",
+      "keywordIds": [
+        5
+      ],
+      "copyOfCardId": 621,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69909,
+      "collectible": 1,
+      "slug": "69909-ice-barrier",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 1,
+      "artistName": "Alex Garner",
+      "manaCost": 3,
+      "name": "얼음 보호막",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 내 영웅이 공격받으면, 방어도를 +8 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b041689c66044362ca332c71a0adff36e7626cb6d98d88f613ab6cc04baff0f6.png",
+      "imageGold": "",
+      "flavorText": "공격대 뛰다 보면 그런 사람 꼭 있죠. 맞을 거 다 맞고 생존기 켜는 사람.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f38da867f056808c74be7dd5195308706a64a61523d08d10285b5778cc72bb2.png",
+      "keywordIds": [
+        5
+      ],
+      "copyOfCardId": 621
+    },
+    {
+      "id": 78334,
+      "collectible": 1,
+      "slug": "78334-icy-touch",
+      "classId": 1,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1869,
+      "rarityId": 1,
+      "artistName": "James Ryman",
+      "manaCost": 1,
+      "name": "얼음 손길",
+      "text": "적에게 피해를 2 주고 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eee603d89d0b14628d5d06afc573742c982b5e1775ba34a64c4e91c2651f71ce.png",
+      "imageGold": "",
+      "flavorText": "목덜미에 손을 대 보겠습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7d7d455925515e811d6fead25bebda2b0ba220a922ddef9df5385ae54d29f25.png",
+      "keywordIds": [
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42808,
+      "collectible": 1,
+      "slug": "42808-ice-breaker",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1001,
+      "rarityId": 3,
+      "artistName": "Konstantin Turovec",
+      "attack": 1,
+      "manaCost": 3,
+      "durability": 3,
+      "name": "얼음 파괴자",
+      "text": "이 무기에 피해를 받은 \u003cb\u003e빙결\u003c/b\u003e 상태인 하수인을 무조건 처치합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c9f530c0dcc76f126077a979dc7c3a45de55f0102ebb2d1081d62dbf861f06b.png",
+      "imageGold": "",
+      "flavorText": "지구 온난화를 막기 위해 빙하는 파괴하지 않습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca42df727670141a0c16c965b60358e065f14d42d47f282ef996085751d6a37a.png",
+      "keywordIds": [
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 662,
+      "collectible": 1,
+      "slug": "662-frostbolt",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Steve Ellis",
+      "manaCost": 2,
+      "name": "얼음 화살",
+      "text": "캐릭터에게 피해를 3 주고 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3f477475c3fe543ec8550501913b001c4ccc58ab8199f569df599e3ea1cb18ef.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/265215e6dbb4d3a6dfac9c02c236e4e1791d31413a6f7b2541bad92b24d1cef2.png",
+      "flavorText": "이 카드를 낼 때는 \"열 좀 식히세요!\", \"얼음!\", 또는 \"손이 시려워, 꽁!\"이라고 외치는 게 관례입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c68157ed5800791335af1bab25089fb2043d56492a9c44e7cbbab6ba5025ade7.png",
+      "keywordIds": [
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68322,
+      "collectible": 1,
+      "slug": "68322-frostbolt",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Steve Ellis",
+      "manaCost": 2,
+      "name": "얼음 화살",
+      "text": "캐릭터에게 피해를 3 주고 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e58572b34ea565abb541bcd08111de81344c8b8f9be9a63248de8cea69dca351.png",
+      "imageGold": "",
+      "flavorText": "이 카드를 낼 때는 \"열 좀 식히세요!\", \"얼음!\", 또는 \"손이 시려워, 꽁!\"이라고 외치는 게 관례입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c68157ed5800791335af1bab25089fb2043d56492a9c44e7cbbab6ba5025ade7.png",
+      "keywordIds": [
+        10
+      ],
+      "copyOfCardId": 662
+    },
+    {
+      "id": 587,
+      "collectible": 1,
+      "slug": "587-frost-nova",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Josh Tallman",
+      "manaCost": 3,
+      "name": "얼음 회오리",
+      "text": "모든 적 하수인을 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1119a043a3bed01c33b390c044c4d145d51224d646f1ecd6195d0f6cefb174e6.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93b8d2427c17f8ccc8e0349394060854178466caf1d19ecd49825b22dd67765c.png",
+      "flavorText": "주의: 연속으로 쓰면 따귀를 맞을지도 모름",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96fa1ac6f2e736313a05042ed4a19396ce0df930e5b67a87f2ff38fcd275268b.png",
+      "keywordIds": [
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68324,
+      "collectible": 1,
+      "slug": "68324-frost-nova",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Josh Tallman",
+      "manaCost": 3,
+      "name": "얼음 회오리",
+      "text": "모든 적 하수인을 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4c35bcd7ef48233da70e17db884b72880aae22e0acc3b3cd039f7b9fa4a4d68.png",
+      "imageGold": "",
+      "flavorText": "주의: 연속으로 쓰면 따귀를 맞을지도 모름",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96fa1ac6f2e736313a05042ed4a19396ce0df930e5b67a87f2ff38fcd275268b.png",
+      "keywordIds": [
+        10
+      ],
+      "copyOfCardId": 587
+    },
+    {
+      "id": 66887,
+      "collectible": 1,
+      "slug": "66887-popsicooler",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 4,
+      "artistName": "Matt Dixon",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "얼음과자 냉동고",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 무작위 적 하수인 둘을 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2249f375af3ab5fd35be33513047871a9152b624a5edd54811164fa08a19a2e2.png",
+      "imageGold": "",
+      "flavorText": "얼음과자 성채에 면접 보러 가는 길입니다. 알터랙은 지날 뿐이고요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb7b13ca07ccf736357728ac63446f082c87b2ccbc634b6ecc01fe53e60d714a.png",
+      "keywordIds": [
+        10,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70255,
+      "collectible": 1,
+      "slug": "70255-lokholar-the-ice-lord",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 5,
+      "artistName": "James Ryman",
+      "health": 8,
+      "attack": 8,
+      "manaCost": 10,
+      "name": "얼음군주 로크홀라",
+      "text": "\u003cb\u003e속공\u003c/b\u003e, \u003cb\u003e질풍\u003c/b\u003e, 내 생명력이 15 이하면 비용이 (5) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1ab60afade60a3064c5110de8f2661f287f897504f59bc5adbdef79a2e916cd.png",
+      "imageGold": "",
+      "flavorText": "왜 얼음피 보초탑과 얼음피 주둔지란 이름이 붙었는지 아시겠죠?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be42547d13774390d8b84857ff189b4cffdd0afb8bde503146a18c8269b0ea67.png",
+      "keywordIds": [
+        11,
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70236,
+      "collectible": 1,
+      "slug": "70236-icehoof-protector",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Zoltan Boros",
+      "health": 10,
+      "attack": 2,
+      "manaCost": 6,
+      "name": "얼음발굽 수호자",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, 이 하수인에게 피해를 받은 캐릭터는 \u003cb\u003e빙결\u003c/b\u003e 상태가 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed9a46fc288faa60d785e215f99ce3ab2b980e8030d5ed00d32b0ef051c95c4d.png",
+      "imageGold": "",
+      "flavorText": "도끼에 감각이 없으니, 어떻게 된 거요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8a16c190905cae994a9b8d8421b0a401c4fa9772e47b86474434c2445497c09.png",
+      "keywordIds": [
+        1,
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42716,
+      "collectible": 1,
+      "slug": "42716-ice-walker",
+      "classId": 4,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 3,
+      "artistName": "James Ryman",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 2,
+      "name": "얼음방랑자",
+      "text": "내 영웅 능력이 대상을 \u003cb\u003e빙결\u003c/b\u003e 상태로도 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9df9418e4ae9a1bb0bf49abada14638365e31d96848b9b72a04e74e1b4ef8905.png",
+      "imageGold": "",
+      "flavorText": "얼음 \u003ci\u003e방랑자\u003c/i\u003e라고요? 방랑할 발이 없는 걸요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/06a1bdcb2cc6021f6675723dd488a5a2a99df4eee14f57b4f50acb1d3b65e251.png",
+      "keywordIds": [
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2725,
+      "collectible": 1,
+      "slug": "2725-icehowl",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 15,
+      "rarityId": 5,
+      "artistName": "John Polidora",
+      "health": 10,
+      "attack": 10,
+      "manaCost": 9,
+      "name": "얼음울음",
+      "text": "\u003cb\u003e돌진\u003c/b\u003e 영웅을 공격할 수 없습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21e3d5fad918f9c5ac30cd6c1db848aff0b2732503eaadd6e89f662fa04755e2.png",
+      "imageGold": "",
+      "flavorText": "하지만 모고르가 출동하면 어떨까?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9ad68548310ddc449478b1b50b230be426a84f84d98b1cd434b6b462b90aa45.jpg",
+      "keywordIds": [
+        4
+      ]
+    },
+    {
+      "id": 70320,
+      "collectible": 1,
+      "slug": "70320-capture-coldtooth-mine",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1626,
+      "rarityId": 4,
+      "artistName": "Zoltan Boros",
+      "manaCost": 2,
+      "name": "얼음이빨 광산 점령",
+      "text": "\u003cb\u003e선택 -\u003c/b\u003e 비용이 가장 낮은 카드를 뽑습니다. 또는 비용이 가장 높은 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b66ce15d6090dc5bc00317a1f7124a4d430400ae2024f0dc1533e3feebb3314.png",
+      "imageGold": "",
+      "flavorText": "금맥을 찾아냈다! 잠깐, 동전 하나밖에 없잖아.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/647f6fb5abfa62727dbb2842f658c26cea0f05682a2f33f8bd858402e078bb30.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 66874,
+      "collectible": 1,
+      "slug": "66874-coldtooth-yeti",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Jim Nelson",
+      "health": 5,
+      "attack": 1,
+      "manaCost": 3,
+      "name": "얼음이빨 설인",
+      "text": "\u003cb\u003e연계:\u003c/b\u003e 공격력을 +3 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a9ad2e563d339a4b3622bc399e2a98545ecff6e7fccbd80560eb76a5288c846.png",
+      "imageGold": "",
+      "flavorText": "두뇌 빙결 설인이 다가온다는 전조입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c75cbae4b73d6649e13d5c8d750e3357e0c2b95d29117747cbf331665a35aa3f.png",
+      "childIds": [
+        90,
+        69543,
+        68400
+      ],
+      "keywordIds": [
+        13
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 172,
+      "collectible": 1,
+      "slug": "172-ice-lance",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 3,
+      "rarityId": 1,
+      "artistName": "Alex Horley Orlandelli",
+      "manaCost": 1,
+      "name": "얼음창",
+      "text": "캐릭터를 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다. 이미 \u003cb\u003e빙결\u003c/b\u003e 상태라면, 피해를 4 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e80a38339b93ea20442f356e867b300b21c174b2d0ae5abb791f2d6729ba631.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6fe2ec18002dca4d5714f04f8f712b93922a7bd30e3e18c061d1b73ee6e42c4.png",
+      "flavorText": "창이 부서지지 않는 게 중요합니다. 부서지면 성능이 꽝인 \"얼음 조각\"이 나가니까요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8bdd3a10e8d49307523ac8fa4dad1ac5e0d2d70431545aa9ac8eaea80025b53.png",
+      "keywordIds": [
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69748,
+      "collectible": 1,
+      "slug": "69748-ice-lance",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 1,
+      "artistName": "Alex Horley Orlandelli",
+      "manaCost": 1,
+      "name": "얼음창",
+      "text": "캐릭터를 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다. 이미 \u003cb\u003e빙결\u003c/b\u003e 상태라면, 피해를 4 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb0eda281472044b92e42a52e940d4c117319a13da519232b8e760883f60b013.png",
+      "imageGold": "",
+      "flavorText": "창이 부서지지 않는 게 중요합니다. 부서지면 성능이 꽝인 \"얼음 조각\"이 나가니까요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8bdd3a10e8d49307523ac8fa4dad1ac5e0d2d70431545aa9ac8eaea80025b53.png",
+      "keywordIds": [
+        10
+      ],
+      "copyOfCardId": 172
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 77
+}

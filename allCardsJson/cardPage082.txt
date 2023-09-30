@@ -1,0 +1,1056 @@
+{
+  "cards": [
+    {
+      "id": 69590,
+      "collectible": 1,
+      "slug": "69590-feast-of-souls",
+      "classId": 14,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 3,
+      "artistName": "Anton Zemskov",
+      "manaCost": 1,
+      "name": "영혼의 향연",
+      "text": "이번 턴에 죽은 아군 하수인의 수만큼 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/368a10e74ed37a8a618aaa74fc572c4c9d182b2918294ae2bea73d22fefd33a9.png",
+      "imageGold": "",
+      "flavorText": "그야말로 영혼에 위안을 주는 맛이네요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63c1456b344c49138d63083d688636aa623c24c0efa6916acf9a522938921fa0.png",
+      "copyOfCardId": 56873,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 57187,
+      "collectible": 1,
+      "slug": "57187-soulbound-ashtongue",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1414,
+      "rarityId": 1,
+      "artistName": "Konstantin Turovec",
+      "health": 4,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "영혼이 결속된 잿빛혓바닥",
+      "text": "이 하수인은 피해를 받을 때마다 내 영웅에게도 그만큼의 피해를 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e967e946215f469ed2b0a4d40411d50d4879662f28e55af5f888e5a8f34a7990.png",
+      "imageGold": "",
+      "flavorText": "\"영혼이 결속된\"이 아니라 \"영혼에 집착하는\"이 더 정확한 표현이겠네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8eadbd6a67d4b7293ed6a4b135b0408488172b123db26ba0d090695d7d597a01.png"
+    },
+    {
+      "id": 59732,
+      "collectible": 1,
+      "slug": "59732-soulshard-lapidary",
+      "classId": 14,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1443,
+      "rarityId": 1,
+      "artistName": "Akkapoj T.",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 5,
+      "name": "영혼조각 세공사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에 있는 영혼 파편을 파괴하고 이번 턴에 내 영웅에게 공격력을 +5 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/084dc19040867ba733d9513ca7a2bd75bd2cbbe229e09e63e4728582c46466c1.png",
+      "imageGold": "",
+      "flavorText": "영혼의 힘에는 대가가 따르는 법입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9e52a03127012ef186a2c01d9d8e7d559a0b7a10fcc76fd0fd04d9894f20848.png",
+      "childIds": [
+        59723
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 78314,
+      "collectible": 1,
+      "slug": "78314-soulbreaker",
+      "classId": 1,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1776,
+      "rarityId": 1,
+      "artistName": "Hideaki Takamura",
+      "attack": 3,
+      "manaCost": 3,
+      "durability": 2,
+      "name": "영혼파괴자",
+      "text": "내 영웅이 공격하여 하수인을 처치한 후에, \u003cb\u003e시체\u003c/b\u003e를 2개 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/06d4c555cee0af7acd5ac36200b7387b7e79f275d4a500f177a36279b7fb39d6.png",
+      "imageGold": "",
+      "flavorText": "특별히 두 개 묶음으로 드리고 있습니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/107bfd90ae3905ef3fbd036c941b4fd48b670747b5ab684d740bb06bfa877bd4.png",
+      "keywordIds": [
+        247
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      },
+      "runeCost": {
+        "blood": 1,
+        "frost": 0,
+        "unholy": 0
+      }
+    },
+    {
+      "id": 60151,
+      "collectible": 1,
+      "slug": "60151-shardshatter-mystic",
+      "classId": 14,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1443,
+      "rarityId": 3,
+      "artistName": "Vladimir Kafanov",
+      "health": 2,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "영혼파편 비술사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에 있는 영혼 파편을 파괴하고 다른 \u003cb\u003e모든\u003c/b\u003e 하수인에게 피해를 3 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49aa51d093084acbfea345d66c642c8b385b578721916925cadd2667fbf5f396.png",
+      "imageGold": "",
+      "flavorText": "영혼까지 깨트리는 패배를 안기는 걸 즐깁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4dbbeac2c0a4826e2f4238a8fbffa8630a342d7c85e1e4b93b3ca71271e7a9b8.png",
+      "childIds": [
+        59723
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 59727,
+      "collectible": 1,
+      "slug": "59727-soulciologist-malicia",
+      "classId": 9,
+      "multiClassIds": [
+        9,
+        14
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1443,
+      "rarityId": 5,
+      "artistName": "Steven Prescott",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 7,
+      "name": "영혼학자 말리시아",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에 있는 영혼 파편 하나당 \u003cb\u003e속공\u003c/b\u003e 능력이 있는 3/3 영혼을 소환합니다. \u003ci\u003e( )\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9569a8871b168ce9b07ba0f791c7f4ff6a7a181558b4649b1eef758d602fe43.png",
+      "imageGold": "",
+      "flavorText": "당신 목숨이 소중하다면 이 학문을 \"유사 과학\"이라 부르지 마십시오.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b31a99457137bde7c2badec43175f32c38412263f53c0f155a8b9e8dd047aa73.png",
+      "childIds": [
+        59890,
+        59723
+      ],
+      "keywordIds": [
+        8,
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 59253,
+      "collectible": 1,
+      "slug": "59253-speaker-gidra",
+      "classId": 12,
+      "multiClassIds": [
+        2,
+        8
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1443,
+      "rarityId": 5,
+      "artistName": "Paul Mafayon",
+      "health": 4,
+      "attack": 1,
+      "manaCost": 3,
+      "name": "예언자 기드라",
+      "text": "\u003cb\u003e\u003cb\u003e속공\u003c/b\u003e, 질풍\u003c/b\u003e, \u003cb\u003e\u003cb\u003e주문폭주\u003c/b\u003e:\u003c/b\u003e 주문의 비용만큼 공격력과 생명력을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3bc0c2c6d08dc9a036c58ed67feac532ab8b9cc070d4fd28e8fa5fa9e2f6121f.png",
+      "imageGold": "",
+      "flavorText": "누구인가? 누가 잡담하는 소리를 내었는가 말이야!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d71bb9b42557b08d42d80f68a5cd3891fd6597ce89949f5f7133eb287b5cb001.png",
+      "keywordIds": [
+        11,
+        53,
+        88
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 40183,
+      "collectible": 1,
+      "slug": "40183-morgl-the-oracle",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 3,
+      "cardSetId": 17,
+      "rarityId": 4,
+      "artistName": "Tyson Murphy",
+      "health": 30,
+      "manaCost": 0,
+      "name": "예언자 모르글",
+      "text": "",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/290c64b4132763461dacb369b02d600ac9c2be259e70c77350cd09dd39abca8d.png",
+      "imageGold": "",
+      "flavorText": "",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a60b28b4a9bb70748ce68815582bbde7a0c2ebfdf70988adb51da88c5d655fc.png",
+      "parentId": 1066
+    },
+    {
+      "id": 9,
+      "collectible": 1,
+      "slug": "9-prophet-velen",
+      "classId": 6,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 5,
+      "artistName": "Wei Wang",
+      "health": 7,
+      "attack": 7,
+      "manaCost": 7,
+      "name": "예언자 벨렌",
+      "text": "내 주문과 영웅 능력의 피해량과 치유량을 2배 증가시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/488ae4e6e5145f7268b39bbe2601442320a16272ec5c132ec623b4813faaeee0.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a462cc7464e7d773b47aa2f681cc33b0593b3cee9c68d79c2684cdaafa111259.png",
+      "flavorText": "고향에서 추방당했고, 형제들은 사악하게 변했지만, 불만이 있는 것 같진 않네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/939d16ba15f490cee067c589e1bcf8c1a36ba5e6b244bac9a341a09fa2a7820c.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69933,
+      "collectible": 1,
+      "slug": "69933-prophet-velen",
+      "classId": 6,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 5,
+      "artistName": "Wei Wang",
+      "health": 7,
+      "attack": 7,
+      "manaCost": 7,
+      "name": "예언자 벨렌",
+      "text": "내 주문과 영웅 능력의 피해량과 치유량을 2배 증가시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/076d1a46775f6311e6dd9b54543aab04512cd7cc9e9c9ebb366ed47abcf552c2.png",
+      "imageGold": "",
+      "flavorText": "고향에서 추방당했고, 형제들은 사악하게 변했지만, 불만이 있는 것 같진 않네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/939d16ba15f490cee067c589e1bcf8c1a36ba5e6b244bac9a341a09fa2a7820c.png",
+      "copyOfCardId": 9
+    },
+    {
+      "id": 62876,
+      "collectible": 1,
+      "slug": "62876-soothsayers-caravan",
+      "classId": 6,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 3,
+      "artistName": "Kai Zhong",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 2,
+      "name": "예언자의 짐마차",
+      "text": "내 턴이 시작될 때, 상대편의 덱에서 주문을 복사하여 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6ab61829922063fe0a4d406c6aeae6892e09cc7304e1be99dce1f3f14e53ac75.png",
+      "imageGold": "",
+      "flavorText": "예언자의 능력이 저 엄니에서 나오는 걸지도 모릅니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6932eeb93edec6529f0efb6e86c156606c255c90a92eed7799d05d30e5e998fa.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 86150,
+      "collectible": 1,
+      "slug": "86150-prescience",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1776,
+      "rarityId": 3,
+      "artistName": "Patrik Bjorkstrom",
+      "manaCost": 4,
+      "name": "예지",
+      "text": "하수인을 둘 뽑습니다. 비용이 (5) 이상인 하수인의 수만큼 \u003cb\u003e도발\u003c/b\u003e 능력이 있는 2/3 영혼을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21b72aea9207f4c334b2ee85652412ffa37ff5ad14d09ca1ef13d59a0d029922.png",
+      "imageGold": "",
+      "flavorText": "잠깐, 바꾸지 마세요. 이 미래가 마음에 들어요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7ca26ce8a0e09a1f48a328ccbe07f867605ca2cd1d57c1a8c73a8a2f14a0c81.png",
+      "childIds": [
+        86140
+      ],
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 59151,
+      "collectible": 1,
+      "slug": "59151-sphere-of-sapience",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1443,
+      "rarityId": 5,
+      "artistName": "Jakub Kasper",
+      "attack": 0,
+      "manaCost": 1,
+      "durability": 4,
+      "name": "예지의 구슬",
+      "text": "내 턴이 시작될 때, 내 다음 카드를 봅니다. 내구도를 1 잃고 그 카드를 내 덱 맨 아래에 놓을 수 있습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8387d16b8072b5e7624c550ab33a227bae34d3d7f43205ef4494ab785601486e.png",
+      "imageGold": "",
+      "flavorText": "점술의 구슬이라고도 할 수 있겠네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f461d23ba7067ba2cfd7f8e78298deac84e1c4761349633504d64fcab95a8e77.png",
+      "childIds": [
+        62233
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2711,
+      "collectible": 1,
+      "slug": "2711-orgrimmar-aspirant",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 15,
+      "rarityId": 1,
+      "artistName": "Hideaki Takamura",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "오그리마 지원자",
+      "text": "\u003cb\u003e격려:\u003c/b\u003e 내 무기에 공격력을 +1 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e5bfc6b305ab580ce9ba12127e2b16e357ff86fd40da37ff705e5e1315c583e0.png",
+      "imageGold": "",
+      "flavorText": "\"오크 세 명 중에 네 명은 산수에 약하다고 하지.\" - 성난 주르게",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6d06138b42b2bb6fbafd2a89ae85bfe7fcae49841fb0395bf5aee40f74ffab8.jpg",
+      "keywordIds": [
+        20
+      ]
+    },
+    {
+      "id": 363,
+      "collectible": 1,
+      "slug": "363-onyxia",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 5,
+      "artistName": "Dany Orizio",
+      "health": 8,
+      "attack": 8,
+      "manaCost": 9,
+      "name": "오닉시아",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 전장을 1/1 새끼용으로 가득 채웁니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b15c1fda92b8ca3c8bb2cc1855d10fa1c244aee1c3414bece78cd68cf5fb8489.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/829c6e7364dcf087c220f4af5875cb87206a99f1bdb4ff3be87d544e00a87906.png",
+      "flavorText": "오닉시아는 여군주 카트라나 프레스톨로 변신한 채 오랫동안 스톰윈드 의회를 조종했습니다. 저 커다란 날개와 비늘을 보면 누구라도 알아챘을 거라고 생각하시겠죠?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/515a0408f5e8a240ae94984b38e8a974a8415064376fc9cacaf5821e8750bcaf.png",
+      "childIds": [
+        54
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69978,
+      "collectible": 1,
+      "slug": "69978-onyxia",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 5,
+      "artistName": "Dany Orizio",
+      "health": 8,
+      "attack": 8,
+      "manaCost": 9,
+      "name": "오닉시아",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 전장을 1/1 새끼용으로 가득 채웁니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d31fed0f2330349dc3a1b5ad413fc9e4f8f71cfe508d94b3d2cbb26c2793ec3.png",
+      "imageGold": "",
+      "flavorText": "오닉시아는 여군주 카트라나 프레스톨로 변신한 채 오랫동안 스톰윈드 의회를 조종했습니다. 저 커다란 날개와 비늘을 보면 누구라도 알아챘을 거라고 생각하시겠죠?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/515a0408f5e8a240ae94984b38e8a974a8415064376fc9cacaf5821e8750bcaf.png",
+      "childIds": [
+        54
+      ],
+      "keywordIds": [
+        8
+      ],
+      "copyOfCardId": 363
+    },
+    {
+      "id": 71247,
+      "collectible": 1,
+      "slug": "71247-scale-of-onyxia",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "BOSi Studio",
+      "manaCost": 7,
+      "name": "오닉시아 비늘",
+      "text": "내 전장을 \u003cb\u003e속공\u003c/b\u003e 능력이 있는 2/1 새끼용으로 가득 채웁니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3c664ba33c4b10dd2cadbcc5fc38b0b30c6652fac490d8867345e7a7791fe48.png",
+      "imageGold": "",
+      "flavorText": "비늘 줄게 새끼용 다오.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/636d453c826efcaad5debf69e73ac3a4cd40325e4334c94571ad23673a5c8bbf.png",
+      "childIds": [
+        71299
+      ],
+      "keywordIds": [
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 71250,
+      "collectible": 1,
+      "slug": "71250-onyxian-drake",
+      "classId": 10,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Mauricio Herrera",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "오닉시아의 비룡",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 내 방어도만큼 적 하수인에게 피해를 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/770010c633fdbba67ac6df06a919339a53317bf50b87379e113ba446808a48ea.png",
+      "imageGold": "",
+      "flavorText": "방어는 최선의 공격이죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/432c6dd47c7220ab631797d303a9c38b4fa036706dc3d6780dbfdd5709ffb6ae.png",
+      "keywordIds": [
+        1,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 71226,
+      "collectible": 1,
+      "slug": "71226-onyxian-warder",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Mauricio Herrera",
+      "health": 6,
+      "attack": 3,
+      "manaCost": 5,
+      "name": "오닉시아의 수호병",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 용족이 있으면, \u003cb\u003e속공\u003c/b\u003e 능력이 있는 2/1 새끼용을 2마리 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82581561ef8a64652810a4843f3b0276f545847b2c3646f22c78d7421622d0ef.png",
+      "imageGold": "",
+      "flavorText": "새끼용이 문제를 해결해 주진 않지만, 확실히 아프긴 할 거예요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c620d8cfdb6f684980f29dac6afb498fd79ccd134d5b5c7a6ba608d12ad9f22.png",
+      "childIds": [
+        71299
+      ],
+      "keywordIds": [
+        8,
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 90606,
+      "collectible": 1,
+      "slug": "90606-bounce-around-ft-garona",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1809,
+      "rarityId": 5,
+      "artistName": "Caroline Gariba",
+      "manaCost": 3,
+      "name": "오락가락 (ft. 가로나)",
+      "text": "모든 아군 하수인을 내 손으로 다시 가져옵니다. 이번 턴에 그 하수인들의 비용이 (1)이 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aad14122ba4fc81fe512985523db689afd35a420d38194e1eb0191e3a7c16c52.png",
+      "imageGold": "",
+      "flavorText": "한 곡 더.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0438d10f0ad38c59c0830cb0a97e0653e19ba819151be2e70dda1d22687c6fbc.png"
+    },
+    {
+      "id": 42462,
+      "collectible": 1,
+      "slug": "42462-arrogant-crusader",
+      "classId": 5,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 3,
+      "artistName": "Anton Zemskov",
+      "health": 2,
+      "attack": 5,
+      "manaCost": 4,
+      "name": "오만한 성전사",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 상대편의 턴이면, 2/2 구울을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43e97da68ff38fad278ec4aa4743b2c0665cf45266b9cf44ad783d0a31c99e95.png",
+      "imageGold": "",
+      "flavorText": "구울한테 물리기 전에도 오만하기 그지없었습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8162d13295d7f1bf70dc14f7c3f49025faa314c1b4ab79027d0e041851226ee7.png",
+      "childIds": [
+        45305
+      ],
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 53138,
+      "collectible": 1,
+      "slug": "53138-omega-devastator",
+      "classId": 10,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1130,
+      "rarityId": 4,
+      "artistName": "Jim Nelson",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "오메가 섬멸기",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 마나 수정이 10개면, 하수인에게 피해를 10 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9c3dcddfe5550de01609fc17f1bbd876a3455bb92f63b4ee1feb30d7726c9ac.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3331cac5d59ef5af528429c608edb65ebbf02cf421f635d29816fc24eed6b841.png",
+      "flavorText": "알파 섬멸기는 섬멸 능력이 부족했습니다. 베타 섬멸기는 섬멸 능력이 과했습니다. 오메가 섬멸기가 되어서야 완벽해졌죠!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f8ca3497f18c22902e7ffcf9132483a6834fffadbe803ed3301ee3e1518f78a.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 48508,
+      "collectible": 1,
+      "slug": "48508-omega-defender",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1127,
+      "rarityId": 4,
+      "artistName": "Jim Nelson",
+      "health": 6,
+      "attack": 2,
+      "manaCost": 4,
+      "name": "오메가 수호자",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 내 마나 수정이 10개면, 공격력을 +10 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27f2da615c856c411fa3d8a43f9199fa8d5eee133dcdaf4312b62588cb0d2084.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99928060548aa85654431ba951d54bfc14873b88bc9f99890e414d3a5f0844b6.png",
+      "flavorText": "\"항복해라. 마나 수정이 10개 모일 때까지 기회를 주겠다.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79a59eb4ddbbc5e5ff4100657b287c01f1308770fe0821859ca85180e752b5cb.png",
+      "keywordIds": [
+        1,
+        8
+      ]
+    },
+    {
+      "id": 49167,
+      "collectible": 1,
+      "slug": "49167-omega-agent",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1127,
+      "rarityId": 4,
+      "artistName": "James Ryman",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "오메가 요원",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 마나 수정이 10개면, 이 하수인을 둘 복사하여 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/01cf533c484c2f41bf750278f9cb46409e2b0c28168bb9bcab29f4a464ef32c4.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b1c9051a51ec88b56c0368a8cdc76ac56bbc95f78183e46ba1d08612ae9c33a.png",
+      "flavorText": "\"요원들아, 달려들어!\" \"헛것이 보이나?\" \"헛것이 보이나?\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b825ab263fca6abd66edd02a73f53e3f87718a22e97a2709ca959d77461adc76.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 48099,
+      "collectible": 1,
+      "slug": "48099-omega-medic",
+      "classId": 6,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1127,
+      "rarityId": 3,
+      "artistName": "James Ryman",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "오메가 의무병",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 마나 수정이 10개면, 내 영웅의 생명력을 10 회복시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d328f0b5bb72e5832ad8729479f9d3de33bf287990cdd4286e7bc4b462518ab3.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b446bb68750a6b076fbcdc2a306b891126a9c5239b478e283b14afb340acb3b.png",
+      "flavorText": "오래 기다려야 소중하다. 치유도 그렇다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d655c8370deaa4b632e1e9b6607a2acdfda894304c41efeac0776db84d3fa31a.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 49175,
+      "collectible": 1,
+      "slug": "49175-omega-mind",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1127,
+      "rarityId": 4,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "오메가 의식",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 마나 수정이 10개면, 이번 턴에 내 주문이 \u003cb\u003e생명력 흡수\u003c/b\u003e를 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b14857ea6dac726cf1c9c8e5a79de23b963acea9ffacac539e7d1a19538c0b96.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26fe97b8316a33babfd8ef6853408cae12f82a53e2833a5b9e61680ef7913a87.png",
+      "flavorText": "부업으로 자신이 만든 틴트 \"오메가 레드\"를 팝니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61dcf7c194775ff911e1a534350876eb34fd4c7113f0f1074cee47ac5f1347d2.png",
+      "keywordIds": [
+        8,
+        38
+      ]
+    },
+    {
+      "id": 48515,
+      "collectible": 1,
+      "slug": "48515-omega-assembly",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1127,
+      "rarityId": 3,
+      "artistName": "Daren Bader",
+      "manaCost": 1,
+      "name": "오메가 조립 시설",
+      "text": "기계를 \u003cb\u003e발견\u003c/b\u003e합니다. 내 마나 수정이 10개면, 카드 3장을 모두 가집니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf9986025507560ed21e896e800e37a127efc8edc1315f1f903bb5c4198d9f8d.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1010c56db0fcb3617dd9ae1616b3b60643da0233b23c1f930305b8ce304b8227.png",
+      "flavorText": "\"허나 거절한다. 나, 박사 붐이 가장 좋아하는 것 중 하나는 하나만 선택하라는 카드들을 모두 가져오는 것이다.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11b1969f4e9f8c2df0c07958bd3b5292d77d2faa3dda60cd7b9748c2a36aca7a.png",
+      "keywordIds": [
+        21
+      ]
+    },
+    {
+      "id": 77428,
+      "collectible": 1,
+      "slug": "77428-crud-caretaker",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1691,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 4,
+      "name": "오물 관리인",
+      "text": "\u003cb\u003e전투의 함성\u003c/b\u003e: \u003cb\u003e도발\u003c/b\u003e 능력이 있는 3/5 정령을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9b822e26927153c50179cbd0203a5c91508c54060308245fe4fcb109fdae7d42.png",
+      "imageGold": "",
+      "flavorText": "분리수거를 안 해도 돼서 참 좋겠네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fae72f9dadf2b3dbc257af5f2063ced09be423add18fdc25c05f50eb1e09470.png",
+      "childIds": [
+        79529
+      ],
+      "keywordIds": [
+        1,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 55454,
+      "collectible": 1,
+      "slug": "55454-chromatic-egg",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 4,
+      "artistName": "Jason Kang",
+      "health": 3,
+      "attack": 0,
+      "manaCost": 5,
+      "name": "오색 알",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 부화할 용족을 \u003cb\u003e발견\u003c/b\u003e합니다. (비밀) \u003cb\u003e죽음의 메아리:\u003c/b\u003e 부화합니다!",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f97866701c93eb4a0302aa2eaa864a9628718b2e934a5dda987377b74db037c8.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7c6383a61ad39860c28249684e0deef82582c35571ecd862152d875e076a444.png",
+      "flavorText": "네파리안은 두 가지를 잘 만든다고 알려져 있습니다. 바로 끔찍한 괴물과 맛있는 아침 식사죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8b7d8ae56936d24abf50c648286f3d8b2e8b3ae5266fa739b4df1906381abf5.png",
+      "keywordIds": [
+        8,
+        12,
+        21
+      ]
+    },
+    {
+      "id": 85034,
+      "collectible": 1,
+      "slug": "85034-prismatic-elemental",
+      "classId": 4,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 4,
+      "artistName": "Daniil Kudriavtsev",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 2,
+      "name": "오색 정령",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 무작위 직업의 주문을 \u003cb\u003e발견\u003c/b\u003e합니다. 그 주문의 비용이 (1) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91d142bdf55013a517dedce33ba64c71a6c7813b3189c07263ebe295bbac2978.png",
+      "imageGold": "",
+      "flavorText": "마법 수호자로 선택되지 못해 대단히 상심한 상태입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26e72a600b6227f9b0435f47c37b4404021813e024aeb080a95e27c544695fc5.png",
+      "keywordIds": [
+        8,
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 62705,
+      "collectible": 1,
+      "slug": "62705-oasis-thrasher",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 1,
+      "artistName": "Luca Zontini",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "오아시스 난동꾼",
+      "text": "\u003cb\u003e광폭:\u003c/b\u003e 적 영웅에게 피해를 3 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e78cf24d5814287eb4265ab3037bed6eefda00436651fc1960d4eaa5e80a2d41.png",
+      "imageGold": "",
+      "flavorText": "정예 타우렌 족장의 공연 입장권 예매에 실패했습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2285e44fcc28faa9575c6ab77891df7a01d857d34845fcd888d9d6d20cb2ed1a.png",
+      "keywordIds": [
+        99
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 1370,
+      "collectible": 1,
+      "slug": "1370-oasis-snapjaw",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Ittoku",
+      "health": 7,
+      "attack": 2,
+      "manaCost": 4,
+      "name": "오아시스 무쇠턱거북",
+      "text": "",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/744d91e2b37851fceae30021e73ce07f81afb6e2ee7ca4bc4b6d1a9cd68d372a.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4275d33fd8e333eb408a3e89ffac39ef5043dd515e413db256761bb199e7be32.png",
+      "flavorText": "장래희망이 오아시스 용거북이라네요. 그런다고 날아다니거나 불을 뿜지도 못할 텐데 말이죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a2f88804768f2519ace37ee79ffeba3eb7a1daa4e6cdfaef2bf73cfa1bd7f90.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68380,
+      "collectible": 1,
+      "slug": "68380-oasis-snapjaw",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Ittoku",
+      "health": 7,
+      "attack": 2,
+      "manaCost": 4,
+      "name": "오아시스 무쇠턱거북",
+      "text": "",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca2e3aa310a647999fb95d5abd740232a1ccb49b0ff7b79fbaa446191132d440.png",
+      "imageGold": "",
+      "flavorText": "장래희망이 오아시스 용거북이라네요. 그런다고 날아다니거나 불을 뿜지도 못할 텐데 말이죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a2f88804768f2519ace37ee79ffeba3eb7a1daa4e6cdfaef2bf73cfa1bd7f90.png",
+      "copyOfCardId": 1370
+    },
+    {
+      "id": 63553,
+      "collectible": 1,
+      "slug": "63553-oasis-ally",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1525,
+      "rarityId": 1,
+      "artistName": "Anzka Nguyen",
+      "manaCost": 3,
+      "name": "오아시스 아군",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 내 하수인이 공격받으면, 3/6 물의 정령을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f5ac69b3748d03f33e410fde211af80d92f255686577dccb13bcd3d02a66f27.png",
+      "imageGold": "",
+      "flavorText": "봐 줘서 배치기 입수를 시킨 것입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/04da8323a34906bba2d70ff71697975898b3959ab76b7ee0a0c593f25a6e78f7.png",
+      "childIds": [
+        395
+      ],
+      "keywordIds": [
+        5
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 54489,
+      "collectible": 1,
+      "slug": "54489-oasis-surger",
+      "classId": 2,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1158,
+      "rarityId": 1,
+      "artistName": "MAR Studio",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 5,
+      "name": "오아시스 정령",
+      "text": "\u003cb\u003e속공\u003c/b\u003e, \u003cb\u003e선택 -\u003c/b\u003e +2/+2를 얻습니다. 또는 이 하수인을 복사하여 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1d95533852f26e03294c18951a2a3eed55e233bea7c3dcf99790c7835f20342.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b1827c256e2121030963f8f669a91dd34fbd9f4b737faee97d1d78e056ee32da.png",
+      "flavorText": "지친 영혼의 빛 같은 존재입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b9e401028ee946b5b59d3b3b491f368a181a2c7f944230113bd1213a16dc7f5.png",
+      "keywordIds": [
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 658,
+      "collectible": 1,
+      "slug": "658-leper-gnome",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 1,
+      "artistName": "Glenn Rane",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 1,
+      "name": "오염된 노움",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 적 영웅에게 피해를 2 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8b31a9edbdc4150e0361f36a0c492d03bdd0d20b2b3003c96c81a993b165fc34.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74d509134396e23420536f9bc5a4ae88d013d12d38842e2e7be10db28d18e9ba.png",
+      "flavorText": "그는 단지 친구가 필요할 뿐입니다. 하지만 언제나 거부당하죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57061445a085ea61e7aa7247a42b528ad865096fda3adb19d5c0b2b9134b5af2.png",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69821,
+      "collectible": 1,
+      "slug": "69821-leper-gnome",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 1,
+      "artistName": "Glenn Rane",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 1,
+      "name": "오염된 노움",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 적 영웅에게 피해를 2 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55b5f676f39cfd0b411a0a3e91ad95aa1bf7e0d42eacc7d4d48cb9dfcef92e99.png",
+      "imageGold": "",
+      "flavorText": "그는 단지 친구가 필요할 뿐입니다. 하지만 언제나 거부당하죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/57061445a085ea61e7aa7247a42b528ad865096fda3adb19d5c0b2b9134b5af2.png",
+      "keywordIds": [
+        12
+      ],
+      "copyOfCardId": 658
+    },
+    {
+      "id": 101563,
+      "collectible": 1,
+      "slug": "101563-contaminated-lasher",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1858,
+      "rarityId": 3,
+      "artistName": "Slawomir Maniak",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "오염된 덩굴손",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이번 게임에서 주문을 5회 이상 시전했으면, 마나 수정을 4개 회복합니다. \u003ci\u003e( 회 남음!)\u003c/i\u003e \u003ci\u003e(달성!)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a2736dfc24fd5f1ce58f76e2cb2d9454ad007f34c9e994d9f89c8189164508a.png",
+      "imageGold": "",
+      "flavorText": "날 타락시킨다, 안 시킨다, 타락시킨다, 안 시킨다...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c695baae17154ec5156eee83c0b72e9fdbeca80d2f6afdcacb835cb0bce37175.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 38961,
+      "collectible": 1,
+      "slug": "38961-polluted-hoarder",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 21,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "health": 2,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "오염된 수집가",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36a7bf4d2d52792d6c3670d83961bde54973b5b247108f820807e53c486a5803.png",
+      "imageGold": "",
+      "flavorText": "입찰했다간 당신마저 전리품이 될 수 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0da136d0c484e18cf775f49a899e0ccd4054224eb8c4078c0b9d64747ee90383.jpg",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 101076,
+      "collectible": 1,
+      "slug": "101076-tainted-remnant",
+      "classId": 4,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1858,
+      "rarityId": 1,
+      "artistName": "Jakub Kasper",
+      "health": 4,
+      "attack": 7,
+      "manaCost": 5,
+      "name": "오염된 잔존물",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내가 이전 턴에 정령을 냈다면, 모든 적에게 7의 피해를 무작위로 나누어 입힙니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db17f27625e96a655ef13709c869592fce8ce49e6df32e300de120baddcdd5e4.png",
+      "imageGold": "",
+      "flavorText": "보는 눈이 많아 좀 부담스럽네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1640776a84230adfa17b77633bea66fd1507077278cb0afa73085d04a8dc1a71.png",
+      "keywordIds": [
+        8
+      ]
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 82
+}

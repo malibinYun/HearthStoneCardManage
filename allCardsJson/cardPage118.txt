@@ -1,0 +1,1078 @@
+{
+  "cards": [
+    {
+      "id": 469,
+      "collectible": 1,
+      "slug": "469-blood-imp",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 1,
+      "artistName": "Bernie Kang",
+      "health": 1,
+      "attack": 0,
+      "manaCost": 1,
+      "name": "피의 임프",
+      "text": "\u003cb\u003e은신\u003c/b\u003e, 내 턴이 끝날 때, 다른 무작위 아군 하수인에게 생명력을 +1 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df5303d9ea705139e2831a6fa3b097a8d5551264496a51b691dd9cfac0a4bdcb.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b626442cc98b0725289f9e5fbb149857421a177b4c18e3e88b365d5fdc9b4520.png",
+      "flavorText": "임프들은 숨어서 주위의 모두를 격하게 도발하는 행위를 즐깁니다. 그냥 즐깁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93df16ced581db09a2fc41545cbf299d819c31a74f11fabf41cb801b2b59a46d.png",
+      "keywordIds": [
+        6
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69751,
+      "collectible": 1,
+      "slug": "69751-blood-imp",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 1,
+      "artistName": "Bernie Kang",
+      "health": 1,
+      "attack": 0,
+      "manaCost": 1,
+      "name": "피의 임프",
+      "text": "\u003cb\u003e은신\u003c/b\u003e, 내 턴이 끝날 때, 다른 무작위 아군 하수인에게 생명력을 +1 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f0f1f84763bf68daf0932359c9c75faa2d35e0599ebd023edee9e0e1d2b0d51.png",
+      "imageGold": "",
+      "flavorText": "임프들은 숨어서 주위의 모두를 격하게 도발하는 행위를 즐깁니다. 그냥 즐깁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93df16ced581db09a2fc41545cbf299d819c31a74f11fabf41cb801b2b59a46d.png",
+      "keywordIds": [
+        6
+      ],
+      "copyOfCardId": 469
+    },
+    {
+      "id": 59720,
+      "collectible": 1,
+      "slug": "59720-blood-herald",
+      "classId": 14,
+      "multiClassIds": [
+        3,
+        14
+      ],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1443,
+      "rarityId": 1,
+      "artistName": "Ivan Fomin",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 5,
+      "name": "피의 전령",
+      "text": "내 손에 이 카드가 있으면, 아군 하수인이 죽을 때마다 +1/+1을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/96fadf13d308f61b33423a51032b13dbc028b32fa654e1b09fd3fb73b3f55ae9.png",
+      "imageGold": "",
+      "flavorText": "\"빨간 피가 날개를 펼쳐줘요.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a79e319d75761d5b0caf656b8832dc436136956c2a2731919eccb125b8a7e237.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 38848,
+      "collectible": 1,
+      "slug": "38848-blood-warriors",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 21,
+      "rarityId": 4,
+      "artistName": "A. J. Nazzaro",
+      "manaCost": 3,
+      "name": "피의 전사들",
+      "text": "피해를 받은 아군 하수인들을 복사하여 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3726ec88fc1ecfb5f5362a827bf74fc4b8583c3cf69e1c0d52eaca695e751fc.png",
+      "imageGold": "",
+      "flavorText": "혈기사들과는 험악한 관계를 유지하고 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3496495d78218825eb785b0081dd2e4634c25d61789c9136609695580c0a7a5c.jpg",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 67574,
+      "collectible": 1,
+      "slug": "67574-bloodseeker",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Studio Hive ",
+      "attack": 2,
+      "manaCost": 2,
+      "durability": 2,
+      "name": "피의 추적자",
+      "text": "\u003cb\u003e명예로운 일격:\u003c/b\u003e +1/+1을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb7e92707cb40a1aa1a9d6661589cb3f52c3988470da28f2db7ba4bb2c7a60c4.png",
+      "imageGold": "",
+      "flavorText": "뒤에서 공격하는 게 명예롭지 못하다는 말은 없었잖아?!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/663e7562818e0dbf56152dab30c673bf5451e6717228c63484ebf9e116b44257.png",
+      "keywordIds": [
+        100
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42700,
+      "collectible": 1,
+      "slug": "42700-blood-razor",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1001,
+      "rarityId": 1,
+      "artistName": "Joe Wilson",
+      "attack": 2,
+      "manaCost": 4,
+      "durability": 2,
+      "name": "피의 칼날",
+      "text": "\u003cb\u003e전투의 함성과 죽음의 메아리:\u003c/b\u003e \u003cb\u003e모든\u003c/b\u003e 하수인에게 피해를 1 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e270ad0081d00bd43e4bcc851c6f082adae3c0a12ca03300a8166bc579348c40.png",
+      "imageGold": "",
+      "flavorText": "아주 날카롭습니다. 주의: 지나치게 날카로울 수 있음.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b98f4da801a7f18179a57ab39ffd9638840fc625deb8dd7b0e114d6b2f48b3a3.png",
+      "keywordIds": [
+        8,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 87326,
+      "collectible": 1,
+      "slug": "87326-construct-quarter",
+      "classId": 1,
+      "multiClassIds": [],
+      "cardTypeId": 39,
+      "cardSetId": 1776,
+      "rarityId": 3,
+      "artistName": "Mooncolony ",
+      "health": 2,
+      "manaCost": 4,
+      "name": "피조물 지구",
+      "text": "아군 하수인을 처치하고 \u003cb\u003e속공\u003c/b\u003e 능력이 있는 4/5 언데드를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aad9835fa9ab43bbc9c32b41b8029d6128faa228d667bb0cd6f38db7a0a19f82.png",
+      "imageGold": "",
+      "flavorText": "언데드다! 언데드가 나타났다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ccfac3245947f8bd725097fc483fef07221f4302e9c3fee0c3dca2c72a3785ca.png",
+      "childIds": [
+        78572
+      ],
+      "keywordIds": [
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 97825,
+      "collectible": 1,
+      "slug": "97825-pit-stop",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1858,
+      "rarityId": 3,
+      "artistName": "Mauricio Herrera",
+      "manaCost": 2,
+      "name": "피트 스탑",
+      "text": "내 덱에서 기계를 \u003cb\u003e발견\u003c/b\u003e합니다. 그 기계에게 +2/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3272cfbf71f955cb8469f0baba7f22147e555ba610893e4bd104a77d67134a8d.png",
+      "imageGold": "",
+      "flavorText": "교체 3초컷.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f001e6a2c026ed937b0809c03b325df6a9c65f2e7c2d941de9686db12b6ed77f.png",
+      "keywordIds": [
+        21
+      ]
+    },
+    {
+      "id": 48480,
+      "collectible": 1,
+      "slug": "48480-lab-recruiter",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1127,
+      "rarityId": 1,
+      "artistName": "Zoltan Boros",
+      "health": 2,
+      "attack": 3,
+      "manaCost": 2,
+      "name": "피험자 모집가",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 아군 하수인을 셋 복사하여 내 덱에 섞어 넣습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2254da900539c33301b67e43fd35b26a8caa972cd371d83f360918c17866a57f.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce41628d5ed331751c8eca338e807dc5233413f82edfb82f8c7a3519b454dd4f.png",
+      "flavorText": "화학 연구실에 합류하십시오! 어떤 해답이든 찾을 수 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7f3277ea760f095560b6e5f9fbcbbbdc9bbd2140072ee247c1426123b6b35fe7.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 2948,
+      "collectible": 1,
+      "slug": "2948-sir-finley-mrrgglton",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 14,
+      "cardTypeId": 4,
+      "cardSetId": 20,
+      "rarityId": 5,
+      "artistName": "Matt Dixon",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "핀리 므르글턴 경",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 새로운 기본 영웅 능력을 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56125f6164c96e0c832fbf35bfcb4741b1d384a8d2bbeb6daa332d4f7cc4a561.png",
+      "imageGold": "",
+      "flavorText": "공용어는 물론이고, 멀록어와 13가지의 방언을 구사할 수 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/efcc665d46ddffaae5d3d314282ec62d8770f20a9d83b6858c4aadb7f52f8704.jpg",
+      "childIds": [
+        78162,
+        60224,
+        1123,
+        229,
+        807,
+        472,
+        479,
+        730,
+        687,
+        300,
+        725,
+        78164,
+        1652,
+        485
+      ],
+      "keywordIds": [
+        8,
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 1092,
+      "collectible": 1,
+      "slug": "1092-mortal-coil",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Matt Gaser",
+      "manaCost": 1,
+      "name": "필멸의 고리",
+      "text": "하수인에게 피해를 1 줍니다. 이 피해로 하수인이 죽으면, 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0de1ada9f25e858b990d677a0e2fa6e87b29c49ad20a8d24a9a17a9d819d56d.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35ba722aaf8081c65ef3a95c0e4a79cd08c2d8ee961ee1aef84dc7e1764b2132.png",
+      "flavorText": "굳이 마나를 해골 모양으로 변형시킨 노력이 가상하지 않습니까? 상으로 카드 1장은 줍시다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f01d8be75ef1e311ffa3b16b42c5493d921f0c77838c758ccb5aff270f0d7c16.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68459,
+      "collectible": 1,
+      "slug": "68459-mortal-coil",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Matt Gaser",
+      "manaCost": 1,
+      "name": "필멸의 고리",
+      "text": "하수인에게 피해를 1 줍니다. 이 피해로 하수인이 죽으면, 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/efe7fbc7b9f01f28bbb6a3a8699fff8d58b12ef867f89dcfd09a081f3f6c256c.png",
+      "imageGold": "",
+      "flavorText": "굳이 마나를 해골 모양으로 변형시킨 노력이 가상하지 않습니까? 상으로 카드 1장은 줍시다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f01d8be75ef1e311ffa3b16b42c5493d921f0c77838c758ccb5aff270f0d7c16.png",
+      "copyOfCardId": 1092
+    },
+    {
+      "id": 69553,
+      "collectible": 1,
+      "slug": "69553-mortal-coil",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Matt Gaser",
+      "manaCost": 1,
+      "name": "필멸의 고리",
+      "text": "하수인에게 피해를 1 줍니다. 이 피해로 하수인이 죽으면, 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bbea64be222a9d4fd8ca06bf15aa5d64d9a9f7f446d0c07c9985ccd997457184.png",
+      "imageGold": "",
+      "flavorText": "굳이 마나를 해골 모양으로 변형시킨 노력이 가상하지 않습니까? 상으로 카드 1장은 줍시다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4cab638818aeb1a5a95ca98511d01fe2b2d17cc746f8112ce5c59c41d406b7df.png",
+      "copyOfCardId": 1092,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 97530,
+      "collectible": 1,
+      "slug": "97530-mortal-eradication",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1858,
+      "rarityId": 3,
+      "artistName": "Slawomir Maniak",
+      "manaCost": 3,
+      "name": "필멸자 박멸",
+      "text": "모든 적 하수인에게 5의 피해를 무작위로 나누어 입힙니다. 처치한 하수인의 수만큼 내 영웅의 생명력을 2 회복시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/95d014139cae2e57a4b9a3fec6c5b151fe3c6198f065cf44a3737fd12b4649f9.png",
+      "imageGold": "",
+      "flavorText": "생명력이 6 이상인 모든 건 죽지 않습니다. 길거리 요술쟁이도 마찬가지죠. 설정 오류를 해결하기 위해 길거리 요술쟁이를 너프합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed31d31d0032eb79cba31c975a34b439a82be35666593b7859ed5ce8f499a00e.png"
+    },
+    {
+      "id": 804,
+      "collectible": 1,
+      "slug": "804-mortal-strike",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 3,
+      "rarityId": 3,
+      "artistName": "Zoltan \u0026 Gabor",
+      "manaCost": 4,
+      "name": "필사의 일격",
+      "text": "피해를 4 줍니다. 내 생명력이 12 이하라면, 피해를 6 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4a65c254de37711f44fb6c68774eb7a0c95883c9ba482f1faba0e87144150f2.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e6df4795d5dbe111cad25b048482bbdaa55cc582edfab4b4647119b703e7f5a.png",
+      "flavorText": "\"기술을 하나밖에 쓸 수 없다면, 필사의 일격을 쓰라.\" - 전사의 십계명, 여섯 번째 줄",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcbadbeae755b6c7975e4808949dcf7f5100caddc0efd09686d71340e82a0886.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69953,
+      "collectible": 1,
+      "slug": "69953-mortal-strike",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 3,
+      "artistName": "Zoltan \u0026 Gabor",
+      "manaCost": 4,
+      "name": "필사의 일격",
+      "text": "피해를 4 줍니다. 내 생명력이 12 이하라면, 피해를 6 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f43fcc22e44938004b9a58488d801ffc864020672fe69623cd1d9d0815552b02.png",
+      "imageGold": "",
+      "flavorText": "\"기술을 하나밖에 쓸 수 없다면, 필사의 일격을 쓰라.\" - 전사의 십계명, 여섯 번째 줄",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcbadbeae755b6c7975e4808949dcf7f5100caddc0efd09686d71340e82a0886.png",
+      "copyOfCardId": 804
+    },
+    {
+      "id": 42824,
+      "collectible": 1,
+      "slug": "42824-desperate-stand",
+      "classId": 5,
+      "multiClassIds": [],
+      "spellSchoolId": 5,
+      "cardTypeId": 5,
+      "cardSetId": 1001,
+      "rarityId": 3,
+      "artistName": "Grace Liu",
+      "manaCost": 2,
+      "name": "필사적인 저항",
+      "text": "하수인에게 \"\u003cb\u003e죽음의 메아리:\u003c/b\u003e 이 하수인을 생명력이 1인 상태로 다시 소환함\" 능력을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4225c17f137d59804a71bb937ce5d98c247184d38a05911eaf6e1cc0d1fe2e6.png",
+      "imageGold": "",
+      "flavorText": "도와주는 건 고맙지만, 애초에 죽이지 않았으면 이럴 일도 없었겠죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f301fa2dd84f4ade1ad3ceacc49c95916a6c7d387b2815334611e0d56d89ee84.png",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 78394,
+      "collectible": 1,
+      "slug": "78394-kelthuzad-the-inevitable",
+      "classId": 4,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1691,
+      "rarityId": 5,
+      "artistName": "L. Lullabi \u0026 K. Turovec",
+      "health": 8,
+      "attack": 6,
+      "manaCost": 8,
+      "name": "필연의 켈투자드",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 불안정한 해골들을 부활시킵니다. 전장에 소환하지 못한 해골들은 즉시 폭발합니다! \u003ci\u003e( )\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86dd9c04409e7849d09816c965de8a589cd6ddda57a43921a90438ab8528c041.png",
+      "imageGold": "",
+      "flavorText": "켈투자드가 비글스워스 씨의 아홉 개의 목숨을 잠시 빌린 모양입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/343af46bcbb0571039047ebc37eaea4812c36b4fcd0617299e26a37c717873ed.png",
+      "childIds": [
+        84169
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 84737,
+      "collectible": 1,
+      "slug": "84737-sanguine-soldier",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 3,
+      "artistName": "Vika Yarova",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 1,
+      "name": "핏빛 병사",
+      "text": "\u003cb\u003e천상의 보호막\u003c/b\u003e \u003cb\u003e전투의 함성:\u003c/b\u003e 내 영웅에게 피해를 2 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c605b927456cec0e78ba2324f73034db74a200756c17c076c87ebd4b8dcc65e.png",
+      "imageGold": "",
+      "flavorText": "대신 아파해줄 사람이 필요할 뿐이라네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c277b64469be2a9d99a846b39362ebb85715a754b3abb39e186efad39f4f0133.png",
+      "keywordIds": [
+        3,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 82313,
+      "collectible": 1,
+      "slug": "82313-sanguine-depths",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 39,
+      "cardSetId": 1691,
+      "rarityId": 3,
+      "artistName": "Mooncolony ",
+      "health": 3,
+      "manaCost": 1,
+      "name": "핏빛 심연",
+      "text": "하수인에게 피해를 1 주고 공격력을 +2 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70681da7b2bc9cf6f8cfaca74dde369564079b94877ab8a1ee4d7809bc4a7a66.png",
+      "imageGold": "",
+      "flavorText": "나스리아 성채에서 뼈는 발견 못해도, 영혼은 많다는 건 확실합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7866ca55e6a59c13a84c849370a66fb01938bbb6318499782c72c4a4c6d27a46.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 45321,
+      "collectible": 1,
+      "slug": "45321-sanguine-reveler",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 1,
+      "artistName": "Arthur Bozonnet",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "핏빛 하객",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 아군 하수인을 처치하고 +2/+2를 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/93b9022845cc25c09e64469620657123df10abbf249d940923636b274cfa3028.png",
+      "imageGold": "",
+      "flavorText": "둘이 마시다 둘이 죽어도 모를 맛입니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b09025141b7ea168a9f921f01fba6eb5e0abb50a354b541ab8184296eec23dfe.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41872,
+      "collectible": 1,
+      "slug": "41872-bloodbloom",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 27,
+      "rarityId": 4,
+      "artistName": "Tyler Walpole",
+      "manaCost": 4,
+      "name": "핏빛꽃",
+      "text": "이번 턴에 내가 시전하는 다음 주문은 마나 대신 생명력을 비용으로 사용합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ed8ea0ad18306c004de4d8ea4b85caca4d202a5645c29ce38c163313ad9fffab.png",
+      "imageGold": "",
+      "flavorText": "마나가 여러분의 도움을 필요로 합니다! 오늘 바로 헌혈하세요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3a31ec0397798d140b2d27766f7351c35ffb0ab28583d29da73a5801c7b3056.png",
+      "childIds": [
+        41054,
+        41057,
+        41058,
+        41059,
+        41060,
+        41061,
+        41062,
+        41063,
+        41211,
+        41691
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43415,
+      "collectible": 1,
+      "slug": "43415-bloodreaver-guldan",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 3,
+      "cardSetId": 1001,
+      "rarityId": 5,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 30,
+      "manaCost": 10,
+      "armor": 5,
+      "name": "핏빛약탈자 굴단",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이번 게임에서 죽은 모든 아군 악마를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55550e32a7b8742344423af85b360680c0880d32b5f7ff8cb00e6509e46b0ff7.png",
+      "imageGold": "",
+      "flavorText": "\"아직까지도 무릎을 꿇지 않는 것이냐? 어리석은 놈. 죽음을 벗어날 수는 없다. 그리고 죽음을 맞이하면... 곧 나를 섬기게 되리라.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3cd330c70d7f5d6401ea2b7c8dee3d5eea76b1120783fa8b904fdca661943ab.png",
+      "childIds": [
+        43181
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 51373,
+      "collectible": 1,
+      "slug": "51373-hagathas-scheme",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1130,
+      "rarityId": 3,
+      "artistName": "Arthur Gimaldinov",
+      "manaCost": 5,
+      "name": "하가사의 계략",
+      "text": "\u003cb\u003e모든\u003c/b\u003e 하수인에게 피해를 1 줍니다. \u003ci\u003e(내 턴마다 강화됩니다!)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b61f99424390d1c6cf5fc4755696976b097ca7d4ba45eef034dcaebe38b18d28.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d51d3387d734942196d023cbb8faf5662394bdb344765e14a2ee6f02bba147e.png",
+      "flavorText": "\"모두 고통받으리라!\" \"하지만 하가사 님, 우리 하수인들만 있는데요...\" \"모두!!!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5ab71128ec00519059de07b3cb49263a55ad80342b28f4028cda7af60f19695.png"
+    },
+    {
+      "id": 46307,
+      "collectible": 1,
+      "slug": "46307-lesser-diamond-spellstone",
+      "classId": 6,
+      "multiClassIds": [],
+      "spellSchoolId": 5,
+      "cardTypeId": 5,
+      "cardSetId": 1004,
+      "rarityId": 3,
+      "artistName": "Tyler West Studio",
+      "manaCost": 7,
+      "name": "하급 다이아몬드 주문석",
+      "text": "서로 다른 아군 하수인 둘을 부활시킵니다. \u003ci\u003e(주문을 4회 시전하면 강화됩니다.)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/970ce581f3c6d4ce88321cec74eb8b20563c423bf1d103384b31d95599e12fb3.png",
+      "imageGold": "",
+      "flavorText": "희디흰 여덟 번째 다이아몬드 원석 신념 가진 자에게는 소중한 보석 속삭이는 기도는 잃은 자도 살리지만 그 무서운 대가는 아무도 모른다네",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2091becaff6dcc0f7fd54ba8fec81bea4d5f4646714f395ebfadb9247a5cc2c7.png",
+      "childIds": [
+        46308,
+        46306
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43414,
+      "collectible": 1,
+      "slug": "43414-lesser-ruby-spellstone",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 2,
+      "cardTypeId": 5,
+      "cardSetId": 1004,
+      "rarityId": 3,
+      "artistName": "Zoltan Boros",
+      "manaCost": 2,
+      "name": "하급 루비 주문석",
+      "text": "무작위 마법사 주문을 내 손으로 가져옵니다. \u003ci\u003e(정령을 2장 내면 강화됩니다.)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ffd5f512479ad6b0c951e5eb5ebb7ca5bfcadb6aa3f05395606512eada09625.png",
+      "imageGold": "",
+      "flavorText": "마지막 원석이 주인을 파멸시키네 이름 없는 마법사가 그를 돌로 만들었네 아자리는 야생의 단말마를 내지르곤 영원히 황천에 봉인되고 말았네",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09f0d7b8888aa6bacc154203756cfaa49229c3a1436fe190b0c37808a8116eeb.png",
+      "childIds": [
+        43412,
+        43411
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 45519,
+      "collectible": 1,
+      "slug": "45519-lesser-mithril-spellstone",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1004,
+      "rarityId": 3,
+      "artistName": "A. J. Nazzaro",
+      "manaCost": 7,
+      "name": "하급 미스릴 주문석",
+      "text": "5/5 미스릴 골렘을 소환합니다. \u003ci\u003e(무기를 1회 장착하면 강화됩니다.)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1be0a9b6ffa296d757d2a0049722defc047b7f420db6a4961096292e691f606.png",
+      "imageGold": "",
+      "flavorText": "바위의 드워프에게 악마가 말하네 힘을 쥐어 주겠나니 노예가 되겠나 그 욕망을 잡는 순간 운명을 깨닫고 미스릴 무덤 속에 영원히 갇혔네",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ab80a2ca747748a2fa5b55f33692b9bc925e962ff0e3eeb69432e88bdb2933a.jpg",
+      "childIds": [
+        46063,
+        46064,
+        46076
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43288,
+      "collectible": 1,
+      "slug": "43288-lesser-jasper-spellstone",
+      "classId": 2,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1004,
+      "rarityId": 3,
+      "artistName": "Jim Nelson",
+      "manaCost": 1,
+      "armor": 1,
+      "name": "하급 벽옥 주문석",
+      "text": "하수인에게 피해를 2 줍니다. \u003ci\u003e(방어도를 +3 얻으면 강화됩니다.)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d9a87d07811c1ff8916060395e5fc65f5a484cc0b58dc1ea17196e66234bb2b.png",
+      "imageGold": "",
+      "flavorText": "고대 숲의 저주를 엘프가 막아내어 악마의 그림자 흩어져 사라져도 나약한 영혼은 증오에 휩싸여 찌르고 밟으며 온 숲을 불태웠네",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4ce7694f47c246658c0ce5e83e6352463ae6064b40a7a471424f9fc643856ae.png",
+      "childIds": [
+        43289,
+        43290
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43331,
+      "collectible": 1,
+      "slug": "43331-lesser-sapphire-spellstone",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1004,
+      "rarityId": 3,
+      "artistName": "Jason Kang",
+      "manaCost": 7,
+      "name": "하급 사파이어 주문석",
+      "text": "아군 하수인을 복사하여 소환합니다. \u003ci\u003e(내 마나 수정 3개를 \u003cb\u003e과부하\u003c/b\u003e하면 강화됩니다.)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1bdaea27287701f9f21e8a3007f23ed9085ce22945b38f27a39c37f2cbec3988.png",
+      "imageGold": "",
+      "flavorText": "푸르른 원석을 손아귀에 넣고 기뻐하던 멀록 군주 바다로 들어가 동족을 뭍으로 이끄는 모습 보니 한 마리 두 마리 수도 없이 늘어나네",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2551bd2df8089a67fd92126746ba597ce156466245a84416511c17345116edb8.png",
+      "childIds": [
+        43333,
+        43332
+      ],
+      "keywordIds": [
+        14
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43363,
+      "collectible": 1,
+      "slug": "43363-lesser-emerald-spellstone",
+      "classId": 3,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1004,
+      "rarityId": 3,
+      "artistName": "Joe Wilson",
+      "manaCost": 5,
+      "name": "하급 에메랄드 주문석",
+      "text": "3/3 늑대를 2마리 소환합니다. \u003ci\u003e(\u003cb\u003e비밀\u003c/b\u003e 카드를 1회 내면 강화됩니다.)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4187ef25dcee38fcc4dbefb6d1c58e7b2cc9b61c5b0859ac9e5945859e4c68bb.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b1600e216c8596b44e3cefe6d87f4fe1bd4d8baa5490e9df8ad34aab6406ef8.png",
+      "flavorText": "에메랄드 원석의 놀라운 힘 찾아 타우렌 고향땅 지키려 했거늘 부족은 사라지고 분노도 사그러드니 사냥은 누가 하나, 사냥감은 누구인가",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2690cb9564efdf0ef1844968470fdeab8735a408f0678e49b670367620e98a9.png",
+      "childIds": [
+        43362,
+        43361,
+        46446
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43272,
+      "collectible": 1,
+      "slug": "43272-lesser-amethyst-spellstone",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1004,
+      "rarityId": 3,
+      "artistName": "Mike Azevedo",
+      "manaCost": 4,
+      "name": "하급 자수정 주문석",
+      "text": "\u003cb\u003e생명력 흡수\u003c/b\u003e, 하수인에게 피해를 3 줍니다. \u003ci\u003e(내 카드로 피해를 받으면 강화됩니다.)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8ced0f6ad4bb609c7f0e16dfee43b7522e71e10ff94d9fd5069369bd9936ba2.png",
+      "imageGold": "",
+      "flavorText": "아자리가 캐어낸 보라색 원석이 힘에 굶주린 검은 마음 유혹했네 가장 먼저 무릎 꿇은 흑마법사 린 어둠을 받아들이고 동족을 살해했네",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33ee19feb84037ad36c783d444c6a1f40d1f3c8d3a72a8bae320d1276d56047a.png",
+      "childIds": [
+        43275,
+        43276
+      ],
+      "keywordIds": [
+        38
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43382,
+      "collectible": 1,
+      "slug": "43382-lesser-pearl-spellstone",
+      "classId": 5,
+      "multiClassIds": [],
+      "spellSchoolId": 5,
+      "cardTypeId": 5,
+      "cardSetId": 1004,
+      "rarityId": 3,
+      "artistName": "Konstantin Turovec",
+      "manaCost": 2,
+      "name": "하급 진주 주문석",
+      "text": "\u003cb\u003e도발\u003c/b\u003e 능력이 있는 2/2 영혼을 소환합니다. \u003ci\u003e(생명력을 3 회복하면 강화됩니다.)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e08a92aa8d51f1b25dfadb462c9d9d1b75227e52e4e7d6470dfd5519690905d1.png",
+      "imageGold": "",
+      "flavorText": "고대정령 스러졌던 아득한 옛날 군단의 아자리가 필멸자에게 속삭였네 힘의 보석 줄테니 영혼을 내놓아라 나약한 자 무릎 꿇고 영혼까지 먹혔네",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4be571f2440698c1fc5d320fc81cfd795555a81f97a093b37ae0821cfe20845.png",
+      "childIds": [
+        43381,
+        43380,
+        46890,
+        46889,
+        46891
+      ],
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 46296,
+      "collectible": 1,
+      "slug": "46296-lesser-onyx-spellstone",
+      "classId": 7,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1004,
+      "rarityId": 3,
+      "artistName": "Arthur Bozonnet",
+      "manaCost": 5,
+      "name": "하급 흑마노 주문석",
+      "text": "무작위 적 하수인을 처치합니다. \u003ci\u003e(\u003cb\u003e죽음의 메아리\u003c/b\u003e 카드를 3회 내면 강화됩니다.)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50bcad359aa711edaaf47402698aa6e5fd4ff7e9eb40f0d61d257f1822e7cf2d.png",
+      "imageGold": "",
+      "flavorText": "고대의 트롤은 축복을 받아들였네 큰 힘이 담겨 있는 칠흑의 보석 보석을 지닌 자는 단검을 휘둘러 동료를 모두 베고 고고하게 홀로 섰네",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25a67d9a8d2a958d99da0748b30b1dbf378001fd7dc0df91d32d8742211bc59b.png",
+      "childIds": [
+        46297,
+        46295
+      ],
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 55047,
+      "collectible": 1,
+      "slug": "55047-sky-claw",
+      "classId": 5,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 3,
+      "artistName": "Jim Nelson",
+      "health": 2,
+      "attack": 1,
+      "manaCost": 3,
+      "name": "하늘 발톱",
+      "text": "내 다른 기계들이 공격력을 +1 얻습니다. \u003cb\u003e전투의 함성:\u003c/b\u003e 1/1 초소형 비행체를 둘 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d4e0bbd2003f8c9462e42825e5019d3f3822bbe8a87295e74ee36b4a897c511.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/653f3c380e5b7b5422ebf87080b8ff203fd893b1276915249198e069aec5bca6.png",
+      "flavorText": "미미론 인형을 잡다가 놓치도록 아주 정교하게 만들어졌습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fbe0776dd16d55bfc3cabfc61eee690ba86944217d681fbd9c89f4c2a7a47845.png",
+      "childIds": [
+        57055
+      ],
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 53945,
+      "collectible": 1,
+      "slug": "53945-raid-the-sky-temple",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1158,
+      "rarityId": 5,
+      "artistName": "Ludo Lullabi",
+      "manaCost": 1,
+      "name": "하늘 사원 약탈",
+      "text": "\u003cb\u003e퀘스트:\u003c/b\u003e 주문을 10회 시전해야 합니다. \u003cb\u003e보상: \u003c/b\u003e승천자의 두루마리",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53ffdd1aee6f87587b982fa7733fcec922972a3d9110a39076b10087720a8614.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f4a580d698a07aa5fe53081ed7782325742bca390d1b9c2e470d08eddd35143.png",
+      "flavorText": "리노는 보물 때문에 온 게 맞다고 했죠?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff53349bb27b38e58a8070eebea97cc9d764ce78361bfb318e9d2f059df96ffc.png",
+      "childIds": [
+        53946
+      ],
+      "keywordIds": [
+        31
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 55005,
+      "collectible": 1,
+      "slug": "55005-sky-raider",
+      "classId": 10,
+      "multiClassIds": [],
+      "minionTypeId": 23,
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 1,
+      "artistName": "Ivan Fomin",
+      "health": 2,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "하늘 약탈자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 무작위 해적을 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2499f5d4c008dcf2e636f2d0b3ea74ff02e87f6432fc1d203fbb4861893ba6c.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fdda24348f550a937d36af49af550c2215e4fc5f8867bf7fa81860b46bfd75b.png",
+      "flavorText": "보물을 비행선으로 가져올 수 있는 방법도 고안했더라면 더 좋았겠군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d228da267385b147627b22e7f8e379a0bc0b33116493f89e486425614f5b4037.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 56091,
+      "collectible": 1,
+      "slug": "56091-skyvateer",
+      "classId": 7,
+      "multiClassIds": [],
+      "minionTypeId": 23,
+      "cardTypeId": 4,
+      "cardSetId": 1403,
+      "rarityId": 1,
+      "artistName": "Ludo Lullabi",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 2,
+      "name": "하늘노략꾼",
+      "text": "\u003cb\u003e은신\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bd8b58cc648f61e56025dfab4d83bebf45ad87dcb8b48349dd3973af79b35d5f.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f1c922433d6638bb550e631f9dd63ef8867fd41012c0f62584ea4687c630d06c.png",
+      "flavorText": "바다에선 멀쩡해도 하늘에서 뱃멀미에 걸리는 이들도 종종 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55daee72bc95034a2d56ccfc0d99d341735dabfba5319060ca606181e011eabb.png",
+      "keywordIds": [
+        6,
+        12
+      ]
+    },
+    {
+      "id": 825,
+      "collectible": 1,
+      "slug": "825-azure-drake",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 3,
+      "artistName": "Ben Zhang",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "하늘빛 비룡",
+      "text": "\u003cb\u003e주문 공격력 +1\u003c/b\u003e \u003cb\u003e전투의 함성:\u003c/b\u003e 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca98ab04f09366b6356d08d6d55ab0894e9d84287f9fe768e0f11ff7a83cde86.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a29c699be12645cbf35faa63dd5d7c5090eb23c70222439f1dac229e0905975b.png",
+      "flavorText": "처음엔 녹황색 비룡이나 군청색 비룡을 생각했습니다만, 너무 촌스러운 느낌이라 바꿨습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7a4760b45037e6784a0b07f2c0bcf73aa5cf1d7f638b0e14da99ffb6f1f5b88.png",
+      "keywordIds": [
+        2,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69907,
+      "collectible": 1,
+      "slug": "69907-azure-drake",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 3,
+      "artistName": "Ben Zhang",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "하늘빛 비룡",
+      "text": "\u003cb\u003e주문 공격력 +1\u003c/b\u003e \u003cb\u003e전투의 함성:\u003c/b\u003e 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/528aa23b34161a72579b932567d29fae68cc0a1f83c556b90e32e39578d2f3b7.png",
+      "imageGold": "",
+      "flavorText": "처음엔 녹황색 비룡이나 군청색 비룡을 생각했습니다만, 너무 촌스러운 느낌이라 바꿨습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b75e5ac680b2d1b874e5b91075c3a8b3acf5f90c4bdf89769884baf91867e667.png",
+      "keywordIds": [
+        2,
+        8
+      ],
+      "copyOfCardId": 825
+    },
+    {
+      "id": 76324,
+      "collectible": 1,
+      "slug": "76324-azure-drake",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 3,
+      "artistName": "Ben Zhang",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "하늘빛 비룡",
+      "text": "\u003cb\u003e주문 공격력 +1\u003c/b\u003e \u003cb\u003e전투의 함성:\u003c/b\u003e 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b43ebe53478ec68394ee59284618b0608288013e064d62dc6fe94f5cd7049486.png",
+      "imageGold": "",
+      "flavorText": "처음엔 녹황색 비룡이나 군청색 비룡을 생각했습니다만, 너무 촌스러운 느낌이라 바꿨습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7a4760b45037e6784a0b07f2c0bcf73aa5cf1d7f638b0e14da99ffb6f1f5b88.png",
+      "keywordIds": [
+        2,
+        8
+      ],
+      "copyOfCardId": 825,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 118
+}

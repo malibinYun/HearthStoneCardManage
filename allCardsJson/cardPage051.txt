@@ -1,0 +1,1052 @@
+{
+  "cards": [
+    {
+      "id": 102602,
+      "collectible": 1,
+      "slug": "102602-jade-swarmer",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1898,
+      "rarityId": 1,
+      "artistName": "Slawomir Maniak",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "비취 무리전사",
+      "text": "\u003cb\u003e은신\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e \u003cb\u003e비취 골렘\u003c/b\u003e을 소환합니다. \u003cb\u003e은신\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e \u003cb\u003e비취 골렘\u003c/b\u003e을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8c69217249f0d276ddf59fe8b646139999078df6769a730eef29298dad9969c.png",
+      "imageGold": "",
+      "flavorText": "무리를 짓는 걸 즐깁니다. 무리해서라도요! ...죄송합니다. 무리수였네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00b3c0b56e6a8481c3d7ed0300ed84cac24ae9afff8d2bcdf3b8cf68cd10ed27.png",
+      "keywordIds": [
+        6,
+        12,
+        26
+      ],
+      "copyOfCardId": 40697
+    },
+    {
+      "id": 40529,
+      "collectible": 1,
+      "slug": "40529-jade-claws",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 25,
+      "rarityId": 3,
+      "artistName": "A. J. Nazzaro",
+      "attack": 2,
+      "manaCost": 2,
+      "durability": 2,
+      "name": "비취 발톱",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e \u003cb\u003e비취 골렘\u003c/b\u003e을 소환합니다. \u003cb\u003e과부하:\u003c/b\u003e (1)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fcee5b35c7a3da917f414bc8cd39b6faa8b5504146b5b19b92859477ac57e41e.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9340d4cf9636a41498717d29ea1bd8820a8d975009967752c3a25d182be8ea86.png",
+      "flavorText": "손톱을 손질하기 귀찮을 때 유용합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/048bf25b55bc5c8436875685cb28ee443602f96c89c46a79c5bba7481c2d20fa.png",
+      "keywordIds": [
+        8,
+        14,
+        26
+      ]
+    },
+    {
+      "id": 40455,
+      "collectible": 1,
+      "slug": "40455-jade-lightning",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 25,
+      "rarityId": 1,
+      "artistName": "Phil Saunders",
+      "manaCost": 3,
+      "name": "비취 번개",
+      "text": "피해를 3 줍니다. \u003cb\u003e비취 골렘\u003c/b\u003e을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c9bf4461e1ebecdd7ea6c9953e83cd3af639712f47e687f21c388d06019d151b.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/488ee8e3b107cc378254a40d0672677e330ffcef6b16d88dee50a4eb75739e49.png",
+      "flavorText": "우린 달려간다! 우린 승리한다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef20d9e1a0365eb298aa347edae4dc56d80fc160a61aa063ac39fc791f531e06.png",
+      "keywordIds": [
+        26
+      ]
+    },
+    {
+      "id": 102624,
+      "collectible": 1,
+      "slug": "102624-jade-lightning",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1898,
+      "rarityId": 1,
+      "artistName": "Phil Saunders",
+      "manaCost": 3,
+      "name": "비취 번개",
+      "text": "피해를 3 줍니다. \u003cb\u003e비취 골렘\u003c/b\u003e을 소환합니다. 피해를 3 줍니다. \u003cb\u003e비취 골렘\u003c/b\u003e을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d25b391958655098108639ff7ea032185d6ea6d56934e025de191262f0553803.png",
+      "imageGold": "",
+      "flavorText": "우린 달려간다! 우린 승리한다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/047a981f630a06b0f236299a50ac8b777a1008c2e8e98d608fdc7eda9e52bcb7.png",
+      "keywordIds": [
+        26
+      ],
+      "copyOfCardId": 40455
+    },
+    {
+      "id": 40698,
+      "collectible": 1,
+      "slug": "40698-jade-shuriken",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 25,
+      "rarityId": 1,
+      "artistName": "Izzy Hoover",
+      "manaCost": 2,
+      "name": "비취 수리검",
+      "text": "피해를 3 줍니다. \u003cb\u003e연계:\u003c/b\u003e \u003cb\u003e비취 골렘\u003c/b\u003e을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c166d45bd83afd24207854e8cbbe9be7ff883025f8521054242d43d52adf31c.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fef3ec129222068db75f6a59dea341a9f142d241c5e687e3103a354b73a5055b.png",
+      "flavorText": "몸에 박혀도 빼내서 의료비로 쓸 수 있으니 그리 위협적이진 않겠군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f2cd315514c61348402ae8c68b7a8daf967f26e7a81c444e39c1b17d4ab21c8.png",
+      "keywordIds": [
+        13,
+        26
+      ]
+    },
+    {
+      "id": 102606,
+      "collectible": 1,
+      "slug": "102606-jade-shuriken",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1898,
+      "rarityId": 1,
+      "artistName": "Izzy Hoover",
+      "manaCost": 2,
+      "name": "비취 수리검",
+      "text": "피해를 3 줍니다. \u003cb\u003e연계:\u003c/b\u003e \u003cb\u003e비취 골렘\u003c/b\u003e을 소환합니다. 피해를 3 줍니다. \u003cb\u003e연계:\u003c/b\u003e \u003cb\u003e비취 골렘\u003c/b\u003e을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4b83b6a301b0122b61c80111f71e07e5980e7e7e08e972d8a2a98278340f5bd.png",
+      "imageGold": "",
+      "flavorText": "몸에 박혀도 빼내서 의료비로 쓸 수 있으니 그리 위협적이진 않겠군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8439f84db95d849c348f664293befb4e7a01f8c596f7cd75cf917d03f82dfde6.png",
+      "keywordIds": [
+        13,
+        26
+      ],
+      "copyOfCardId": 40698
+    },
+    {
+      "id": 40742,
+      "collectible": 1,
+      "slug": "40742-lotus-agents",
+      "classId": 12,
+      "multiClassIds": [
+        2,
+        7,
+        8
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 25,
+      "rarityId": 3,
+      "artistName": "Grace Liu",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "비취 연꽃 요원",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 드루이드, 도적, 주술사 카드를 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a0dbf0cd234201573b8799e158374fb4e500d3f6376e83202df6d8c90fd5984.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6cf604f90fe6f4b78bb8d852d83e7d91d84ec2cee23834938b4f70e38b7fda42.png",
+      "flavorText": "할 일이 없으면 그냥 서 있습니다. 그러기만 해도 멋있거든요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64f376b6495b72973f34639f8bd8583434e26ff521baec649372c38dabc9663c.png",
+      "keywordIds": [
+        8,
+        21,
+        28
+      ]
+    },
+    {
+      "id": 103235,
+      "collectible": 1,
+      "slug": "103235-lotus-agents",
+      "classId": 12,
+      "multiClassIds": [
+        2,
+        7,
+        8
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1898,
+      "rarityId": 3,
+      "artistName": "Grace Liu",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "비취 연꽃 요원",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 드루이드, 도적, 주술사 카드를 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5cd774f766ed3333dca4751b352ed64ef48afab164c51cf92a217b2fa1bb44bb.png",
+      "imageGold": "",
+      "flavorText": "할 일이 없으면 그냥 서 있습니다. 그러기만 해도 멋있거든요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d231f0499a3ccd4d8fc4451e1a8139b0f1a08eaacf6f1d65ab84486f6a3a6914.png",
+      "keywordIds": [
+        8,
+        21,
+        28
+      ],
+      "copyOfCardId": 40742
+    },
+    {
+      "id": 40372,
+      "collectible": 1,
+      "slug": "40372-jade-idol",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 25,
+      "rarityId": 3,
+      "artistName": "Matthew O\u0027Connor",
+      "manaCost": 1,
+      "name": "비취 우상",
+      "text": "\u003cb\u003e선택 -\u003c/b\u003e \u003cb\u003e비취 골렘\u003c/b\u003e을 소환합니다. 또는 이 카드를 3장 복사하여 내 덱에 섞어 넣습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fc92556dc5c64997999e8b0639c905fe5ab91c6bb21f8c8dc8dea841df74f2c3.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc68c4eb784ddf801c2b8698439ab908b48dd4ae39631347fc9246e32b163ec9.png",
+      "flavorText": "못 먹어도 섞어 넣기!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4cf45f9815785be2634cea3e2fd582358c9870d170ec2cd2418abbefcd358780.png",
+      "childIds": [
+        42098
+      ],
+      "keywordIds": [
+        26
+      ]
+    },
+    {
+      "id": 102617,
+      "collectible": 1,
+      "slug": "102617-jade-telegram",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1898,
+      "rarityId": 3,
+      "artistName": "Kleston Marques",
+      "manaCost": 4,
+      "name": "비취 전보",
+      "text": "상대편의 손에 있는 카드 3장을 봅니다. 그중 한 장을 상대편의 덱에 섞어 넣습니다. \u003cb\u003e비취 골렘\u003c/b\u003e을 소환합니다. 상대편의 손에 있는 카드 3장을 봅니다. 그중 한 장을 상대편의 덱에 섞어 넣습니다. \u003cb\u003e비취 골렘\u003c/b\u003e을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d882ef38d69c34de28a3b6e603539b74fe2bb66a4db6bf6f16c7ba092c7fe1f.png",
+      "imageGold": "",
+      "flavorText": "(광고) 한초 님께만 드리는 특별 혜택!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a50da8f27665d297d2028f915c75f34f3d7feb10f995da7f5b374ea2b27b4ba0.png",
+      "childIds": [
+        42098
+      ],
+      "keywordIds": [
+        26
+      ]
+    },
+    {
+      "id": 40527,
+      "collectible": 1,
+      "slug": "40527-jade-spirit",
+      "classId": 12,
+      "multiClassIds": [
+        2,
+        7,
+        8
+      ],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 25,
+      "rarityId": 1,
+      "artistName": "Peter Stapleton",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "비취 정령",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e \u003cb\u003e비취 골렘\u003c/b\u003e을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf496c9241107a95ad0674d63495b8a525aea770431d22fb8919d86acb241c58.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bca90b02041a5a9b92db3cf76458a4c3b43f1c00bbb05f812d942d750627850e.png",
+      "flavorText": "\"우와! 쟤, 엄청 귀여워! 꼬옥 안아준 다음에, 분해해서 비취 골렘 부품으로 쓰고 싶어!\" - 아이야 블랙포우",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/acf1f8a492b7e8faa1c6bd83e365fdf0a76f63f127b092dfa204298c40d65310.png",
+      "keywordIds": [
+        8,
+        26,
+        28
+      ]
+    },
+    {
+      "id": 102662,
+      "collectible": 1,
+      "slug": "102662-jade-spirit",
+      "classId": 12,
+      "multiClassIds": [
+        2,
+        7,
+        8
+      ],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1898,
+      "rarityId": 1,
+      "artistName": "Peter Stapleton",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "비취 정령",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e \u003cb\u003e비취 골렘\u003c/b\u003e을 소환합니다. \u003cb\u003e전투의 함성:\u003c/b\u003e \u003cb\u003e비취 골렘\u003c/b\u003e을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb9aa36a41cdcf46c6c4b147e48c47f8e719fced264c9f3ba7889fa3129f4a94.png",
+      "imageGold": "",
+      "flavorText": "\"우와! 쟤, 엄청 귀여워! 꼬옥 안아준 다음에, 분해해서 비취 골렘 부품으로 쓰고 싶어!\" - 아이야 블랙포우",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c9728f7635d29965297162d6d4f55eee9f672061906907061012b8953a95394.png",
+      "keywordIds": [
+        8,
+        26,
+        28
+      ],
+      "copyOfCardId": 40527
+    },
+    {
+      "id": 40422,
+      "collectible": 1,
+      "slug": "40422-jade-chieftain",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 25,
+      "rarityId": 1,
+      "artistName": "A. J. Nazzaro",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 6,
+      "name": "비취 족장",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e \u003cb\u003e비취 골렘\u003c/b\u003e을 소환하고 \u003cb\u003e도발\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb5eb6523f2f4781d647e2029fdf632752caac916ed71297217a84cef628bd06.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ef156c68fc52a91de6b045760740a80d9dc42ee34af84872f7089e93ac57639.png",
+      "flavorText": "애지중지하며 키운 비취 골렘이 훤칠하고 인물 좋은 6/6으로 자란 걸 봤을 때 감격에 겨워 눈물을 흘렸다고 합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdad9c46bd2b49f883487f3bd3c4801a17e47ea4298bb31cd01701f5c13511f4.png",
+      "keywordIds": [
+        1,
+        8,
+        26
+      ]
+    },
+    {
+      "id": 102626,
+      "collectible": 1,
+      "slug": "102626-jade-chieftain",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1898,
+      "rarityId": 1,
+      "artistName": "A. J. Nazzaro",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 6,
+      "name": "비취 족장",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e \u003cb\u003e비취 골렘\u003c/b\u003e을 소환하고 \u003cb\u003e도발\u003c/b\u003e을 부여합니다. \u003cb\u003e전투의 함성:\u003c/b\u003e \u003cb\u003e비취 골렘\u003c/b\u003e을 소환하고 \u003cb\u003e도발\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e909877f8c694c00cd6a6ff64e36144d9673d03687caa2b78e4b687f3d2ac7d.png",
+      "imageGold": "",
+      "flavorText": "애지중지하며 키운 비취 골렘이 훤칠하고 인물 좋은 6/6으로 자란 걸 봤을 때 감격에 겨워 눈물을 흘렸다고 합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/295f7a6dbed7f4f68e9cd88e705920a5f065cb9e28f70c97b04d82a0e9fbb9a1.png",
+      "keywordIds": [
+        1,
+        8,
+        26
+      ],
+      "copyOfCardId": 40422
+    },
+    {
+      "id": 40523,
+      "collectible": 1,
+      "slug": "40523-jade-blossom",
+      "classId": 2,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 25,
+      "rarityId": 1,
+      "artistName": "Zoltan Boros",
+      "manaCost": 3,
+      "name": "비취꽃",
+      "text": "\u003cb\u003e비취 골렘\u003c/b\u003e을 소환합니다. 빈 마나 수정을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/471d728ba9c3311168d72a62f85b029fcbd46ddb97903e4ab30a6e2b666924a7.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb1490bdf9775db01202334706843b049bd92e01dd12c9a4dde15f4fc6d96503.png",
+      "flavorText": "비취꽃 아래에서 명상을 하면 지혜를 얻을 수 있다고 합니다. 재채기만 하지 않는다면요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/666233e182e79f4be8e7af7b6c4d933a0437578a1919ba1bcb8d91cf0302a6a4.png",
+      "keywordIds": [
+        26
+      ]
+    },
+    {
+      "id": 48798,
+      "collectible": 1,
+      "slug": "48798-beakered-lightning",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1127,
+      "rarityId": 1,
+      "artistName": "Evgeniy Dlinnov",
+      "manaCost": 0,
+      "name": "비커에 담긴 번개",
+      "text": "\u003cb\u003e모든\u003c/b\u003e 하수인에게 피해를 1 줍니다. \u003cb\u003e과부하:\u003c/b\u003e (2)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51ffbc32745cf368e69787447a458c561ac8f1f669853e426f09ab36c1cde8bc.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/654e4cd7b7b769bc66aab54ed170730d9b312da58b17286dfe92206de1189237.png",
+      "flavorText": "주술사 연구실에서 일할 때에는 발을 땅에서 떼지 않는 게 좋을 겁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/88b3f1e46edf1090fc5dbe969b38e29efb4b14c1ebd7901181f8a8a41e1c459f.png",
+      "keywordIds": [
+        14
+      ]
+    },
+    {
+      "id": 46077,
+      "collectible": 1,
+      "slug": "46077-woecleaver",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1004,
+      "rarityId": 5,
+      "artistName": "Matthew O\u0027Connor",
+      "attack": 3,
+      "manaCost": 8,
+      "durability": 3,
+      "name": "비통의 가로날도끼",
+      "text": "내 영웅이 공격한 후에 하수인을 \u003cb\u003e소집\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/618efdddcb6abb214353fe389028f4cf521ce9a265fc686062947cb74b3d5c52.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec7eb7fa9b5fe395933c822ff33ed9755ba79832572de7e7dec9c698fec2316b.png",
+      "flavorText": "인상 쓰고 도끼를 맞으면 인상 쓴 얼굴이 둘!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28816cc64922f59e0d1cb8bfb75a065b47f8b66b315e4807a9d243c1e0130635.jpg",
+      "keywordIds": [
+        39
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 52940,
+      "collectible": 1,
+      "slug": "52940-flight-master",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1130,
+      "rarityId": 1,
+      "artistName": "Evgeniy Dlinnov",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "비행 조련사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 각 플레이어에게 2/2 그리핀을 소환해 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb2e3a324c4af1ebc2a69e48662fdaebe789369c22dbe20d7427ba878366f366.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d3eae090ef69e6c910cff5e5198cbb8e0b5da9eafa926c9ce1d4c3c87ad318b.png",
+      "flavorText": "그리핀에 탑승하실 때엔 안전 수칙을 꼭 지켜주십시오.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d8a174decb5763c8dbd32034ca069dd7f7f78debc1977b65433aaf9c88fabef.png",
+      "childIds": [
+        52941
+      ],
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 64727,
+      "collectible": 1,
+      "slug": "64727-flightmaster-dungar",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 5,
+      "artistName": "Jakub Kasper",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "비행 조련사 덩가",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 비행 경로를 선택하고 \u003cb\u003e휴면\u003c/b\u003e 상태가 됩니다. 비행을 완료하면 깨어나고 추가 효과를 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b0de24494d4285c524585fd30d005a496aa245f13a5d38a202672f0da0fd9566.png",
+      "imageGold": "",
+      "flavorText": "조금은 덜컹거리는 비행이지만, 좌석은 넓어 다리를 쭉 펼 수 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4522321cd59e832ed8ce7eb1495ae8dffc61bdd5630b70a0e10a58ddfa44bdce.png",
+      "childIds": [
+        64917,
+        64918,
+        64919
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2052,
+      "collectible": 1,
+      "slug": "2052-flying-machine",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 13,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "health": 4,
+      "attack": 1,
+      "manaCost": 3,
+      "name": "비행기",
+      "text": "\u003cb\u003e질풍\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05f4a7929e1ffdeb8bf888860c9325b3badba9b41dcebb57a31f7406c9e8d3cf.png",
+      "imageGold": "",
+      "flavorText": "철없을 적 내 기억 속에 비행기 타고 가요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a532ebe82cc7f269996df10a4d1209e7c105f8ed9d01d2c0ae11af07a8837a2.jpg",
+      "keywordIds": [
+        11
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 55004,
+      "collectible": 1,
+      "slug": "55004-skybarge",
+      "classId": 10,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 3,
+      "artistName": "Steve Prescott",
+      "health": 5,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "비행포격선",
+      "text": "내가 해적을 소환한 후에, 무작위 적에게 피해를 2 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a289987b34ea96b96f26fbb4725db6a6d64cab4cf6330bb43057fc22c5ba1970.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ef628964c213f121719377e2fc630929d5984c6b8f970ece03980ac5a35488f.png",
+      "flavorText": "비행하는 것보다 포격하는 것이 주된 기능입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4ef03091377ab3b8dd8a374aebd5e3954f7e31b49fd24708760bf6bc3a6b895.png"
+    },
+    {
+      "id": 97355,
+      "collectible": 1,
+      "slug": "97355-crash-of-thunder",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1858,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "manaCost": 5,
+      "name": "빗발치는 천둥",
+      "text": "모든 적에게 피해를 3 줍니다. 이번 턴에 내가 시전한 자연 주문 하나당 비용이 (1)씩 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6576b4a08458d18cf4ccc159f9b499ccf71094e5bec1f85be23acfb4a09b4ee.png",
+      "imageGold": "",
+      "flavorText": "성역에서 번개 법사가 왔나?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b710c791d9086c14f59b29dbe5c6adbae773de21def914eda0aabc5d3e50eff5.png"
+    },
+    {
+      "id": 63252,
+      "collectible": 1,
+      "slug": "63252-hecklefang-hyena",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 3,
+      "artistName": "Jeremy Cranford",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "빗송곳니 하이에나",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 영웅에게 피해를 3 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17ecaef68ef8b7df808c6b266b94eb50325da37f1b528200943f4be165d242b3.png",
+      "imageGold": "",
+      "flavorText": "서열 정리가 필요한 하이에나네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa89b3d6662aa463cb2b1ccb4a5d8e5e643839615e0e8fd067d5c334b02eddbe.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 519,
+      "collectible": 1,
+      "slug": "519-freezing-trap",
+      "classId": 3,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 3,
+      "rarityId": 1,
+      "artistName": "Matt Gaser",
+      "manaCost": 2,
+      "name": "빙결의 덫",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 적 하수인이 공격하면, 그 하수인을 주인의 손으로 돌려보내고 비용을 (2) 증가시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/13319c4756ea95b87d407a2992d878ef635ef66c4f474bd1a9299e7d36c50dbc.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d745190eca413552855cf462a2d22d3dceaa11cab785d4f24427423f158f37a5.png",
+      "flavorText": "\"우와, 시원하겠다.\" - 빙결의 덫에 대한 적절한 반응. 또는 도발.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e589e1eb9c8955042fbc35d210e8c2eb0ecfc409b6718fb34a4dc9713fbd2cd9.png",
+      "keywordIds": [
+        5
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69604,
+      "collectible": 1,
+      "slug": "69604-freezing-trap",
+      "classId": 3,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Matt Gaser",
+      "manaCost": 2,
+      "name": "빙결의 덫",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 적 하수인이 공격하면, 그 하수인을 주인의 손으로 돌려보내고 비용을 (2) 증가시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee2626bd1b80c6bbb028d51f37423472977fb869a06276e384b5549a889b7c32.png",
+      "imageGold": "",
+      "flavorText": "\"우와, 시원하겠다.\" - 빙결의 덫에 대한 적절한 반응. 또는 도발.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b31edcd17855dc0fcbd444e543c272658e945162e5fcf56068e03ccbc6429b1f.png",
+      "keywordIds": [
+        5
+      ],
+      "copyOfCardId": 519,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70051,
+      "collectible": 1,
+      "slug": "70051-freezing-trap",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 1,
+      "artistName": "Matt Gaser",
+      "manaCost": 2,
+      "name": "빙결의 덫",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 적 하수인이 공격하면, 그 하수인을 주인의 손으로 돌려보내고 비용을 (2) 증가시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ae9f4483674beb28ed15c212291a4d76a99edd80a6cee3fde80277066c1a82f.png",
+      "imageGold": "",
+      "flavorText": "\"우와, 시원하겠다.\" - 빙결의 덫에 대한 적절한 반응. 또는 도발.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e589e1eb9c8955042fbc35d210e8c2eb0ecfc409b6718fb34a4dc9713fbd2cd9.png",
+      "keywordIds": [
+        5
+      ],
+      "copyOfCardId": 519
+    },
+    {
+      "id": 48700,
+      "collectible": 1,
+      "slug": "48700-whirliglider",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1127,
+      "rarityId": 1,
+      "artistName": "A. J. Nazzaro",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "빙글라이더",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 0/2 고블린 폭탄을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f394bd1f50de3abb85e316dad2c6d4656f1c5c7c25ec3a2c489c1582c06fae1.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b74b0a7073458b138aa75a875345c754c035ba4f3dc0d4a64668d2b2bc54ddb.png",
+      "flavorText": "하늘에서 폭탄이 비처럼 내려와!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2faa9d7c15c573e82f3cb4b5b38288e49229b1ce827d4dedbda7b8668702117.png",
+      "childIds": [
+        47837
+      ],
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 61222,
+      "collectible": 1,
+      "slug": "61222-revolve",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1466,
+      "rarityId": 1,
+      "artistName": "Vladimir Kafanov",
+      "manaCost": 1,
+      "name": "빙글빙글",
+      "text": "모든 하수인들을 같은 비용의 무작위 하수인으로 변신시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ae8457c953582afd99dc2c23c87e824732eeca50d2d05488a67c4f9f3a4ac95.png",
+      "imageGold": "",
+      "flavorText": "고객의 편의를 위해 식후 30분간은 양치를 진행하고 있습니다. 탑승이 어려운 점 양해 부탁드립니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f8f1d326cdfae7d60852278ac830b69711a3853e902f1be4d74edd269745ebe.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 67192,
+      "collectible": 1,
+      "slug": "67192-glaciate",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1626,
+      "rarityId": 3,
+      "artistName": "Alex Horley Orlandelli",
+      "manaCost": 6,
+      "name": "빙하 작용",
+      "text": "비용이 8인 하수인을 \u003cb\u003e발견\u003c/b\u003e합니다. 그 하수인을 소환하고 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45c940bc27fa158b262230bfa4126dfdf76e7f40185ee42ac8741bfcbf43d2c3.png",
+      "imageGold": "",
+      "flavorText": "\"얼어붙는 것보다 차가운 게 있을까?\"에 대한 해답입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35a7593704e61094704a24ea19a8f8db091621bc36f421377b63cd24fff8ff7f.png",
+      "keywordIds": [
+        10,
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 81973,
+      "collectible": 1,
+      "slug": "81973-glacial-advance",
+      "classId": 1,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1869,
+      "rarityId": 1,
+      "artistName": "Konstantin Turovec",
+      "manaCost": 3,
+      "name": "빙하 진군",
+      "text": "피해를 4 줍니다. 이번 턴에 내가 시전하는 다음 주문의 비용이 (1) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/559e92de4a891d77a67be5a2c6bc02e7838f10eae3554c86edfb80270e4f2049.png",
+      "imageGold": "",
+      "flavorText": "거기 딱 기다려. 10년 후에 땅을 치고 후회하게 해줄 테니.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/558c82d070ffb441823db3ff46fb2e3b10591d0ce690fdd782dd4482bc20f2f8.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      },
+      "runeCost": {
+        "blood": 0,
+        "frost": 1,
+        "unholy": 0
+      }
+    },
+    {
+      "id": 61958,
+      "collectible": 1,
+      "slug": "61958-glacier-racer",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1466,
+      "rarityId": 3,
+      "artistName": "Agatha Zhou",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "빙하의 경주 선수",
+      "text": "\u003cb\u003e주문폭주:\u003c/b\u003e \u003cb\u003e빙결\u003c/b\u003e 상태인 모든 적에게 피해를 3 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7059b1c6c310bce87f813d1a3f91695d72cf43f4a97d772af67893a7b23a5e5e.png",
+      "imageGold": "",
+      "flavorText": "전용 슈트가 없으니 허전한 느낌이 드네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8db35700e55ca5685b67dc1713ab4fbab408da2096fc4bc268b615953978030.png",
+      "keywordIds": [
+        9,
+        88
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41111,
+      "collectible": 1,
+      "slug": "41111-glacial-shard",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 27,
+      "rarityId": 1,
+      "artistName": "Paul Mafayon",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 1,
+      "name": "빙하의 정령",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 적을 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40fe50f6c6ce8b923a5c1546bdd744ab51a8b19c88ac2576145c07c9e891b4d7.png",
+      "imageGold": "",
+      "flavorText": "이제, 너 뼛속까지, 얼어붙는다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3885ffe9ba30f43cfca10f35dec62d61049c51f2654b4697cc9a03a058d61c9a.jpg",
+      "keywordIds": [
+        8,
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 102227,
+      "collectible": 1,
+      "slug": "102227-glacial-shard",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Paul Mafayon",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 1,
+      "name": "빙하의 정령",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 적을 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3f24b541ebabdf326ab0dff9e2b543601dac893061fd038f0489d60a733c2fe.png",
+      "imageGold": "",
+      "flavorText": "이제, 너 뼛속까지, 얼어붙는다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77c72aa4a48a81900124e3e932357592827af224102f0b0b748904849752ac44.png",
+      "keywordIds": [
+        8,
+        10
+      ],
+      "copyOfCardId": 41111,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 76258,
+      "collectible": 1,
+      "slug": "76258-lightray",
+      "classId": 5,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "multiTypeIds": [
+        20
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 1,
+      "artistName": "Tanamaes Leejiarasaes",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 10,
+      "name": "빛가오리",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, 이번 게임에서 내가 낸 성기사 카드 하나당 비용이 (1)씩 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a6f2481ef7e981e4932efb849ded24052433b09d64bc38bb5b7a51bc011fc6a.png",
+      "imageGold": "",
+      "flavorText": "빛가오리는 빛줄기와 마찬가지로 수면에서 가까운 곳에 많이 출몰합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5c2c6873c1bb5604b99504d524cd2542772b49e291bec6193e4b211a5dae6df5.png",
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 73431,
+      "collectible": 1,
+      "slug": "73431-shimmering-sunfish",
+      "classId": 5,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 3,
+      "artistName": "Todd Harris",
+      "health": 5,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "빛나는 개복치",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 신성 주문이 있으면, \u003cb\u003e도발\u003c/b\u003e과 \u003cb\u003e천상의 보호막\u003c/b\u003e을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cef1c126278483d02d10b7c22478f9bdaf7b17dce29297d840c5a329663cae9f.png",
+      "imageGold": "",
+      "flavorText": "그저 빛...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7e4c17ca98e6ffcbefe8bb001c709ebfefa90c13ea11a5bc233cb4e9ac45ef6.png",
+      "keywordIds": [
+        1,
+        3,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 54839,
+      "collectible": 1,
+      "slug": "54839-brightwing",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 1635,
+      "rarityId": 5,
+      "artistName": "Jerry Mascho",
+      "health": 2,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "빛나래",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 무작위 \u003cb\u003e전설\u003c/b\u003e 하수인을 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d50eb536a149ea3aee296829cf40fdb77a8b17c98ca3fc7500f004f845cac74.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c90a18776b553d204d3c199faaaac6b2e4809bcc22a1ad76ace1271f42ba6107.png",
+      "flavorText": "\"죽고 나면 안 아플 거야!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8018ce3ddb74b68c3a34230e70c5f43839a43bac8673568a1d2620370d9e860.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 62874,
+      "collectible": 1,
+      "slug": "62874-lightshower-elemental",
+      "classId": 6,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 3,
+      "artistName": "James Ryman",
+      "health": 6,
+      "attack": 6,
+      "manaCost": 6,
+      "name": "빛내림 정령",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e 모든 아군 캐릭터의 생명력을 8 회복시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11e6205d8957379e612ea6ef6b7e4d1b10ad0ec9280b0782197f765959e59fa0.png",
+      "imageGold": "",
+      "flavorText": "내일은 전국적으로 강렬한 빛이 내리겠습니다. 양산을 챙기시는 것이 좋겠습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6cacd524a34a74aabce4ab6052f26dbb852245acb357dadf45ccff74b86fb6ce.png",
+      "keywordIds": [
+        1,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 55068,
+      "collectible": 1,
+      "slug": "55068-lightforged-zealot",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 3,
+      "artistName": "Anton Zemskov",
+      "health": 2,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "빛벼림 광전사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에 중립 카드가 없으면, 4/2 용사의 진은검을 장착합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/610a3023988301c80e61ddd979a5e1eb1b646b33b8a8c3764aff5b2b67398417.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e97f486b0241b9e33c70695a711aff5ea88b8a4dd195326bb7d42eb59de88f72.png",
+      "flavorText": "\u0027팔라딘스... 어셈블.\u0027이라고 하면 모이는 이들 중 하나입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ad3a585c5c226f5800ef5e7a8b405aeb5df98f2e93fa3d92c8ea34ca836a227.png",
+      "childIds": [
+        847,
+        57936
+      ],
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 55067,
+      "collectible": 1,
+      "slug": "55067-lightforged-crusader",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 4,
+      "artistName": "Adam Byrne",
+      "health": 7,
+      "attack": 7,
+      "manaCost": 7,
+      "name": "빛벼림 성전사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에 중립 카드가 없으면, 무작위 성기사 카드 5장을 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce9abc7d454f81f686d99d538908bb24947e10df7a90b8dbb66158208857fb80.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d3467eb61bef1b38a2b0a4d840f3ceea262164e161904af89c40fa08981d98d.png",
+      "flavorText": "팔라딘스... 어셈블.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24510efe317072ff93aadd1f07091851be81bba6aaeb7d662159a11e5ef57969.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 52490,
+      "collectible": 1,
+      "slug": "52490-lightforged-blessing",
+      "classId": 5,
+      "multiClassIds": [],
+      "spellSchoolId": 5,
+      "cardTypeId": 5,
+      "cardSetId": 1130,
+      "rarityId": 1,
+      "artistName": "Vladimir Kafanov",
+      "manaCost": 2,
+      "durability": 0,
+      "name": "빛벼림 축복",
+      "text": "\u003cb\u003e이중 주문\u003c/b\u003e 아군 하수인에게 \u003cb\u003e생명력 흡수\u003c/b\u003e를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cff2b220b378abb9ed4cd169888ef8999a7a291aa92f35e5311716265a72ef64.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e058a112c2273a04086d025264e8470bab83f8d24d6f1f8b913b7c5b647f10d.png",
+      "flavorText": "아주 낮은 확률이지만 티탄벼림 축복으로 강화될 수 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afacdc930afa240211b0207b4b3df541d022c1c4b56b188d5d76a9dfb0cf88b5.png",
+      "childIds": [
+        54189
+      ],
+      "keywordIds": [
+        38,
+        76
+      ]
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 51
+}

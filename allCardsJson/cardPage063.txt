@@ -1,0 +1,1076 @@
+{
+  "cards": [
+    {
+      "id": 63374,
+      "collectible": 1,
+      "slug": "63374-whetstone-hatchet",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1525,
+      "rarityId": 3,
+      "artistName": "Luca Zontini",
+      "attack": 1,
+      "manaCost": 1,
+      "durability": 4,
+      "name": "숫돌 손도끼",
+      "text": "내 영웅이 공격한 후에, 내 손에 있는 하수인에게 공격력을 +1 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e018c33acd526287ab3cdfc576ca369b4f0e8871aec4f82d5aaaf14652eeecbb.png",
+      "imageGold": "",
+      "flavorText": "안 좋은 손도끼라도 좋은 창을 더 날카롭게 다듬을 수 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a416d77346ef1181de8af841a6dbb9c1bc7c2a16947504c0be6685d91881b785.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 98054,
+      "collectible": 1,
+      "slug": "98054-noble-minibot",
+      "classId": 5,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1858,
+      "rarityId": 1,
+      "artistName": "Daniil Kudriavtsev",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "숭고한 꼬마로봇",
+      "text": "\u003cb\u003e합체\u003c/b\u003e, 이 하수인이 공격한 후에, 내 손에 있는 무작위 하수인에게 +1/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c772fc27d84a60544bd9023d4d01f0c61b81c783540e92d8bccc2df3dc6a4ce.png",
+      "imageGold": "",
+      "flavorText": "언제나 바퀴가 삐걱이는 꼬마로봇이 오네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/85d9c615b35d3c311977066484a56f50209f2f659c308de92281b02ae59e20f9.png",
+      "keywordIds": [
+        66
+      ]
+    },
+    {
+      "id": 2225,
+      "collectible": 1,
+      "slug": "2225-grove-tender",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 13,
+      "rarityId": 3,
+      "artistName": "Chris Rahn",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "숲 뜰지기",
+      "text": "\u003cb\u003e선택 -\u003c/b\u003e 각 플레이어가 마나 수정을 얻습니다. 또는 각 플레이어가 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52b0f9311414f40adcdc4f82de8ad0e559654988304dadb8ea80bf033b533f00.png",
+      "imageGold": "",
+      "flavorText": "\"아, 광활한 자연이여!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d816f34b8706aa24304d27850cb7884b94758b5a0586924c2de9b8bda59a5190.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 97584,
+      "collectible": 1,
+      "slug": "97584-forest-seedlings",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1858,
+      "rarityId": 1,
+      "artistName": "Mooncolony ",
+      "manaCost": 1,
+      "name": "숲 묘목",
+      "text": "1/1 묘목을 둘 소환합니다. \u003ci\u003e( 턴 후에 만개합니다.)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ed59afe7408b81f64520d3539a48e1e41ea338d27c4409f20b7dc99e51b4a32.png",
+      "imageGold": "",
+      "flavorText": "승리를 꽃피울 때도, 못다 필 때도 있죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e64a5bf67978e3852fad8bb3f85dfe4d759c160f710b16d91a1d55d7c28aa4e6.png",
+      "childIds": [
+        100985,
+        97585,
+        99806
+      ]
+    },
+    {
+      "id": 48286,
+      "collectible": 1,
+      "slug": "48286-forest-guide",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1125,
+      "rarityId": 3,
+      "artistName": "Hideaki Takamura",
+      "health": 6,
+      "attack": 1,
+      "manaCost": 4,
+      "name": "숲 속의 안내자",
+      "text": "내 턴이 끝날 때, 두 플레이어 모두 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ca6780e4291e420c707949b79c76c8563f1744e46375692c1bec46b415d28a9.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36ea198be6995880d0d3b8535651f90f4f867225771c0503aae9514e1c5d4876.png",
+      "flavorText": "\"여기에 서명만 하시면 바로 출발하겠습니다.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/451b8d029cc018043985d3f6391bd7e3ea294864959cc9502608bd9e5c74ddf1.png"
+    },
+    {
+      "id": 70257,
+      "collectible": 1,
+      "slug": "70257-ivus-the-forest-lord",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 5,
+      "artistName": "Nicola Saviori",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "숲군주 이부스",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 남은 마나를 모두 소모합니다. 소모한 마나만큼 무작위로 +2/+2, \u003cb\u003e속공\u003c/b\u003e, \u003cb\u003e천상의 보호막\u003c/b\u003e, 또는 \u003cb\u003e도발\u003c/b\u003e을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3e2d8ba9e34e59a20fcb920060a9bc4421b3fcbbb9e622d21a463dbacf5b059.png",
+      "imageGold": "",
+      "flavorText": "\u003ci\u003e모\u003c/i\u003e 고대의 정령과는 달리 늘 선술집에서 환영받습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e85f832511b6ee9312c1f805143cc58640653e62b12fb5b36bfaab86e2b54ce.png",
+      "keywordIds": [
+        1,
+        3,
+        8,
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 59555,
+      "collectible": 1,
+      "slug": "59555-forest-warden-omu",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1443,
+      "rarityId": 5,
+      "artistName": "Mike Sass",
+      "health": 4,
+      "attack": 5,
+      "manaCost": 6,
+      "name": "숲의 감시관 오무",
+      "text": "\u003cb\u003e주문폭주:\u003c/b\u003e 내 마나 수정을 모두 회복합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/042a05e81c10d6b6552e12dacf5ce7a7f2bb6d2012bfea2a81d0da9bbfe5088b.png",
+      "imageGold": "",
+      "flavorText": "스칼로맨스의 모든 것이 잘 자라나 번성하기를 기원합니다. 그녀가 진실을 알았더라면...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c0813ec395f93e8a03efe7a3e4db4f1f51c2b1174fba86c9dfe78eef70d8939.png",
+      "keywordIds": [
+        88
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 601,
+      "collectible": 1,
+      "slug": "601-keeper-of-the-grove",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 3,
+      "artistName": "Gabor Szikszai",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 4,
+      "name": "숲의 수호자",
+      "text": "\u003cb\u003e선택 -\u003c/b\u003e 피해를 2 줍니다. 또는 하수인을 \u003cb\u003e침묵\u003c/b\u003e시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e96582e54edf8b98bd0aab1bd8f1eb1ac02a0ecf26a7160c255b742bb952a21.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/249b2529c9774924449021ff88a485c51d2eb9aed75abd933a42ac590fd23918.png",
+      "flavorText": "숲의 수호자라면서 왜 여태까지 나무정령을 일으키며 숲을 파괴했을까요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71ed646923fcffe51088d3249487708e12736de760fb275a324e28a5a0c61a27.png",
+      "keywordIds": [
+        15
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69873,
+      "collectible": 1,
+      "slug": "69873-keeper-of-the-grove",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 3,
+      "artistName": "Gabor Szikszai",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 4,
+      "name": "숲의 수호자",
+      "text": "\u003cb\u003e선택 -\u003c/b\u003e 피해를 2 줍니다. 또는 하수인을 \u003cb\u003e침묵\u003c/b\u003e시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e6b2707592f54a65e7c798a9ec4e900b5a511be7fbcc1b5e53f498e031c2da7.png",
+      "imageGold": "",
+      "flavorText": "숲의 수호자라면서 왜 여태까지 나무정령을 일으키며 숲을 파괴했을까요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71ed646923fcffe51088d3249487708e12736de760fb275a324e28a5a0c61a27.png",
+      "keywordIds": [
+        15
+      ],
+      "copyOfCardId": 601
+    },
+    {
+      "id": 381,
+      "collectible": 1,
+      "slug": "381-soul-of-the-forest",
+      "classId": 2,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 3,
+      "rarityId": 1,
+      "artistName": "Markus Erdt",
+      "manaCost": 3,
+      "name": "숲의 영혼",
+      "text": "내 하수인들에게 \"\u003cb\u003e죽음의 메아리:\u003c/b\u003e 2/2 나무정령을 소환함\" 능력을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/725568b375c949667870d36159fa154edff9dac932374973cd37e3332deb3715.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aee849be38999ce496454691084dc347806a839267f4c741b771edda5f73fd75.png",
+      "flavorText": "식목일에 쓰면 더 좋습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f5aa9669386621fcb3bae07219789b786bf942945ddcabff5a72c65d1c9c143.png",
+      "childIds": [
+        678,
+        41432,
+        600
+      ],
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69591,
+      "collectible": 1,
+      "slug": "69591-soul-of-the-forest",
+      "classId": 2,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Markus Erdt",
+      "manaCost": 3,
+      "name": "숲의 영혼",
+      "text": "내 하수인들에게 \"\u003cb\u003e죽음의 메아리:\u003c/b\u003e 2/2 나무정령을 소환함\" 능력을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e28c3883824f4b314dcc2bf5062013c6cc8afca1138e26093af0492b55bcc5a.png",
+      "imageGold": "",
+      "flavorText": "식목일에 쓰면 더 좋습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f5aa9669386621fcb3bae07219789b786bf942945ddcabff5a72c65d1c9c143.png",
+      "childIds": [
+        678,
+        41432
+      ],
+      "keywordIds": [
+        12
+      ],
+      "copyOfCardId": 381,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69867,
+      "collectible": 1,
+      "slug": "69867-soul-of-the-forest",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 1,
+      "artistName": "Markus Erdt",
+      "manaCost": 4,
+      "name": "숲의 영혼",
+      "text": "내 하수인들에게 \"\u003cb\u003e죽음의 메아리:\u003c/b\u003e 2/2 나무정령을 소환함\" 능력을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8392cdcc38fc58dd37607435ae3c8c81c3f171a2c516454b2c45843c6254c677.png",
+      "imageGold": "",
+      "flavorText": "식목일에 쓰면 더 좋습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aac8b4fde34bb9aa97715dfe73031a23827912776a6490a811cc88cf71a10ccc.png",
+      "childIds": [
+        678,
+        41432
+      ],
+      "keywordIds": [
+        12
+      ],
+      "copyOfCardId": 381
+    },
+    {
+      "id": 52819,
+      "collectible": 1,
+      "slug": "52819-the-forests-aid",
+      "classId": 2,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1130,
+      "rarityId": 3,
+      "artistName": "Vladimir Kafanov",
+      "manaCost": 8,
+      "name": "숲의 지원군",
+      "text": "\u003cb\u003e이중 주문\u003c/b\u003e 2/2 나무정령을 다섯 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5a930fe687e4279708d3ebd601726b6ac375442985a6795d4fea5076d43539f.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d84f43f3a87686324019064e10f9642e57540edd347bb3e9a7e7b6fddeb4dd3.png",
+      "flavorText": "이 정도면 숲의 지원군이 아니라 숲 그 자체군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/331bbe0fdf3d5a48b3e31369ca6e4390cf3528bd65738c783751305297d06e4a.png",
+      "childIds": [
+        53302,
+        52821
+      ],
+      "keywordIds": [
+        76
+      ]
+    },
+    {
+      "id": 55470,
+      "collectible": 1,
+      "slug": "55470-shuma",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 5,
+      "artistName": "Hideaki Takamura",
+      "health": 7,
+      "attack": 1,
+      "manaCost": 7,
+      "name": "슈마",
+      "text": "내 턴이 끝날 때, 내 전장을 1/1 촉수로 가득 채웁니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de6a72d88f1e39df848305136c8e3adf33199f5adfee33d4e4b9b71d8d08fc8e.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/357fddd3d4c7777d3fe04c33ec9c46c6933487f39c25c0d4d0675d3b4af26a1b.png",
+      "flavorText": "오닉시아를 무한으로 즐겨요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1982d19289514b2f77c3930af4013638602e0c720dc1a61bd6d1f258b90c1549.png",
+      "childIds": [
+        55471
+      ]
+    },
+    {
+      "id": 90561,
+      "collectible": 1,
+      "slug": "90561-beatboxer",
+      "classId": 7,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 3,
+      "artistName": "Jaemin Kim",
+      "health": 3,
+      "attack": 4,
+      "manaCost": 3,
+      "name": "슉슉로봇",
+      "text": "\u003cb\u003e연계:\u003c/b\u003e 모든 적에게 4의 피해를 무작위로 나누어 입힙니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3594355d99a1bd04c9b6bc9660b22279d142e444170de4777183654d803a4838.png",
+      "imageGold": "",
+      "flavorText": "\"오류. \u0027음악 공연 중 권투 금지\u0027 명령어를 산출하는 데 실패하였습니다.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e59d1994611c034a647e515bf9cc1c09eaf617ca46588f2f102eb2d4c35a8307.png",
+      "keywordIds": [
+        13
+      ]
+    },
+    {
+      "id": 65705,
+      "collectible": 1,
+      "slug": "65705-goliath-sneeds-masterpiece",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 5,
+      "artistName": "Vladimir Kafanov",
+      "health": 8,
+      "attack": 8,
+      "manaCost": 8,
+      "name": "스니드의 걸작 거수",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 피해를 2씩 주는 로켓 다섯 개를 적 하수인들에게 발사합니다. \u003ci\u003e(대상을 선택하세요!)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a42ee5963e3513291d97da75651d18d4c36578e8e338ca568d5ea3949ca9000.png",
+      "imageGold": "",
+      "flavorText": "\"설명 잘 들어. 톱날에, 로켓에, 로켓 톱날까지 달린 내 걸작이야. 유일한 단점은 연비지.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/200993c5faa6d5d04b2416e85afc154022e6a9d6798c352e7844747ee69fde6c.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2082,
+      "collectible": 1,
+      "slug": "2082-sneeds-old-shredder",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 13,
+      "rarityId": 5,
+      "artistName": "Christopher Moeller",
+      "health": 7,
+      "attack": 5,
+      "manaCost": 8,
+      "name": "스니드의 낡은 벌목기",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 무작위 \u003cb\u003e전설\u003c/b\u003e 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f23f76a7552edd90a9e42e1a6f65d1b12997502270305d0681f26a1b8be98871.png",
+      "imageGold": "",
+      "flavorText": "스니드가 죽음의 폐광에서 쓰러졌을 때, 그의 벌목기는 경매장에 올라가 익명의 구매자에게 넘어갔습니다. (아마 들창코)",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8bea758f4ef89428880d636e6cbca0899bc384365806168e3bcf2bc3e167e436.jpg",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 50659,
+      "collectible": 1,
+      "slug": "50659-halazzi-the-lynx",
+      "classId": 3,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1129,
+      "rarityId": 5,
+      "artistName": "Arthur Bozonnet",
+      "health": 2,
+      "attack": 3,
+      "manaCost": 5,
+      "name": "스라소니 할라지",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손을 \u003cb\u003e속공\u003c/b\u003e 능력이 있는 1/1 스라소니로 가득 채웁니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/053df07a0fb33291447f226315eb53b7639d4c5589d21c2a574f43ed9d3683d9.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3bb9cbe3f0e9938074e567c262c3c7b2d2efb96b9784da281a7bd6d594243ea9.png",
+      "flavorText": "너만 제때 잡으면 4공물인데!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6bef1a2ce5c21ab453dde70b5f6176b2a26f37cce45d1572ec909b8e41eb6251.png",
+      "childIds": [
+        50213
+      ],
+      "keywordIds": [
+        8,
+        53
+      ]
+    },
+    {
+      "id": 50660,
+      "collectible": 1,
+      "slug": "50660-spirit-of-the-lynx",
+      "classId": 3,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "multiTypeIds": [
+        20
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1129,
+      "rarityId": 3,
+      "artistName": "Arthur Bozonnet",
+      "health": 3,
+      "attack": 0,
+      "manaCost": 3,
+      "name": "스라소니의 혼",
+      "text": "1턴 동안 \u003cb\u003e은신\u003c/b\u003e을 얻습니다. 내가 야수를 소환할 때마다 그 야수에게 +1/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d343f108764f967a6efa0eeb26dc07bd9221d0b26dad4e7fb3e0e000cbf3364.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0523c3dbd954b8bbec4f188d26c32fd2867a39c7a1d21960aefeced69c1394e4.png",
+      "flavorText": "이 제단의 힘의 비밀은 캔 따는 소리입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e600583d7776908b7f599830fceef482bac114f2f89820bcf7c7a78d2dc7572.png",
+      "keywordIds": [
+        6
+      ]
+    },
+    {
+      "id": 765,
+      "collectible": 1,
+      "slug": "765-thrallmar-farseer",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 1,
+      "artistName": "Efrem Palacios",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "스랄마 선견자",
+      "text": "\u003cb\u003e질풍\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a59dc4ff38a46b4bfde7d7a2469038aec66afdc0b7dca6eb6db0dc9ccd220046.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/096defa660603d8507bbb58f77bf43a9f5922a9f0fdb6a8b05a75e969e64fb52.png",
+      "flavorText": "지금은 지옥불 반도에서 근무 중이지만, 오그리마에 더 가까운 곳으로 배치되길 원합니다. 최소한 땅에서 불을 뿜지는 않은 곳으로요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3271427a1315e2287439b9e0537d77f29dfecae4de7d54579b92cf2f40dfa413.png",
+      "keywordIds": [
+        11
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69818,
+      "collectible": 1,
+      "slug": "69818-thrallmar-farseer",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 1,
+      "artistName": "Efrem Palacios",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "스랄마 선견자",
+      "text": "\u003cb\u003e질풍\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0bef9724df638722b55f0091ae8f4440ce3d0e35699d75b77b5e5aa0a64a1fb.png",
+      "imageGold": "",
+      "flavorText": "지금은 지옥불 반도에서 근무 중이지만, 오그리마에 더 가까운 곳으로 배치되길 원합니다. 최소한 땅에서 불을 뿜지는 않은 곳으로요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3271427a1315e2287439b9e0537d77f29dfecae4de7d54579b92cf2f40dfa413.png",
+      "keywordIds": [
+        11
+      ],
+      "copyOfCardId": 765
+    },
+    {
+      "id": 65599,
+      "collectible": 1,
+      "slug": "65599-mr-smite",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 23,
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 5,
+      "artistName": "James Ryman",
+      "health": 5,
+      "attack": 6,
+      "manaCost": 7,
+      "name": "스마이트 씨",
+      "text": "내 해적들이 \u003cb\u003e돌진\u003c/b\u003e을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5c138666385e5b54beadb3bd11128384485de9abc564d228f60baa9d04b43fe.png",
+      "imageGold": "",
+      "flavorText": "\"내 아버지도 스마이트 씨라 불리우지. 난 요릭이라 불러라.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca7a8d1d7e5ff0cb60db3847553e4011f91fe888253bd6e1c86ac2658f26f9f9.png",
+      "keywordIds": [
+        4
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 39003,
+      "collectible": 1,
+      "slug": "39003-squirming-tentacle",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 21,
+      "rarityId": 1,
+      "artistName": "L. Lullabi \u0026 Nutchapol ",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "스멀거리는 촉수",
+      "text": "\u003cb\u003e도발\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61c12f5775b6709e72eded01ca546fde2c1c0520163b572ffabcd15177a6c6e8.png",
+      "imageGold": "",
+      "flavorText": "네, 우선 저 촉수부터 처치하는 게 좋을 것 같군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8df9bf4f08c7c3118fd0766f4658f3f5895b33443b2e46e02f55a48fbdeeba87.jpg",
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 46445,
+      "collectible": 1,
+      "slug": "46445-seeping-oozeling",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1004,
+      "rarityId": 3,
+      "artistName": "Anton Kagounkin",
+      "health": 4,
+      "attack": 5,
+      "manaCost": 6,
+      "name": "스며나오는 수액덩어리",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에 있는 무작위 하수인의 \u003cb\u003e죽음의 메아리\u003c/b\u003e 능력을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18b7da57c36c15da76126f2ae3257c718fd8251627b3c2b1f87401deb3d938a9.png",
+      "imageGold": "",
+      "flavorText": "웩, 시각만으로 죽음에 이를 수 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d79d44711823b14232f85a6826011c59ed3288a730a1c89f77531e14ac856650.jpg",
+      "keywordIds": [
+        8,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 102618,
+      "collectible": 1,
+      "slug": "102618-the-scarab-lord",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1898,
+      "rarityId": 5,
+      "artistName": "Slawomir Maniak",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "스카라베 군주",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 상대편에게 0/1 징을 소환해 줍니다. \u003cb\u003e연계:\u003c/b\u003e \u003cb\u003e속공\u003c/b\u003e을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1fd36d8ec2c5c3d21a0c1b2ab801771ac12b941e5658246bcf778ab4b5e584db.png",
+      "imageGold": "",
+      "flavorText": "대가요? 실리시드 등껍질 조각 41,400개 캐기가 시작이었습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78704de945d96500e99eaeaec2e02e8068856df9bfdb5f6dd9e6ed14c5a2c732.png",
+      "childIds": [
+        102620,
+        102621
+      ],
+      "keywordIds": [
+        8,
+        13,
+        53
+      ]
+    },
+    {
+      "id": 63517,
+      "collectible": 1,
+      "slug": "63517-scabbs-cutterbutter",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 5,
+      "artistName": "Ivan Fomin",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "스캡스 커터버터",
+      "text": "\u003cb\u003e연계:\u003c/b\u003e 이번 턴에 내는 내 다음 카드 2장의 비용이 (3) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51c088dae37b351d0e1ca1c7aca6260801f3ff2e92d41febdfebc7c95e6388ee.png",
+      "imageGold": "",
+      "flavorText": "\"거짓말, 절도, 도용, 음주는 금물이야. 물론 강제로 할 수밖에 없다면 별 수 없지만...\" — 스캡스 커터버터",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b296968689b63dac11b1b4a9bd5b7e4ca177a12379d11c3aca230390d335c890.png",
+      "keywordIds": [
+        13
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 80090,
+      "collectible": 1,
+      "slug": "80090-the-scourge",
+      "classId": 1,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1869,
+      "rarityId": 5,
+      "artistName": "Alex Horley Orlandelli",
+      "manaCost": 9,
+      "name": "스컬지",
+      "text": "내 전장을 무작위 언데드로 가득 채웁니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e35c0ebea1d47afa5fa3205aa41e865fc51ef3561df544d1b0dcc9c64b99b789.png",
+      "imageGold": "",
+      "flavorText": "\"정의를 원한다고 했느냐? 비겁하다고? 내 너희에게 저승의 정의를 보여주마. 진정한 공포를 보여주마.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/112dc48d0f0edcc303cd2c935b5e9c2c19617f2dec644f21bae79e0a1cc6b054.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      },
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 2
+      }
+    },
+    {
+      "id": 80537,
+      "collectible": 1,
+      "slug": "80537-scourge-rager",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 1,
+      "artistName": "Alex Stone",
+      "health": 4,
+      "attack": 5,
+      "manaCost": 3,
+      "name": "스컬지 광전사",
+      "text": "\u003cb\u003e환생\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 죽습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61cc9fcec9d8a666ff51c9c6f8d30bb30cdb6e9561aae5c3fe8c21e4fb672089.png",
+      "imageGold": "",
+      "flavorText": "왜 저렇게 화났냐고요? 당신도 장난으로 만들어졌다고 들으면 화나지 않겠습니까?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c84b0f27526750dcdff1f24d267de88864b91148e7ee3366483a37ef187aa30a.png",
+      "keywordIds": [
+        8,
+        78
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 84261,
+      "collectible": 1,
+      "slug": "84261-scourge-supplies",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1776,
+      "rarityId": 1,
+      "artistName": "L. Lullabi \u0026 K. Turovec",
+      "manaCost": 3,
+      "name": "스컬지 물자",
+      "text": "카드를 3장 뽑습니다. 그 중 한 장을 선택해 버립니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0b0983ce4989f40d38e53defbeab2f4bda946ce35d89e87741c440e3fcd9adf.png",
+      "imageGold": "",
+      "flavorText": "스컬지는 재활용에 진심입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0577e4c6af63f5ecbaec208fdf7a556e197f4f2cc827319acf5892977cfbe74a.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 84274,
+      "collectible": 1,
+      "slug": "84274-scourge-tamer",
+      "classId": 3,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 4,
+      "artistName": "Tanamaes Leejierasaes",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "스컬지 조련사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 원하는 누더기야수를 직접 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/978bc6cbd587b4735cc74a6ac51ef2828e5c3f39eea12468b29c8fa1ba1cdd77.png",
+      "imageGold": "",
+      "flavorText": "사냥꾼이자 채집가입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca913d96b2b69cdce5b257734ac94fb02fe8f02a5d8ce2b286d6cd40fd6cf05a.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 84229,
+      "collectible": 1,
+      "slug": "84229-scourge-troll",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 4,
+      "artistName": "Matt Dixon",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "스컬지 트롤",
+      "text": "이 하수인에게 부여한 \u003cb\u003e죽음의 메아리\u003c/b\u003e는 2번 발동합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/414e905336a9506344f11ee3f0f5b4d5511654fd005c6cb8dfe8ef7d0dd5e74f.png",
+      "imageGold": "",
+      "flavorText": "여기가 내 죽음의 메아리를 써놓는 곳입니다. 있다면 말입니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef8094eafa683e30421045c80ee8c2e4a1e8bcab3756da895b2e1706151fb347.png",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 84385,
+      "collectible": 1,
+      "slug": "84385-scourge-illusionist",
+      "classId": 7,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 4,
+      "artistName": "Matt Dixon",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "스컬지 환영술사",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 내 덱에 있는 다른 \u003cb\u003e죽음의 메아리\u003c/b\u003e 하수인을 4/4 하수인으로 복사하여 내 손으로 가져옵니다. 그 하수인의 비용이 (4) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba1b56526286ddd5a138d290b1c9de1136b10e790466679495041d1ca2c485e1.png",
+      "imageGold": "",
+      "flavorText": "속임수가 아니라 환영입니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/47743b83a6b124bdfe87abb4328bef08682494b3ddb5b98f29de2128b7fd97f9.png",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43423,
+      "collectible": 1,
+      "slug": "43423-scourgelord-garrosh",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 3,
+      "cardSetId": 1001,
+      "rarityId": 5,
+      "artistName": "Greg Staples",
+      "health": 30,
+      "manaCost": 8,
+      "armor": 5,
+      "name": "스컬지군주 가로쉬",
+      "text": "\u003cb\u003e전투의 함성\u003c/b\u003e: 공격 시 양옆의 하수인에게도 피해를 주는 4/3 어둠한을 장착합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b5eb12ea0d6fef2463e9cf776041b573530d94ec8922f0976de5bad8bc35eaa.png",
+      "imageGold": "",
+      "flavorText": "\"감히 내게 도전하느냐? 그래! 와서 최후의 비명을 질러라. 그러면, 넌 내것이다.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e39726c5b12cee54db2b380f7713210d19f0b07a4a9ad3b14be392e3699820b2.png",
+      "childIds": [
+        45585,
+        45297
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 39118,
+      "collectible": 1,
+      "slug": "39118-skeram-cultist",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 21,
+      "rarityId": 3,
+      "artistName": "Jaemin Kim",
+      "health": 6,
+      "attack": 7,
+      "manaCost": 6,
+      "name": "스케람 이교도",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 크툰에게 +2/+2를 부여합니다. \u003ci\u003e(어디에 있든)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee7a99355ed23683e049455b9da1a8112b8c3ca44ff79807e62dbb2e92963220.png",
+      "imageGold": "",
+      "flavorText": "퀴라지는 크툰의 모습을 본딴 생물이라고 합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8ccc5af4a89e343e0dc90b71a227feb9e91686ddc7aec17eab328e3f49cdcdb.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 47775,
+      "collectible": 1,
+      "slug": "47775-skaterbot",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1127,
+      "rarityId": 1,
+      "artistName": "Jim Nelson",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "스케이트로봇",
+      "text": "\u003cb\u003e합체\u003c/b\u003e \u003cb\u003e속공\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ee867d650d161683b03328f2e02c6f12c4649aa2bcea6393cffc9b2c54ccaa07.png",
+      "imageGold": "",
+      "flavorText": "그 스케이트 이름, 혹시 탈룰라는 아니겠죠?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fd6dc0c83f7ad2499c00627cef9baf16285d140627d3e3c946a5a99eb7369ce.png",
+      "keywordIds": [
+        53,
+        66
+      ]
+    },
+    {
+      "id": 1796,
+      "collectible": 1,
+      "slug": "1796-stalagg",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 12,
+      "rarityId": 5,
+      "artistName": "Dany Orizio",
+      "health": 4,
+      "attack": 7,
+      "manaCost": 5,
+      "name": "스탈라그",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 퓨진이 죽은 상태라면, 타디우스를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d408400861240a0c834c199eb3eb1b888e8fd3a6249eef41cd3f6d85d90c2f17.png",
+      "imageGold": "",
+      "flavorText": "\"스탈라그 잘생겼다!\" (스탈라그가 쓴 거 아님)",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/968e23083363b93632f15c996c3077a2c5244f6aba11d124976680b80f5cb1ef.png",
+      "childIds": [
+        1797,
+        1798
+      ],
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41324,
+      "collectible": 1,
+      "slug": "41324-stegodon",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 27,
+      "rarityId": 1,
+      "artistName": "Jim Nelson",
+      "health": 6,
+      "attack": 2,
+      "manaCost": 4,
+      "name": "스테고돈",
+      "text": "\u003cb\u003e도발\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a50fd916ce557cd6100e36fad9d63904ea32cc1ec4b37558091b45ab9a49bdb5.png",
+      "imageGold": "",
+      "flavorText": "토르톨란 성기사들은 40레벨이 되면 스테고돈을 길들이는 퀘스트를 받습니다. 현재까지 41레벨이 넘은 토르톨란 성기사는 아무도 없습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2c2384a189553eb8b5cc8342981cfc8f7ba6cb52a7d11b8069a4bd6972cd6c1.jpg",
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 92246,
+      "collectible": 1,
+      "slug": "92246-stereo-totem",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 21,
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 1,
+      "artistName": "Konstantin Turovec",
+      "health": 3,
+      "attack": 0,
+      "manaCost": 2,
+      "name": "스테레오 토템",
+      "text": "내 턴이 끝날 때, 내 손에 있는 무작위 하수인에게 +2/+2를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71e2baa2fdfa1436ecef2b0967e6882eea5268e6c151639d77e07d928e1c92d0.png",
+      "imageGold": "",
+      "flavorText": "선 꽂아 주세요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/256d47e9cf82027eb66d851593c1d9a6f9a4f1427e89fba3bb4a599ce9f6390f.png"
+    },
+    {
+      "id": 61249,
+      "collectible": 1,
+      "slug": "61249-stage-dive",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1466,
+      "rarityId": 3,
+      "artistName": "J. Cheung \u0026 K. Turovec",
+      "manaCost": 1,
+      "name": "스테이지 다이브",
+      "text": "\u003cb\u003e속공\u003c/b\u003e 하수인을 뽑습니다. \u003cb\u003e타락:\u003c/b\u003e 그 하수인에게 +2/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6cfd46ca429b8cdb28f94c84d67027155e2fbd1b0d221b76e89385c0ab78c441.png",
+      "imageGold": "",
+      "flavorText": "콘서트가 무르익었습니다. 진정한 팬이라면 머리 위로 손을 들어 주십시오.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8cb859e0a7f1800a9942ef7b9aebaac60110054f359441632b985eda6548451f.png",
+      "childIds": [
+        61427
+      ],
+      "keywordIds": [
+        53,
+        91
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 64702,
+      "collectible": 1,
+      "slug": "64702-stormwind-guard",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 1,
+      "artistName": "Vladimir Kafanov",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "스톰윈드 경비병",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 양옆의 하수인들에게 +1/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5a8a2909095fc5cf2eab37c0dc4dd06f339123cebf881c872d9f0dd6baa5b18.png",
+      "imageGold": "",
+      "flavorText": "실상은 경비 일보다 길 안내를 더 많이 합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50b117638003388401adca4e0091d55fb0d8929c3006891a7386f3b51a4af530.png",
+      "keywordIds": [
+        1,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 63
+}

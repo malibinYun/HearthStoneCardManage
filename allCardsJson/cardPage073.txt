@@ -1,0 +1,993 @@
+{
+  "cards": [
+    {
+      "id": 41169,
+      "collectible": 1,
+      "slug": "41169-shadow-visions",
+      "classId": 6,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 27,
+      "rarityId": 4,
+      "artistName": "Nutchapol Thitinunthakorn",
+      "manaCost": 2,
+      "name": "암흑의 환영",
+      "text": "내 덱에서 주문을 \u003cb\u003e발견\u003c/b\u003e해서 복사해옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6886f9baa391840760f0db736fb6b26236243e439dfcd63a7fe02913cd3614c.png",
+      "imageGold": "",
+      "flavorText": "이건 새 모양 환영입니다! 그리고 이건 토끼고요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61de2d119eb3cb84c9f7db6b1439b557f6d984bd761c4420834adeed6b2b6452.png",
+      "keywordIds": [
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 64443,
+      "collectible": 1,
+      "slug": "64443-darkbishop-benedictus",
+      "classId": 6,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 5,
+      "artistName": "James Ryman",
+      "health": 6,
+      "attack": 5,
+      "manaCost": 5,
+      "name": "암흑주교 베네딕투스",
+      "text": "\u003cb\u003e개전:\u003c/b\u003e 내 덱에 있는 모든 주문이 암흑 속성이라면, 어둠의 형상을 취합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0e32b82e7223a58d936bf37d256e3ad06b7700a1fb76e0dfe0e9c52d74ba9715.png",
+      "imageGold": "",
+      "flavorText": "체스를 둘 땐 항상 흑을 잡는다네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d72fd8c43077638c1308f58634dade51ed6522f683be99a20aece76e1f1a024a.png",
+      "childIds": [
+        1622
+      ],
+      "keywordIds": [
+        64
+      ],
+      "bannedFromSideboard": 1,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 102718,
+      "collectible": 1,
+      "slug": "102718-darkbishop-benedictus",
+      "classId": 6,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 5,
+      "artistName": "James Ryman",
+      "health": 6,
+      "attack": 5,
+      "manaCost": 5,
+      "name": "암흑주교 베네딕투스",
+      "text": "\u003cb\u003e개전:\u003c/b\u003e 내 덱에 있는 모든 주문이 암흑 속성이라면, 어둠의 형상을 취합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9edf95e2a1f772e3bd320029362de1e21c7eeec42d8e083d03af57f02e508613.png",
+      "imageGold": "",
+      "flavorText": "체스를 둘 땐 항상 흑을 잡는다네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d72fd8c43077638c1308f58634dade51ed6522f683be99a20aece76e1f1a024a.png",
+      "childIds": [
+        1622
+      ],
+      "keywordIds": [
+        64
+      ],
+      "copyOfCardId": 64443,
+      "bannedFromSideboard": 1,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 670,
+      "collectible": 1,
+      "slug": "670-nightblade",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Raymond Swanland",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "암흑칼날",
+      "text": "\u003cb\u003e전투의 함성: \u003c/b\u003e적 영웅에게 피해를 3 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/505e8a235697fa9def442540fef7dbd1d8063802417b2203ed668a6f459117d4.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/876508e7343e54d1115695b81502e9193cb2c95c025a5810944a5dddb394eb28.png",
+      "flavorText": "단검을 가장 피하고 싶은 부분은 당신의 얼굴일 겁니다. 그러니 도적이 그곳을 노릴 겁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/448097e39ebc0e63ade69b2b07f35a3ef81680b45b430d391cfb90bf07d797fb.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68478,
+      "collectible": 1,
+      "slug": "68478-nightblade",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Raymond Swanland",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "암흑칼날",
+      "text": "\u003cb\u003e전투의 함성: \u003c/b\u003e적 영웅에게 피해를 3 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cace5324bff25bac096cc3cf96219aaf0e978cc39af11c02bd77039a171695d2.png",
+      "imageGold": "",
+      "flavorText": "단검을 가장 피하고 싶은 부분은 당신의 얼굴일 겁니다. 그러니 도적이 그곳을 노릴 겁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/448097e39ebc0e63ade69b2b07f35a3ef81680b45b430d391cfb90bf07d797fb.png",
+      "keywordIds": [
+        8
+      ],
+      "copyOfCardId": 670
+    },
+    {
+      "id": 65604,
+      "collectible": 1,
+      "slug": "65604-shadowblade-slinger",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 23,
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 1,
+      "artistName": "Maria Trepalina",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 1,
+      "name": "암흑칼날 투척꾼",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이번 턴에 내 영웅이 피해를 받았으면, 그만큼 적 하수인에게 피해를 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/586be8cef7af7e92ea75d66b97aa4d0c96efd2e226506ea79b33cc0ceea20332.png",
+      "imageGold": "",
+      "flavorText": "칼 던지는 흑마법사가 되려면 어렵고 고통스러운 과정을 겪어야 합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6510566754215bad316e3e714a07ff91ec6078780c4b91a82644fb4b55a728b6.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 50040,
+      "collectible": 1,
+      "slug": "50040-devastate",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1129,
+      "rarityId": 1,
+      "artistName": "Slawomir Maniak",
+      "manaCost": 1,
+      "name": "압도",
+      "text": "피해를 받은 하수인에게 피해를 4 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33cf6b96bb273509fe837721cf331b9fd67f03a72e8235bb967fe6861ea07f3f.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5276daa3d4af03520de27d4d7cc298a625493d5eea35c00d61b5842f06f5274e.png",
+      "flavorText": "널 마무리할 수 없다면 압도해버리겠어.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75eb1478829dc02953ea9616a3dabd01b8b7dca5edec7d525ec28d5dd03e95b6.png"
+    },
+    {
+      "id": 846,
+      "collectible": 1,
+      "slug": "846-power-overwhelming",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 3,
+      "rarityId": 1,
+      "artistName": "Tom Baxa",
+      "manaCost": 1,
+      "name": "압도적인 힘",
+      "text": "아군 하수인에게 +4/+4를 부여합니다. 턴이 끝나면 그 하수인은 죽습니다. 처참하게.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61fd5fac6d1508c4d212f40ff14c17114fe7378182607263a9ab00d383437456.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/981b21a8457d27a07931622a0952f253529652e49109afcb1772af12fdfdf68f.png",
+      "flavorText": "얼마나 처참하게 죽는지 차마 말로 표현할 수 없을 정도입니다. 너무 끔찍합니다! 아니, 끔찍 그 이상입니다. 그냥 상상하지 마십시오.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdf1b01197fd2b699c4d3a27ea785181105d8e90e11ea14ffb07f598e9b164bd.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69921,
+      "collectible": 1,
+      "slug": "69921-power-overwhelming",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 1,
+      "artistName": "Tom Baxa",
+      "manaCost": 1,
+      "name": "압도적인 힘",
+      "text": "아군 하수인에게 +4/+4를 부여합니다. 턴이 끝나면 그 하수인은 죽습니다. 처참하게.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41f490451451e6d436cd984baa2a2c9001309d574659dea7e5381940f2d8048b.png",
+      "imageGold": "",
+      "flavorText": "얼마나 처참하게 죽는지 차마 말로 표현할 수 없을 정도입니다. 너무 끔찍합니다! 아니, 끔찍 그 이상입니다. 그냥 상상하지 마십시오.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fdf1b01197fd2b699c4d3a27ea785181105d8e90e11ea14ffb07f598e9b164bd.png",
+      "copyOfCardId": 846
+    },
+    {
+      "id": 58244,
+      "collectible": 1,
+      "slug": "58244-hulking-overfiend",
+      "classId": 14,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1463,
+      "rarityId": 3,
+      "artistName": "Bayard Wu",
+      "health": 10,
+      "attack": 5,
+      "manaCost": 8,
+      "name": "압도하는 거대마귀",
+      "text": "\u003cb\u003e속공\u003c/b\u003e, 이 하수인은 공격하여 다른 하수인을 처치한 후에 다시 공격할 수 있습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/963761d96fbde5e57c024c9e0a5a19a22b38d6f7764b564845cacd8b619e543c.png",
+      "imageGold": "",
+      "flavorText": "가질 수 없다면 압도해버리겠어.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/604fc6630cb1e813a97d3fd18afc0cb355ae67a381f0d6eb5a0494033834f20e.png",
+      "keywordIds": [
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 53919,
+      "collectible": 1,
+      "slug": "53919-pressure-plate",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1158,
+      "rarityId": 1,
+      "artistName": "Zoltan Boros",
+      "manaCost": 2,
+      "name": "압력판",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 상대편이 주문을 시전한 후에, 무작위 적 하수인을 처치합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b0bb14ce442d06d03ed0ae90acbc22a0d5846952e7bb3b483bbde3beb74519cd.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad930cd13ad175377eb6ffc73de75d24240b06d8cd3f94f8bcea854bc68dea1d.png",
+      "flavorText": "그런 판은 밟지 말았어야 했는데, 난 그 사실을 몰랐어...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e25152aa40785dda5b9da6e6ceef945f613436777bf51c78debb24c53af8ab4e.png",
+      "keywordIds": [
+        5
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 1804,
+      "collectible": 1,
+      "slug": "1804-avenge",
+      "classId": 5,
+      "multiClassIds": [],
+      "spellSchoolId": 5,
+      "cardTypeId": 5,
+      "cardSetId": 12,
+      "rarityId": 1,
+      "artistName": "Zoltan \u0026 Gabor",
+      "manaCost": 1,
+      "name": "앙갚음",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 내 하수인 중 하나가 죽으면, 무작위 아군 하수인에게 +3/+2를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e0d5404513f2d8aefa4db3622ee90ece521d8ef27aa39269bf6c9945770f485.png",
+      "imageGold": "",
+      "flavorText": "어쩐지 성기사의 하수인들은 서로 더 친한 것 같더니만...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dee389bb36c2f521cf0e6e6225fece357c85a75e1df357a3627e7b4644501169.png",
+      "keywordIds": [
+        5
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 63119,
+      "collectible": 1,
+      "slug": "63119-rancor",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1525,
+      "rarityId": 4,
+      "artistName": "A.J. Nazzaro",
+      "manaCost": 4,
+      "name": "앙심",
+      "text": "\u003cb\u003e모든\u003c/b\u003e 하수인에게 피해를 2 줍니다. 처치한 하수인 하나당 방어도를 +2 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/333bd7ff213310d48c2ac01bf0d9581b9230305753136a8af13db4f9b163590c.png",
+      "imageGold": "",
+      "flavorText": "현명한 사람은 \"바보들만 돌진한다\" 말하죠. 현명한 오크들은 그 반대로 말하고요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ffdad839b8474df36c6881d856bb0d805b7850cb2f48808c4d496b88855e554a.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 71232,
+      "collectible": 1,
+      "slug": "71232-pet-collector",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Anzka Nguyen",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "애완동물 수집가",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에서 비용이 (5) 이하인 야수를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b77d928eb18187273f7a86a0323c4e001379d45b9c5a980c4afc033a3f1f2798.png",
+      "imageGold": "",
+      "flavorText": "“그래, 네 이름은 이제 허그야. 너는 방울이, 너는 깜찍이, 너는...”",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dbb049d10120d25fa9924d406685bbcc1e43e7919a4882c182346d6958068270.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41216,
+      "collectible": 1,
+      "slug": "41216-biteweed",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 27,
+      "rarityId": 4,
+      "artistName": "Craig Elliott",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 2,
+      "name": "야금풀",
+      "text": "\u003cb\u003e연계:\u003c/b\u003e 이번 턴에 앞서 낸 카드 1장당 +1/+1를 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf85a6072acec66b8674230b2677ba4c3d0ed81da9dab8e8ea8adbcdffc98a94.png",
+      "imageGold": "",
+      "flavorText": "밴클리풀이라고도 하죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c2eeabac5cb9c1c449d457f301af6d7b38e4690bd80f040d7b72c9ba91ac563b.jpg",
+      "keywordIds": [
+        13
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 71705,
+      "collectible": 1,
+      "slug": "71705-barbaric-sorceress",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 92,
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 1,
+      "artistName": "L. Lullabi \u0026 K. Turovec",
+      "health": 7,
+      "attack": 3,
+      "manaCost": 6,
+      "name": "야만스러운 마술사",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 각 플레이어의 손에 있는 무작위 주문의 비용을 서로 바꿉니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab5a31bb2353826cb753e2f2e1e1b36f2befbc7d04602d73a4c18ffe2b7231e0.png",
+      "imageGold": "",
+      "flavorText": "네 개의 팔은 주문을 위해, 앞팔은 적을 뭉개기 위해 사용합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/feffe9506bef3f65422259ae7aa5e9f423b02808b78093da7fe814684d08b560.png",
+      "keywordIds": [
+        1,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43121,
+      "collectible": 1,
+      "slug": "43121-vulgar-homunculus",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1004,
+      "rarityId": 1,
+      "artistName": "Steve Prescott",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "야비한 소악마",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 내 영웅에게 피해를 2 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/635d8c255a2fd1394b25053518a3c31027808c4fbc9a9da0d8dc1f8710275318.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90342a9fc0b9b583a64c8515bf3d658cd4d93c2e306e53508cf5aea49d95fc2f.png",
+      "flavorText": "이 녀석의 손가락 갯수가 짝수라 다행입니다. 적어도 \"가운뎃손가락을 사용한 감정 표현\"은 못 할 테니까요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca1bc8ac0affe85b381614aafe1bd4ef4835e6aa6f5bfb9b5adf9d7034b33938.jpg",
+      "keywordIds": [
+        1,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 45547,
+      "collectible": 1,
+      "slug": "45547-feral-gibberer",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1004,
+      "rarityId": 3,
+      "artistName": "Anton Zemskov",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "야생 떠버리",
+      "text": "이 하수인은 영웅을 공격한 후에, 이 카드를 복사하여 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb7ab4f3716de3ff212e2d99f8b8a5554653b378402c67261902ffca9727f334.png",
+      "imageGold": "",
+      "flavorText": "하스스톤을 처음하신다고요? 그런 당신을 위해 준비했습니다! 500RPM 떠버리 덱!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ade59a1ee64e5af27c6938ba3a562d83c7e52190a80f669b2cefe2ef0323305.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 78416,
+      "collectible": 1,
+      "slug": "78416-wild-spirits",
+      "classId": 3,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1691,
+      "rarityId": 4,
+      "artistName": "Konstantin Turovec",
+      "manaCost": 3,
+      "name": "야생 영혼",
+      "text": "\u003cb\u003e휴면\u003c/b\u003e 상태인 서로 다른 야생씨앗을 둘 소환합니다. 내 야생씨앗들이 1턴 일찍 깨어나게 합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d232cb5ed6e6ba01199ed59aa2f4442ddd45dc8aedfe14f2047b5821422c90b.png",
+      "imageGold": "",
+      "flavorText": "야생 가기 전까지만 정규 영혼으로 이름을 바꿔 부를까요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31dad82f3f116293718959c610a91d1b87732d5ddeebf0c8901364d0dcb801c5.png",
+      "childIds": [
+        78406,
+        78408,
+        78410,
+        78502
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2786,
+      "collectible": 1,
+      "slug": "2786-wildwalker",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 15,
+      "rarityId": 1,
+      "artistName": "James Ryman",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "야생길잡이",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 아군 야수에게 생명력을 +3 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac5751a54abce316e63057327e60b337c7b224e0a1b3c9653f87c717399e99b7.png",
+      "imageGold": "",
+      "flavorText": "\"네, 독사도 좋아해요!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a471f843652b4a88f88cf1fa9e06969854f988c86145d9b26aba30e3a51cc69.jpg",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 481,
+      "collectible": 1,
+      "slug": "481-savagery",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 3,
+      "rarityId": 3,
+      "artistName": "Dave Rapoza",
+      "manaCost": 1,
+      "name": "야생성",
+      "text": "하수인에게 내 영웅의 공격력만큼 피해를 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1609ff2e302c393bed67545d060437ccca84c6103bccc6fb98796d3305de77d.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/97fa3ea332dcb6fc8874fd852423638759fefc51b6dd1553f13f959b6575e792.png",
+      "flavorText": "일부 드루이드들이 야생성을 보이는 건 사실이나, 대부분은 조용한 곳에서 차 한잔하는 것을 즐긴답니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d571450936138607ea255df392092f610319b0c198b1a6b382fed5008da1b46a.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70034,
+      "collectible": 1,
+      "slug": "70034-savagery",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 3,
+      "artistName": "Dave Rapoza",
+      "manaCost": 1,
+      "name": "야생성",
+      "text": "하수인에게 내 영웅의 공격력만큼 피해를 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56b76c79e5b6b404528be9956b9cffc091b58c789e02cce429a9480cf46e3a23.png",
+      "imageGold": "",
+      "flavorText": "일부 드루이드들이 야생성을 보이는 건 사실이나, 대부분은 조용한 곳에서 차 한잔하는 것을 즐긴답니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d571450936138607ea255df392092f610319b0c198b1a6b382fed5008da1b46a.png",
+      "copyOfCardId": 481
+    },
+    {
+      "id": 2788,
+      "collectible": 1,
+      "slug": "2788-knight-of-the-wild",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 15,
+      "rarityId": 3,
+      "artistName": "Ralph Horsley",
+      "health": 6,
+      "attack": 6,
+      "manaCost": 7,
+      "name": "야생의 기사",
+      "text": "이번 게임에서 내가 소환한 야수 하나당 비용이 (1)씩 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b25e49a382c9e8a24cb39b691ac9227b22227a4fdda25ca19b619e8773760481.png",
+      "imageGold": "",
+      "flavorText": "여관주인들이 객실을 내줘야 할지 마굿간을 내줘야 할지 고민하게 만드는 손님입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dcb375f6cb78258f45e9cfe5643722743fef6f188eaf6230142627422e5bf716.png"
+    },
+    {
+      "id": 102523,
+      "collectible": 1,
+      "slug": "102523-knight-of-the-wild",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1898,
+      "rarityId": 3,
+      "artistName": "Ralph Horsley",
+      "health": 6,
+      "attack": 6,
+      "manaCost": 7,
+      "name": "야생의 기사",
+      "text": "이번 게임에서 내가 소환한 야수 하나당 비용이 (1)씩 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c15a19305df831ba62570682509cd340dbab43773c6f843c490c2afc1c2a01b.png",
+      "imageGold": "",
+      "flavorText": "여관주인들이 객실을 내줘야 할지 마굿간을 내줘야 할지 고민하게 만드는 손님입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dcb375f6cb78258f45e9cfe5643722743fef6f188eaf6230142627422e5bf716.png",
+      "copyOfCardId": 2788
+    },
+    {
+      "id": 63250,
+      "collectible": 1,
+      "slug": "63250-toad-of-the-wilds",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 1,
+      "artistName": "Grace Liu",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "야생의 두꺼비",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 자연 주문이 있으면, 생명력을 +2 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c655129cfbe2b226f7c50daebcec3ea93ccace26fbd93a48168c81693000cb2.png",
+      "imageGold": "",
+      "flavorText": "\"언젠가 찾게 될 거야, 오아시스의 연결고리를. 일꾼도, 짐마차도, 나도.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3eba78c1103fe63784f1ccae602540c676f548719de38156fe0bb334deb2e2e.png",
+      "keywordIds": [
+        1,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 437,
+      "collectible": 1,
+      "slug": "437-animal-companion",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Wei Wang",
+      "manaCost": 3,
+      "name": "야생의 벗",
+      "text": "무작위 동료 야수를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4b1bc3978fe1af9259a7988a5b7a545adbe3bac6bdd82a55eaf1d8d3a5e830f.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21b68f587dfe3bfa54d5aa5815665f6e543454147992eea94605e8e3c20f907d.png",
+      "flavorText": "미샤나 레오크, 혹은 킁킁이를 소환할 수 있습니다! 근데 킁킁이는 좀 말썽꾸러기라는 거.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9b98a386920e7d04c19d57db1f826a43eb58f45b8167945280415f43d99934b.png",
+      "childIds": [
+        100,
+        226,
+        959
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68529,
+      "collectible": 1,
+      "slug": "68529-animal-companion",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Wei Wang",
+      "manaCost": 3,
+      "name": "야생의 벗",
+      "text": "무작위 동료 야수를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d3b127688c460b52d05ee5e232bcfe390ce1afbfedfa54b017325abd05072aa.png",
+      "imageGold": "",
+      "flavorText": "미샤나 레오크, 혹은 킁킁이를 소환할 수 있습니다! 근데 킁킁이는 좀 말썽꾸러기라는 거.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9b98a386920e7d04c19d57db1f826a43eb58f45b8167945280415f43d99934b.png",
+      "childIds": [
+        68533,
+        68531,
+        68530
+      ],
+      "copyOfCardId": 437
+    },
+    {
+      "id": 76297,
+      "collectible": 1,
+      "slug": "76297-animal-companion",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Wei Wang",
+      "manaCost": 3,
+      "name": "야생의 벗",
+      "text": "무작위 동료 야수를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6fdaf80db9e264242a2a0fd32e42a345c3959b645ea24b069eace08680d1bab.png",
+      "imageGold": "",
+      "flavorText": "미샤나 레오크, 혹은 킁킁이를 소환할 수 있습니다! 근데 킁킁이는 좀 말썽꾸러기라는 거.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22fc73c7151722277cb0a691116bcec0f8010a40faab859c0d1bc1c4aa0d0053.png",
+      "childIds": [
+        100,
+        226,
+        959
+      ],
+      "copyOfCardId": 437,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 51159,
+      "collectible": 1,
+      "slug": "51159-revenge-of-the-wild",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1129,
+      "rarityId": 3,
+      "artistName": "Dave Allsop",
+      "manaCost": 2,
+      "name": "야생의 복수",
+      "text": "이번 턴에 죽은 내 야수들을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/976d6b04a7eb74e85c3eda0f1a6d0ac736738949376c1a987e9f77e17aaff4d8.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9f5483038a48251b94e4633fd13fcd57b71906dd7b9429dc5f13e6804371ddf.png",
+      "flavorText": "이래서 사바나 사자가 전설 카드라는 겁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b62d51036d86d98813918d08e6a872033379398d068a457f589ab3ece0a3768b.png"
+    },
+    {
+      "id": 38727,
+      "collectible": 1,
+      "slug": "38727-call-of-the-wild",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 21,
+      "rarityId": 4,
+      "artistName": "Peter Stapleton",
+      "manaCost": 8,
+      "name": "야생의 부름",
+      "text": "동료 야수 3마리를 모두 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4e0fedf2f7ae90e122b435e3922736dc63e2967348f1dc8368c6453a367e4cd.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6bfe339ad7659b21df08e93e1830e8e68fda3217d6735d7427e9eb6180653bdd.png",
+      "flavorText": "들어 봐, 미샤. 레오크랑 킁킁이가 야생에 풀리는 끔찍한 꿈을 꾸었어...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2712fb059ac3cccee3519777a9b40dc6f40458c978835ca279676b15d494cf78.png",
+      "childIds": [
+        100,
+        226,
+        959
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 38334,
+      "collectible": 1,
+      "slug": "38334-feral-rage",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 21,
+      "rarityId": 1,
+      "artistName": "Alex Alexandrov",
+      "manaCost": 3,
+      "name": "야생의 분노",
+      "text": "\u003cb\u003e선택 -\u003c/b\u003e 이번 턴에 내 영웅에게 공격력을 +4 부여합니다. 또는 방어도를 +8 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c483e533358b65deb99c55aa23caee133cbd1f76503b0d0b6f5f2649cba01c89.png",
+      "imageGold": "",
+      "flavorText": "솔직히 말해, 분노하는 선택은 하나뿐입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f09f20a26e98c1f69c42051a599e4aedbd1db6f6a0ab016ce65ed3b56725e4b0.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69688,
+      "collectible": 1,
+      "slug": "69688-feral-rage",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Alex Alexandrov",
+      "manaCost": 3,
+      "name": "야생의 분노",
+      "text": "\u003cb\u003e선택 -\u003c/b\u003e 이번 턴에 내 영웅에게 공격력을 +4 부여합니다. 또는 방어도를 +8 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f0762a7177556b4323646aa586f50bd3d15f615214f7d48cb0021e39b54f52d.png",
+      "imageGold": "",
+      "flavorText": "솔직히 말해, 분노하는 선택은 하나뿐입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62194b3f816aaa3a133e3be070f77f2b9b6910796357c0f641523ff6916b16fe.png",
+      "copyOfCardId": 38334,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 54833,
+      "collectible": 1,
+      "slug": "54833-gift-of-the-wild",
+      "classId": 2,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1635,
+      "rarityId": 1,
+      "artistName": "Zoltan Boros",
+      "manaCost": 8,
+      "name": "야생의 선물",
+      "text": "내 하수인들에게 +2/+2와 \u003cb\u003e도발\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f49a36fe447d9b0f77929bca3e5d87246bb32e8c27e46cd68c8ea9b44c7d125f.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/033f377c4f5ce2d6951e38460aeaadf64ce34248804417993dcadba138b9dad8.png",
+      "flavorText": "온 누리에 발바닥을!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9cd386aae074ee460b0ab5cfeed54721ba47346074e5d864a67acde7c662c6fb.png",
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70249,
+      "collectible": 1,
+      "slug": "70249-heart-of-the-wild",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Paul Mafayon",
+      "manaCost": 3,
+      "name": "야생의 정수",
+      "text": "하수인에게 +2/+2를 부여한 후에, 내 야수들에게 +1/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b80e4100f7cc0f5d4acc41f87658532749cf099b2210ef7628e5d57a8749c57.png",
+      "imageGold": "",
+      "flavorText": "우리 모두 가슴 속에 야성이 뛰고 있습니다. 포세이큰만 빼고요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e9e11698856e1a7824a1569081a774b070c76e9932a1f0f2c1439d95d645434.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 213,
+      "collectible": 1,
+      "slug": "213-mark-of-the-wild",
+      "classId": 2,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Brad Vancata",
+      "manaCost": 2,
+      "name": "야생의 징표",
+      "text": "하수인에게 \u003cb\u003e도발\u003c/b\u003e과 +2/+3을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7247c646bd0c2ac7bcf826c2424f885506a5464d5bb5df5c0e92c2b82d2279e6.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f76ef8d6bdaf1fa9b5c092631b4ad14a050e0382c838b0989bd84339fb7683d.png",
+      "flavorText": "드루이드가 아닌 사람들은 그냥 다 \u0027발바닥\u0027이라고 부르더군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d941f7ae1b15d4b790a30bc3d0e975592bc8fdde33e596154c8f4254bbe9688.png",
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68311,
+      "collectible": 1,
+      "slug": "68311-mark-of-the-wild",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Brad Vancata",
+      "manaCost": 2,
+      "name": "야생의 징표",
+      "text": "하수인에게 \u003cb\u003e도발\u003c/b\u003e과 +2/+2를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/361ebe1245b8ee0b522ef94049195754d576b4e87313cc22d3b05462dcc664ea.png",
+      "imageGold": "",
+      "flavorText": "드루이드가 아닌 사람들은 그냥 다 \u0027발바닥\u0027이라고 부르더군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d941f7ae1b15d4b790a30bc3d0e975592bc8fdde33e596154c8f4254bbe9688.png",
+      "keywordIds": [
+        1
+      ],
+      "copyOfCardId": 213
+    },
+    {
+      "id": 69511,
+      "collectible": 1,
+      "slug": "69511-mark-of-the-wild",
+      "classId": 2,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 3,
+      "artistName": "Brad Vancata",
+      "manaCost": 2,
+      "name": "야생의 징표",
+      "text": "하수인에게 \u003cb\u003e도발\u003c/b\u003e과 +2/+3을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cf7b6da86992c21d1d55d9a41339f8d8759fb2b213e4659ed48738f3c3c1323f.png",
+      "imageGold": "",
+      "flavorText": "드루이드가 아닌 사람들은 그냥 다 \u0027발바닥\u0027이라고 부르더군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/590c6d19f681503543ba31141feaef67ba94562c4237521af3f93a6fbdcda1c1.png",
+      "keywordIds": [
+        1
+      ],
+      "copyOfCardId": 213,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 742,
+      "collectible": 1,
+      "slug": "742-savage-roar",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Grace Liu",
+      "manaCost": 3,
+      "name": "야생의 포효",
+      "text": "이번 턴에 내 캐릭터들에게 공격력을 +2 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e9cfcbe461c0f87f1632848ce80c14b484698d30c8a9bb8238d809482272b0c.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f35b9bc680afe9bce2dba83707af92818fc6ff5d82533925ee8e0d6af5af7fd.png",
+      "flavorText": "뭐라고 포효하는 걸까요? 아무도 자신 있게 말할 순 없지만, 얼핏 들리기로는 \"이이!\"라고 외치는 것 같습니다. 이게 대체 무슨 뜻일까요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6139f102fcb9750e4f96b453f028f85175955cbee217a94c6f258e8f78295cc9.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68313,
+      "collectible": 1,
+      "slug": "68313-savage-roar",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Grace Liu",
+      "manaCost": 3,
+      "name": "야생의 포효",
+      "text": "이번 턴에 내 캐릭터들에게 공격력을 +2 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e0d4c07364154a430fc43bb810ddd1a13049f043aebcba5727d673baaf85b1b.png",
+      "imageGold": "",
+      "flavorText": "뭐라고 포효하는 걸까요? 아무도 자신 있게 말할 순 없지만, 얼핏 들리기로는 \"이이!\"라고 외치는 것 같습니다. 이게 대체 무슨 뜻일까요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6139f102fcb9750e4f96b453f028f85175955cbee217a94c6f258e8f78295cc9.png",
+      "copyOfCardId": 742
+    },
+    {
+      "id": 503,
+      "collectible": 1,
+      "slug": "503-power-of-the-wild",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 3,
+      "rarityId": 1,
+      "artistName": "Steve Tappin",
+      "manaCost": 2,
+      "name": "야생의 힘",
+      "text": "\u003cb\u003e선택 -\u003c/b\u003e 내 하수인들에게 +1/+1을 부여합니다. 또는 3/2 표범을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a9112af7382e244f4ff0de9c53b2220748d4af808af235c8684f868d4de1afd.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f782dfb66d0779b4450354f869beb1bbb88611b0611c6b6d03a2c3e5e1a30b82.png",
+      "flavorText": "표범을 만났을 땐 표범과 눈을 마주치지 마십시오. 아니, \u0027계속 표범의 눈을 보십시오\u0027였던가? 뭐 둘 중 하나였던 것 같습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68d5d7edc591357caffdda80c03d8f00f56d0dcc273cbb99ecc72008b1c473de.png",
+      "childIds": [
+        812
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 73
+}

@@ -1,0 +1,1010 @@
+{
+  "cards": [
+    {
+      "id": 2068,
+      "collectible": 1,
+      "slug": "2068-floating-watcher",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 13,
+      "rarityId": 1,
+      "artistName": "Todd Lockwood",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "떠 다니는 감시자",
+      "text": "내 턴에 내 영웅이 피해를 받을 때마다 +2/+2를 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7bf8f3e747e9048a1676515e12c61ea38b8d15ae0588cbfe1c74f7cba548c8ca.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/34cc18ee1a4d5573e2c386f91225c6cb1bf5aca8f276d76024f77013f0fb4227.png",
+      "flavorText": "본래 이름은 사악한 눈깔 감시자였지만, 좀 과하게 무시무시한 것 같아서 순화했습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6b3f4f8d494b6734293486da1de110efbf07ce7e73ce9a2ce7f8aa4b2356056.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43359,
+      "collectible": 1,
+      "slug": "43359-wandering-monster",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1004,
+      "rarityId": 3,
+      "artistName": "Trent Kaniuga \u0026 James Martin",
+      "manaCost": 2,
+      "name": "떠도는 괴물",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 적이 내 영웅을 공격할 때, 대신 맞아주는 비용이 3인 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1bdafcd8c7fa869a36d7eaf664fcb25ae40bb901594b7814a52069e7dfd2d200.png",
+      "imageGold": "",
+      "flavorText": "떠도는 자가 모두 길을 잃은 것은 아니...지만 이 괴물은 길을 잃은 게 분명합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/469931b625d47195e7b0fbf520bae7579cab5e6c11d321a12caa6235dcb2d6e0.jpg",
+      "keywordIds": [
+        5
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 102189,
+      "collectible": 1,
+      "slug": "102189-wandering-monster",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 3,
+      "artistName": "Trent Kaniuga \u0026 James Martin",
+      "manaCost": 2,
+      "name": "떠도는 괴물",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 적이 내 영웅을 공격할 때, 대신 맞아주는 비용이 3인 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db0dcddb0549785e0562a915989952572b19aa4dfd76dc0df43362e80726fe5a.png",
+      "imageGold": "",
+      "flavorText": "떠도는 자가 모두 길을 잃은 것은 아니...지만 이 괴물은 길을 잃은 게 분명합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd3f7e51b03324b0bd5b8681516514068d30a35806b0df65a57e7d7fc057809b.png",
+      "keywordIds": [
+        5
+      ],
+      "copyOfCardId": 43359,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 79739,
+      "collectible": 1,
+      "slug": "79739-clear-conscience",
+      "classId": 6,
+      "multiClassIds": [],
+      "spellSchoolId": 5,
+      "cardTypeId": 5,
+      "cardSetId": 1691,
+      "rarityId": 1,
+      "artistName": "Arthur Bozonnet",
+      "manaCost": 3,
+      "name": "떳떳한 마음",
+      "text": "아군 하수인에게 +2/+3과 \"나만이 주문이나 영웅 능력의 대상으로 지정할 수 있음\" 능력을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/970edbf93202a3bdda262cca0308372651c0381f7f7eb773587e494b6948e472.png",
+      "imageGold": "",
+      "flavorText": "양심에 따라 숨김과 보탬이 없이 버프 그대로를 주고 만일 제대로 주지 않으면 위증의 벌을 받기로 맹세합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e41bd7b457d5af49e80f9494a6cc98d00ff177399d8ad96c8ad8fecb3049321.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 40928,
+      "collectible": 1,
+      "slug": "40928-streetwise-investigator",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 25,
+      "rarityId": 1,
+      "artistName": "Adam Byrne",
+      "health": 6,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "뛰어난 수사관",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 적 하수인들이 \u003cb\u003e은신\u003c/b\u003e을 잃습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23342c6a27c8528f9c14aa32370ed09bcbebf2ac3a3bffa41b8fc33d33e04c12.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d64018f229cd05d8e3133366cb32dda8d44ca20041e47ad0d76afd4f1fa26cb6.png",
+      "flavorText": "\"흠... 범인은 이 안에 있어. 누구냐고? 온몸이 까맣고 눈만 하얀 녀석을 찾으면 돼.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/872cd62b007ec5fda4a83762f7c311cf7ea9e09931ff7e3a0cdaee439b80f454.png",
+      "keywordIds": [
+        6,
+        8
+      ]
+    },
+    {
+      "id": 53596,
+      "collectible": 1,
+      "slug": "53596-worthy-expedition",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1158,
+      "rarityId": 1,
+      "artistName": "Paul Mafayon",
+      "manaCost": 1,
+      "name": "뜻깊은 원정",
+      "text": "\u003cb\u003e선택\u003c/b\u003e 카드를 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81e4088c1e044123f9eb1b2b66ab2fdb794e7307d440fcd394dd561fb090ffe4.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/80c7896857287ccad716a3f7f9937d7979d7b6c9f97ecae1a949484bd164cb8c.png",
+      "flavorText": "내가 탈것을 어디에 주차해뒀더라...?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0969528e97776aa1eb0686b869a62f767b197aace3d5971e11c902fa239e8cbe.png",
+      "keywordIds": [
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 48803,
+      "collectible": 1,
+      "slug": "48803-unexpected-results",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1127,
+      "rarityId": 4,
+      "artistName": "Jakub Kasper",
+      "manaCost": 3,
+      "name": "뜻밖의 결과",
+      "text": "비용이 2인 무작위 하수인을 둘 소환합니다. \u003ci\u003e(\u003cb\u003e주문 공격력\u003c/b\u003e에 따라 더욱 높은 비용의 하수인 소환)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d0742f8e36657220fb2b22137d0acdbea6e580499b563a12d9879815110608e.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8133e77f552e1653cd0a6f179adaa76295f31183c8349b4c792225d480a419cc.png",
+      "flavorText": "과학은 과학이라기보다 예술에 가깝습니다. 높으신 분들은 그걸 몰라요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e058dbd1ab26e87f357ad62d1ab0e9f5352b4b72c5124c7350aa324d896fb778.png",
+      "keywordIds": [
+        2
+      ]
+    },
+    {
+      "id": 98223,
+      "collectible": 1,
+      "slug": "98223-ra-den",
+      "classId": 6,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1858,
+      "rarityId": 5,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 6,
+      "name": "라덴",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 이번 게임에서 내가 낸 하수인 중 게임이 시작됐을 때 내 덱에 없던 다른 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2dccabdbcacaa26f121701fc392204fa61757ff00057d40b92c50e6d0a9a616b.png",
+      "imageGold": "",
+      "flavorText": "이모탈 컴뱃을 자주 즐깁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/881c3b98872434744784a5408a8bafebefbb0a47682a7ebb6739cf9d13aa8dc2.png",
+      "keywordIds": [
+        12
+      ]
+    },
+    {
+      "id": 56294,
+      "collectible": 1,
+      "slug": "56294-the-fist-of-ra-den",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1403,
+      "rarityId": 5,
+      "artistName": "Katherine Fortune",
+      "attack": 1,
+      "manaCost": 4,
+      "durability": 4,
+      "name": "라덴의 주먹",
+      "text": "내가 주문을 시전한 후에, 같은 비용의 무작위 \u003cb\u003e전설\u003c/b\u003e 하수인을 소환하고 내구도를 1 잃습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/057f442ecfd0731adcaa141e3b4c11b4b02d7f0131aa5fbc4b1616d0f3b24907.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f71b129a1d5c9c7bbd40204e1e76c973f9af78634a7ed4a79d678296359dc74c.png",
+      "flavorText": "위대한 라덴은 폭풍의 수호자라고 불렸습니다. 하지만 불행하게도 자신의 주먹은 수호하지 못했죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eca1372d399e3e268c746aaf7cfb51003c9418863f715f95fd152bd79041597c.png"
+    },
+    {
+      "id": 134,
+      "collectible": 1,
+      "slug": "134-ravenholdt-assassin",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 3,
+      "artistName": "Ralph Horsley",
+      "health": 5,
+      "attack": 7,
+      "manaCost": 7,
+      "name": "라벤홀트 암살자",
+      "text": "\u003cb\u003e은신\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3144c094ab48fabf4cf0228246f7efeb6a1ef81852bb9e0ce719c1c800719436.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8cff6546dc015205d8376da04e2a1379d8e4c59a5985e3f3e4a3c3fc6f029b9a.png",
+      "flavorText": "이름과 10,000 골드를 동봉하세요. 나머지는 그가 알아서 처리할 겁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8bdcd76bce3e48e6427a45e310a514c0b8f4d483913c9e1e84b992355e17e125.png",
+      "keywordIds": [
+        6
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69758,
+      "collectible": 1,
+      "slug": "69758-ravenholdt-assassin",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 3,
+      "artistName": "Ralph Horsley",
+      "health": 5,
+      "attack": 7,
+      "manaCost": 7,
+      "name": "라벤홀트 암살자",
+      "text": "\u003cb\u003e은신\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d849cc05040351260edf510679b384ef986673654fb594bccf40bb5e2a34f84.png",
+      "imageGold": "",
+      "flavorText": "이름과 10,000 골드를 동봉하세요. 나머지는 그가 알아서 처리할 겁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8bdcd76bce3e48e6427a45e310a514c0b8f4d483913c9e1e84b992355e17e125.png",
+      "keywordIds": [
+        6
+      ],
+      "copyOfCardId": 134
+    },
+    {
+      "id": 59216,
+      "collectible": 1,
+      "slug": "59216-ras-frostwhisper",
+      "classId": 12,
+      "multiClassIds": [
+        4,
+        8
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1443,
+      "rarityId": 5,
+      "artistName": "Luke Mancini",
+      "health": 6,
+      "attack": 3,
+      "manaCost": 5,
+      "name": "라스 프로스트위스퍼",
+      "text": "내 턴이 끝날 때, 모든 적에게 피해를 1 줍니다. \u003ci\u003e(\u003cb\u003e주문 공격력\u003c/b\u003e에 따라 주는 피해 증가)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66d5c8afcbab7f187c06d5a1f046a94da98b43d04578970535e85afbe9947e8b.png",
+      "imageGold": "",
+      "flavorText": "학장 켈투자드의 두터운 신임을 받는 라스는 다른 교직원들의 차가운 시선을 받고는 합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53e0cb603c2b2916c66a0ed945fe6bea1f1a72680e3a50907d801f3ecde0bf90.png",
+      "keywordIds": [
+        2
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 51376,
+      "collectible": 1,
+      "slug": "51376-lazuls-scheme",
+      "classId": 6,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1130,
+      "rarityId": 4,
+      "artistName": "J. Axer",
+      "manaCost": 0,
+      "name": "라줄의 계략",
+      "text": "내 다음 턴까지 적 하수인의 공격력을 1 감소시킵니다. \u003ci\u003e(내 턴마다 강화됩니다!)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09d631f0e8d35e4b64d9b6a03bc05be39497640f958a4713f219d98c887ecb70.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff9b38d0c3eb1c588b5f74777a06a295251996c73bffe06cbc2fbc1b05dba5f7.png",
+      "flavorText": "\"무슨 꿈을 꾸고 있는 거지? 약한 너의 비명 소리가 들리는구나! 나의 계략에 빠진 게 분명해...\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5af1f9f538501ecd816ac654796d23729706e13b633b4c7154a72baadce57d9.png"
+    },
+    {
+      "id": 54887,
+      "collectible": 1,
+      "slug": "54887-envoy-of-lazul",
+      "classId": 6,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 4,
+      "artistName": "Jakub Kasper",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "라줄의 급사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 카드 3장이 제시됩니다. 상대편의 손에 있는 카드를 맞히면 그 카드를 복사하여 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50d0012db4b0a0aebd154692a3f5ccf684eba81810805fbd337e9738c69bb74a.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc538c6e80805e1d206a94283957fe0bda375ed805bcc5bb14018d8250f965d2.png",
+      "flavorText": "평가: 다음에는 주변을 잘 알고 방향 감각이 있는 자를 지배할 것.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/547e715e0ff4971cf99285e14ca28aed481b129e45a5d5d7bd384fa11950bd52.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 74886,
+      "collectible": 1,
+      "slug": "74886-raj-nazjan",
+      "classId": 3,
+      "multiClassIds": [],
+      "minionTypeId": 92,
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 5,
+      "artistName": "Jerry Mascho",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "라즈 나즈잔",
+      "text": "내가 주문을 시전한 후에, 그 주문의 비용만큼 적 영웅에게 피해를 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/672454eb8b6467fd96b018711897e8cf1109d43884da7a2e75ff1b55e20f0bc6.png",
+      "imageGold": "",
+      "flavorText": "동전 한 닢을 사용했다. 하지만 아무런 일도 일어나지 않았다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/10846821d8db52390b7476d7277485d2e3d3734b80d701c3749a4ba22308cae9.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43369,
+      "collectible": 1,
+      "slug": "43369-rhokdelar",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1004,
+      "rarityId": 5,
+      "artistName": "Trent Kaniuga \u0026 James Martin",
+      "attack": 4,
+      "manaCost": 7,
+      "durability": 2,
+      "name": "라크델라",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에 하수인이 없으면, 내 손을 사냥꾼 주문으로 가득 채웁니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/88c073067d1ce1e7bfe29932191a9e16daa7b13cb48e6d1cf0674629e0cf89c0.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7ab5898c821a1842e1202f26cc8a11b08dbd15d46b25d0cdf20c88311204252.png",
+      "flavorText": "라크델라 조심해라, 큰코다칠라! 하하하!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6bcb86a0f49a3f1972ebe9bf28e128be12944a709879a11145aeee8714182d45.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 51371,
+      "collectible": 1,
+      "slug": "51371-rafaams-scheme",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 2,
+      "cardTypeId": 5,
+      "cardSetId": 1130,
+      "rarityId": 1,
+      "artistName": "Jim Nelson",
+      "manaCost": 3,
+      "name": "라팜의 계략",
+      "text": "1/1 임프를 1마리 소환합니다. \u003ci\u003e(내 턴마다 강화됩니다!)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/055b6f6fb27cc5ece60df23a7eaebfcf0c251eee073a146c2dd335cbc77780d7.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c86edf6700501d7770763e391e89bef72b1ce257e314c7bd576b6771ebaca6ca.png",
+      "flavorText": "\"나에게 아주 악하고 교활한 계략이 있으니...\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e2289d1ed2f7c3d9012a5243ea51a68728b4f42d3721d3f65ceda8324532535d.png",
+      "childIds": [
+        53305
+      ]
+    },
+    {
+      "id": 2879,
+      "collectible": 1,
+      "slug": "2879-curse-of-rafaam",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 20,
+      "rarityId": 1,
+      "artistName": "Alex Horley Orlandelli",
+      "manaCost": 2,
+      "name": "라팜의 저주",
+      "text": "상대편에게 \u0027저주!\u0027 카드를 줍니다. 그 카드가 손에 있으면, 상대는 자신의 턴이 시작될 때 피해를 2 입습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/09dbde469eb34fd453a3a55be8bd01eb0745680cf9f1ae84e55e304df04c80eb.png",
+      "imageGold": "",
+      "flavorText": "라팜이 발가락을 밟혔을 때 내지른 말입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a3a7d09bd7d298dea4073535ef969747d893d8a74b2a495af8b717cfeef74dc.png",
+      "childIds": [
+        2998
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41856,
+      "collectible": 1,
+      "slug": "41856-lakkari-sacrifice",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 27,
+      "rarityId": 5,
+      "artistName": "Konstantin Turovec",
+      "manaCost": 1,
+      "name": "락카리 제물",
+      "text": "\u003cb\u003e퀘스트:\u003c/b\u003e 카드를 6장 버려야 합니다. \u003cb\u003e보상:\u003c/b\u003e 황천의 차원문",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/965cd61cee4864b96fc52c3244ee7aea794ac487484b2fcf8c3425b51c2baf3b.png",
+      "imageGold": "",
+      "flavorText": "그들이 물었습니다. \"그 대가는 뭐냐?\" 굴단이 두건을 벗으며 말했습니다. \"카드... 6장...\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ada391b4c4e775ab756c3806548ccb62d8a88322238cfc4dc1355016e9ea9e3.jpg",
+      "childIds": [
+        41942,
+        42224,
+        42753
+      ],
+      "keywordIds": [
+        31
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41873,
+      "collectible": 1,
+      "slug": "41873-lakkari-felhound",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 27,
+      "rarityId": 1,
+      "artistName": "Dave Allsop",
+      "health": 8,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "락카리 지옥사냥개",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 비용이 가장 낮은 카드를 2장 버립니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e43036e9692cefcacbde5510e692b4df19b270ec990213410e3b45956ef7225.png",
+      "imageGold": "",
+      "flavorText": "재투성이인 몸으로 카펫에 뒹구는 걸 즐깁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6e9134659703818bc89785ec3f36a0598cc1c2c902c329ed5271e0a8d84d069.png",
+      "keywordIds": [
+        1,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69737,
+      "collectible": 1,
+      "slug": "69737-lakkari-felhound",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Dave Allsop",
+      "health": 8,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "락카리 지옥사냥개",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 비용이 가장 낮은 카드를 2장 버립니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ecfa8d6214ebd278c1f7bdabd0fdfce1cdce106872ebd08efd32e0f135e3ea9.png",
+      "imageGold": "",
+      "flavorText": "재투성이인 몸으로 카펫에 뒹구는 걸 즐깁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1690fd40a165d03bf2238b209c6a954808537721d6e5b577e9a100b1fc21c3b4.png",
+      "keywordIds": [
+        1,
+        8
+      ],
+      "copyOfCardId": 41873,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 53917,
+      "collectible": 1,
+      "slug": "53917-ramkahen-wildtamer",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1158,
+      "rarityId": 3,
+      "artistName": "Mauricio Herrera",
+      "health": 3,
+      "attack": 4,
+      "manaCost": 3,
+      "name": "람카헨 야생조련사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 있는 무작위 야수를 복사합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a5a8e1e8088d9c587bf28030a308a37e256d441ab0e79a27eca9feec97f8d88.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/69aade9b9d7b0edb45f9fbd14cc46a94587b6d9864cce89866c6c8d7c9ed9df9.png",
+      "flavorText": "어떤 카드가 명예의 전당으로 갈지 결정합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cad797bcac052064eb31786aec868735362ceb556150518ef066ede1957d398e.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 40603,
+      "collectible": 1,
+      "slug": "40603-wrathion",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 25,
+      "rarityId": 5,
+      "artistName": "James Ryman",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 6,
+      "name": "래시온",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 용족이 아닌 카드를 뽑을 때까지 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4f1165a26a3168f021c83d7c5dfd2d5981d15e4a09e8c9ec1e43c9b6f827ebc.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a2112ba9c98cd3187b8cdfb90da9f1a8ce82a5f3114c2c8a2cd4e901c07e01d.png",
+      "flavorText": "데스윙의 아들인 래시온은 사실 용족입니다. 그런데 왜 용족이라고 적혀있지 않냐고요? 그래야 자신의 정체를 숨길 수 있잖아요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb1bdd1967bfbc4dc89560d398e05d37ef89f43fe466deae2d0b8e06ee1065e0.png",
+      "keywordIds": [
+        1,
+        8
+      ]
+    },
+    {
+      "id": 71240,
+      "collectible": 1,
+      "slug": "71240-horn-of-wrathion",
+      "classId": 6,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Samche Chen",
+      "manaCost": 3,
+      "name": "래시온의 뿔",
+      "text": "하수인을 뽑습니다. 그 하수인이 용족이면, \u003cb\u003e속공\u003c/b\u003e 능력이 있는 2/1 새끼용을 2마리 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/315e6e0d6e2056d5a9e7932f87d19f0a6d472601761933db99b6188b08778948.png",
+      "imageGold": "",
+      "flavorText": "뿔의 나이테를 세면 래시온의 진짜 나이를 알 수 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d037e7698eb4a1234699d734b533b3fe50f3809cfa842ba32f04ad1db48f4e43.png",
+      "childIds": [
+        71299
+      ],
+      "keywordIds": [
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 49985,
+      "collectible": 1,
+      "slug": "49985-gonk-the-raptor",
+      "classId": 2,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1129,
+      "rarityId": 5,
+      "artistName": "Christopher Hayes",
+      "health": 9,
+      "attack": 4,
+      "manaCost": 7,
+      "name": "랩터 공크",
+      "text": "내 영웅이 공격하여 하수인을 처치한 후에, 내 영웅이 다시 공격할 수 있습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4a7c693cfa57d83de0cb1c66a9f7476af171b91f8efe30928e0fb6678b2035b.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8841e48016b977496b06ce9746f00fb1583136b0201aeed57c3fd4e10a22dbaf.png",
+      "flavorText": "공크에게 복종하지 않는 잔달라 드루이드들을 지칭하는 말이 있습니다. \"저녁 식사\".",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7cff0153d6ee75d2ea4825529f0f16ec48711678c791fe50533adc7767812dd7.png"
+    },
+    {
+      "id": 2922,
+      "collectible": 1,
+      "slug": "2922-mounted-raptor",
+      "classId": 2,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 20,
+      "rarityId": 1,
+      "artistName": "Ben Zhang",
+      "health": 2,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "랩터 탈것",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 비용이 1인 무작위 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/722f57e3b973c1b0cbb0e4f0925a151c6ff16678a4afdfa359ace766b6df5690.png",
+      "imageGold": "",
+      "flavorText": "영특한 녀석 같으니!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c7d05600564d87331a024e10fd8c89f0b0758d9ccc506ee772c73baebb2717e.jpg",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41366,
+      "collectible": 1,
+      "slug": "41366-swamp-king-dred",
+      "classId": 3,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 27,
+      "rarityId": 5,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 9,
+      "attack": 9,
+      "manaCost": 7,
+      "name": "랩터왕 서슬발톱",
+      "text": "상대편이 하수인을 낸 후에, 그 하수인을 공격합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/034aa0f117c62802e1fcec8f7255e60cce9bbbc6c69476052bc042eae26b6103.png",
+      "imageGold": "",
+      "flavorText": "먹잇감이 등장하면 곧바로 베어 뭅니다. 한 입만!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a1bd73d23b08cbe43b3ae0d7c01d76a89a39900f2f12a420ac754470107d2a5.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 49944,
+      "collectible": 1,
+      "slug": "49944-spirit-of-the-raptor",
+      "classId": 2,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "multiTypeIds": [
+        20
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1129,
+      "rarityId": 3,
+      "artistName": "Christopher Hayes",
+      "health": 3,
+      "attack": 0,
+      "manaCost": 1,
+      "name": "랩터의 혼",
+      "text": "1턴 동안 \u003cb\u003e은신\u003c/b\u003e을 얻습니다. 내 영웅이 공격하여 하수인을 처치한 후에, 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a4e5697aab829852edf9075365508ecda2aac21718ef2bd9a938af663ca67a9.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c28c89b6c71d0be175d40375d0b808e683c819e289e4a34fc10ac49476f246a1.png",
+      "flavorText": "\"로티! 로티! 그거 물면 안 돼! 로티, 앉아! 앉아!!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b52299c6604d3311fd504556216a66f41118165f3427494cf8edd2159a822e0.png",
+      "keywordIds": [
+        6
+      ]
+    },
+    {
+      "id": 45877,
+      "collectible": 1,
+      "slug": "45877-level-up",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1004,
+      "rarityId": 4,
+      "artistName": "Wayne Reynolds",
+      "manaCost": 5,
+      "name": "레벨 업!",
+      "text": "내 은빛 성기사단 신병들에게 +2/+2와 \u003cb\u003e도발\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fbb72c724a8c5a1889259c4e9c5608884db1071780fa66c0687550d67851cb7.png",
+      "imageGold": "",
+      "flavorText": "레벨 업? 응 축하!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab1ac020342fa4243bf5dedc80a6849aaca28562c03928dbb10e4a6be43b8a91.png",
+      "childIds": [
+        1652
+      ],
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 76250,
+      "collectible": 1,
+      "slug": "76250-radar-detector",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1658,
+      "rarityId": 4,
+      "artistName": "Sergey Tsvelykh",
+      "manaCost": 2,
+      "name": "레이더 탐지기",
+      "text": "내 덱 맨 아래에 있는 카드를 5장 탐지합니다. 그중 기계들을 뽑고 내 덱을 섞어 놓습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e04fa2b3573625728f6c213140c40974b403db8648fc5ca155d7ec6055089832.png",
+      "imageGold": "",
+      "flavorText": "\"이건 어떻게 쓰는 건지 도통 모르겠어.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b2068f3694bc62d71c137e42b10f499ab195e8870cfe0f305888876ff38126c.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2308,
+      "collectible": 1,
+      "slug": "2308-rend-blackhand",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 14,
+      "rarityId": 5,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 4,
+      "attack": 8,
+      "manaCost": 7,
+      "name": "렌드 블랙핸드",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 용족이 있으면, \u003cb\u003e전설\u003c/b\u003e 하수인을 처치합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40053298acffd89c4c5161ad113aa4977385f97f8938ae2da075d2cb5115cda7.png",
+      "imageGold": "",
+      "flavorText": "자신이 진정한 호드의 대족장이라 믿고 있는 렌드 블랙핸드는 오늘도 \"호드의 대족장\" 위키백과 문서에 자신의 사진을 넣기 위해 애쓰고 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af887e5c1f5e82dc72479779f6fdad0a3f6c76ce8ef96cadd1ad5375d942e880.jpg",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 51738,
+      "collectible": 1,
+      "slug": "51738-wrenchcalibur",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1130,
+      "rarityId": 4,
+      "artistName": "Akkapoj T.",
+      "attack": 3,
+      "manaCost": 4,
+      "durability": 2,
+      "name": "렌치칼리버",
+      "text": "내 영웅이 공격한 후에, 상대편의 덱에 폭탄을 섞어 넣습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/244353c4cfa662200d2644038658c8b77f127c83f16fffd7c3bd69f0f2d7688d.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21ffac7698bb3571f555cff3bf6958a340d02661221ffaac5bb1e6979aafb900.png",
+      "flavorText": "연장통에서 이 렌치를 뽑아 드는 자, 연구실의 정당한 왕이 될지어다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/571bd169c90aedbd62a6eb1e6b5ad4b364956f7c6b4568e1dd027573d00049cd.png",
+      "childIds": [
+        48752
+      ]
+    },
+    {
+      "id": 2045,
+      "collectible": 1,
+      "slug": "2045-anima-golem",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 13,
+      "rarityId": 4,
+      "artistName": "Josh Harris",
+      "health": 9,
+      "attack": 9,
+      "manaCost": 6,
+      "name": "령 골렘",
+      "text": "각 턴이 끝날 때, 내 전장에 다른 하수인이 없다면 이 하수인을 처치합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1d4d2a5128963e1463c7bb0c1dfefd03d7226d96ac1d35e4da32961d12fe78c.png",
+      "imageGold": "",
+      "flavorText": "암흑 원령은 사악하고, 신비롭고, 거대하며, 문장 하나도 제대로 완성하지 못하는 최악의 문법 실력을 갖고 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98273a9a539714125e24ad73ff98f4f7b2aa11b9e36f09b8de275421e3235a15.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 78142,
+      "collectible": 1,
+      "slug": "78142-anima-extractor",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1691,
+      "rarityId": 1,
+      "artistName": "Slawomir Maniak",
+      "health": 4,
+      "attack": 1,
+      "manaCost": 2,
+      "name": "령 추출자",
+      "text": "아군 하수인이 피해를 받을 때마다 내 손에 있는 무작위 하수인에게 +1/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca9170d56138f7a902d4f750d959bdf4d88a28c7e93d06436608cf4c156b868d.png",
+      "imageGold": "",
+      "flavorText": "령 추출이 다 끝났으면, 부식 드신 다음에 기념품도 받아가세요. 감사합니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17e2f4a5e25c3405d0917a56637bbf913f33085193c88d412bd363c61d766fdd.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2546,
+      "collectible": 1,
+      "slug": "2546-rhonin",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 15,
+      "rarityId": 5,
+      "artistName": "Zoltan \u0026 Gabor",
+      "health": 7,
+      "attack": 7,
+      "manaCost": 8,
+      "name": "로닌",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 신비한 화살 셋을 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c442b9f14dcaf1a54cf46ac1280125697806ecb17fb4838635319cedf955f87.png",
+      "imageGold": "",
+      "flavorText": "분명 우리의 삶은 살 가치가 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36e8f5d6c0e778f0db3499545a87abdd4c06a89b720c8bd1f6ea15e8855508a7.jpg",
+      "childIds": [
+        564
+      ],
+      "keywordIds": [
+        12
+      ]
+    },
+    {
+      "id": 1914,
+      "collectible": 1,
+      "slug": "1914-loatheb",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 12,
+      "rarityId": 5,
+      "artistName": "Samwise",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 5,
+      "name": "로데브",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 다음 턴에 상대편이 시전하는 주문의 비용이 (5) 증가합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0c4d11c94aafb81f9a32b88bb8758fa420be6eb6dbda2051c42116a5192212b.png",
+      "imageGold": "",
+      "flavorText": "평범한 수렁 괴물 로데브, 몸에서 버섯 재배 수확 \u0027충격\u0027",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/483a1864c2e1ebae5846a1ba6ded9ef13c8b975e5330aafdeb3e8ebb13e706aa.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 86383,
+      "collectible": 1,
+      "slug": "86383-lorthemar-theron",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 5,
+      "artistName": "Grafit",
+      "health": 7,
+      "attack": 7,
+      "manaCost": 7,
+      "name": "로르테마르 테론",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에 있는 모든 하수인의 능력치를 2배 증가시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/580d38b92bff6f0ff2903053e80138169f7e1b2b214e8a9769d17ec24728ab92.png",
+      "imageGold": "",
+      "flavorText": "인생 최고 업적: 2/2 아기 멀록을 만듦.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c677b9994b61347835c2f285739ac4e2e781b5c18f5561a83c81de61e79fb904.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 64199,
+      "collectible": 1,
+      "slug": "64199-lothar",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 5,
+      "artistName": "Zoltan Boros",
+      "health": 7,
+      "attack": 7,
+      "manaCost": 7,
+      "name": "로서",
+      "text": "내 턴이 끝날 때, 무작위 적 하수인을 공격합니다. 그 하수인이 죽으면, +3/+3을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eecc52500d3887176899c3b4b445ac3bc7e5cc1f84091659e8d5c347bc64e987.png",
+      "imageGold": "",
+      "flavorText": "기계 성기사가 뜨기 전부터 성기사였습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d50025fdb3b93e6e0e6aa35c98e6eadb28e2e66f0246e39884089aee1ea49171.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 50042,
+      "collectible": 1,
+      "slug": "50042-mark-of-the-loa",
+      "classId": 2,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1129,
+      "rarityId": 3,
+      "artistName": "Mauricio Herrera",
+      "manaCost": 4,
+      "name": "로아의 징표",
+      "text": "\u003cb\u003e선택\u003c/b\u003e - 하수인에게 +2/+4와 \u003cb\u003e도발\u003c/b\u003e을 부여합니다. 또는 3/2 랩터를 2마리 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a5eeb8bb439fc301d207cd465adac3cf45b64d628ba7509fa39ba2aaf69f09e.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3ceb4d045b47b79eb90de5037df453074b2d5ea163b31e67e90ba225e6fe85e.png",
+      "flavorText": "징표의 로아인 로아의 징표입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5144fcc7d46ac65eb499e279c1d8bb9edee1328424be10cc47777b8052fd7363.png",
+      "childIds": [
+        51109
+      ]
+    },
+    {
+      "id": 63125,
+      "collectible": 1,
+      "slug": "63125-rokara",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 5,
+      "artistName": "Rafael Zanchetin",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "로카라",
+      "text": "\u003cb\u003e속공\u003c/b\u003e, 아군 하수인이 공격하고 생존한 후에, 그 하수인에게 +1/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bad2c562493dca272fc5fc0c699751033a68135d983fc5317b678a0ad54ba083.png",
+      "imageGold": "",
+      "flavorText": "“조심히 나아가며 성장하세요. 그리고 전선을 유지하세요. 힘과 명예를 위하여!” — 로카라",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/979d46f811528e277ce285d71e57dad5b398de6ccb5df779e1267055261471a1.png",
+      "keywordIds": [
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 29
+}

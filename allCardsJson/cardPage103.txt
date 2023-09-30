@@ -1,0 +1,1017 @@
+{
+  "cards": [
+    {
+      "id": 52935,
+      "collectible": 1,
+      "slug": "52935-hench-clan-hogsteed",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1130,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "짐승단 멧돼지 탈것",
+      "text": "\u003cb\u003e속공\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e 1/1 멀록을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9854bc77f3d9fa1273d4b4ff14ef5f905bd24a0b64724d05afd9d08077f70922.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a8c1f817cd3fc92113b455386870c66ccbe0227665ea1b0f6c42f80f836be4c.png",
+      "flavorText": "보 초",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9837f9f48642cb18c6a2df2b2314c3c1aded394958d3fc67173dc61e97f19461.png",
+      "childIds": [
+        53202
+      ],
+      "keywordIds": [
+        12,
+        53
+      ]
+    },
+    {
+      "id": 52290,
+      "collectible": 1,
+      "slug": "52290-hench-clan-sneak",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 43,
+      "cardTypeId": 4,
+      "cardSetId": 1130,
+      "rarityId": 1,
+      "artistName": "Andrew Hou",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "짐승단 잠복자",
+      "text": "\u003cb\u003e은신\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ac093c720010a787ca36ec2c13038e56929f93b04e245e39dac6b89abff79e5.png",
+      "imageGold": "",
+      "flavorText": "전선을 주렁주렁 달고 있지만 않았어도 더욱 잘 은신했을 텐데 말이죠...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43c841c274987b8f9def360e448c8da9f95864a2e878c853be3170a5911cf28b.png",
+      "keywordIds": [
+        6
+      ]
+    },
+    {
+      "id": 47014,
+      "collectible": 1,
+      "slug": "47014-hench-clan-thug",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 43,
+      "cardTypeId": 4,
+      "cardSetId": 1125,
+      "rarityId": 1,
+      "artistName": "A. J. Nazzaro",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "짐승단 폭력배",
+      "text": "내 영웅이 공격한 후에, 이 하수인이 +1/+1을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f32023db6fe07f39de27da8a3f5b66e230fd64c1cdb0d949592e51676432152b.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/01a166b21e326f296a3ec01fb8d4e041c34c2d7f65a37497b22c6c8467e772f6.png",
+      "flavorText": "먹고 살기가 팍팍하세요? 탐험가 연맹을 싫어하세요? 짐승단은 여려분을 환영합니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a966d11b5c68ca3766a2cb31b649f86c20230880bb272c26a39abad87cd1dd6.png"
+    },
+    {
+      "id": 97343,
+      "collectible": 1,
+      "slug": "97343-hench-clan-thug",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 43,
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "A. J. Nazzaro",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "짐승단 폭력배",
+      "text": "내 영웅이 공격한 후에, 이 하수인이 +1/+1을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43a0f52d9af6f2eeb0e04a29301ab3cf49be037ecae843de2ebc34e3f62fa647.png",
+      "imageGold": "",
+      "flavorText": "먹고 살기가 팍팍하세요? 탐험가 연맹을 싫어하세요? 짐승단은 여려분을 환영합니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a966d11b5c68ca3766a2cb31b649f86c20230880bb272c26a39abad87cd1dd6.png",
+      "copyOfCardId": 47014,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 61626,
+      "collectible": 1,
+      "slug": "61626-claw-machine",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1466,
+      "rarityId": 1,
+      "artistName": "Jim Nelson",
+      "health": 3,
+      "attack": 6,
+      "manaCost": 6,
+      "name": "집게 기계",
+      "text": "\u003cb\u003e속공\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e 하수인을 뽑습니다. 그 하수인에게 +3/+3을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e14eb1827d3f61493a6fa8410a50bc81ea9c358aa695983082f22e2a31aa838.png",
+      "imageGold": "",
+      "flavorText": "\"멀줍당해서 기분이 좋다옮!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cce3d65a06a6e86a1e18ef919c386f468341ec4665a713021fecd1fe9873bdf6.png",
+      "keywordIds": [
+        12,
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 61947,
+      "collectible": 1,
+      "slug": "61947-rally",
+      "classId": 12,
+      "multiClassIds": [
+        5,
+        6
+      ],
+      "spellSchoolId": 5,
+      "cardTypeId": 5,
+      "cardSetId": 1466,
+      "rarityId": 3,
+      "artistName": "Anton Zemskov",
+      "manaCost": 4,
+      "name": "집결!",
+      "text": "비용이 1, 2, 3인 아군 하수인을 하나씩 부활시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51b2abcd7986760f3bb354028e714ca885e22237e3a9476c1dd24ac35cfd5817.png",
+      "imageGold": "",
+      "flavorText": "모두 모두 모여라, 하나 둘 셋!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/804bd7688f5429bfaa6ca0cce35fdce7c9620040381f4762d9e81b85f6105794.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 38745,
+      "collectible": 1,
+      "slug": "38745-rallying-blade",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 21,
+      "rarityId": 3,
+      "artistName": "Jeremy Cranford",
+      "attack": 3,
+      "manaCost": 3,
+      "durability": 2,
+      "name": "집결의 검",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 \u003cb\u003e천상의 보호막\u003c/b\u003e 하수인들에게 +1/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3aa6b4bd71936403215aad3b70f797c28e1cc75744030af33afc27d6a9dda5e4.png",
+      "imageGold": "",
+      "flavorText": "\"천상의 보호막이 있는 하수인들이여, 집결하라!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6132b056db44e01c99235b5382908480179504507d30c364f2000d331af5e824.jpg",
+      "keywordIds": [
+        3,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 79602,
+      "collectible": 1,
+      "slug": "79602-class-action-lawyer",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1691,
+      "rarityId": 3,
+      "artistName": "James Ryman",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "집단 소송 변호사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에 중립 카드가 없으면, 하수인의 능력치를 1/1로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9572f88a66fdd15d6bb0915cbb2a70d9c516cb16d85f79dd5e2a26836b983880.png",
+      "imageGold": "",
+      "flavorText": "\"당신이나 사랑하는 사람이 신성화 중에 다친 적이 있습니까?\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bf2dac96e4b7f1cfeb8e236376b76f868f9a7fe96229e3014186888db987745f.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 55262,
+      "collectible": 1,
+      "slug": "55262-strength-in-numbers",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1347,
+      "rarityId": 1,
+      "artistName": "Luke Mancini",
+      "manaCost": 1,
+      "name": "집단의 힘",
+      "text": "\u003cb\u003e부가 퀘스트:\u003c/b\u003e 하수인으로 마나를 10 소모해야 합니다. \u003cb\u003e보상:\u003c/b\u003e 내 덱에서 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3b8f4e1cbe961d8ea6a5901e0d094ccf085b6fe1c825a25a2014d29afc5ae70.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/535af9d54390777afe45355982d581aba758351e1e978b1f98233e6acabff5c7.png",
+      "flavorText": "세 사람만 우기면 용도 만드는데 하수인 정도야...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/669f60d2872d605b459bc98063cd1167caf3c677c33f577f185a0e11b2f07920.png",
+      "keywordIds": [
+        89
+      ]
+    },
+    {
+      "id": 64395,
+      "collectible": 1,
+      "slug": "64395-persistent-peddler",
+      "classId": 14,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 3,
+      "artistName": "Ivan Fomin",
+      "health": 3,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "집요한 행상인",
+      "text": "\u003cb\u003e교환성\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e 내 덱에서 집요한 행상인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40801914ed0a4df6efaae73cae27b45019d96aa23bed3923831a81f4758172cd.png",
+      "imageGold": "",
+      "flavorText": "이렇게 집요한 걸 보니 다단계로 의심되네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52856a96696c0e91fbd3324b23c374a8a7353a1db24ae89e3becca1566ddd0f0.png",
+      "keywordIds": [
+        12,
+        97
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 90694,
+      "collectible": 1,
+      "slug": "90694-spotlight",
+      "classId": 5,
+      "multiClassIds": [],
+      "spellSchoolId": 5,
+      "cardTypeId": 5,
+      "cardSetId": 1809,
+      "rarityId": 4,
+      "artistName": "Hideaki Takamura",
+      "manaCost": 2,
+      "name": "집중조명",
+      "text": "\u003cb\u003e교환성\u003c/b\u003e 아군의 \u003cb\u003e천상의 보호막\u003c/b\u003e을 제거하고 5/5 정령을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/53d87bab34a1e595efba2bcc2dd8ec8f4165ab8b9dbc7ce7b6fd32718a39ec7d.png",
+      "imageGold": "",
+      "flavorText": "모두가 당신을 주목하고 있습니다! 뭐, 정확히는 집중 조명으로 쓰는 거대 정령을 보는 거지만, 하여간 중심은 당신이라고요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8c98695741c2c20b08dd23c3b59d57e56d9fff53fb5ce87729019f96983d773c.png",
+      "childIds": [
+        94029
+      ],
+      "keywordIds": [
+        3,
+        97
+      ]
+    },
+    {
+      "id": 92252,
+      "collectible": 1,
+      "slug": "92252-obsessive-fan",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 1,
+      "artistName": "Vika Yarova",
+      "health": 6,
+      "attack": 2,
+      "manaCost": 4,
+      "name": "집착하는 팬",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 하수인을 선택합니다. 이 하수인이 살아있으면, 그 하수인이 \u003cb\u003e은신\u003c/b\u003e을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59f7554dbbd9cfede7aa81305024dc4416593995a304dc183b90311dc5a4143c.png",
+      "imageGold": "",
+      "flavorText": "\"집착? 아니야! 그냥 정예 타우렌 족장 노래를 진짜 진짜 진짜 진짜 진짜 진짜 진짜 진짜 좋아하는 것뿐이라고! 말투도, 하는 행동도, 생각도, 생활도, 숨 쉬는 것까지도!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da2531526a536983958a50ab8905e45ebf2d237a18fc4f02b24e3e78817aeb32.png",
+      "keywordIds": [
+        6,
+        8
+      ]
+    },
+    {
+      "id": 53582,
+      "collectible": 1,
+      "slug": "53582-mischief-maker",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1158,
+      "rarityId": 4,
+      "artistName": "Ivan Fomin",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "짓궂은 말썽쟁이",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 다음 카드를 상대편의 다음 카드와 바꿉니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0cc70d450e10bf38d1ccc0bd732f6c75d7c65d771f998a8d2183bd38e6dffb87.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9a4558fe29ef05216715f9aa8242ad800d3488ad76a90fdac38543444438f64.png",
+      "flavorText": "\"공정한 거래는 고귀한 생각을 하는 착해빠진 녀석들이나 하는 거지!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62f3ca10e18cca512e7da5eafc2e4b4b5d7d2258bac9381d90efef758818522b.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 61702,
+      "collectible": 1,
+      "slug": "61702-trampling-rhino",
+      "classId": 3,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1466,
+      "rarityId": 3,
+      "artistName": "Mauricio Herrera",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 5,
+      "name": "짓밟는 코뿔소",
+      "text": "\u003cb\u003e속공\u003c/b\u003e, 이 하수인은 공격하여 다른 하수인을 처치한 후에, 초과한 피해량만큼 적 영웅에게 피해를 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad3ffcc51b72d91e9a6c5ff4502bd9114d0b27c8c4a2845c9761e06b88a15728.png",
+      "imageGold": "",
+      "flavorText": "너무 무서워하지 마세요. 사진 찍힐 때 재채기를 한 것뿐이랍니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8240df7949ea2f090e2758c528b09967860a9eb75536092569bf29ab3f0a25ff.png",
+      "keywordIds": [
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43515,
+      "collectible": 1,
+      "slug": "43515-corridor-creeper",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1004,
+      "rarityId": 4,
+      "artistName": "Nick Southham",
+      "health": 5,
+      "attack": 2,
+      "manaCost": 7,
+      "name": "징그러운 지하 벌레",
+      "text": "내 손에 이 카드가 있으면, 하수인이 죽을 때마다 비용이 (1) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18382d4c30b95d43beaf6a2bf2178bd6b717a83964805ac29021b59a10b45fd9.png",
+      "imageGold": "",
+      "flavorText": "지하의 하수구 냄새를 특히 좋아한다고 합니다. 신기한 건 코가 없는데 어떻게 냄새를 맡느냐는 겁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2236d167cb030cc8c793dd0012f3ef83ed36c1d02e52e66c045a425158a7a040.jpg",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 67892,
+      "collectible": 1,
+      "slug": "67892-sigil-of-reckoning",
+      "classId": 14,
+      "multiClassIds": [],
+      "spellSchoolId": 7,
+      "cardTypeId": 5,
+      "cardSetId": 1626,
+      "rarityId": 4,
+      "artistName": "Zoltan Boros",
+      "manaCost": 5,
+      "name": "징벌의 인장",
+      "text": "내 다음 턴이 시작될 때, 내 손에 있는 무작위 악마를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fbc1afc8702a67a551999ff8f2ed631caf2b21b024b5fede6beeb9d9e58a1bda.png",
+      "imageGold": "",
+      "flavorText": "\"그러니까 이 부분은 위험하다는 얘기군.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ef58926df39eab3a37b8e5afebf9181acc80292abf01739b23b8f796257bc03.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 52070,
+      "collectible": 1,
+      "slug": "52070-marked-shot",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1130,
+      "rarityId": 1,
+      "artistName": "Alex Garner",
+      "manaCost": 4,
+      "name": "징표 사격",
+      "text": "하수인에게 피해를 4 줍니다. 주문을 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4cf7ad2519f79c92d6e4d25f9d7158e40238139154def18539b85146717c8b53.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c941690244c081d566decf9808a8bea44cb5b6c011e527084015b485517277a2.png",
+      "flavorText": "해골 점사요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/52fec6d486fe9b8db837d0c23814c79d7c302090ec5c542896c681b189098943.png",
+      "keywordIds": [
+        21
+      ]
+    },
+    {
+      "id": 76300,
+      "collectible": 1,
+      "slug": "76300-marked-shot",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Alex Garner",
+      "manaCost": 4,
+      "name": "징표 사격",
+      "text": "하수인에게 피해를 4 줍니다. 주문을 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef5555e6635b4e153bb35643a3f595470429038bf281ce4849e2290d014b656e.png",
+      "imageGold": "",
+      "flavorText": "해골 점사요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d98cab1327d13816aed81b94e5f442ffc302206653f3eb75692ff5e1b1558339.png",
+      "keywordIds": [
+        21
+      ],
+      "copyOfCardId": 52070,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 77057,
+      "collectible": 1,
+      "slug": "77057-flustered-librarian",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1691,
+      "rarityId": 1,
+      "artistName": "Anton Zemskov",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "짜증난 사서",
+      "text": "내 임프 하나당 공격력을 +1 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2bd54ea9e1a79c38e06908c424bee2117b2cd57ab07ffe9e785a6a6eb285288.png",
+      "imageGold": "",
+      "flavorText": "임프를 잡는 데 두꺼운 책만한 것도 없죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/375c032b886836f8834fe4cba077b0d9d00e287f079f8201842569f52fb5474a.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 59456,
+      "collectible": 1,
+      "slug": "59456-partner-assignment",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1443,
+      "rarityId": 3,
+      "artistName": "Slawomir Maniak",
+      "manaCost": 1,
+      "name": "짝꿍 배정",
+      "text": "비용이 2와 3인 무작위 야수를 하나씩 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e344c1cc64c8bba2e7136324a5c5a2c4681bf9f64e8a8a52064386650bf48431.png",
+      "imageGold": "",
+      "flavorText": "\"인상이 좋으시네요. 팔자에 복이 가득하고요. 조장 하시면 되겠다!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7dcef60917da69a73c1e9e87ce35d582a1c746252b8be55a5f34febab7af308d.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42782,
+      "collectible": 1,
+      "slug": "42782-ticking-abomination",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 3,
+      "artistName": "Mike Sass",
+      "health": 6,
+      "attack": 5,
+      "manaCost": 4,
+      "name": "째깍거리는 누더기골렘",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 내 하수인들에게 피해를 5 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/835c1edc3e8e76a8bf1805a4206206e35e14cb3846a22bb03a28a9d1276f3834.png",
+      "imageGold": "",
+      "flavorText": "째깍거린다는 게 중요합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ca7863aa23bc660a398741d1c125cf5687409c291e7f3b2abb9f1aad58e11f7.png",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 47222,
+      "collectible": 1,
+      "slug": "47222-zap",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1125,
+      "rarityId": 1,
+      "artistName": "Jason Kang",
+      "manaCost": 0,
+      "name": "찌릿!",
+      "text": "하수인에게 피해를 2 줍니다. \u003cb\u003e과부하:\u003c/b\u003e (1)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b4f4f0fdc775f36fb91189f0af56dcf662f53a40b2644ae0cbf8fb862924144.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1da1a213832135be4643ef58eb76de5593166078f5f75728ee123bb7a0d6ff3d.png",
+      "flavorText": "의성어로 주문의 이름을 짓다니 주술사들도 은근히 게으르군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61a2d3ccf956ed35d02a1d8f6e96d37aadc54051f5dcdf691e459e955a7199fb.png",
+      "keywordIds": [
+        14
+      ]
+    },
+    {
+      "id": 102208,
+      "collectible": 1,
+      "slug": "102208-zap",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Jason Kang",
+      "manaCost": 0,
+      "name": "찌릿!",
+      "text": "하수인에게 피해를 2 줍니다. \u003cb\u003e과부하:\u003c/b\u003e (1)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23acf71dae07a4d36c8d806adba8ee7c9aaa84d3cc490e1e2e6e71e83c74f241.png",
+      "imageGold": "",
+      "flavorText": "의성어로 주문의 이름을 짓다니 주술사들도 은근히 게으르군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61a2d3ccf956ed35d02a1d8f6e96d37aadc54051f5dcdf691e459e955a7199fb.png",
+      "keywordIds": [
+        14
+      ],
+      "copyOfCardId": 47222,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 98390,
+      "collectible": 1,
+      "slug": "98390-cold-feet",
+      "classId": 1,
+      "multiClassIds": [
+        1,
+        5
+      ],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1809,
+      "rarityId": 3,
+      "artistName": "Angelica Alieva",
+      "manaCost": 2,
+      "name": "차가운 발",
+      "text": "다음 턴에 적 하수인의 비용이 (5) 증가합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc15c1b65c008c4f37c0222489142b0eafdaaa1655476eda40255dac9c265cc2.png",
+      "imageGold": "",
+      "flavorText": "무대 위에서 얼어버렸네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8ddd971a32c90907a9f4516b4d7f7836282c1e771d5874fcfaa58fd036459f8e.png"
+    },
+    {
+      "id": 51734,
+      "collectible": 1,
+      "slug": "51734-dimensional-ripper",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1130,
+      "rarityId": 3,
+      "artistName": "Daria Tuzova",
+      "manaCost": 10,
+      "name": "차원 분할기",
+      "text": "내 덱에서 하수인을 복사하여 둘 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3a570e5a38feea77d8e11cca78cdcab35af285cc7e02db9851d493fae885f6b.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f00c3e0801f09a021c25584a7902b5e55a87d6470dbc0ac5a34439f3a8f1e48.png",
+      "flavorText": "첫 번째 차원 분할기는 대상을 점으로 만들었고 두 번째 차원 분할기는 선으로 만들었습니다. 세 번째부터 성과를 보이기 시작했죠!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68e7f8fb70ffe76dc931a8f8613d421973ee34ba96be88a0684c6d9c8939d1e7.png"
+    },
+    {
+      "id": 52486,
+      "collectible": 1,
+      "slug": "52486-portal-overfiend",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1130,
+      "rarityId": 4,
+      "artistName": "Nicola Saviori",
+      "health": 6,
+      "attack": 5,
+      "manaCost": 6,
+      "name": "차원문 거대마귀",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에 차원문을 셋 섞어 넣습니다. 차원문을 뽑으면, \u003cb\u003e속공\u003c/b\u003e 능력이 있는 2/2 악마를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/51fe4989ef96e6b928337a320409edb93acf36da3c2163f873ea7b4f885d08eb.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/094fff61a0c99563ede99d73ef65f582961527e134d8872d5611a5b98c52845f.png",
+      "flavorText": "여러 차원에서 개최되는 악마 술래잡기 같은 거죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b733f83e4c03aa2443524f91ebb54a0ca31fe39e6f078faaceea0b8a64093b1.png",
+      "childIds": [
+        52709,
+        52710
+      ],
+      "keywordIds": [
+        8,
+        53
+      ]
+    },
+    {
+      "id": 52707,
+      "collectible": 1,
+      "slug": "52707-portal-keeper",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1130,
+      "rarityId": 3,
+      "artistName": "Nicola Saviori",
+      "health": 2,
+      "attack": 5,
+      "manaCost": 4,
+      "name": "차원문 수호병",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에 차원문을 셋 섞어 넣습니다. 차원문을 뽑으면, \u003cb\u003e속공\u003c/b\u003e 능력이 있는 2/2 악마를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e8c7f3e93a0139e4d09bf9b3612b49257a63c91d1c970e146392f7f666bf6fe.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/25138730e442de45c6a8bf7dfc71f01c12c0a293e3c3c2a242f50ac27a0c1163.png",
+      "flavorText": "악마 술래잡기에선 일단 술래가 없습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de6fa5ec276ac8e3c7e5bbaf6d8d150653143bcf9b05e7be8296d98de3f51724.png",
+      "childIds": [
+        52709,
+        52710
+      ],
+      "keywordIds": [
+        8,
+        53
+      ]
+    },
+    {
+      "id": 78122,
+      "collectible": 1,
+      "slug": "78122-relic-of-dimensions",
+      "classId": 14,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1691,
+      "rarityId": 4,
+      "artistName": "Evgeniy Dlinnov",
+      "manaCost": 6,
+      "name": "차원의 유물",
+      "text": "카드를 2장 뽑고 그 카드들의 비용을 ( ) 감소시킵니다. 미래의 내 유물들을 개선합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1c655e2de4936e5998b9aad11ace06004adb370e8c7699c512f1e0327ae9a14.png",
+      "imageGold": "",
+      "flavorText": "전설 떴냐?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a56c2ed2e4f395175525b15f8b982cad2cb25bc00c0e4633815ac2a62de4eb52.png",
+      "childIds": [
+        78469,
+        77616,
+        83743
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 55291,
+      "collectible": 1,
+      "slug": "55291-phase-stalker",
+      "classId": 3,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 3,
+      "artistName": "Mauricio Herrera",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "차원의 추적자",
+      "text": "내가 영웅 능력을 사용한 후에, 내 덱에 있는 \u003cb\u003e비밀\u003c/b\u003e을 시전합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b968455f1086bc2c8485c0ef365543a20d4458e1d56f6f035e64eab633de8c8f.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5dc0e5ed20556c346713a0c3136d22366671d8bcc954415110e4ddd3b7aa8b18.png",
+      "flavorText": "\"나, 여기 차원 속에 있다.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f400b5136dba032c6ce76f35ef77572059ddc91f77e049bb0efa457fe95d9b6.png",
+      "keywordIds": [
+        5
+      ]
+    },
+    {
+      "id": 42665,
+      "collectible": 1,
+      "slug": "42665-leeching-poison",
+      "classId": 7,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1001,
+      "rarityId": 1,
+      "artistName": "Ben Thompson",
+      "manaCost": 1,
+      "name": "착취 독",
+      "text": "이번 턴에 내 무기에 \u003cb\u003e생명력 흡수\u003c/b\u003e를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/785afa095d63392e5d49fc60ff9fac728c2290f8d63d013b8036743f7c91cd3e.png",
+      "imageGold": "",
+      "flavorText": "그렇다고 이 카드를 만들기 위해 누군가를 착취한 건 아닙니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eee38bb4495d5c90bf7c14c1051508256b60b102da6b883678f1473f7e25f4c4.png",
+      "keywordIds": [
+        38
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 45828,
+      "collectible": 1,
+      "slug": "45828-oaken-summons",
+      "classId": 2,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1004,
+      "rarityId": 1,
+      "artistName": "Konstantin Turovec",
+      "manaCost": 4,
+      "name": "참나무 소환술",
+      "text": "방어도를 +6 얻고 비용이 (4) 이하인 하수인을 \u003cb\u003e소집\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/681d1bc01e02e8f63e4470583460a0fdf2f3bba1f787a43e72c6098567bf4f2f.png",
+      "imageGold": "",
+      "flavorText": "길드는 참나무 숯이 재가 될 때까지 맛있는 고기를 구워 먹었답니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d7d5c5c03aa1c66c901ee6ff56a84f64ee0e131ab792d80701293d856e1e7644.png",
+      "keywordIds": [
+        39
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 53796,
+      "collectible": 1,
+      "slug": "53796-into-the-fray",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1158,
+      "rarityId": 3,
+      "artistName": "Konstantin Turovec",
+      "manaCost": 1,
+      "name": "참전",
+      "text": "내 손에 있는 모든 \u003cb\u003e도발\u003c/b\u003e 하수인에게 +2/+2를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd9ea6afbd0cc65d720c9adaa7a45d053d864ed779430f9d593c6ea6b18dcaa8.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61d9b1ddc04a4e5bb83fc2523acb31c55d3624e4935c15dd758e7fd2b9063c57.png",
+      "flavorText": "\"내 참전을 막지 마시오!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8444467a0230879565916e7dad175cc7cc4e5ce5ba14d342dc6c481718340d1.png",
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70226,
+      "collectible": 1,
+      "slug": "70226-bunker-sergeant",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Mauricio Herrera",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "참호 근위병",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 상대편에게 하수인이 둘 이상 있으면, 모든 적 하수인에게 피해를 1 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9c152224068a3ee574ba624d96e7934811aaf7bc52e27917cb89707f5cde65f.png",
+      "imageGold": "",
+      "flavorText": "알터랙에서 가장 멋진 머리를 가졌습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f8d91e04a7c848bde28b7fb428a3014aa570978e9c9b6f5c03f3bb12672153d.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 232,
+      "collectible": 1,
+      "slug": "232-repentance",
+      "classId": 5,
+      "multiClassIds": [],
+      "spellSchoolId": 5,
+      "cardTypeId": 5,
+      "cardSetId": 3,
+      "rarityId": 1,
+      "artistName": "Gonzalo Ordonez",
+      "manaCost": 1,
+      "name": "참회",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 상대편이 하수인을 낸 후에, 그 하수인의 생명력이 1로 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d5ff8e91807a55ef1249b61e0c2b9e651d3cea916b9784aabce476f8db981c2.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/86bc43986864d435e7aef82c9ed229b8a91dbb17e6525b1480e61663b7e5ac11.png",
+      "flavorText": "누구든 죄는 짓는 법이니까요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d977d629aef3de85eb45e9043df6d807acaa9a30581662d0e4fdd68dc7921b3d.png",
+      "keywordIds": [
+        5
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69940,
+      "collectible": 1,
+      "slug": "69940-repentance",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 1,
+      "artistName": "Gonzalo Ordonez",
+      "manaCost": 1,
+      "name": "참회",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 상대편이 하수인을 낸 후에, 그 하수인의 생명력이 1로 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18435000d7c80146f5d0bd06d463b090f3fa82fe448be01a31525f62ca2c4395.png",
+      "imageGold": "",
+      "flavorText": "누구든 죄는 짓는 법이니까요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d977d629aef3de85eb45e9043df6d807acaa9a30581662d0e4fdd68dc7921b3d.png",
+      "keywordIds": [
+        5
+      ],
+      "copyOfCardId": 232
+    },
+    {
+      "id": 2577,
+      "collectible": 1,
+      "slug": "2577-lance-carrier",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 15,
+      "rarityId": 1,
+      "artistName": "Tyson Murphy",
+      "health": 2,
+      "attack": 1,
+      "manaCost": 2,
+      "name": "창 운반꾼",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 아군 하수인에게 공격력을 +2 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1bb377c459b2063a707a0a75bd563a535045675e13af6f37dc841a43251e9a8f.png",
+      "imageGold": "",
+      "flavorText": "창 운반꾼은 오크가 입대를 하면 처음으로 복무하게 되는 직책입니다. 창을 쓰는 오크가 별로 없는데 왜 저런 직책이 있는지 모르겠네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7426e1e222044598d569f561970aaaea9b4514db651a7062fc3ff4b6106b8d2.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 92296,
+      "collectible": 1,
+      "slug": "92296-big-dreams",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1809,
+      "rarityId": 3,
+      "artistName": "Tanamaes Leejierasaes",
+      "manaCost": 5,
+      "name": "창대한 꿈",
+      "text": "내 손에서 비용이 가장 높은 야수를 소환합니다. 그 야수는 2턴 동안 \u003cb\u003e휴면\u003c/b\u003e 상태가 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dbcc9d3a244559d7ef18e732a8d5269c1f8795413786ffd475b7c8efcf725c97.png",
+      "imageGold": "",
+      "flavorText": "다음 곡을 소개합니다. 타운카의 꿈.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/242fb8671480e2d640b04e6a9f962c2626ef44b3ca78e7089d7c7b03f85b89c1.png"
+    },
+    {
+      "id": 90497,
+      "collectible": 1,
+      "slug": "90497-cage-head",
+      "classId": 1,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 5,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 1,
+      "attack": 5,
+      "manaCost": 8,
+      "name": "창살 머리",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e \u003cb\u003e돌진\u003c/b\u003e과 \u003cb\u003e도발\u003c/b\u003e 능력이 있는 9/9 역병 멧돼지를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e067ef01e1e7f73f8992726bf86b18cf32ba29400447f7f0ed7051a0a50a919e.png",
+      "imageGold": "",
+      "flavorText": "철창에 머리가 끼었더니, 그 후부터는 새로운 별명으로 불리게 되었습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02f52836076ba89b3f83306005b6c2043f260bce0180f1e39999eb720c2223a7.png",
+      "childIds": [
+        94197
+      ],
+      "keywordIds": [
+        1,
+        4,
+        12
+      ],
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 2
+      }
+    },
+    {
+      "id": 97261,
+      "collectible": 1,
+      "slug": "97261-creation-protocol",
+      "classId": 6,
+      "multiClassIds": [],
+      "spellSchoolId": 5,
+      "cardTypeId": 5,
+      "cardSetId": 1858,
+      "rarityId": 3,
+      "artistName": "Daniil Kudriavtsev",
+      "manaCost": 2,
+      "name": "창조 프로토콜",
+      "text": "내 덱에서 하수인을 \u003cb\u003e발견\u003c/b\u003e해서 복사해옵니다. \u003cb\u003e제련:\u003c/b\u003e 하나 더 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9335c8fb96882f66a32f5e5a252236ccc0665544ba918d3eacc8d2fbc04b32d9.png",
+      "imageGold": "",
+      "flavorText": "파괴 프로토콜을 원하면, 반대로만 하면 됩니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0cdfc4e38dd771cd0b6928c298608adbde58bcb35c5122d14e023ce8454465ae.png",
+      "childIds": [
+        97264
+      ],
+      "keywordIds": [
+        21,
+        266
+      ]
+    },
+    {
+      "id": 54280,
+      "collectible": 1,
+      "slug": "54280-conjured-mirage",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1158,
+      "rarityId": 3,
+      "artistName": "Vladimir Kafanov",
+      "health": 10,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "창조된 신기루",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, 내 턴이 시작될 때, 이 하수인을 내 덱에 섞어 넣습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f760eef9cd6d363b64a7fe68f7daf1a79ede4f22151144a4b56ab6883a315914.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e643fff5fc92c572aecc99d2a28c209f2f05c69212aeb8f45bf86acfdf996f67.png",
+      "flavorText": "안녕히 계세요, 여러분! 전 이 세상의 모든 버프와 디버프를 벗어던지고 제 행복을 찾아 떠납니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef78ebde954ea1a20b7226faae5668cdf92b8a9ce01608b9678c3ec81ecaf62c.png",
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 103
+}

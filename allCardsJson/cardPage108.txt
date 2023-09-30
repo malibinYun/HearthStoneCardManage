@@ -1,0 +1,1036 @@
+{
+  "cards": [
+    {
+      "id": 667,
+      "collectible": 1,
+      "slug": "667-fan-of-knives",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Andrew Robinson",
+      "manaCost": 2,
+      "name": "칼날 부채",
+      "text": "모든 적 하수인에게 피해를 1 줍니다. 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/77c7e259e120d9f5b22f989b0ca3d4793467fe201e80919561968eb60f89b929.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4bc1550d5c4ef4fa8cfc8827819f79debbc86d2841ef7b8ad3e640c33af80f4.png",
+      "flavorText": "시전할 때 생기는 바람이 시원해서 지어진 이름이란 소문이 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/540020e184dc37de80b815fddbcd70343066bf70a322c9fb9aaa00d3ea774ccd.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68444,
+      "collectible": 1,
+      "slug": "68444-fan-of-knives",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Andrew Robinson",
+      "manaCost": 3,
+      "name": "칼날 부채",
+      "text": "모든 적 하수인에게 피해를 1 줍니다. 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/293f5a240112f656ec03933d9804c5efba41f84a7f0206c81039c3cdd942c541.png",
+      "imageGold": "",
+      "flavorText": "시전할 때 생기는 바람이 시원해서 지어진 이름이란 소문이 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac672a3848d24cd49920b6a9f17932810c368a17c5b920865c25850507aa5fb6.png",
+      "copyOfCardId": 667
+    },
+    {
+      "id": 102745,
+      "collectible": 1,
+      "slug": "102745-fan-of-knives",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Andrew Robinson",
+      "manaCost": 2,
+      "name": "칼날 부채",
+      "text": "모든 적 하수인에게 피해를 1 줍니다. 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/536c598985068fa48fe481bb000352ac0b57f36d87e606cfd8f9e4f9126983b5.png",
+      "imageGold": "",
+      "flavorText": "시전할 때 생기는 바람이 시원해서 지어진 이름이란 소문이 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/540020e184dc37de80b815fddbcd70343066bf70a322c9fb9aaa00d3ea774ccd.png",
+      "copyOfCardId": 667,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68262,
+      "collectible": 1,
+      "slug": "68262-razorglaive-sentinel",
+      "classId": 14,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 4,
+      "attack": 5,
+      "manaCost": 4,
+      "name": "칼날검 파수병",
+      "text": "내가 내 손에서 가장 오른쪽 또는 왼쪽에 있는 카드를 낸 후에, 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1a28133736c736a0c7a286676e0125e17e49a32ee3f10408970156470a480439.png",
+      "imageGold": "",
+      "flavorText": "모든 것을 갖춘 늑대인간을 위한 더 많은 발톱입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e6861ffc379d7368a0f36db80ee0c6206eb32267e9cdf2eb7f345f19a8afd904.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41208,
+      "collectible": 1,
+      "slug": "41208-razorpetal-lasher",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 27,
+      "rarityId": 1,
+      "artistName": "Sojin Hwang",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "칼날꽃잎 덩굴손",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 피해를 1 주는 칼날꽃잎을 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f29eff48aaf2338d8abd4cdec03c56ac979e74e360b67afce914ae4b4114f166.png",
+      "imageGold": "",
+      "flavorText": "이래서 운고로에는 좀비가 없습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/134b7fc8df345fcac7755ad47d8f2a8c574ff9f8771bba1a5df457d892365266.jpg",
+      "childIds": [
+        41206
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 59403,
+      "collectible": 1,
+      "slug": "59403-steeldancer",
+      "classId": 12,
+      "multiClassIds": [
+        7,
+        10
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1443,
+      "rarityId": 4,
+      "artistName": "Gonzalo Ordonez",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "칼날무희",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 무기의 공격력과 같은 비용의 무작위 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fd932f6ca13af0205352a5225e62614a31dcf2a6b0d8c900e4aba095e07e57e4.png",
+      "imageGold": "",
+      "flavorText": "어떤 하수인이 나올지 칼 같이 예상해야 합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/882b87fed2788737771a91af066c14563d816afd7ee3cd76c27648f6ad493ddd.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 97352,
+      "collectible": 1,
+      "slug": "97352-razorscale",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 1858,
+      "rarityId": 4,
+      "artistName": "L. Lullabi \u0026 K. Turovec",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "칼날비늘",
+      "text": "카드의 비용이 (2)보다 낮아지지 않습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17731e2e353f9bb5573afd7ee8629dd919ba89ceb6e23e4f92e3fcdbdcfd7d52.png",
+      "imageGold": "",
+      "flavorText": "칼날비늘, 서슬갈기 그리고 칼날발톱이 선술집으로 걸어 들어옵니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9702468e10a474437e7d93298164888d4ea92404fd6119f6cc479a6fc81462b.png"
+    },
+    {
+      "id": 61132,
+      "collectible": 1,
+      "slug": "61132-bladed-lady",
+      "classId": 14,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1466,
+      "rarityId": 3,
+      "artistName": "James Ryman",
+      "health": 6,
+      "attack": 6,
+      "manaCost": 6,
+      "name": "칼날의 여인",
+      "text": "\u003cb\u003e속공\u003c/b\u003e, 내 영웅의 공격력이 6 이상이면 비용이 (1)이 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a54be072401e9579cc1ff0757b983c4e0fe6f51b3f0b18c597b4320c2a3399b.png",
+      "imageGold": "",
+      "flavorText": "돌잡이 때 칼을 잡길래 요리사가 될 줄 알았는데...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5fd7379ac0e62bea77d48c2151e5d2e46e60df95908e9f40a217cdd9398dc2cd.png",
+      "keywordIds": [
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2783,
+      "collectible": 1,
+      "slug": "2783-druid-of-the-saber",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 15,
+      "rarityId": 1,
+      "artistName": "Arthur Gimaldinov",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "칼날이빨의 드루이드",
+      "text": "\u003cb\u003e선택 - \u003c/b\u003e2/1 \u003cb\u003e돌진\u003c/b\u003e 하수인 또는 3/2 \u003cb\u003e은신\u003c/b\u003e 하수인으로 변신합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab30f9f7a55d77b0e26f11f5bff8004758fb9e779227402f407c71076c5a216e.png",
+      "imageGold": "",
+      "flavorText": "사나워 보이지만 사실은 치과에 가는 걸 매우 무서워합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef17fb533683bcee2beb81988dcd8530d90f769ab705cce520db64897fbd200a.png",
+      "childIds": [
+        2861,
+        2862,
+        2784,
+        2860
+      ],
+      "keywordIds": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": 43277,
+      "collectible": 1,
+      "slug": "43277-bladed-gauntlet",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1004,
+      "rarityId": 4,
+      "artistName": "Luca Zontini",
+      "attack": 0,
+      "manaCost": 2,
+      "durability": 2,
+      "name": "칼날주먹",
+      "text": "이 무기의 공격력은 내 방어도와 같습니다. 영웅을 공격할 수 없습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e668d8b66f4085d35e87afef61cac2cba4de20f373ab5a6cd5b9f14ae893425.png",
+      "imageGold": "",
+      "flavorText": "주의: 이 무기를 착용한 채로 눈을 비비지 마십시오.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49c540d23979b5f0f2e08bd763cfe1816df252dea05dfb36633c2557574a3b86.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 56504,
+      "collectible": 1,
+      "slug": "56504-bladestorm",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1414,
+      "rarityId": 4,
+      "artistName": "Mauricio Herrera",
+      "manaCost": 2,
+      "name": "칼날폭풍",
+      "text": "\u003cb\u003e모든\u003c/b\u003e 하수인에게 피해를 1 줍니다. 하수인이 죽을 때까지 반복됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f85bc5772ed90c2b2ae21ed0215deccc603d07fa29d070a3234eb039bf0d2280.png",
+      "imageGold": "",
+      "flavorText": "반갑다, 하수인! 난 칼날폭풍이라고 한다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bab4f9fcb5b730d31e5b928baa43fd0a2f64934547d3ff3bab9ac0b9fa70ea79.png"
+    },
+    {
+      "id": 97332,
+      "collectible": 1,
+      "slug": "97332-bladestorm",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 4,
+      "artistName": "Mauricio Herrera",
+      "manaCost": 2,
+      "name": "칼날폭풍",
+      "text": "모든 하수인에게 피해를 1 줍니다. 하수인이 죽을 때까지 반복됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dfcbd2b9392e970083c07773df9130242c9a48053ce4c9f992fe0a1e846ff918.png",
+      "imageGold": "",
+      "flavorText": "반갑다, 하수인! 난 칼날폭풍이라고 한다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2a59ca433d16c8b81ce82e87f66a2475ec6f52eabebe112e69f712c77f04c458.png",
+      "copyOfCardId": 56504,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 53002,
+      "collectible": 1,
+      "slug": "53002-kalecgos",
+      "classId": 4,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 1130,
+      "rarityId": 5,
+      "artistName": "Chris Rahn",
+      "health": 12,
+      "attack": 4,
+      "manaCost": 9,
+      "name": "칼렉고스",
+      "text": "내 턴마다 처음 시전하는 주문의 비용이 (0)이 됩니다. \u003cb\u003e전투의 함성:\u003c/b\u003e 주문을 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5aea93c76d7045acb66f8b6123b73797b6af97bc47418f625850407662a5002.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a265550348ad10ac7a4fd176de0e2ee2fb4ef610e3cae7cfdcaba35565cd5f7.png",
+      "flavorText": "\"아저씨, 그 위상이죠? 맞죠?\" \"...이젠 아니란다.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c294a0ec5ddd2b0c5a4b06562971693746c1030b9b1619fd712c8efbdeaeab7.png",
+      "keywordIds": [
+        8,
+        21
+      ]
+    },
+    {
+      "id": 41410,
+      "collectible": 1,
+      "slug": "41410-servant-of-kalimos",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 27,
+      "rarityId": 3,
+      "artistName": "Zoltan Boros",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "칼리모스의 시종",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내가 이전 턴에 정령을 냈다면, 정령을 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/128bb5374dde1648ab82036f92ae4ea6a0eeab754bf7762f124f71c49decb51e.png",
+      "imageGold": "",
+      "flavorText": "다 큰 정령이 다른 정령 시종이나 들고 있다고 집안에서 구박을 받습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/71421273771520b5bd401b95c94bc92edabcd5f7eb27b6f707c72355ac682d28.jpg",
+      "keywordIds": [
+        8,
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 46440,
+      "collectible": 1,
+      "slug": "46440-windshear-stormcaller",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1004,
+      "rarityId": 4,
+      "artistName": "Arthur Gimaldinov",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 5,
+      "name": "칼바람 폭풍소환사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 전장에 기본 토템 넷이 전부 있으면, 바람의 군주 알아키르를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e8b73c2e3d68dddd57ebb9c15aa201cec82fc068250889721e4fee88b725716.png",
+      "imageGold": "",
+      "flavorText": "장인은 토템을 가리지 않습니다. 알아키르를 믿으십시오.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f91f0bc842c604d815ec2c926f6ec093f6289447909ef08a92cc613480912fb.jpg",
+      "childIds": [
+        537,
+        850,
+        764,
+        62320,
+        32
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 39698,
+      "collectible": 1,
+      "slug": "39698-swashburglar",
+      "classId": 7,
+      "multiClassIds": [],
+      "minionTypeId": 23,
+      "cardTypeId": 4,
+      "cardSetId": 23,
+      "rarityId": 1,
+      "artistName": "Zoltan Boros",
+      "health": 2,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "칼잡이 강도",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 다른 직업의 무작위 카드를 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8861d18655d461013a49fa5da543dcc60e2ed94d2670d87b394879e38c8b9aa8.png",
+      "imageGold": "",
+      "flavorText": "목숨을 버리면 네 직업의 카드는 살려주마.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b1e9c0d6917365459b9edafef417f0e9d88cd77a76d47d701bfec2df7c6d459.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69742,
+      "collectible": 1,
+      "slug": "69742-swashburglar",
+      "classId": 7,
+      "multiClassIds": [],
+      "minionTypeId": 23,
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Zoltan Boros",
+      "health": 2,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "칼잡이 강도",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 다른 직업의 무작위 카드를 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/084a9fe680063bbbf4b9014415c7fc6aeb825e67c06a4f1b0f32485d25029085.png",
+      "imageGold": "",
+      "flavorText": "목숨을 버리면 네 직업의 카드는 살려주마.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b1e9c0d6917365459b9edafef417f0e9d88cd77a76d47d701bfec2df7c6d459.png",
+      "keywordIds": [
+        8
+      ],
+      "copyOfCardId": 39698,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 52636,
+      "collectible": 1,
+      "slug": "52636-scargil",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 14,
+      "cardTypeId": 4,
+      "cardSetId": 1130,
+      "rarityId": 5,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "칼지느러미",
+      "text": "내 멀록들의 비용이 (1)이 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/31a691aa79d89dfdf82826fc6dc078da8e30ade24958015422f8773ff111ffc6.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d8eeaa2db6e8bf021445942996e18c768698d168419faadadc77dc5950cf7c5b.png",
+      "flavorText": "저 상처들이 어떻게 난 건지 아세요? 사실 본인도 모른다는군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7980751c7bdedb6ec9649bb71aeb11334f326d1af22c4c18c3adad892d1c99f.png"
+    },
+    {
+      "id": 58492,
+      "collectible": 1,
+      "slug": "58492-blade-dance",
+      "classId": 14,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1463,
+      "rarityId": 3,
+      "artistName": "Zoltan Boros",
+      "manaCost": 3,
+      "name": "칼춤",
+      "text": "무작위 적 하수인 셋에게 내 영웅의 공격력만큼 피해를 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/167472e8e519aab05d6c31510743100cbcfb3163d8b837ab5603473c59780501.png",
+      "imageGold": "",
+      "flavorText": "\"나에게 춤은... 살인이다.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ae66e1586d38f180b7521d0f16312478c1aedb5ea3dd73c16c3cd8abe6eaeaf.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 56622,
+      "collectible": 1,
+      "slug": "56622-kaelthas-sunstrider",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1414,
+      "rarityId": 5,
+      "artistName": "James Ryman",
+      "health": 7,
+      "attack": 4,
+      "manaCost": 6,
+      "name": "캘타스 선스트라이더",
+      "text": "내 턴마다 세 번째로 시전하는 주문들의 비용이 (1)이 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a7146242c13a94e94e272da36f9e5c01122fdbfb4e96c56b71f72a30237ac638.png",
+      "imageGold": "",
+      "flavorText": "\"용의 강림은 잠시 머무르는 곳이었을 뿐이다!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6fd921e4bad495bfbab5d8eca6bfce26183dd8b2d38f36d9a08359d6e7a0c51a.png"
+    },
+    {
+      "id": 79934,
+      "collectible": 1,
+      "slug": "79934-kaelthas-sinstrider",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1691,
+      "rarityId": 5,
+      "artistName": "James Ryman",
+      "health": 7,
+      "attack": 4,
+      "manaCost": 8,
+      "name": "캘타스 신스트라이더",
+      "text": "내 턴마다 세 번째로 내는 하수인들의 비용이 (0)이 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58375bc854d6edf7b2bdc430c55b6770c7fd53e3e7f65f19f37ea735b167573a.png",
+      "imageGold": "",
+      "flavorText": "캘타스 소식 들었어? 대박.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3cf61800dd3d9f17a511b19d5d16eb5015368467d73717607d8aff4e56f5ceea.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 48886,
+      "collectible": 1,
+      "slug": "48886-mecharoo",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "multiTypeIds": [
+        20
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1127,
+      "rarityId": 1,
+      "artistName": "Eva Widermann",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "캥거루로봇",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 1/1 새끼 캥거루로봇을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9bbc8a3d8818b1d8d2377da05c8a5d0185f5322ec85ba1bad74468e2e0acafd.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27d262562d7eaed7b1bd80c03e288db0cf1d0ddc8febdc0cbe1b177073ee2fb4.png",
+      "flavorText": "새끼랑 능력치가 똑같으면 대체 어느 쪽이 비정상인 걸까요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fed553ff3dd99de3e3b2ecf54bd847b4fdc2cf4bf640f6cec5f46e7e24747d9.png",
+      "childIds": [
+        48885
+      ],
+      "keywordIds": [
+        12
+      ]
+    },
+    {
+      "id": 52420,
+      "collectible": 1,
+      "slug": "52420-big-bad-archmage",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1130,
+      "rarityId": 4,
+      "artistName": "Mauricio Herrera",
+      "health": 6,
+      "attack": 6,
+      "manaCost": 10,
+      "name": "커다란 나쁜 대마법사",
+      "text": "내 턴이 끝날 때, 비용이 6인 무작위 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a75b0be77633991d40e6e5ba3273ed662241ce5b06d872d3b2d65596377320f2.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f638c653ef041841e032bbd28c869dabc3046958af4ae4715f13b9572a931cc7.png",
+      "flavorText": "\"도망쳐라, 꼬마야! 달아나라!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/87b5b55cddbf6a1a9009d7d05adb05f81a70b59a808851926f7c9dba3b990a0e.png"
+    },
+    {
+      "id": 41328,
+      "collectible": 1,
+      "slug": "41328-giant-wasp",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 27,
+      "rarityId": 1,
+      "artistName": "Luca Zontini",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "커다란 말벌",
+      "text": "\u003cb\u003e은신\u003c/b\u003e \u003cb\u003e독성\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a1a1b39c89aa6bcb4096149506388bc92ec6a4b3478959c9bdf613cf440b026a.png",
+      "imageGold": "",
+      "flavorText": "나비처럼 날아서 말벌처럼 쏜다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5559ccfa02c80bee5751e6c052df1ccac456d74ecaa8b04506822c62d4ab29de.jpg",
+      "keywordIds": [
+        6,
+        32
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 92256,
+      "collectible": 1,
+      "slug": "92256-cover-artist",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 4,
+      "artistName": "Jay Axer",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "커버곡 가수",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 하수인으로 변신합니다. 능력치는 3/3이 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe17e1413e09bc2210032b1e9515e370f56ef3ab8432bbd253e78b0c2dbac6fe.png",
+      "imageGold": "",
+      "flavorText": "얼굴 없는 자들은 공포를 먹고 사는 요그사론의 하수인입니다. 지금도 카드 설명을 재탕하고 있다는 걸 여러분이 알아채면 어쩌나 걱정하고 있는 저희 개발팀의 공포를 먹고 있죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e9ed5ad5418489c924714599ee3ca2633b591cc1bf318c88711e851b71ae667.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 77208,
+      "collectible": 1,
+      "slug": "77208-cutlass-courier",
+      "classId": 7,
+      "multiClassIds": [],
+      "minionTypeId": 23,
+      "multiTypeIds": [
+        11
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 1,
+      "artistName": "Konstantin Porubov",
+      "health": 5,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "커틀라스 급사",
+      "text": "내 영웅이 공격한 후에, 해적을 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8f486ce6097185f4b2a1c2488a00c13f6ed3e1c0ed964b28ed03a617dd7f5b66.png",
+      "imageGold": "",
+      "flavorText": "커틀라스 전달하러 왔습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f205a6a5532c15b31df05ed0d7bdc77fed9a95b185e1c398410349bfbae8cf4c.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 420,
+      "collectible": 1,
+      "slug": "420-cairne-bloodhoof",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 5,
+      "artistName": "Wayne Reynolds",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 6,
+      "name": "케른 블러드후프",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 5/5 바인 블러드후프를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb9b9495009d889194a8e33dbee72fb74fde60634557020653f1ad49d1dfd782.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e4db4aa372c1dd60be68fb1ca8909758c4ee42a314d04eeec6de714c58efca5.png",
+      "flavorText": "케른은 가로쉬에 의해 목숨을 잃었습니다. 그러니까... 전사 덱에는 넣지 말아주세요. 가혹하잖아요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d1ec02835e876d79a01381cbee1111157c4b3204233049cb151faee33f04b28.png",
+      "childIds": [
+        318
+      ],
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69667,
+      "collectible": 1,
+      "slug": "69667-cairne-bloodhoof",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 5,
+      "artistName": "Wayne Reynolds",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 6,
+      "name": "케른 블러드후프",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 5/5 바인 블러드후프를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e8a5e1dc241dd803993f3de78162a97c391d656fa8fbf9c4e0ae01cd93dfa256.png",
+      "imageGold": "",
+      "flavorText": "케른은 가로쉬에 의해 목숨을 잃었습니다. 그러니까... 전사 덱에는 넣지 말아주세요. 가혹하잖아요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dae7e478bbcbf16716836670cc39ca751dd2e2d56bd7a30ba30fa2b7d0e57536.png",
+      "childIds": [
+        318
+      ],
+      "keywordIds": [
+        12
+      ],
+      "copyOfCardId": 420,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69851,
+      "collectible": 1,
+      "slug": "69851-cairne-bloodhoof",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 5,
+      "artistName": "Wayne Reynolds",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 6,
+      "name": "케른 블러드후프",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 4/5 바인 블러드후프를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/591d31093a290f4dc196662e4f5b5d95931bcc7f3ba3501fd0c03006abf784f1.png",
+      "imageGold": "",
+      "flavorText": "케른은 가로쉬에 의해 목숨을 잃었습니다. 그러니까... 전사 덱에는 넣지 말아주세요. 가혹하잖아요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d1ec02835e876d79a01381cbee1111157c4b3204233049cb151faee33f04b28.png",
+      "childIds": [
+        70473
+      ],
+      "keywordIds": [
+        12
+      ],
+      "copyOfCardId": 420
+    },
+    {
+      "id": 2042,
+      "collectible": 1,
+      "slug": "2042-kezan-mystic",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 13,
+      "rarityId": 3,
+      "artistName": "Jakub Kasper",
+      "health": 3,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "케잔 비술사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 무작위 적 \u003cb\u003e비밀\u003c/b\u003e을 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/360e7d7dccb39d70be9632ecbcb85e291971abdfcb5208f52801f52d35ab7d6c.png",
+      "imageGold": "",
+      "flavorText": "그저 현명한 것으로만 보이겠지만, 사실 궁금한 게 있으면 못 참는 성격일 뿐입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2db8c99edceab1f65dd97cc34174657ce83f48c68cb63d4043f7758b9576350c.png",
+      "keywordIds": [
+        5,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 1794,
+      "collectible": 1,
+      "slug": "1794-kelthuzad",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 12,
+      "rarityId": 5,
+      "artistName": "Chris Robinson",
+      "health": 8,
+      "attack": 6,
+      "manaCost": 8,
+      "name": "켈투자드",
+      "text": "각 턴이 끝날 때, 이번 턴에 죽은 모든 아군 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0064c0f8cc0712f000638916f74897df34895888ed390a4b284c3469a1f88758.png",
+      "imageGold": "",
+      "flavorText": "켈투자드는 리치 왕의 부름에 저항할 수 없었습니다. 녹음된 목소리로 리치 왕의 덕을 찬미하는 전화가 계속해서 걸려왔거든요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/586344a5c3cd9e2e91c30ad68d6e8fd71e89318eb5733618e4fb20eee9d7ec58.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 64728,
+      "collectible": 1,
+      "slug": "64728-cornelius-roame",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 5,
+      "artistName": "Rafael Zanchetin",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 6,
+      "name": "코넬리우스 롬",
+      "text": "각 플레이어의 턴이 시작될 때와 끝날 때, 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1264c8c4a6da2b9c0a1f38adc8b386a93f40880c244055ab4e6f1622c0d3f0ce.png",
+      "imageGold": "",
+      "flavorText": "평범한 두 딸을 키운 가장이었습니다. 하지만 죽은 딸이 스톰윈드에 파멸을 몰고 왔죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7daf48ce15cbb886cff6db34199c9cfc1ab3661ed089bdb528913f5a1ebb798d.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2598,
+      "collectible": 1,
+      "slug": "2598-kodorider",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 15,
+      "rarityId": 4,
+      "artistName": "Ben Wootten",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 6,
+      "name": "코도 기수",
+      "text": "\u003cb\u003e격려:\u003c/b\u003e 3/5 전투코도를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2656ee9a2885cd2f2088e1c376a32e121edf0f44d8fdc9e0f67286b78b4db7f.png",
+      "imageGold": "",
+      "flavorText": "코뿔소 기수라고 부르면 화를 냅니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07408465f1f4824175bdc0d797d01114afd6da6227c44f5cd8758d4e3b2e6c70.jpg",
+      "childIds": [
+        2799
+      ],
+      "keywordIds": [
+        20
+      ]
+    },
+    {
+      "id": 64346,
+      "collectible": 1,
+      "slug": "64346-kodo-mount",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1578,
+      "rarityId": 3,
+      "artistName": "Anton Zemskov",
+      "manaCost": 4,
+      "name": "코도 탈것",
+      "text": "하수인에게 +4/+2와 \u003cb\u003e속공\u003c/b\u003e을 부여합니다. 그 하수인이 죽으면, 코도를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f651e715ea6624151978d6a254481347a1202c94b94d60467291848a21b0e7a9.png",
+      "imageGold": "",
+      "flavorText": "항상 집 안으로 들어오려고 해 말썽인 녀석입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1cdfa2ccb1f3e889139209539412b58fa23a9a60c37302046145095c7cb76817.png",
+      "childIds": [
+        64347
+      ],
+      "keywordIds": [
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 90359,
+      "collectible": 1,
+      "slug": "90359-kodohide-drumkit",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1809,
+      "rarityId": 3,
+      "artistName": "Studio Hive ",
+      "attack": 3,
+      "manaCost": 4,
+      "durability": 2,
+      "name": "코도가죽 드럼 세트",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e \u003cb\u003e모든\u003c/b\u003e 하수인에게 피해를 줍니다. \u003ci\u003e(장착하고 있을 때 방어도를 얻으면 강화됩니다!)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/014b355c3f63b30284679b94c5cfd82635038cb0b4819f8f9015ddc83aff7a26.png",
+      "imageGold": "",
+      "flavorText": "드루이드 드럼 악단에서 빼돌려진 이 드럼으로 진짜로 훌륭한 음악을 만들고 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/894a74a6e0700b26aba23909d32d80663ffa10e78e3865dceaa5d1ea64d7bf90.png",
+      "keywordIds": [
+        12
+      ]
+    },
+    {
+      "id": 28,
+      "collectible": 1,
+      "slug": "28-korkron-elite",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 3,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "코르크론 정예병",
+      "text": "\u003cb\u003e돌진\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7500fa19eb5d6b5b15a557b57bf76931a0d577a6bd265ba0d5926689ccd9bb4b.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d76b18aebe9628107c261923543f065d245719020f48fce68de0e03cafd2c846.png",
+      "flavorText": "코르크론은 가로쉬 헬스크림의 정예 부대입니다. 파란색 휘장을 차고 있을 땐, 이들과 마주치지 않길 기도하십시오.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/390a7fa39203c231bfc8f05564fe6c2ec4c4ca79f883f25134ae295c8c54229c.png",
+      "keywordIds": [
+        4
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68528,
+      "collectible": 1,
+      "slug": "68528-korkron-elite",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 3,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "코르크론 정예병",
+      "text": "\u003cb\u003e돌진\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/42bf73b39c27e487860320f6282ace17aa08c014c37ec801f4b3dedbd5384f20.png",
+      "imageGold": "",
+      "flavorText": "코르크론은 가로쉬 헬스크림의 정예 부대입니다. 파란색 휘장을 차고 있을 땐, 이들과 마주치지 않길 기도하십시오.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/390a7fa39203c231bfc8f05564fe6c2ec4c4ca79f883f25134ae295c8c54229c.png",
+      "keywordIds": [
+        4
+      ],
+      "copyOfCardId": 28
+    },
+    {
+      "id": 2030,
+      "collectible": 1,
+      "slug": "2030-cobalt-guardian",
+      "classId": 5,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 13,
+      "rarityId": 3,
+      "artistName": "Jim Nelson",
+      "health": 3,
+      "attack": 6,
+      "manaCost": 5,
+      "name": "코발트 수호자",
+      "text": "내가 기계를 소환할 때마다 \u003cb\u003e천상의 보호막\u003c/b\u003e을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5356fe880f05274abf334fb685c0698a03b546e8d79ac7a8ced90dad2f14a540.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be3b5d87d525c540ab4aff566cd9c339c7427f97b31eb9d0ab3ee1dd2d60b676.png",
+      "flavorText": "이제 천상의 보호막에 종교적인 의미를 부여하는 건 아무런 의미도 없을 것 같습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/06ada6f945cb0e588e4ca793b19ff058807488142948a843d37902aadf61e97f.jpg",
+      "keywordIds": [
+        3
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 54259,
+      "collectible": 1,
+      "slug": "54259-kobold-sandtrooper",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1158,
+      "rarityId": 1,
+      "artistName": "Christopher Hayes",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "코볼트 사막강습병",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 적 영웅에게 피해를 3 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3cebfdf4cf26e9192f92f304794da8210ea3c8f3794e4c584bda167b03b2b90e.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81de56a7dba8993b9ec4f6b37acbcee7edb6182d893428fa59fe6dc63cd94e42.png",
+      "flavorText": "잠시 내 양초 좀 불어보게나.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bad80cea8ed6621a530076300121301f0098cadd00d9e882087f37b07e095b7e.png",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43122,
+      "collectible": 1,
+      "slug": "43122-kobold-librarian",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1004,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 1,
+      "name": "코볼트 사서",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 카드를 뽑습니다. 내 영웅에게 피해를 2 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c55070e140c95fc193d7336ea7d50dddd54d5cc51c7e280d56cbf5f433f87c4.png",
+      "imageGold": "",
+      "flavorText": "이래 봬도 책 정리 하나는 끝내주게 잘합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c9c16a552177f8e88d505dc2bab0e1d9b8a00227cfb99b84bcc2ab69915fb77.jpg",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 108
+}

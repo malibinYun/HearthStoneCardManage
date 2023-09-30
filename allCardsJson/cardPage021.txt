@@ -1,0 +1,1063 @@
+{
+  "cards": [
+    {
+      "id": 52685,
+      "collectible": 1,
+      "slug": "52685-nozari",
+      "classId": 5,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 1130,
+      "rarityId": 5,
+      "artistName": "Arthur Gimaldinov",
+      "health": 12,
+      "attack": 4,
+      "manaCost": 10,
+      "name": "노자리",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 각 영웅의 생명력을 모두 회복시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82c218923d789b4e6484b1febd1682b6bf3f645641c063ebd04a64b9327e9630.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ce6571460521998dcf181d0e7a386f248a4b053a64593a02f923a1e8a157d39e.png",
+      "flavorText": "다른 시간대에선 예스자리였습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3218f4765635bb6c6b9d360a3e693af43563e25003eb7f693f60b88ce9b8961.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 411,
+      "collectible": 1,
+      "slug": "411-nozdormu",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 5,
+      "artistName": "James Ryman",
+      "health": 8,
+      "attack": 8,
+      "manaCost": 9,
+      "name": "노즈도르무",
+      "text": "플레이어들의 턴 제한 시간이 15초로 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d9dfb36680e146f033feb13070656fabbf54fd6f8882b0388b3dfd928e86959b.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/64035d2d3ed6fb831c39c128761158613c941e9eeb7444b092e44bfda0b46ba9.png",
+      "flavorText": "여기 뭔가 써야 하는데 시간이 모자라네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b9dc4dd2820e92208be9e7e6ec2203e2ec742c7eb3ee1dff24a9f850821290c.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69976,
+      "collectible": 1,
+      "slug": "69976-nozdormu",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 5,
+      "artistName": "James Ryman",
+      "health": 8,
+      "attack": 8,
+      "manaCost": 9,
+      "name": "노즈도르무",
+      "text": "플레이어들의 턴 제한 시간이 15초로 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78eda712a40ee60bdb03ba46b93b44745d2b1b92845ce4fb5794d598c09ff6ba.png",
+      "imageGold": "",
+      "flavorText": "여기 뭔가 써야 하는데 시간이 모자라네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0b9dc4dd2820e92208be9e7e6ec2203e2ec742c7eb3ee1dff24a9f850821290c.png",
+      "copyOfCardId": 411
+    },
+    {
+      "id": 64720,
+      "collectible": 1,
+      "slug": "64720-rustrot-viper",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 1,
+      "artistName": "Zhefei Hou",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "녹부식 독사",
+      "text": "\u003cb\u003e교환성\u003c/b\u003e \u003cb\u003e전투의 함성:\u003c/b\u003e 상대편의 무기를 파괴합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45c93bf3c774dca7e13bb9cedc24737914915e44b74062d1b17f6a231a37413f.png",
+      "imageGold": "",
+      "flavorText": "무기가 살살 녹습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da4abc8912e66289a2ec09529324d1fb246e748ba623976f1d660e917e15daec.png",
+      "keywordIds": [
+        8,
+        97
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 102221,
+      "collectible": 1,
+      "slug": "102221-rustrot-viper",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Zhefei Hou",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "녹부식 독사",
+      "text": "\u003cb\u003e교환성\u003c/b\u003e \u003cb\u003e전투의 함성:\u003c/b\u003e 상대편의 무기를 파괴합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6de3eb306913a9685ece90601071300912145532368d355172f206e3add6a3f2.png",
+      "imageGold": "",
+      "flavorText": "무기가 살살 녹습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da4abc8912e66289a2ec09529324d1fb246e748ba623976f1d660e917e15daec.png",
+      "keywordIds": [
+        8,
+        97
+      ],
+      "copyOfCardId": 64720,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43485,
+      "collectible": 1,
+      "slug": "43485-green-jelly",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1004,
+      "rarityId": 1,
+      "artistName": "Anton Kagounkin",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 5,
+      "name": "녹색 점액괴물",
+      "text": "내 턴이 끝날 때, \u003cb\u003e도발\u003c/b\u003e 능력이 있는 1/2 수액을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/06f8e12df7a60291d7686346aec819b7f97f35f88414f90c349a7354b10e0527.png",
+      "imageGold": "",
+      "flavorText": "물풀과 물, 붕사, 녹색 색소를 섞어 만들었습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11db927f645c3d669ff007b19b64dbbfd37a8d7e464eb1e0d0d0d859cdd0d234.jpg",
+      "childIds": [
+        43484
+      ],
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 56391,
+      "collectible": 1,
+      "slug": "56391-rustsworn-initiate",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1414,
+      "rarityId": 1,
+      "artistName": "Zero",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "녹슨 군단 수습생",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e \u003cb\u003e주문 공격력 +1\u003c/b\u003e 능력이 있는 1/1 임프술사를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/49a1b1de1e57a34845ee98f530d9a2861f66452deb314496536f117d133f4813.png",
+      "imageGold": "",
+      "flavorText": "녹슨 군단의 복지 항목에 파상풍 예방접종은 포함되어 있지 않습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/599b318696866cd73d092f7469a602e085761173eb1aa63a19518923acea5524.png",
+      "childIds": [
+        57906
+      ],
+      "keywordIds": [
+        2,
+        12
+      ]
+    },
+    {
+      "id": 56824,
+      "collectible": 1,
+      "slug": "56824-rustsworn-cultist",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1414,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "녹슨 군단 이교도",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 다른 하수인들에게 \"\u003cb\u003e죽음의 메아리:\u003c/b\u003e 1/1 악마를 소환함\" 능력을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b74f63745b2361c5d7646c38d929d41d4a02b0026dcd12bd2ac5c909fd30ec0a.png",
+      "imageGold": "",
+      "flavorText": "\"녹... 나는 녹이 좋아요. 거칠고 거슬리는 데다 사이사이로 다 들어가니까요.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/90ed5a0b018982fb69235a925f30a39adc2be9fe2838cff1f36e4520991b23ae.png",
+      "childIds": [
+        56851
+      ],
+      "keywordIds": [
+        8,
+        12
+      ]
+    },
+    {
+      "id": 47888,
+      "collectible": 1,
+      "slug": "47888-rusty-recycler",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1127,
+      "rarityId": 1,
+      "artistName": "Sean McNally",
+      "health": 6,
+      "attack": 2,
+      "manaCost": 5,
+      "name": "녹슨 청소부",
+      "text": "\u003cb\u003e도발\u003c/b\u003e \u003cb\u003e생명력 흡수\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08894f98c5cb637ec3e3d860afd28d7aea0877f506f4a1b797412b2c27e1a9a0.png",
+      "imageGold": "",
+      "flavorText": "자기 자신은 청소할 수 없습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa9a9bed6626b9bd4e70e4345effc10f17553deee37bf922aaadee0e66e8b180.png",
+      "keywordIds": [
+        1,
+        38
+      ]
+    },
+    {
+      "id": 57180,
+      "collectible": 1,
+      "slug": "57180-ruststeed-raider",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1414,
+      "rarityId": 1,
+      "artistName": "Ware Lee",
+      "health": 8,
+      "attack": 1,
+      "manaCost": 5,
+      "name": "녹슨탈것 약탈자",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e속공\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 이번 턴에 공격력을 +4 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a18d8e96d737c8f3dad1fce4518596e1e9cc300c810cbcb53a331faa573356ab.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8667008265452e24a4b5d8773d31e492260e2487a2ae7f132b93fa418e72770b.png",
+      "flavorText": "아웃랜드 모토크로스 대회의 3회 우승자이자 유일한 생존자입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc2d71f498e06c7bf775a990a7077ee57d8fffd21488867264ffc756c208ce1d.png",
+      "keywordIds": [
+        1,
+        8,
+        53
+      ]
+    },
+    {
+      "id": 98123,
+      "collectible": 1,
+      "slug": "98123-molten-rune",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 2,
+      "cardTypeId": 5,
+      "cardSetId": 1858,
+      "rarityId": 1,
+      "artistName": "Konstantin Turovec",
+      "manaCost": 3,
+      "name": "녹아내린 룬",
+      "text": "피해를 3 줍니다. 무작위 주문을 얻습니다. \u003cb\u003e제련:\u003c/b\u003e 2번 시전합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad994e3db931d3a374311f470559726feda1b37c25c54869e5c4da5169dbe6d0.png",
+      "imageGold": "",
+      "flavorText": "탈고대근대주의 현실적 신고전 인상주의 예술이랍니다. 무슨 뜻인지 잘 이해는 되지 않지만요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/147be895084c90b89bfe2d85b07e662ab3422289aad8eef17d8a9bd133691adc.png",
+      "childIds": [
+        98124
+      ],
+      "keywordIds": [
+        266
+      ]
+    },
+    {
+      "id": 41420,
+      "collectible": 1,
+      "slug": "41420-molten-blade",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 27,
+      "rarityId": 3,
+      "artistName": "James Ryman",
+      "attack": 1,
+      "manaCost": 1,
+      "durability": 1,
+      "name": "녹아내린 칼날",
+      "text": "이 무기는 내 손에 있으면 내 턴이 시작될 때마다 무작위 무기로 변신합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e0eff0514cab9c08bb7322e4220d57036e457144b604112cbefc911327ffe2c4.png",
+      "imageGold": "",
+      "flavorText": "손에 들 수만 있다면 온갖 용도로 사용할 수 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/61e74d72aa13c21f422e92f1d63ab29432d45e556373ba48b94473c900251e26.jpg",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41690,
+      "collectible": 1,
+      "slug": "41690-molten-reflection",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 2,
+      "cardTypeId": 5,
+      "cardSetId": 27,
+      "rarityId": 3,
+      "artistName": "L. Lullabi \u0026 K. Turovec",
+      "manaCost": 4,
+      "name": "녹아내린 환영",
+      "text": "아군 하수인을 선택합니다. 그 하수인을 복사하여 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/627acc6a423a39a9c400e8d1e6dc9a57d1cd0cbb4f6e2ad159263dbb95e99833.png",
+      "imageGold": "",
+      "flavorText": "그래, 내가 좀 핫하지!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8807d828fb3f4dc8d14bbac5fdb7cdcaf4ec1d6fed9f53ec4b6488457ddc701.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 61227,
+      "collectible": 1,
+      "slug": "61227-whack-a-gnoll-hammer",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1466,
+      "rarityId": 3,
+      "artistName": "Jason Kang",
+      "attack": 3,
+      "manaCost": 3,
+      "durability": 2,
+      "name": "놀 때려잡기 망치",
+      "text": "내 영웅이 공격한 후에, 무작위 아군 하수인에게 +1/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6487ae66cd3400b70bdaa78ea7241165b3c62be692fce697ad517f7db0301bf0.png",
+      "imageGold": "",
+      "flavorText": "이건 놀의 입장도 들어봐야 한다고 생각합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5d509c67dc130fc0155471e3e9ab53b1f152c63882ffd1305cb21a195d19e8c.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 89146,
+      "collectible": 1,
+      "slug": "89146-nordrassil-druid",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1635,
+      "rarityId": 3,
+      "artistName": "Dave Greco",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "놀드랏실 드루이드",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이번 턴에 내가 시전하는 다음 주문은 비용이 (3) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5859fe0e3d7d96d810b32281f678407e3f6f3fde322f4c2d025387b93bfa6887.png",
+      "imageGold": "",
+      "flavorText": "세계수 놀드랏실은 세계에 생명력을 불어넣습니다. 물론 마나 소비도 줄여주죠.",
+      "keywordIds": [
+        8
+      ],
+      "copyOfCardId": 62490,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2066,
+      "collectible": 1,
+      "slug": "2066-gnomeregan-infantry",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 13,
+      "rarityId": 1,
+      "artistName": "Zoltan \u0026 Gabor",
+      "health": 4,
+      "attack": 1,
+      "manaCost": 3,
+      "name": "놈리건 보병",
+      "text": "\u003cb\u003e돌진\u003c/b\u003e \u003cb\u003e도발\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c93d93176d85939c8e526bd8d250de5d89b6d536accadae6e04ee59cc1c9d8a.png",
+      "imageGold": "",
+      "flavorText": "아무리 놈리건이 방사능 오염과 공기 오염에 노출되었대도 꿋꿋이 탈환을 희망하는 굳센 녀석입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cabfd73e5eb56c186048fca33030cd4d29445c817937dd58346d18fc2dc3fa67.jpg",
+      "keywordIds": [
+        1,
+        4
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 64372,
+      "collectible": 1,
+      "slug": "64372-peasant",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 1,
+      "artistName": "Dave Greco",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 1,
+      "name": "농부",
+      "text": "내 턴이 시작될 때, 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ae36236bb3f7492e0760a55514e9b6d980fd4433f96e5ea31902a4363f360d27.png",
+      "imageGold": "",
+      "flavorText": "돈을 주지 않는다면 데피아즈단에 들어가고 말 거예요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1c2498fe3ce8ac0fff3ff4a532a051429f84676b1e6efba24849e1dae6e3c180.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2064,
+      "collectible": 1,
+      "slug": "2064-piloted-shredder",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 13,
+      "rarityId": 1,
+      "artistName": "Dan Scott",
+      "health": 3,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "누군가 조종하는 벌목기",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 비용이 2인 무작위 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/62d11cf090873a3415611b584eb65ebfa6df83be01a9ab59b8c6c15101de8e75.png",
+      "imageGold": "",
+      "flavorText": "한때 벌목기는 고블린들만 타는 로봇이었습니다만, 요즘엔 파멸의 예언자부터 전승지기 초까지 한 대씩 타고 다니더라고요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/168804029045742a6ddbfab3666a2c762a4f4a2cbb9a24e5565cef8a8ca5ba50.jpg",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 48223,
+      "collectible": 1,
+      "slug": "48223-piloted-reaper",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1127,
+      "rarityId": 1,
+      "artistName": "L. Lullabi \u0026 K. Turovec",
+      "health": 3,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "누군가 조종하는 수확기",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 내 손에서 비용이 (2) 이하인 무작위 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a981813acd958a07de180b81ddaab86436a39dff7711633a58dd7cddfbf6a96.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa98779bee499378a15041dcea2a42fe0425c2153fb0887bdd388b94aa21530a.png",
+      "flavorText": "새로운 안면 인식 시스템을 탑재하여 전승지기나 파멸의 예언자가 나타날 확률이 대폭 감소했습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/41c8ba6434838475191c47b3f33c501f492567e408121e67c6ebb9bfb14637dd.png",
+      "keywordIds": [
+        12
+      ]
+    },
+    {
+      "id": 2073,
+      "collectible": 1,
+      "slug": "2073-piloted-sky-golem",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 13,
+      "rarityId": 4,
+      "artistName": "Michael Phillippi",
+      "health": 4,
+      "attack": 6,
+      "manaCost": 6,
+      "name": "누군가 조종하는 하늘 골렘",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 비용이 4인 무작위 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e980ac1fe10c6bc40c64a01f7919711fa5cf902e8df2e4d3e6442d4ae8c14645.png",
+      "imageGold": "",
+      "flavorText": "고블린 기계공학의 꽃이라 할 수 있습니다. 에스프레소 머신과 발 마사지 기계도 탑재되어 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/066cfeee8550159749f3674c18116bba3f5230838dc8296de573763bf65f8a3b.jpg",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 440,
+      "collectible": 1,
+      "slug": "440-abomination",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 3,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "누더기골렘",
+      "text": "\u003cb\u003e도발\u003c/b\u003e \u003cb\u003e죽음의 메아리:\u003c/b\u003e \u003cb\u003e모든\u003c/b\u003e 캐릭터에게 피해를 2 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b7f47a20938105a6e42573e35944df98df5693f160d22eb3028e0d824f445d2d.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f6a92813416241989dc7a5962253623c0996f4c3f2e557512b50f24dc7f9b87.png",
+      "flavorText": "누더기들은 신선한 고기와 해변 산책을 즐깁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3070696d8da42bb3fdcc3b54eeeafaa0448f4ad0a1b609d5fc478ddce728374.png",
+      "keywordIds": [
+        1,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69846,
+      "collectible": 1,
+      "slug": "69846-abomination",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 3,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "누더기골렘",
+      "text": "\u003cb\u003e도발\u003c/b\u003e \u003cb\u003e죽음의 메아리:\u003c/b\u003e \u003cb\u003e모든\u003c/b\u003e 캐릭터에게 피해를 2 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73ceb86d44f9fe80a4925fa20d58addb47361f5a40b54ef1e9eed8fca01a53ec.png",
+      "imageGold": "",
+      "flavorText": "누더기들은 신선한 고기와 해변 산책을 즐깁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3070696d8da42bb3fdcc3b54eeeafaa0448f4ad0a1b609d5fc478ddce728374.png",
+      "keywordIds": [
+        1,
+        12
+      ],
+      "copyOfCardId": 440
+    },
+    {
+      "id": 43245,
+      "collectible": 1,
+      "slug": "43245-abominable-bowman",
+      "classId": 3,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 4,
+      "artistName": "L. Lullabi \u0026 K. Turovec",
+      "health": 7,
+      "attack": 6,
+      "manaCost": 7,
+      "name": "누더기골렘 궁병",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 이번 게임에서 죽은 무작위 아군 야수를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe3a5520f46e6df0a3c8af0906c7ef6e9f118e3dd8f84c9ae6b851c7d46ad4e9.png",
+      "imageGold": "",
+      "flavorText": "궁수 꽁꽁이는 언제나 꽁해 있었습니다. 하지만 팔이 세 개가 되니 그렇게 편할 수 없었습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db994bfca272fcd7f4eea16dcadfc9b678081f00b73e88c2d026e4a16df37033.png",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70244,
+      "collectible": 1,
+      "slug": "70244-abominable-lieutenant",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 4,
+      "artistName": "Dave Allsop",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 8,
+      "name": "누더기골렘 부관",
+      "text": "내 턴이 끝날 때, 무작위 적 하수인을 잡아먹고 그 하수인의 능력치를 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/91b30f1975f3e0323a440ecc9848a5f46e8e89665dedf3927edf4f63ae32e57d.png",
+      "imageGold": "",
+      "flavorText": "끼워주지 않던 친구들을 기워 만들었습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/723d60f794cc109feae35c41a7358979ecf53b6297fca5d6fb3248c7faf509e9.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 77033,
+      "collectible": 1,
+      "slug": "77033-framester",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1691,
+      "rarityId": 3,
+      "artistName": "Jakub Kasper",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "누명 설계꾼",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e \u0027누명\u0027 카드 3장을 상대편의 덱에 섞어 넣습니다. 그 카드들을 뽑으면, (2)만큼 \u003cb\u003e과부하\u003c/b\u003e됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4231b2cc9a2a08214f77f155e2bda4770deb213d124b26ef1c4aceb9ea08c6db.png",
+      "imageGold": "",
+      "flavorText": "\"누가 내 주머니에 콩을 넣었어?!\" - 주머니에 콩이 든 남자",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d47fac63028513a0e0358c078546afaed38a4778ed1287f7e2ec5ec446289543.png",
+      "childIds": [
+        86229
+      ],
+      "keywordIds": [
+        8,
+        14
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68246,
+      "collectible": 1,
+      "slug": "68246-snowed-in",
+      "classId": 10,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1626,
+      "rarityId": 4,
+      "artistName": "Matt Dixon",
+      "manaCost": 3,
+      "name": "눈 속 고립",
+      "text": "피해를 받은 하수인을 처치합니다. 다른 \u003cb\u003e모든\u003c/b\u003e 하수인을 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a57e9212a1d89b2266bd8a8302fc2ca3048f6565c0d8b88c561ce279cfdf89be.png",
+      "imageGold": "",
+      "flavorText": "\"아니 눈이 이렇게나 오는데 학교에 가야 한다고?!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcdf76480df9a3d5d616523fcfeb2476061785da8a80e32f8c4204a307437a27.png",
+      "keywordIds": [
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42765,
+      "collectible": 1,
+      "slug": "42765-snowfury-giant",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 4,
+      "artistName": "Steve Prescott",
+      "health": 8,
+      "attack": 8,
+      "manaCost": 11,
+      "name": "눈덩이 거인",
+      "text": "이번 게임에서 \u003cb\u003e과부하\u003c/b\u003e된 내 마나 수정 하나당 비용이 (1)씩 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7920eff706fabdb2df42c846d8fcaf9d7278cbaa7be1e63267ec0b46af07baa4.png",
+      "imageGold": "",
+      "flavorText": "비용은 줄어들지만 몸집은 줄어들지 않습니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9df30cfeab2550fce7506be0dc60db3f5c94e4faaaaebe6474b8f80759b2144a.png",
+      "keywordIds": [
+        14
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2532,
+      "collectible": 1,
+      "slug": "2532-frigid-snobold",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 15,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "health": 6,
+      "attack": 2,
+      "manaCost": 4,
+      "name": "눈덩이 스노볼트",
+      "text": "\u003cb\u003e주문 공격력 +1\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5057769db787f7723a03943d4316e9fe2906fd5531a9a52a9e77643388c66d0b.png",
+      "imageGold": "",
+      "flavorText": "공교롭게도, 스노볼트의 가장 위험한 적은 양초입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1ae27e82a7dc0b2ba367f4c5195051c972cf9c0a0970c551906c039f50a0c3e8.png",
+      "keywordIds": [
+        2
+      ]
+    },
+    {
+      "id": 56973,
+      "collectible": 1,
+      "slug": "56973-sightless-watcher",
+      "classId": 14,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Jaemin Kim",
+      "health": 2,
+      "attack": 3,
+      "manaCost": 2,
+      "name": "눈먼 감시자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에 있는 카드 3장을 봅니다. 1장을 선택하여 내 덱 맨 위에 놓습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4ecb2c049ef892e461c6fbd11f53438d67aa3c275d1f1cdadea53e670084d36.png",
+      "imageGold": "",
+      "flavorText": "눈은 멀었지만, 그 대신 빛보다 빠른 손기술을 가졌습니다. 아니, 촉수기술이라 해야 하나요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29aca497f6e4c09bcd7af8f29e439aa57b48f7dbdee66345e4e16cbfb06585f7.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 49088,
+      "collectible": 1,
+      "slug": "49088-sightless-ranger",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1129,
+      "rarityId": 1,
+      "artistName": "Jiajun Tian",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 5,
+      "name": "눈먼 순찰대원",
+      "text": "\u003cb\u003e속공\u003c/b\u003e, \u003cb\u003e압살:\u003c/b\u003e 1/1 박쥐를 2마리 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7a6813e3e1c8238b4b53275a34f9a04bf066e665ac89f85e6f81edb28eca9673.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38cf4f16ae165313aa4b50f9566ea16d90f06bd85256f8a8ebe8bb5caaf396b6.png",
+      "flavorText": "네가 눈이 없어, 발이 없... 아.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eb8a19c7198b0f0ef66675d08d3595e4072bc6e6aa13719f26e696aa69ff9447.png",
+      "childIds": [
+        49087
+      ],
+      "keywordIds": [
+        53,
+        61
+      ]
+    },
+    {
+      "id": 79549,
+      "collectible": 1,
+      "slug": "79549-sightless-magistrate",
+      "classId": 14,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1691,
+      "rarityId": 1,
+      "artistName": "Ivan Fomin",
+      "health": 4,
+      "attack": 5,
+      "manaCost": 4,
+      "name": "눈먼 집정관",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 각 플레이어가 카드가 5장이 될 때까지 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8da78de2ebc6ec448d6da843ec151d1d37d4856a25a70f95f44d3e1d47662e21.png",
+      "imageGold": "",
+      "flavorText": "영혼 시야로 보셨더라도 공정한 판결을 내려주시겠죠?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/63ef8362079d3272304d818070ab3dcba55f6936c74850394b442117bcf07a26.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42338,
+      "collectible": 1,
+      "slug": "42338-snowflipper-penguin",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 0,
+      "name": "눈발바닥 펭귄",
+      "text": "",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7056044cd73856a61944d5423e57d2d90676c8b03f45a5a51c0a673d6728e9d1.png",
+      "imageGold": "",
+      "flavorText": "육지에선 펭귄 무리를 \"뒤뚱이\"라고 부릅니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eaa117a931a2d585713aa1ede20f5bc03698c1c7763b6c0945db1bed6855ae10.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 95755,
+      "collectible": 1,
+      "slug": "95755-snowflipper-penguin",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 0,
+      "name": "눈발바닥 펭귄",
+      "text": "",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ca80caeed54041762d1e43a22ce08b8d9feb859ddde0bdd9f1578cbde14ab0b5.png",
+      "imageGold": "",
+      "flavorText": "육지에선 펭귄 무리를 \"뒤뚱이\"라고 부릅니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eaa117a931a2d585713aa1ede20f5bc03698c1c7763b6c0945db1bed6855ae10.png",
+      "copyOfCardId": 42338,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 457,
+      "collectible": 1,
+      "slug": "457-blizzard",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 3,
+      "rarityId": 3,
+      "artistName": "Chris Seaman",
+      "manaCost": 6,
+      "name": "눈보라",
+      "text": "모든 적 하수인에게 피해를 2 주고 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9bb3fd59658d7e5c257d9ec166e5b0193adbb857891658d320da317944916f99.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/731a5fc14d3a4c745f90003721717d664175df69da43a413c1db30fce09a9e67.png",
+      "flavorText": "왠지 모르게 정이 가는 이름의 주문입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20df2e4eb8198e73da36b3e8d5e693055dda65a6c9900c7f7b105b2e557facb4.png",
+      "keywordIds": [
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69747,
+      "collectible": 1,
+      "slug": "69747-blizzard",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 3,
+      "artistName": "Chris Seaman",
+      "manaCost": 6,
+      "name": "눈보라",
+      "text": "모든 적 하수인에게 피해를 2 주고 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1653dee17d5a94a4fffd7d32e45b9740bfc807879269a1e615bc768dd280a2d1.png",
+      "imageGold": "",
+      "flavorText": "왠지 모르게 정이 가는 이름의 주문입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/20df2e4eb8198e73da36b3e8d5e693055dda65a6c9900c7f7b105b2e557facb4.png",
+      "keywordIds": [
+        10
+      ],
+      "copyOfCardId": 457
+    },
+    {
+      "id": 76273,
+      "collectible": 1,
+      "slug": "76273-blizzard",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 3,
+      "artistName": "Chris Seaman",
+      "manaCost": 6,
+      "name": "눈보라",
+      "text": "모든 적 하수인에게 피해를 2 주고 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/298a829082c9c15089932158e4f37ee3f6e9cd87a8c4ba87d3f441f851c3b117.png",
+      "imageGold": "",
+      "flavorText": "왠지 모르게 정이 가는 이름의 주문입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f75759db2424039acca6b90ba5821eb63d7126488a85c47a13321002f7501a6.png",
+      "keywordIds": [
+        10
+      ],
+      "copyOfCardId": 457,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70005,
+      "collectible": 1,
+      "slug": "70005-build-a-snowman",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1626,
+      "rarityId": 3,
+      "artistName": "Moon Colony",
+      "manaCost": 3,
+      "name": "눈사람 만들기",
+      "text": "적을 \u003cb\u003e빙결\u003c/b\u003e 상태로 만드는 3/3 눈사람을 소환합니다. \"눈싸움꾼 만들기\"를 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4c9d7c25ec3dd6aa1cb26fe1f9f2b5ae2789baba1dab8eaa85a9cb4ea50053c.png",
+      "imageGold": "",
+      "flavorText": "구르기 시작한 눈덩이만큼이나 멋진 주문입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/32412e7a86d27781bfe8ceb73c5f828a20a186284e25f8876302a1a4e1f8a42a.png",
+      "childIds": [
+        70007,
+        70009,
+        70006,
+        70008,
+        70010
+      ],
+      "keywordIds": [
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42747,
+      "collectible": 1,
+      "slug": "42747-avalanche",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1001,
+      "rarityId": 3,
+      "artistName": "Zoltan Boros",
+      "manaCost": 4,
+      "name": "눈사태",
+      "text": "하수인을 \u003cb\u003e빙결\u003c/b\u003e 상태로 만들고 그 양옆의 하수인들에게 피해를 3 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5868d1fcbccb0ffcc894b732d51a3be3d42a78421f54ce277c0d6257697cad18.png",
+      "imageGold": "",
+      "flavorText": "사태가 눈덩이처럼 걷잡을 수 없게 되겠군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2498c7ce727ae61c4d38fc2c3101d3a87d836d040e9cf257afb2cabdfdd7273.png",
+      "keywordIds": [
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70396,
+      "collectible": 1,
+      "slug": "70396-snowfall-graveyard",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1626,
+      "rarityId": 3,
+      "artistName": "J. Paick \u0026 K. Turovec",
+      "manaCost": 3,
+      "name": "눈사태 무덤",
+      "text": "내 \u003cb\u003e죽음의 메아리\u003c/b\u003e 능력이 2번 발동합니다. 3턴 동안 지속됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24c814fdb5be1a7f04f9b7bbf81e7f3735a3543aae7e657f76c33e5f874f6cba.png",
+      "imageGold": "",
+      "flavorText": "빠르게 부활하고 빠르게 다시 죽을 수 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a90acbbb433f0a21901b910b75426414f3d6f1ff284b2cb499cdf83a357ff671.png",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 67769,
+      "collectible": 1,
+      "slug": "67769-snowfall-guardian",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Jakub Kasper",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 6,
+      "name": "눈사태 수호자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 다른 \u003cb\u003e모든\u003c/b\u003e 하수인을 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe95c34493daad776a63cddb2fa4b91c90f43bb6254a526853e957cb6eb21fc2.png",
+      "imageGold": "",
+      "flavorText": "마침내 깨어났군! 꽤나 아프게 부딪힌 것 같던데. 악마사냥꾼? 용병? 그게 다 무슨 얘기인가? 됐고, 내가 방금 황금 무라비를 뽑았으니, 우리 빙결 주술사 덱이나 만들자고.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23e003ab4ed90b3a44d486abcae46bbd7d8e9dd03c2198b461ab9b673deada19.png",
+      "keywordIds": [
+        8,
+        9,
+        10
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 21
+}

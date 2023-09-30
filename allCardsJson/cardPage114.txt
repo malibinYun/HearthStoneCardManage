@@ -1,0 +1,1079 @@
+{
+  "cards": [
+    {
+      "id": 97671,
+      "collectible": 1,
+      "slug": "97671-turn-the-tides",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1858,
+      "rarityId": 1,
+      "artistName": "Konstantin Turovec",
+      "manaCost": 3,
+      "name": "파도를 돌려라",
+      "text": "이번 턴에 내 영웅에게 공격력을 +3 부여합니다. \u003cb\u003e속공\u003c/b\u003e 능력이 있는 3/3 정령을 소환합니다. \u003cb\u003e과부하\u003c/b\u003e: (1)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/beb7d609c393abd0fd9f7ae1b4b2927a63c51d218efd98224dc263a8f1087e40.png",
+      "imageGold": "",
+      "flavorText": "물이야!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c8b94c26cfabb10c141a94ae2c3d48a747a85c7221c39e266283d7f13eeea2d.png",
+      "childIds": [
+        97673
+      ],
+      "keywordIds": [
+        14,
+        53
+      ]
+    },
+    {
+      "id": 75586,
+      "collectible": 1,
+      "slug": "75586-tidelost-burrower",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 14,
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 1,
+      "artistName": "Adam Byrne",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "파도실로 잠복꾼",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e \u003cb\u003e인양\u003c/b\u003e, 그 카드가 멀록이면, 그 멀록을 복사하여 2/2 하수인으로 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6e5b5eb8ea9d81c4d130886dafc2c9c6ae9841571b538174d11da1a25519123c.png",
+      "imageGold": "",
+      "flavorText": "굴 파기는 누구에게나 맞는 일은 아니지만, 이 친구 적성에는 꼭 맞습니다.",
+      "keywordIds": [
+        8,
+        232
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 75558,
+      "collectible": 1,
+      "slug": "75558-spirit-of-the-tides",
+      "classId": 2,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 3,
+      "artistName": "Mooncolony ",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "파도의 정령",
+      "text": "내 턴이 끝날 때 마나가 남아 있으면, +1/+2를 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/855a32351c35a29b68ce706ccb4ef3208a0806f35b4c6ef68f7c8d035457a6e0.png",
+      "imageGold": "",
+      "flavorText": "그 어떤 경쟁사보다 깔끔하게 바다를 청소해 드립니다. 만족 못했다면 마나 전액 환불해 드립니다!",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 54261,
+      "collectible": 1,
+      "slug": "54261-pharaoh-cat",
+      "classId": 7,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "multiTypeIds": [
+        11
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1158,
+      "rarityId": 1,
+      "artistName": "Eva Widermann",
+      "health": 2,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "파라오의 고양이",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 무작위 \u003cb\u003e환생\u003c/b\u003e 하수인을 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1156c91fbac9acca7bcdd91bfe64e85b4f834ea4d79ab2dd1bedd3ecce7f1440.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/480dc26dfe5098ebedf4a441b65ad31be90e1e356375738916eb280ccec89a78.png",
+      "flavorText": "쥐를 쫓는 자, 캣 타워 상층과 하층을 지배하는 자, 붉은 점의 추적자, 그리고 모든 상자를 순례하는 자입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a50939630718a77d7af9f682581c65619de55c444227b5dad7848c637b39071b.png",
+      "keywordIds": [
+        8,
+        78
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 53827,
+      "collectible": 1,
+      "slug": "53827-pharaohs-blessing",
+      "classId": 5,
+      "multiClassIds": [],
+      "spellSchoolId": 5,
+      "cardTypeId": 5,
+      "cardSetId": 1158,
+      "rarityId": 3,
+      "artistName": "Arthur Gimaldinov",
+      "manaCost": 6,
+      "name": "파라오의 축복",
+      "text": "하수인에게 +4/+4와 \u003cb\u003e천상의 보호막\u003c/b\u003e과 \u003cb\u003e도발\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3e5347e9e50e01e13b4ef0da9aa8b8eef482563898c3a0978809fe3305300f1d.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6f49c587417a5ae384a4ed02f7aba1a035478844f5c21c4555d4a33dda72911.png",
+      "flavorText": "파라오가 전생에 안녕로봇이었을 수도 있겠군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/797da651c5e22831031a970bde6e2cc242140e0e0518472f9a6684f98fe5a717.png",
+      "keywordIds": [
+        1,
+        3
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 50014,
+      "collectible": 1,
+      "slug": "50014-farraki-battleaxe",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1129,
+      "rarityId": 3,
+      "artistName": "M. Alvares \u0026 M. Azevedo",
+      "attack": 3,
+      "manaCost": 5,
+      "durability": 3,
+      "name": "파락키 전투도끼",
+      "text": "\u003cb\u003e압살\u003c/b\u003e: 내 손에 있는 하수인에게 +2/+2를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c5d06b9c0c0cfee44511f707003857349fcbb40630e7dac0ada13628fd03492.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d67359f3d27a1aea1f5b72146b7389561f2735554a41ec3eb0f07bc441a8d0b1.png",
+      "flavorText": "뭔가 험악해 보이는 도끼입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36a1e2885ecbad160b83be198f151538787f1ca7453c9323fe19ab6b39f96a83.png",
+      "keywordIds": [
+        61
+      ]
+    },
+    {
+      "id": 38770,
+      "collectible": 1,
+      "slug": "38770-doom",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 21,
+      "rarityId": 4,
+      "artistName": "Raymond Swanland",
+      "manaCost": 10,
+      "name": "파멸!",
+      "text": "\u003cb\u003e모든\u003c/b\u003e 하수인을 처치합니다. 처치한만큼 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/606d9d2e54815b4017cdd09e4f323c22beb91a7370267cc7bb58c8425ca873f4.png",
+      "imageGold": "",
+      "flavorText": "원래는 \"파며어어어어얼!\"이라고 이름을 지으려 했지만 밀하우스 마나스톰이 저작권을 물고 늘어져서 평이하게 바뀌었습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e95d6686f665d2713756688c5056cabd86b22abf0f7a1bdff971283d0a791fef.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 631,
+      "collectible": 1,
+      "slug": "631-doomguard",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 3,
+      "artistName": "Lucas Graciano",
+      "health": 7,
+      "attack": 5,
+      "manaCost": 5,
+      "name": "파멸수호병",
+      "text": "\u003cb\u003e돌진\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 무작위로 카드를 2장 버립니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e738bcbb43b28a191b7bbeb4653e1ed3fc3ee75756f4515c5c840be3ab032aa.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a34fa301879aeff84bc1a701bf3ae8171938f745d0434a168ba4b8fb2b93d747.png",
+      "flavorText": "파멸수호병을 소환하는 건 위험한 일입니다. \u003ci\u003e누군가\u003c/i\u003e는 반드시 죽어야 하니까요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1bc18732a27638d71f9056f8442b7df807b2dec4089d8ff6decb7bbfa58545df.png",
+      "keywordIds": [
+        4,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69917,
+      "collectible": 1,
+      "slug": "69917-doomguard",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 3,
+      "artistName": "Lucas Graciano",
+      "health": 7,
+      "attack": 5,
+      "manaCost": 5,
+      "name": "파멸수호병",
+      "text": "\u003cb\u003e돌진\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 무작위로 카드를 2장 버립니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6816662c216658d71c6c872f7dcc9a09c48f9585618210a9ce863fedb64feea0.png",
+      "imageGold": "",
+      "flavorText": "파멸수호병을 소환하는 건 위험한 일입니다. \u003ci\u003e누군가\u003c/i\u003e는 반드시 죽어야 하니까요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1bc18732a27638d71f9056f8442b7df807b2dec4089d8ff6decb7bbfa58545df.png",
+      "keywordIds": [
+        4,
+        8
+      ],
+      "copyOfCardId": 631
+    },
+    {
+      "id": 98382,
+      "collectible": 1,
+      "slug": "98382-doomkin",
+      "classId": 2,
+      "multiClassIds": [
+        2,
+        9
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 3,
+      "artistName": "Mooncolony ",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 6,
+      "name": "파멸야수",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 상대편의 빈 마나 수정을 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a511b84291c44e3d3a562cd8339a949c3675a9b01903fe796412fa4e3e35c0e0.png",
+      "imageGold": "",
+      "flavorText": "마나 사기라는 건 이런 겁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b0fa31f30821ccc01d78aa26486677b53696691686a58c57ff25880d2736ef05.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 90463,
+      "collectible": 1,
+      "slug": "90463-rin-orchestrator-of-doom",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 5,
+      "artistName": "Anzka Nguyen",
+      "health": 6,
+      "attack": 3,
+      "manaCost": 5,
+      "name": "파멸의 관현악단장 린",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e 각 플레이어가 카드를 2장씩 뽑고, 2장씩 버리고, 다음 카드를 2장씩 파괴합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9665cce8a1d9b0e259379d5b1f2dcb5e62687645ef4baa83362ddda990aa6925.png",
+      "imageGold": "",
+      "flavorText": "린의 관현악단은 최고 중의 최고입니다. 소환 한 번이면 즉시 교체될 수 있으니 완벽하게 연주해야겠죠?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/823a316ba2f3b7dd3d6b2c969fed607fce0be3f3cc8f931edbfcb3b3e00bf978.png",
+      "keywordIds": [
+        1,
+        12
+      ]
+    },
+    {
+      "id": 38795,
+      "collectible": 1,
+      "slug": "38795-doomcaller",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 21,
+      "rarityId": 3,
+      "artistName": "Ben Zhang",
+      "health": 9,
+      "attack": 7,
+      "manaCost": 8,
+      "name": "파멸의 사절",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 크툰에게 +2/+2를 부여합니다. \u003ci\u003e(어디에 있든)\u003c/i\u003e 내 크툰이 죽었다면, 크툰을 내 덱에 섞어 넣습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/db24f0bb898d9fbe3a37b0ad47478692fbe476b16e5611607fe3f1d561c8982b.png",
+      "imageGold": "",
+      "flavorText": "파멸이 끊임없이 문을 두드리는 종교 권유를 내쫓을 때 문패 대신 걸어두는 하수인입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3645a7c2acba54b6369536dcfa6bc0fb23394e4a3502a7efca742d3353af7567.jpg",
+      "childIds": [
+        38857,
+        102680
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42756,
+      "collectible": 1,
+      "slug": "42756-doomed-apprentice",
+      "classId": 4,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 3,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 2,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "파멸의 수습생",
+      "text": "상대편의 주문의 비용이 (1) 증가합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3fc788f0933cf4a71dcb379e741ebc4df46f442f3ce1a37fdaf91d2db6fa88c0.png",
+      "imageGold": "",
+      "flavorText": "제이나처럼 되고 싶다고 하더니 결국...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d51460350e950c56b4458ca53f26c624ad6e22bd171be84fe01c08b7dfa825d.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 39477,
+      "collectible": 1,
+      "slug": "39477-nightbane-templar",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 23,
+      "rarityId": 1,
+      "artistName": "Luke Mancini",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "파멸의 어둠 기사단원",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 용족이 있으면, 1/1 새끼용을 2마리 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/806d38f6647dfd52214727a2453334873d6c0b353dba42bbc3785ff0f8aa6752.png",
+      "imageGold": "",
+      "flavorText": "원래는 아르카나고스의 기사단원이었지만 주인의 이름이 바뀌면서 기사단의 이름도 바뀐 경우입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2115fcecd037fe42f8eed92e533af3ec0c6d7e66fc0e697d19b53307bc79e86.png",
+      "childIds": [
+        39692
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 62875,
+      "collectible": 1,
+      "slug": "62875-devouring-plague",
+      "classId": 6,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1525,
+      "rarityId": 1,
+      "artistName": "Konstantin Turovec",
+      "manaCost": 3,
+      "name": "파멸의 역병",
+      "text": "\u003cb\u003e생명력 흡수\u003c/b\u003e 모든 적 하수인에게 4의 피해를 무작위로 나누어 입힙니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f4116de3572875d268df624d9250a68b62bdda74adad10d974d76d33d7a24205.png",
+      "imageGold": "",
+      "flavorText": "“어쩌다가 울둠에서 이걸 놓쳤지?” — 라팜",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/313570245ef28c601bae002a1a0e0ac4b8421ede87260ffb76e323447eba5760.png",
+      "keywordIds": [
+        38
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 138,
+      "collectible": 1,
+      "slug": "138-doomsayer",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 4,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 7,
+      "attack": 0,
+      "manaCost": 2,
+      "name": "파멸의 예언자",
+      "text": "내 턴이 시작될 때, \u003cb\u003e모든\u003c/b\u003e 하수인을 처치합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/751eaf5d139bd9c80dc3ddcb43c1bdaffc1e741b4c9f04641a7ab7364e271fc4.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/67bed654e2c5d8d4b363ccfc2f9fbb500cee4ed4b7389770217ffac29029f4d8.png",
+      "flavorText": "그의 예언은 가끔씩 들어맞습니다. 특히 대격변이 한창인 와중에 자신에게 파멸이 찾아올 거라는 말은 분명히 맞았습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ffc6fbf919d50292f7063956a7300fd6d29d447f13d1de370361d013a4f8d94.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70085,
+      "collectible": 1,
+      "slug": "70085-doomsayer",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 4,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 7,
+      "attack": 0,
+      "manaCost": 2,
+      "name": "파멸의 예언자",
+      "text": "내 턴이 시작될 때, \u003cb\u003e모든\u003c/b\u003e 하수인을 처치합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ddbfc7836f31a9ea4cbc1474cef46623f59c754ef4aa1e0fdcb4be712afc9019.png",
+      "imageGold": "",
+      "flavorText": "그의 예언은 가끔씩 들어맞습니다. 특히 대격변이 한창인 와중에 자신에게 파멸이 찾아올 거라는 말은 분명히 맞았습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4ffc6fbf919d50292f7063956a7300fd6d29d447f13d1de370361d013a4f8d94.png",
+      "copyOfCardId": 138
+    },
+    {
+      "id": 76317,
+      "collectible": 1,
+      "slug": "76317-doomsayer",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 4,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 7,
+      "attack": 0,
+      "manaCost": 2,
+      "name": "파멸의 예언자",
+      "text": "내 턴이 시작될 때, \u003cb\u003e모든\u003c/b\u003e 하수인을 처치합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/43f835f2754e649520b663cea06353be120d7f1936608f53348585ad64823eb5.png",
+      "imageGold": "",
+      "flavorText": "그의 예언은 가끔씩 들어맞습니다. 특히 대격변이 한창인 와중에 자신에게 파멸이 찾아올 거라는 말은 분명히 맞았습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/72514ac73693b3ff1422b58d68cb36e595aa3765b508cee3460a90aed6baa1e5.png",
+      "copyOfCardId": 138,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 89144,
+      "collectible": 1,
+      "slug": "89144-ritual-of-doom",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1635,
+      "rarityId": 3,
+      "artistName": "L. Lullabi \u0026 A. Bozonnet",
+      "manaCost": 0,
+      "name": "파멸의 의식",
+      "text": "아군 하수인을 처치합니다. 하수인이 다섯 이상 있었다면, 5/5 악마를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/37aff63c78d8b249032afca9ff975f02e959439cb85f0364dfe5962f3e16e9dd.png",
+      "imageGold": "",
+      "flavorText": "\"같이 파멸의 노래 부를래?\"",
+      "childIds": [
+        63157
+      ],
+      "copyOfCardId": 62349,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 61308,
+      "collectible": 1,
+      "slug": "61308-yshaarj-the-defiler",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1466,
+      "rarityId": 5,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 10,
+      "attack": 10,
+      "manaCost": 10,
+      "name": "파멸자 이샤라즈",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이번 게임에서 내가 낸 모든 \u003cb\u003e타락한\u003c/b\u003e 카드를 복사하여 내 손으로 가져옵니다. 이번 턴에 그 카드들의 비용이 (0)이 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ca4198363be36c7f98378329316e51751fb7fd07a6adb53addcf56b6823c9a3.png",
+      "imageGold": "",
+      "flavorText": "삼키고 받아들이다 결국 화병으로 앓아누웠습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/987c8a6fddccb7cb78ffbfe9d51cd854a25dde026d8655318745d9e0c9426e4c.png",
+      "childIds": [
+        61296
+      ],
+      "keywordIds": [
+        8,
+        98
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70220,
+      "collectible": 1,
+      "slug": "70220-corporal",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Konstantin Turovec",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "파수병",
+      "text": "\u003cb\u003e명예로운 일격:\u003c/b\u003e 내 다른 하수인들에게 \u003cb\u003e천상의 보호막\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7034a28af61e4b7e86addcfb0a57f529f1159a0ec8494c2fa020ef4ca79137e5.png",
+      "imageGold": "",
+      "flavorText": "무덤에서 부활을 기다리는 중에는 파수 임무를 수행할 수 없습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/17615dbe781a5210626d05ad2e85a85c6192cd1eaf317de7fc13eda55114e3aa.png",
+      "keywordIds": [
+        3,
+        100
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 78329,
+      "collectible": 1,
+      "slug": "78329-shatterskin-gargoyle",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 1,
+      "artistName": "Bosi Studio",
+      "health": 6,
+      "attack": 4,
+      "manaCost": 6,
+      "name": "파열가죽 가고일",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e 무작위 적에게 피해를 4 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5e5c4da027ea80f9b901681707ba7b99e27099d8052b4352b1f73447cd224ea2.png",
+      "imageGold": "",
+      "flavorText": "걱정하지 마세요. 이건 그냥 조각상일 뿐입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16064c0646ceb20e6ce219be280fc17411ff17967dfe26798a38abfc6aa7f9c5.png",
+      "keywordIds": [
+        1,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 63515,
+      "collectible": 1,
+      "slug": "63515-shattering-blast",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1525,
+      "rarityId": 3,
+      "artistName": "Arthur Bozonnet",
+      "manaCost": 3,
+      "name": "파열성 폭발",
+      "text": "\u003cb\u003e빙결\u003c/b\u003e 상태인 \u003cb\u003e모든\u003c/b\u003e 하수인을 처치합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8add84832253078b48011f43d01951a756d4d3312188c2f1b1aaa8a8326f758.png",
+      "imageGold": "",
+      "flavorText": "솔직히 말해 녹을 기미가 보이지 않았습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b46a46d9eb5d62887a5b9d253a3b41afdd4f82ec0ed81ec17f221d35efe9744.png",
+      "keywordIds": [
+        9
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2006,
+      "collectible": 1,
+      "slug": "2006-crackle",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 13,
+      "rarityId": 1,
+      "artistName": "Warren Mahy",
+      "manaCost": 2,
+      "name": "파지직",
+      "text": "피해를 3- 6 줍니다. \u003cb\u003e과부하:\u003c/b\u003e (1)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4c230432f865424fa3de6ef9f12f021b79af0972e5499c316f3d8cfdc2ca77dc.png",
+      "imageGold": "",
+      "flavorText": "쓸 때 \"파지직\" 소리가 나서 붙여진 매우 성의 없는 이름입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3640be29202a8d6f35a7c4f58a1d7840350abf171f4ef50901d5b1578fe113e7.png",
+      "keywordIds": [
+        14
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41358,
+      "collectible": 1,
+      "slug": "41358-crackling-razormaw",
+      "classId": 3,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 27,
+      "rarityId": 1,
+      "artistName": "L. Lullabi \u0026 K. Turovec",
+      "health": 2,
+      "attack": 3,
+      "manaCost": 2,
+      "name": "파지직거리는 무쇠턱 랩터",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 아군 야수를 \u003cb\u003e적응\u003c/b\u003e시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92d6c9a4dbcf5e42678acee1b3a1d3c73474d5ead7f78f4cdc35b283f9262ffe.png",
+      "imageGold": "",
+      "flavorText": "전기가 흐르는 철조망을 둘러갈 지능은 없었나 봅니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/087c1645a0843dcb9639771f0d26f095b5f53cfa84ed14582124cad094f72691.jpg",
+      "childIds": [
+        41058,
+        41059,
+        41691,
+        41061,
+        41063,
+        41062,
+        41211,
+        41060,
+        41054,
+        41057,
+        41067
+      ],
+      "keywordIds": [
+        8,
+        34
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 77366,
+      "collectible": 1,
+      "slug": "77366-party-favor-totem",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 21,
+      "cardTypeId": 4,
+      "cardSetId": 1691,
+      "rarityId": 3,
+      "artistName": "Konstantin Turovec",
+      "health": 3,
+      "attack": 0,
+      "manaCost": 3,
+      "name": "파티 답례용 토템",
+      "text": "내 턴이 끝날 때, 무작위 기본 토템을 소환합니다. \u003cb\u003e주입 ( ):\u003c/b\u003e 대신 토템을 둘 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f22697f514196c33719bf81b6d9cc07cfe4265428103dd27500e06be3b4423be.png",
+      "imageGold": "",
+      "flavorText": "토템에 토템을 더했어요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be225def0191eddff1c79df8091067e64a9337bb0ad1865cb73e5ab0cbd8e0c3.png",
+      "childIds": [
+        78524,
+        537,
+        850,
+        764,
+        62320
+      ],
+      "keywordIds": [
+        238
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 46058,
+      "collectible": 1,
+      "slug": "46058-gather-your-party",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1004,
+      "rarityId": 3,
+      "artistName": "L. Lullabi \u0026 K. Turovec",
+      "manaCost": 6,
+      "name": "파티 모집",
+      "text": "하수인을 \u003cb\u003e소집\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/784a7580f3af6eb6b73b8b35c38ea8e948ada5a91e9e88c46e3fc52c3fa4f7aa.png",
+      "imageGold": "",
+      "flavorText": "모험 상시 대기! 위험 보장! 전리품 획득 확률 반반! 황천 갈 가능성 있을 유!! 함께하시겠습니까?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a29bb144953b4e10038ff603b692e93b5325ff626ef61f1f93b1f96fc1ee95cf.jpg",
+      "keywordIds": [
+        39
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 63102,
+      "collectible": 1,
+      "slug": "63102-party-up",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1525,
+      "rarityId": 3,
+      "artistName": "Yaohua Xu",
+      "manaCost": 7,
+      "name": "파티 출격!",
+      "text": "무작위 추가 효과를 얻은 2/2 모험가를 다섯 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0568dd4ba0db051de3712070250d726e646cc01a06d7dc148e8e4856234e893d.png",
+      "imageGold": "",
+      "flavorText": "무작위라고? 그럼 탱이 안 나오면 어떻게 할 건데?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b6713fb8b8455a541549391f333e07ed8f5cb490f3188db23919ba58473e6298.png",
+      "childIds": [
+        63103,
+        63104,
+        63105,
+        63106,
+        63107,
+        63108,
+        63109,
+        63110
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 78547,
+      "collectible": 1,
+      "slug": "78547-party-crasher",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1691,
+      "rarityId": 4,
+      "artistName": "L. Lullabi \u0026 K. Turovec",
+      "health": 9,
+      "attack": 7,
+      "manaCost": 8,
+      "name": "파티 훼방꾼",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 적 하수인을 선택합니다. 내 손에 있는 무작위 하수인을 그 하수인에게 던집니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2e239bb108682b49073973812d00d211099bf6ea88c681de3e80270b04728839.png",
+      "imageGold": "",
+      "flavorText": "\"왜 아무도 널 초대하지 않는지 알아?\" \"몰?루\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a4851a98597119c96f341a1ace2d02512ece3f1621654b3ba1fcab8aac2ea87.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 91874,
+      "collectible": 1,
+      "slug": "91874-party-animal",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 1,
+      "artistName": "L. Lullabi \u0026 K. Turovec",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "파티광",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 있는 모든 종족에게 +1/+1을 부여합니다. (종족마다 하나씩)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b064e4520c3dc17044310c7543dd57c2330df750bc43ebf4f4f7dc2bcd30033a.png",
+      "imageGold": "",
+      "flavorText": "파티의 짐승이랍니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f6aa275b56787905196a4521134890c71c6ca58fed7e53534f57a1d05eb2e1db.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 90700,
+      "collectible": 1,
+      "slug": "90700-paparazzi",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 1,
+      "artistName": "Zoltan Boros",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "파파라치",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e \u003cb\u003e전설\u003c/b\u003e 하수인을 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70d2e9bc0ed3cada4d4693702c28eb67195cb84edd56dd2eb2bb9278d044d131.png",
+      "imageGold": "",
+      "flavorText": "전설 하수인이 되면 반짝이는 주황색 보석에, 용 문양에, 어딜 가든 졸졸 따라다니는 추종자 100명을 얻습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1a9816d0009a9ca8faa1a0721caaac2ac8945fcda8d832edb314c849d406d36.png",
+      "keywordIds": [
+        8,
+        21
+      ]
+    },
+    {
+      "id": 2999,
+      "collectible": 1,
+      "slug": "2999-excavated-evil",
+      "classId": 6,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 20,
+      "rarityId": 3,
+      "artistName": "Raymond Swanland",
+      "manaCost": 5,
+      "name": "파헤쳐진 악",
+      "text": "\u003cb\u003e모든\u003c/b\u003e 하수인에게 피해를 3 줍니다. 이 카드를 상대편의 덱에 섞어 넣습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe7b639c9811c3efa10bb1cc00e246bc99307148387eb651ff792bf7371b43b1.png",
+      "imageGold": "",
+      "flavorText": "악은 결코 쉬지 않는다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/99ada0f747d97c468358aa284a959bf57d51bc0a1e6a9d053783d701032c7021.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 55419,
+      "collectible": 1,
+      "slug": "55419-platebreaker",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 1,
+      "artistName": "Paul Mafayon",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 5,
+      "name": "판금파괴자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 상대편의 방어도를 파괴합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/94d0c2365bc5078b243869474e818f51ae572a8ebd9d43788407053b1972d8ce.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/702cc368b8bbe94f1a61b01e7efa41fc79c04e193500a53976145f7d7140196b.png",
+      "flavorText": "곰탱이랑 악탱은 봐줍니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/84bd320f8e74b289c36cf7514921e77978957843bd532928d3ec101fc8a0e2af.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 64713,
+      "collectible": 1,
+      "slug": "64713-pandaren-importer",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 1,
+      "artistName": "Samche Chen",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 2,
+      "name": "판다렌 수입상",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 게임이 시작됐을 때 내 덱에 없던 주문을 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8076020de0631a12405a190f73698b57439499fa5a129de0dabfdfa2c23e1843.png",
+      "imageGold": "",
+      "flavorText": "관심 없는 잡다한 물건들을 포함한 모든 잡동사니를 들고 다닙니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3021962c5f5aed589e5a96f8aceb3ffb682a4cba883a044701a6ea9fbf33c641.png",
+      "keywordIds": [
+        8,
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 38318,
+      "collectible": 1,
+      "slug": "38318-fandral-staghelm",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 21,
+      "rarityId": 5,
+      "artistName": "Anton Zemskov",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "판드랄 스태그헬름",
+      "text": "내 \u003cb\u003e선택\u003c/b\u003e 효과의 두 능력이 모두 발동합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/873a07b2e09abbda582d98e3e839e05c6a36d8e282245ee9c96f23fad502fcbd.png",
+      "imageGold": "",
+      "flavorText": "매번 \"내가 세계수를 만들었을 시절에는 말이야...\"라는 말을 들먹입니다. 어휴, 지겨워서 원.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f9b1101a4ce82616570645b739a4deebe507e310af19562c610db2dff5b30fb8.jpg",
+      "childIds": [
+        38319,
+        38320,
+        38321
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 50766,
+      "collectible": 1,
+      "slug": "50766-walk-the-plank",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1129,
+      "rarityId": 1,
+      "artistName": "Ivan Fomin",
+      "manaCost": 4,
+      "name": "판자 위를 걸어라!",
+      "text": "피해를 받지 않은 하수인을 처치합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6d707cd629351a5584443d07cd353228004ae0f0f5f6cc93e025d87ff23ecda.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/450a8a59030a479559e57fb30a2eb9ff1db736b4414b19ea37d406b8d78a92a5.png",
+      "flavorText": "추락하는 것은 날개가 없는 법이죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c906be97ab707a6cf8b8939a3d517fae7c00b9d28472086c68a0e4e04bf4326a.png"
+    },
+    {
+      "id": 84370,
+      "collectible": 1,
+      "slug": "84370-arms-dealer",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 1,
+      "artistName": "Luca Zontini",
+      "health": 2,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "팔 관리사",
+      "text": "내가 언데드를 소환한 후에, 그 언데드에게 공격력을 +1 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b4cad91bb8c99def264b85eaac13256f25bab2865b60abd826f432f4cd71410d.png",
+      "imageGold": "",
+      "flavorText": "손 필요하세요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1d2d1f71b4b8ac5aefdc0f568da1510b7a27527cdc8553ee372f135b41898a2.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43228,
+      "collectible": 1,
+      "slug": "43228-faldorei-strider",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1004,
+      "rarityId": 4,
+      "artistName": "Tyler West Studio",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "팔도레이 순찰자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에 잠복을 셋 섞어 넣습니다. 잠복을 뽑으면, 4/4 거미를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3532dd52de5363c42a18ac05782692a25592fc57b59a259158ae78fd6ea82e33.png",
+      "imageGold": "",
+      "flavorText": "덱 안에 거미가 있습니다. 거미가 보일 수도 있고 안 보일 수도 있습니다. 보이면서 안 보이는 것입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5729be2b0d49c883394846d103ce2c0a30f7825b24d5d54c172550b1731ee82f.jpg",
+      "childIds": [
+        45870,
+        45869
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2304,
+      "collectible": 1,
+      "slug": "2304-gang-up",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 14,
+      "rarityId": 1,
+      "artistName": "Jim Nelson",
+      "manaCost": 2,
+      "name": "패거리",
+      "text": "하수인을 선택합니다. 그 하수인을 셋 복사하여 내 덱에 섞어 넣습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/78bb78c595c5807b7c54b3fb523efc65a8cc7c40104d35d6eddf680d9afd2653.png",
+      "imageGold": "",
+      "flavorText": "달빛시내 마을에는 절대로 혼자 가면 안 됩니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9aeef96b65eb99352c2e30588c9c3aca23c30e1126ffd62016bffc5911345e50.jpg"
+    },
+    {
+      "id": 90325,
+      "collectible": 1,
+      "slug": "90325-lost-exarch",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 3,
+      "artistName": "Ramzy Kamen",
+      "health": 4,
+      "attack": 5,
+      "manaCost": 4,
+      "name": "패배한 총독",
+      "text": "\u003cb\u003e죽음의 메아리\u003c/b\u003e: 마나를 모두 소모합니다. 소모한만큼 \u003cb\u003e속공\u003c/b\u003e 능력이 있는 2/2 좀비를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/921d2a72cda99c057186a54eb7fb718eac6c483b5bb81661a3e05c6292b16050.png",
+      "imageGold": "",
+      "flavorText": "힘을 주겠다는 불타는 군단의 유혹은 이겨냈지만, 스컬지의 희생양으로 전락하고 말았습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58d2bec52874065913f05c57a1d9f9972852dfe09a6a179e43bcd5e27d2b7581.png",
+      "childIds": [
+        94902
+      ],
+      "keywordIds": [
+        12,
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 114
+}

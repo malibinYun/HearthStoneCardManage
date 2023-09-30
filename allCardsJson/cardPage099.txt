@@ -1,0 +1,1142 @@
+{
+  "cards": [
+    {
+      "id": 105688,
+      "collectible": 1,
+      "slug": "105688-spellslinger",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1898,
+      "rarityId": 1,
+      "artistName": "Andrew Hou",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "주문사수",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 두 플레이어 모두 무작위 주문을 얻습니다. 내가 얻은 주문의 비용이 (2) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b0ed68a6ace3ea8e6fe3c8c8c666954f39b147780932042ff7ae537d125cf5f.png",
+      "imageGold": "",
+      "flavorText": "내게는 토템의 힘을, 상대에게는 불덩이 작렬을.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54ccc3969c4ee6332202c33da5f40b4ea7bbabb9828bad7fcd48691dd287f523.png",
+      "keywordIds": [
+        8
+      ],
+      "copyOfCardId": 2571
+    },
+    {
+      "id": 56385,
+      "collectible": 1,
+      "slug": "56385-incanters-flow",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 1,
+      "cardTypeId": 5,
+      "cardSetId": 1414,
+      "rarityId": 1,
+      "artistName": "David Kegg",
+      "manaCost": 4,
+      "name": "주문술사의 흐름",
+      "text": "내 덱에 있는 주문들의 비용이 (1) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0ecb518c50f6902a6d97d3ea486f4885172f8122ec0dda2138f23ec7bf1483e.png",
+      "imageGold": "",
+      "flavorText": "모두 손을 들어 외쳐 (주문!) 이 흐름에 몸을 맡겨 (흐름!) 느껴 주문 비용 감소 (이득!)",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ffd0317ac96832ebe405f202baf9d14d79251fb86d2c05a310e1da7d4412223d.png"
+    },
+    {
+      "id": 366,
+      "collectible": 1,
+      "slug": "366-spellbender",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 3,
+      "rarityId": 4,
+      "artistName": "Gonzalo Ordonez",
+      "manaCost": 3,
+      "name": "주문왜곡사",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 적이 하수인에게 주문을 시전하면, 그 효과를 대신 받는 1/3 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/594abf452aadbd3b24997f51d5b7f828ddb85f0878005f37fff268c2430f1100.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cfc4c7bc4d23fff0e856601efc979fd845a04203f7c68e725f8360a1f764d81b.png",
+      "flavorText": "적의 번개 화살을 훔치는 건 즐거운 일이지만, 주문왜곡사들은 오히려 야생의 징표를 훔치는 걸 훨씬 좋아합니다. 그게 더 재미있거든요. 블러드 엘프들이 원래 좀... 야비하잖아요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a3f2d0cb05ab95da658bebfcd45c16ecd51312cb4a1b3b7317afb57d6f09f76.png",
+      "childIds": [
+        1086
+      ],
+      "keywordIds": [
+        5
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70102,
+      "collectible": 1,
+      "slug": "70102-spellbender",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 4,
+      "artistName": "Gonzalo Ordonez",
+      "manaCost": 3,
+      "name": "주문왜곡사",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 적이 하수인에게 주문을 시전하면, 그 효과를 대신 받는 1/3 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6eee6e64660b79cd400229515a472a8d10a6d7b7be6b70f9aac74162aa750224.png",
+      "imageGold": "",
+      "flavorText": "적의 번개 화살을 훔치는 건 즐거운 일이지만, 주문왜곡사들은 오히려 야생의 징표를 훔치는 걸 훨씬 좋아합니다. 그게 더 재미있거든요. 블러드 엘프들이 원래 좀... 야비하잖아요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a3f2d0cb05ab95da658bebfcd45c16ecd51312cb4a1b3b7317afb57d6f09f76.png",
+      "childIds": [
+        71307,
+        1086
+      ],
+      "keywordIds": [
+        5
+      ],
+      "copyOfCardId": 366
+    },
+    {
+      "id": 45378,
+      "collectible": 1,
+      "slug": "45378-spellweaver",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 1,
+      "artistName": "Jaemin Kim",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 6,
+      "name": "주문직공",
+      "text": "\u003cb\u003e주문 공격력 +2\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0a1192475d3905fe95c9a1e6c9b9096e9c08a118c5f7b6039cd973c6b97b0a0.png",
+      "imageGold": "",
+      "flavorText": "주문은 무명보다 땀 흡수율이 두 배 높습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c77e08f30f823bd67ba0b4cb48fb9e8020fae4d138501ab9f415fe0c896f8851.png",
+      "keywordIds": [
+        2
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 754,
+      "collectible": 1,
+      "slug": "754-spellbreaker",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 1,
+      "artistName": "Matt Cavotta",
+      "health": 3,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "주문파괴자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 하수인을 \u003cb\u003e침묵\u003c/b\u003e시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0fb7a38a29486493bed3aff1ad65564ab57da500e37cd378b42b352840711711.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/765b81734ed15cb4eebfa563ffe4e165ed928db2edd16e5f5ab362a2aafcd6fa.png",
+      "flavorText": "이로운 마법은 물론 해로운 마법도 제거해드립니다. 외래 진료도 가능하지만, 보험 처리는 불가합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74854d7c43ffbbfdb397cc67217d7aeef1db1b4a9cff57b47a85181089d91d92.png",
+      "keywordIds": [
+        8,
+        15
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69828,
+      "collectible": 1,
+      "slug": "69828-spellbreaker",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 1,
+      "artistName": "Matt Cavotta",
+      "health": 3,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "주문파괴자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 하수인을 \u003cb\u003e침묵\u003c/b\u003e시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ee62683f58bb5ffe245799d0cb94c2d6a1322f9c2b27ff3c2ec5cd69ea8185b.png",
+      "imageGold": "",
+      "flavorText": "이로운 마법은 물론 해로운 마법도 제거해드립니다. 외래 진료도 가능하지만, 보험 처리는 불가합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74854d7c43ffbbfdb397cc67217d7aeef1db1b4a9cff57b47a85181089d91d92.png",
+      "keywordIds": [
+        8,
+        15
+      ],
+      "copyOfCardId": 754
+    },
+    {
+      "id": 50212,
+      "collectible": 1,
+      "slug": "50212-masters-call",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1129,
+      "rarityId": 4,
+      "artistName": "Rudy Siswanto",
+      "manaCost": 3,
+      "name": "주인의 부름",
+      "text": "내 덱에서 하수인을 \u003cb\u003e발견\u003c/b\u003e하여 뽑습니다. 그 하수인들이 모두 야수면, 카드 3장을 모두 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c8d942f3b55b569f8871cd214caa6afdc46cc1c621b780dc263358cfbb6e1d36.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ade59e8ae7a97b51c2e234d8f25e93a16c0c1449fec279a5d4d40db0cf0e0b4.png",
+      "flavorText": "\"킁킁이니?\" \"아뇨, 레오큰데요.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/598d08517230c6216617bc0d635c0f43bcc0e079d55e84064c6281f876101b31.png",
+      "keywordIds": [
+        21
+      ]
+    },
+    {
+      "id": 77311,
+      "collectible": 1,
+      "slug": "77311-imbued-axe",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1691,
+      "rarityId": 1,
+      "artistName": "Tanamaes Leejierasaes",
+      "attack": 2,
+      "manaCost": 3,
+      "durability": 3,
+      "name": "주입형 도끼",
+      "text": "내 영웅이 공격한 후에, 피해를 받은 내 하수인들에게 +1/+2를 부여합니다. \u003cb\u003e주입 ( ):\u003c/b\u003e 대신 +2/+2를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9f70f1e37eb3e66a8c4aabf0aa9d5ba0adae85643d4ee649a8e4ea58af5360fa.png",
+      "imageGold": "",
+      "flavorText": "예절 주입용 무기입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a180c85d7acc221ec0567f9d4fd0e02e56a3eb218623a59c5c81c115808a687.png",
+      "childIds": [
+        79542,
+        79552,
+        79593,
+        83537,
+        79545,
+        537,
+        850,
+        764,
+        62320,
+        79554,
+        79595
+      ],
+      "keywordIds": [
+        238
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 95345,
+      "collectible": 1,
+      "slug": "95345-jukebox-totem",
+      "classId": 5,
+      "multiClassIds": [
+        5,
+        8
+      ],
+      "minionTypeId": 21,
+      "multiTypeIds": [
+        17
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 1,
+      "artistName": "Daniil Kudriavtsev",
+      "health": 4,
+      "attack": 0,
+      "manaCost": 2,
+      "name": "주크박스 토템",
+      "text": "내 턴이 끝날 때, 1/1 은빛 성기사단 신병을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e2a513db02e575bd42dc7d5dfb47e53e4a5ad5950cccca6b35cd996c1588886c.png",
+      "imageGold": "",
+      "flavorText": "하스스톤을 사랑하신다면 토템이 동전을 먹어도 이해해 주세요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3b64893eb58e937096b3001ae2da9e1efb12f13351cd0e88e80d853512dc232a.png",
+      "childIds": [
+        1652
+      ]
+    },
+    {
+      "id": 92249,
+      "collectible": 1,
+      "slug": "92249-frequency-oscillator",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 1,
+      "artistName": "Brian Despain",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 1,
+      "name": "주파 발진로봇",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 다음에 내가 내는 기계의 비용이 (1) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d05601b7cb114fa4ec8d83acfce7c8b3e92844bfbade13337698f598d46c45c.png",
+      "imageGold": "",
+      "flavorText": "법률 부서에서 소송당하기 싫으면 이 문구를 바꾸라고 하더라고요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba5a230922fa2541a2b94220243d2cc856e865664d494c0723f56a17ccac31cc.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 61135,
+      "collectible": 1,
+      "slug": "61135-stiltstepper",
+      "classId": 14,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1466,
+      "rarityId": 4,
+      "artistName": "Arthur Gimaldinov",
+      "health": 1,
+      "attack": 4,
+      "manaCost": 3,
+      "name": "죽마 기수",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 카드를 뽑습니다. 이번 턴에 그 카드를 내면, 이번 턴에 내 영웅에게 공격력을 +4 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a456803e391aaed41e2094e4d2c9ee4d23e12487e7481c200d51f2cf9eb67af0.png",
+      "imageGold": "",
+      "flavorText": "서커스 바닥에서 살아남으려면 죽마로 고우도 밟고 올라설 줄도 알아야 합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6654b7b98a61867c7e9380c3c63afd4e815fb74ed57ef30a01e276a52352ceb7.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 1991,
+      "collectible": 1,
+      "slug": "1991-feign-death",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 13,
+      "rarityId": 4,
+      "artistName": "Luca Zontini",
+      "manaCost": 2,
+      "name": "죽은 척하기",
+      "text": "내 하수인들의 \u003cb\u003e죽음의 메아리\u003c/b\u003e 능력을 모두 발동시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a0159aaae6cc367b8e6a15aa995ed38e261086505c2188961b518ad4af12786.png",
+      "imageGold": "",
+      "flavorText": "확실한 \"죽음\"을 연기하기 위해선 적절한 냄새가 중요합니다. 이 부분에서 고수와 하수가 나뉘게 되죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5106528f65f3cc15bea4e5b70f6ab1dd94a1d405f358a67415a12c213c16dd0.jpg",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42652,
+      "collectible": 1,
+      "slug": "42652-play-dead",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1001,
+      "rarityId": 1,
+      "artistName": "Peter Stapleton",
+      "manaCost": 1,
+      "name": "죽은척!",
+      "text": "아군 하수인의 \u003cb\u003e죽음의 메아리\u003c/b\u003e 능력을 발동시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e66ce91e2b1f82868f4a62c1842a1ddec1b1c7b0610069879fa1fd818b4098aa.png",
+      "imageGold": "",
+      "flavorText": "말을 지나치게 잘 들었군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92555eae90c16345018c2c3418f7c8665198ec9cae2df4caaa17519518b35ee0.png",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 86508,
+      "collectible": 1,
+      "slug": "86508-life-from-death",
+      "classId": 2,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1776,
+      "rarityId": 3,
+      "artistName": "Mooncolony ",
+      "manaCost": 6,
+      "name": "죽음 속 생기",
+      "text": "카드를 3장 뽑습니다. \u003cb\u003e주입 ( ):\u003c/b\u003e 비용이 (1)이 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a2a7d4395bbd87ba743af7da9b3f66b62343f34a5d798933035224328bd0035.png",
+      "imageGold": "",
+      "flavorText": "이름을 순화한다고 해서 강령술이 정당화되는 것은 아닙니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7de299fe35fa56e4aabe3f0a533cdddda1445eb9a88155a359fee22b42b60849.png",
+      "childIds": [
+        79542,
+        79552,
+        79593,
+        86509,
+        79545,
+        537,
+        850,
+        764,
+        62320,
+        79554,
+        79595
+      ],
+      "keywordIds": [
+        238
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 61950,
+      "collectible": 1,
+      "slug": "61950-deathwarden",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1466,
+      "rarityId": 4,
+      "artistName": "Andrew Hou",
+      "health": 5,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "죽음감시관",
+      "text": "두 플레이어 모두 \u003cb\u003e죽음의 메아리\u003c/b\u003e 능력을 발동할 수 없습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/939d2afdc0accb0d183b29889ff3232f923152ce660a9ded12d7ecaa2e7582b6.png",
+      "imageGold": "",
+      "flavorText": "죽은 자가 무슨 할 말이 있겠습니까?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a653e4a01f1bf5d9c99e30bc6e6ce9e0fa217fa5f8998c937c45848bc0b449c.png",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 47085,
+      "collectible": 1,
+      "slug": "47085-deathweb-spider",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1125,
+      "rarityId": 4,
+      "artistName": "Konstantin Turovec",
+      "health": 6,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "죽음그물 거미",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이번 턴에 내 영웅이 피해를 받았으면, \u003cb\u003e생명력 흡수\u003c/b\u003e를 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02d3ccf7b418cb921e951a86df603717784af0f5f04e38d799e808b9a5201c31.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d424eaf90761ce38c2857ffa53e4942019b7fcebf816bb77c97fc2c5dd70a58e.png",
+      "flavorText": "어렸을 적에 전 거미가 무서웠습니다. 징그러워서요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a3d13cc2d5e40a027cbd49cf31e72a47336a0671f2f88c546e582e218c0ab5b.png",
+      "keywordIds": [
+        8,
+        38
+      ]
+    },
+    {
+      "id": 43029,
+      "collectible": 1,
+      "slug": "43029-deathaxe-punisher",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 4,
+      "artistName": "Luca Zontini",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "죽음도끼 응징자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 있는 무작위 \u003cb\u003e생명력 흡수\u003c/b\u003e 하수인에게 +2/+2를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d9a584e4774d56109c05877b6e5ead8d38d51df9737ae453301e40e2007d3b9.png",
+      "imageGold": "",
+      "flavorText": "더욱 강력한 아케이나이트 도끼 응징자도 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3946ad3c43d5a0218832742218b4dbbb5f039c810240dc3612844e1ee304ee00.png",
+      "keywordIds": [
+        8,
+        38
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 84209,
+      "collectible": 1,
+      "slug": "84209-deathweaver-aura",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1776,
+      "rarityId": 1,
+      "artistName": "Tanamaes Leejierasaes",
+      "manaCost": 2,
+      "name": "죽음방직의 오라",
+      "text": "하수인에게 \"\u003cb\u003e죽음의 메아리:\u003c/b\u003e 3/2 좀비를 둘 소환함\" 능력을 부여합니다. \u003cb\u003e과부하:\u003c/b\u003e (1)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0f95768eeb7980f01b47d6dcbfc7b30d04a9f06c275314141e0fe67a6a14df1.png",
+      "imageGold": "",
+      "flavorText": "뜨개질은 무해한 취미지만 방직은...",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb906bb23dc0c64c16b1adfa5feb0ace2159355c26d88c39a5fe87cc5258db1c.png",
+      "childIds": [
+        84211
+      ],
+      "keywordIds": [
+        12,
+        14
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42663,
+      "collectible": 1,
+      "slug": "42663-deadscale-knight",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 14,
+      "multiTypeIds": [
+        11
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 1,
+      "artistName": "Rafael Zanchetin",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "죽음비늘 기사",
+      "text": "\u003cb\u003e생명력 흡수\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/05346e89df1ebb33e1598e6e1f7b96a08abb228038a20b1f4d38f4267e2d4607.png",
+      "imageGold": "",
+      "flavorText": "리치 왕의 힘으롫!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23f72660f5eab800d23c0189790df5fad93fc2da36b2969fd7687342ea345fb6.png",
+      "keywordIds": [
+        38
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 78649,
+      "collectible": 1,
+      "slug": "78649-deathchiller",
+      "classId": 1,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1869,
+      "rarityId": 3,
+      "artistName": "Ramzy Kamen",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "죽음서리정령",
+      "text": "내가 주문을 시전한 후에, 무작위 적 둘에게 피해를 1 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1337a7424b521c406b44a5800ed518f55a47911bcba55c13c4c804ecb3741311.png",
+      "imageGold": "",
+      "flavorText": "목숨을 서리한다고 합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00d7f3eda15b269f7355e66181a25825d84cfd14cc0ea53038c9d5131459ca12.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      },
+      "runeCost": {
+        "blood": 0,
+        "frost": 2,
+        "unholy": 0
+      }
+    },
+    {
+      "id": 42394,
+      "collectible": 1,
+      "slug": "42394-deathspeaker",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 1,
+      "artistName": "Luca Zontini",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "죽음예언자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이번 턴에 아군 하수인에게 \u003cb\u003e면역\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fbcb1e517b3bad83afc362ba494e08bf92af7bc06922a87cdebdd8ed05362c06.png",
+      "imageGold": "",
+      "flavorText": "시끄러운 소리에도 면역이 됩니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6c761d992df020ca8bd73db785c1b43f1f68cd6a7ebc7f32daa6e15ccbbda3ec.png",
+      "keywordIds": [
+        8,
+        17
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 63167,
+      "collectible": 1,
+      "slug": "63167-death-speaker-blackthorn",
+      "classId": 14,
+      "multiClassIds": [],
+      "minionTypeId": 43,
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 5,
+      "artistName": "Samwise Didier",
+      "health": 6,
+      "attack": 3,
+      "manaCost": 7,
+      "name": "죽음예언자 블랙쏜",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에서 비용이 (5) 이하인 \u003cb\u003e죽음의 메아리\u003c/b\u003e 하수인을 셋 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3afce6820109f8fd2af86a8fedb0c0955392770ec6df7a0b0859b4ec80d45a9.png",
+      "imageGold": "",
+      "flavorText": "죽음을 예언하지만 죽음을 읽어내진 못합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b82703410424af484e4c0dbcb10ecc0d773825039cc513a0e47173c3b72626f2.png",
+      "keywordIds": [
+        8,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 1790,
+      "collectible": 1,
+      "slug": "1790-deathlord",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 12,
+      "rarityId": 3,
+      "artistName": "Ben Olson",
+      "health": 8,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "죽음의 군주",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e 상대편이 덱에서 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d02f33c0a03ed2c6a1d5a0c4ca94c432d1a1103b45e62825b5cd8db2b88975a8.png",
+      "imageGold": "",
+      "flavorText": "\"무덤에서 일어나라!\" - 켈투자드",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5b13d429136a35a857f47537ab660cd9e47274f749c648403ed98f57e868e8c2.png",
+      "keywordIds": [
+        1,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 91251,
+      "collectible": 1,
+      "slug": "91251-death-growl",
+      "classId": 1,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1809,
+      "rarityId": 3,
+      "artistName": "Mooncolony ",
+      "manaCost": 1,
+      "name": "죽음의 그로울링",
+      "text": "하수인을 선택합니다. 양옆의 하수인에게 그 하수인의 \u003cb\u003e죽음의 메아리\u003c/b\u003e를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be564519dd05adeb351889c71dc8dea2a8566eb40e88ab9ed08895e27d9b72d9.png",
+      "imageGold": "",
+      "flavorText": "으으으아! 여기서 왜 죽은 거야!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50f58d8500c640de14fef76d9d503edf65517745ee9333bb810db3a584ffefe6.png",
+      "keywordIds": [
+        12
+      ],
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 1
+      }
+    },
+    {
+      "id": 54016,
+      "collectible": 1,
+      "slug": "54016-shadow-of-death",
+      "classId": 7,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1158,
+      "rarityId": 4,
+      "artistName": "Slawomir Maniak",
+      "manaCost": 4,
+      "name": "죽음의 그림자",
+      "text": "하수인을 선택합니다. 뽑으면 그 하수인을 복사하여 소환하는 \u0027그림자\u0027를 내 덱에 셋 섞어 넣습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2aee38f088c5fe8dcdae3f5c2d87a619e1bd8f03c4af4bec0a8d32d3d9f71f41.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bc3f2c6bcca0ef26903b2a0a84db90c40f151089ae80161a978d263e186cc286.png",
+      "flavorText": "새로운 친구를 사귀는 것도 실력이 필요합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa42b7b92653b98e6e41449dd12d504409a6e91071f1befb592703dc8c5c584d.png",
+      "childIds": [
+        54017
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 77525,
+      "collectible": 1,
+      "slug": "77525-death-blossom-whomper",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1691,
+      "rarityId": 1,
+      "artistName": "L. Lullabi \u0026 K. Turovec",
+      "health": 5,
+      "attack": 6,
+      "manaCost": 6,
+      "name": "죽음의 꽃 고대정령",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e \u003cb\u003e죽음의 메아리\u003c/b\u003e 하수인을 뽑습니다. 그 하수인의 \u003cb\u003e죽음의 메아리\u003c/b\u003e 능력도 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b121c1f81e1ad120c92c1c94c392af7c2a0daa1de316bcb25a723a0a51b05e28.png",
+      "imageGold": "",
+      "flavorText": "오드리 2세라는 이름을 지어줬습니다. 이 친구 어머니의 이름을 따와서요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19e83694083c2127486a5da1594f1204f1b3c1bab7c9b302d9be044955572b83.png",
+      "keywordIds": [
+        8,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 86507,
+      "collectible": 1,
+      "slug": "86507-death-beetle",
+      "classId": 2,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "multiTypeIds": [
+        20
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 1,
+      "artistName": "Brian Despain",
+      "health": 6,
+      "attack": 6,
+      "manaCost": 6,
+      "name": "죽음의 딱정벌레",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e마나갈증 ( ):\u003c/b\u003e +4/+4와 \u003cb\u003e돌진\u003c/b\u003e을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef54ec8611ffdbaac13130045203b59ef40265d1c14a3ddf4e9044b8c1c3b455.png",
+      "imageGold": "",
+      "flavorText": "성역산 외래종 아닙니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a0725fa1a4482ac0b941fa14fb561f3ca1242148b1cc7f4d033341867a3eb08.png",
+      "keywordIds": [
+        1,
+        4,
+        257
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42392,
+      "collectible": 1,
+      "slug": "42392-death-revenant",
+      "classId": 10,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 3,
+      "artistName": "Konstantin Turovec",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 5,
+      "name": "죽음의 망령",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 피해를 받은 하수인 하나당 +1/+1을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f50cf5b4f9792b49f55792cbe342dc0771c64b4f847186936c67e0a70802862.png",
+      "imageGold": "",
+      "flavorText": "다들 어떤가? 아프다고? 피가 철철 난다고? 부상당했다고? ... 훌륭하군.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/354a84905c309a7cc39db9c094fa98a3947945146605758ff9a98a84c5e37385.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 62744,
+      "collectible": 1,
+      "slug": "62744-deaths-head-cultist",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 43,
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 1,
+      "artistName": "James Ryman",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "죽음의 머리교 신도",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e 내 영웅의 생명력을 4 회복시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40ef69fadb5285615e8516b0bd9763b2e2dff4dea27784c1cf443def572c17b3.png",
+      "imageGold": "",
+      "flavorText": "죽음을 피하려면 투명 망토가 아니라 도발과 회복이 필요하다고요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e1ce7c3b34df902a7bb33167e8e71ddce21867bb009b436fee804f7dad3588ee.png",
+      "keywordIds": [
+        1,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 64390,
+      "collectible": 1,
+      "slug": "64390-call-of-the-grave",
+      "classId": 6,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1578,
+      "rarityId": 4,
+      "artistName": "James Ryman",
+      "manaCost": 1,
+      "name": "죽음의 손짓",
+      "text": "\u003cb\u003e죽음의 메아리\u003c/b\u003e 하수인을 \u003cb\u003e발견\u003c/b\u003e합니다. 그 하수인을 낼 마나가 있다면, 그 하수인의 \u003cb\u003e죽음의 메아리\u003c/b\u003e를 발동시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e2be0aff9bb8138edaca78fd93c3843445d4ba72423243f2ff1487b759643704.png",
+      "imageGold": "",
+      "flavorText": "강령술은 죽은 자들에게 동기부여가 됩니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60ebf9db3f51298cf20b7de24ea42672e7d782be022cba4f81308613b8d8e73f.png",
+      "keywordIds": [
+        12,
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 80089,
+      "collectible": 1,
+      "slug": "80089-acolyte-of-death",
+      "classId": 1,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 1,
+      "artistName": "Grafit ",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "죽음의 수행사제",
+      "text": "아군 언데드가 죽은 후에, 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b57ab7eec2a3895fa8f7b67c1c3f1c786399a5faebfc06e3c5c9902d82591cda.png",
+      "imageGold": "",
+      "flavorText": "\"죽은 자들이 보인다. 아주 많이...\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/238a315587d9dacdcdd1141c1b1e9234d0318b9d92b12ac3066760494766862d.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      },
+      "runeCost": {
+        "blood": 0,
+        "frost": 1,
+        "unholy": 0
+      }
+    },
+    {
+      "id": 54431,
+      "collectible": 1,
+      "slug": "54431-plague-of-death",
+      "classId": 6,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1158,
+      "rarityId": 4,
+      "artistName": "Zoltan Boros",
+      "manaCost": 9,
+      "name": "죽음의 역병",
+      "text": "\u003cb\u003e모든\u003c/b\u003e 하수인을 \u003cb\u003e침묵\u003c/b\u003e시키고 처치합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11834070cc536fccaaf8cdb04c49190d62d2fd026fe1ef590a6f7cdbd30bcee8.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/29d7c901c8078c3b728d71f988fa05de9019aabef2847bb648c3a5ada5974be4.png",
+      "flavorText": "뒤틀린 황천보다 더 끔찍한 곳이 있었군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b08a9ac0d0b1787eb203824251fa02b90ca67a97e97e59dddccfe2360666e80.png",
+      "keywordIds": [
+        15
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 1805,
+      "collectible": 1,
+      "slug": "1805-deaths-bite",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 12,
+      "rarityId": 1,
+      "artistName": "Jim Nelson",
+      "attack": 4,
+      "manaCost": 4,
+      "durability": 2,
+      "name": "죽음의 이빨",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e \u003cb\u003e모든\u003c/b\u003e 하수인에게 피해를 1 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5857f03e335840be003ba978c3cd43d60859bbf53839f7123832b8f2337e778f.png",
+      "imageGold": "",
+      "flavorText": "이를 닦을 때는 반드시 혀도 닦으세요!!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/35db7b0fdc18f0345f8956989c0df6eac14d82f54df2099b0cee84ff97266783.jpg",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 78644,
+      "collectible": 1,
+      "slug": "78644-deathbringer-saurfang",
+      "classId": 1,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 5,
+      "artistName": "James Ryman",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 5,
+      "name": "죽음의 인도자 사울팽",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e 이 하수인을 내 손으로 다시 가져옵니다. 마나 대신 생명력을 비용으로 사용합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e753b9c5fa953042aa73d58d96ab07c081e09428777c86b09f832da807376fa.png",
+      "imageGold": "",
+      "flavorText": "\"지금 돌아보면... 분노의 관문에서 얼라이언스 녀석들이 재미 보게 양보할 걸 그랬어.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/92967cbba967816be9dcf255e255a04501a5c97572531be4ff19c2dfe818747d.png",
+      "keywordIds": [
+        1,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      },
+      "runeCost": {
+        "blood": 2,
+        "frost": 0,
+        "unholy": 0
+      }
+    },
+    {
+      "id": 78324,
+      "collectible": 1,
+      "slug": "78324-death-strike",
+      "classId": 1,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Paul Mafayon",
+      "manaCost": 4,
+      "name": "죽음의 일격",
+      "text": "\u003cb\u003e생명력 흡수\u003c/b\u003e 하수인에게 피해를 6 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9d5d433d16c710d52dbfdd69fa0c36a9a9840b248297546f64ef71479ed6e97.png",
+      "imageGold": "",
+      "flavorText": "큰 하수인에게 쓰다니 겁먹었나요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54558f5bbeabc6e620ad87b683cc1bd0b6e1f8f1d4b56a5476d52eb996ff45f3.png",
+      "keywordIds": [
+        38
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      },
+      "runeCost": {
+        "blood": 1,
+        "frost": 0,
+        "unholy": 0
+      }
+    },
+    {
+      "id": 79482,
+      "collectible": 1,
+      "slug": "79482-deathborne",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1691,
+      "rarityId": 3,
+      "artistName": "L. Lullabi \u0026 K. Turovec",
+      "manaCost": 6,
+      "name": "죽음의 혈통",
+      "text": "\u003cb\u003e모든\u003c/b\u003e 하수인에게 피해를 2 줍니다. 처치한 하수인만큼 2/2 불안정한 해골을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/691ec2aed17729cbb6b91f193f1d5d8ca71232d631872ff799d1d0b21f5ae21e.png",
+      "imageGold": "",
+      "flavorText": "켈투자드를 좋아하신다면 강령군주를 선택하세요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d521ddd20ac942a3b3746dfa39dee23f4da516bb25d5fccc84c9fc361257b54.png",
+      "childIds": [
+        84169
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43398,
+      "collectible": 1,
+      "slug": "43398-deathstalker-rexxar",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 3,
+      "cardSetId": 1001,
+      "rarityId": 5,
+      "artistName": "Jomaro Kindred",
+      "health": 30,
+      "manaCost": 6,
+      "armor": 5,
+      "name": "죽음추적자 렉사르",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 모든 적 하수인에게 피해를 2 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b176b3fa277185834929e5c46c8d59b11b2817fddcb09bbad22e02a1a3b8c91.png",
+      "imageGold": "",
+      "flavorText": "\"너는 너무 느리구나, 오랜 친구여. 사냥은 이미 시작되었다... 그리고 절대로 끝나지 않아.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aa19a2ab360d1be90f7ef134e5878190bf55b8f31a133ea63ba94bdd4be15229.png",
+      "childIds": [
+        43183,
+        46119,
+        46204,
+        46672,
+        50141,
+        50142,
+        50143,
+        50144
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 86147,
+      "collectible": 1,
+      "slug": "86147-unliving-champion",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 1,
+      "artistName": "L. Lullabi \u0026 K. Turovec",
+      "health": 2,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "죽지 못하는 용사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 지난 턴 이후에 아군 언데드가 죽었으면, 3/2 좀비를 둘 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7c82fe49f85eca826561c2e8c34a59a27fed866bb0e899e32e0961b5d13e4268.png",
+      "imageGold": "",
+      "flavorText": "시시해서 죽고 싶어졌다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fb0d2d939f4cc267897099ad0a5a93f76619e470c773bdc7b499f87453112f17.png",
+      "childIds": [
+        84211
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70021,
+      "collectible": 1,
+      "slug": "70021-undying-disciple",
+      "classId": 6,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 3,
+      "artistName": "James Ryman",
+      "health": 7,
+      "attack": 3,
+      "manaCost": 6,
+      "name": "죽지 않는 사도",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e 이 하수인의 공격력만큼 모든 적 하수인에게 피해를 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16fc0d166bce6868ec6f80022c0f4e31603c5216dbde26d464aa08895ee791d8.png",
+      "imageGold": "",
+      "flavorText": "언데드인 건 상관 없는데요, 굳이 무덤에서 뛰쳐나와야 했나요? 그건 좀 자극적인걸요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e6e39a3745bb220074e81be064b5f969f3ce753de9e8cf870ecb6343c8d11c0.png",
+      "keywordIds": [
+        1,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 99
+}

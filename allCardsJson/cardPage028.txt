@@ -1,0 +1,1042 @@
+{
+  "cards": [
+    {
+      "id": 859,
+      "collectible": 1,
+      "slug": "859-twisting-nether",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 3,
+      "rarityId": 4,
+      "artistName": "Dave Allsop",
+      "manaCost": 8,
+      "name": "뒤틀린 황천",
+      "text": "\u003cb\u003e모든\u003c/b\u003e 하수인을 처치합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3dd65174f1fab9b0957278d10548065fce81a590d58f7a0ecc171bf2d978c976.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d9b56a506ab04d8a38cab2be40e7e783bc0dcccebf7efbf7db39977caa50b37.png",
+      "flavorText": "뒤틀린 황천은 마법과 환상, 죽은 하수인들로 가득한 형태 없는 공간입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16826fa2cfe5c2a3fed6fb6c2ddf98a51ae9745d134de02bbbcf36d92b3256a5.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69635,
+      "collectible": 1,
+      "slug": "69635-twisting-nether",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 4,
+      "artistName": "Dave Allsop",
+      "manaCost": 8,
+      "name": "뒤틀린 황천",
+      "text": "\u003cb\u003e모든\u003c/b\u003e 하수인을 처치합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/be70ae72777ab48a08c67314a9184c32350553a3417bcfe5be2a2f20b19c6015.png",
+      "imageGold": "",
+      "flavorText": "뒤틀린 황천은 마법과 환상, 죽은 하수인들로 가득한 형태 없는 공간입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/830bb0b3dd7ba8300c4bb6767e1a40bec4d5aae23734744a3a5dca21554e0f6b.png",
+      "copyOfCardId": 859,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69918,
+      "collectible": 1,
+      "slug": "69918-twisting-nether",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 4,
+      "artistName": "Dave Allsop",
+      "manaCost": 8,
+      "name": "뒤틀린 황천",
+      "text": "\u003cb\u003e모든\u003c/b\u003e 하수인을 처치합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac3943aa09313d559eb8083850ac3a9b41937687c77478dbf72bcee561009e38.png",
+      "imageGold": "",
+      "flavorText": "뒤틀린 황천은 마법과 환상, 죽은 하수인들로 가득한 형태 없는 공간입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/16826fa2cfe5c2a3fed6fb6c2ddf98a51ae9745d134de02bbbcf36d92b3256a5.png",
+      "copyOfCardId": 859
+    },
+    {
+      "id": 40574,
+      "collectible": 1,
+      "slug": "40574-alley-armorsmith",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 25,
+      "rarityId": 3,
+      "artistName": "Rafael Zanchetin",
+      "health": 7,
+      "attack": 3,
+      "manaCost": 5,
+      "name": "뒷골목 방어구 제작자",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, 이 하수인은 피해를 줄 때마다 그만큼 내 방어도를 증가시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/38e84753f048f5525661ce862135c9d8742d850f8ab9bd7818a7c6c722756a14.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e7358560ff29952d791b71a18ede76b82fc441fb41d970c4b1c0972e7d2f05a5.png",
+      "flavorText": "\"이 바닥에선 맞으면서 방어구를 제작하면 얼마 못 갑니다. 직접 후려갈길 때도 있어야죠.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d5c34843de7781d652e64e8c5e6b29fc3d9ee63b910b1a95115c910fe2e76af.png",
+      "keywordIds": [
+        1
+      ]
+    },
+    {
+      "id": 103242,
+      "collectible": 1,
+      "slug": "103242-alley-armorsmith",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1898,
+      "rarityId": 3,
+      "artistName": "Rafael Zanchetin",
+      "health": 7,
+      "attack": 3,
+      "manaCost": 5,
+      "name": "뒷골목 방어구 제작자",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, 이 하수인은 피해를 줄 때마다 그만큼 내 방어도를 증가시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18248368a1fa964a38c7a2a9a42fbe2ef89cd0a297ebffd4fd6c8d9814849c1c.png",
+      "imageGold": "",
+      "flavorText": "\"이 바닥에선 맞으면서 방어구를 제작하면 얼마 못 갑니다. 직접 후려갈길 때도 있어야죠.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d5c34843de7781d652e64e8c5e6b29fc3d9ee63b910b1a95115c910fe2e76af.png",
+      "keywordIds": [
+        1
+      ],
+      "copyOfCardId": 40574
+    },
+    {
+      "id": 40492,
+      "collectible": 1,
+      "slug": "40492-backstreet-leper",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 25,
+      "rarityId": 1,
+      "artistName": "Yewon Park",
+      "health": 1,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "뒷골목 오염된 노움",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 적 영웅에게 피해를 2 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/24dded74ed22fe3f34fe8d9ba668ca866f1334607e4843a9d617b79301bbec4d.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ba245f92f5110664d59450cc3bbcc6c17126e015ad02e93d85eeecf8882ac3c.png",
+      "flavorText": "거봐요, 안아주지 않으니까 비뚤어졌잖아요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec151c841f28c9104f413e765bfd6f669d1c21bb76e9138e42a999aea470800d.png",
+      "keywordIds": [
+        12
+      ]
+    },
+    {
+      "id": 64894,
+      "collectible": 1,
+      "slug": "64894-dark-alley-pact",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1578,
+      "rarityId": 3,
+      "artistName": "Mauricio Herrera",
+      "manaCost": 4,
+      "name": "뒷골목의 서약",
+      "text": "마귀를 소환합니다. 능력치는 내 손에 있는 카드 수와 같습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cd75538b2c4e2b03105882c7ae6305b3e3ec13c6bbfe20c18d3d12ad6fb3789e.png",
+      "imageGold": "",
+      "flavorText": "\"덕분에 이 골목에도 빛이 들어오겠어요.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/850ad3de7025748fe3bafacebb3467ed0f419acb3e997bc820b6a1ac3f1c6f76.png",
+      "childIds": [
+        67810
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 48929,
+      "collectible": 1,
+      "slug": "48929-dead-ringer",
+      "classId": 6,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "multiTypeIds": [
+        11
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1127,
+      "rarityId": 1,
+      "artistName": "Dave Allsop",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "듀금의 인도자",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 내 덱에서 \u003cb\u003e죽음의 메아리\u003c/b\u003e 하수인을 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/130de99fd053df8a5db9a11d7b77ffae48d660b008cb70c909bbc9cb86ac3e96.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/89e0f883a7010599bc1d659236cf8835cce1f3ac7060f083d7ce6ac58f66bc1c.png",
+      "flavorText": "듀거! 듀거! 듀거!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/59c022b2b85380004bb8890438411ec838263823c3fba291fc214567528e43c9.png",
+      "keywordIds": [
+        12
+      ]
+    },
+    {
+      "id": 45309,
+      "collectible": 1,
+      "slug": "45309-drakkari-enchanter",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 4,
+      "artistName": "Steve Prescott",
+      "health": 5,
+      "attack": 1,
+      "manaCost": 3,
+      "name": "드라카리 마법부여사",
+      "text": "턴이 끝날 때 발동하는 내 효과가 2번 발동합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d33fbda2bbe036a21bc2d21327827a87688046a1a8c7b40b2e93a38697a8151.png",
+      "imageGold": "",
+      "flavorText": "드라카리 마법부여사들은 말 끝을 언제나 반복합니다. 언제나 반복합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36634c8ac30778ff0dbf0d8195285c32df67e5ac8c602e2946d07fcd374c61ce.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42750,
+      "collectible": 1,
+      "slug": "42750-drakkari-defender",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 1,
+      "artistName": "Luca Zontini",
+      "health": 8,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "드라카리 수호병",
+      "text": "\u003cb\u003e도발\u003c/b\u003e \u003cb\u003e과부하:\u003c/b\u003e (3)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a4d1db92957f1b6a0804c5c12dabe1615fcce1458bca926eb790b511185a410.png",
+      "imageGold": "",
+      "flavorText": "도발이 필요한가.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d60b0754b684759d713d5f536456b0c49e1fb069db766c83fe30d05ba74d51c.png",
+      "keywordIds": [
+        1,
+        14
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 50414,
+      "collectible": 1,
+      "slug": "50414-drakkari-trickster",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1129,
+      "rarityId": 4,
+      "artistName": "Cicily He",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "드라카리 요술사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 각 플레이어가 상대편의 덱에서 무작위 카드를 복사하여 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3cef66b62dfeece19bb07928395ca270da560947e2d6411fe21aa2650548c585.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cc5f7bf6b3808c4e62eeeb45da512bead1c7a849e9ae2a5bf8e2a426cacee8cf.png",
+      "flavorText": "방패 밀쳐내기와 토템의 힘을 뽑고 서로 난처해하는 모습이다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5902e9811b600d92775667e10f643d57888ca6538693397cc28b6690389671c9.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 80087,
+      "collectible": 1,
+      "slug": "80087-drakkari-embalmer",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 1,
+      "artistName": "Chris Rahn",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "드라카리 장의사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 아군 언데드에게 \u003cb\u003e환생\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f7e0e3aebe8c7957729e26fa83e41025e46a7bc5a55dce97a96a030ebf0c251d.png",
+      "imageGold": "",
+      "flavorText": "트롤은 어디에나 있습니다. 살아서도, 죽어서도, 온라인 토론장에서도.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/88f57437eaa97e9b72d694d6e472bb7d6bb1957c214fbe0ebcd117743d79ac15.png",
+      "keywordIds": [
+        8,
+        78
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 87682,
+      "collectible": 1,
+      "slug": "87682-drum-soloist",
+      "classId": 10,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 1,
+      "artistName": "Zoltan Boros",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 5,
+      "name": "드럼 솔로",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 내 전장에 다른 하수인이 없으면, +2/+2와 \u003cb\u003e속공\u003c/b\u003e을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b12cb8b0c08f59944219a27a44e8c6549d4271688ba79adfadc801f89de57db.png",
+      "imageGold": "",
+      "flavorText": "방금 소리 둔탁했나 두둥탁했나?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/33031e3d611180231148fff294c95db7494f0f4446bfb1ce5545f566b9e327e8.png",
+      "keywordIds": [
+        1,
+        8,
+        53
+      ]
+    },
+    {
+      "id": 94201,
+      "collectible": 1,
+      "slug": "94201-drum-circle",
+      "classId": 2,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1809,
+      "rarityId": 3,
+      "artistName": "BOSi Studio",
+      "manaCost": 7,
+      "name": "드럼 연주단",
+      "text": "\u003cb\u003e선택 -\u003c/b\u003e 2/2 나무정령을 다섯 소환합니다. 또는 내 하수인들에게 +2/+4와 \u003cb\u003e도발\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2901edd0ab73204bc2cdf45f97fa84df1751fcf4fefd631d4b398782348ee680.png",
+      "imageGold": "",
+      "flavorText": "주위의 꽃들이 얼마나 잘 자랐는지를 보면 드럼 실력을 가늠할 수 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3c30e39db8f93051407c519c4b09dd7313a38765e882a5d75ed02ee38ac38365.png",
+      "childIds": [
+        91248
+      ],
+      "keywordIds": [
+        1
+      ]
+    },
+    {
+      "id": 2613,
+      "collectible": 1,
+      "slug": "2613-draenei-totemcarver",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 15,
+      "rarityId": 3,
+      "artistName": "RK Post",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "드레나이 토템술사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 토템 하나당 +1/+1을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5717f94d43821586aa3e837720abe5fd0dc8274c98a35923a7a13cd46b7e5cf.png",
+      "imageGold": "",
+      "flavorText": "대량 생산의 시대인 지금, 오직 가내 수공업만으로 토템을 제작하는 장인입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d38c3b9eac0866c55eb86265148cd4cf7f5946951f4ccd5cf2ef4d0376418aa.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 66875,
+      "collectible": 1,
+      "slug": "66875-drekthar",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1626,
+      "rarityId": 5,
+      "artistName": "Alex Horley Orlandelli",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "드렉타르",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이 하수인이 내 덱에 있는 모든 하수인보다 비용이 높으면, 그 하수인들 중 하나를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c576e02f330c837de383b02b32f559dc9b4aab00e54e31a583766ffe1c060f10.png",
+      "imageGold": "",
+      "flavorText": "당신의 덱에는 두 마리의 늑대, 서리늑대와 서리늑대가 있습니다. 당신은 분명 서리늑대겠군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68bdc5aeb687177fb344a2bdb8aed80f50f0482ba50760c3178e5f9829c3bf55.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 98105,
+      "collectible": 1,
+      "slug": "98105-drone-deconstructor",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1858,
+      "rarityId": 1,
+      "artistName": "Melvin Chan",
+      "health": 2,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "드론 해체자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 무작위 \u003cb\u003e추가 효과\u003c/b\u003e와 \u003cb\u003e합체\u003c/b\u003e 능력이 있는 1/1 전기로봇을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/df8979bbb8d85b309d9ba7321e89d275220fe167bfaedff0995adb5e556a7ce2.png",
+      "imageGold": "",
+      "flavorText": "해체를 해야 건설도 할 수 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b684c2feed9bc8321dba29befc7628c425d082a0c2a53374452bc84864c8c72e.png",
+      "childIds": [
+        97630,
+        97636,
+        97637,
+        97631,
+        97632,
+        97633,
+        97634,
+        97635
+      ],
+      "keywordIds": [
+        8,
+        66
+      ]
+    },
+    {
+      "id": 53343,
+      "collectible": 1,
+      "slug": "53343-dwarven-archaeologist",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1158,
+      "rarityId": 4,
+      "artistName": "Danny Dai",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "드워프 고고학자",
+      "text": "내가 카드를 \u003cb\u003e발견\u003c/b\u003e한 후에, 그 카드의 비용이 (1) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75dfcd0319f2d054955193cc7ae06dfe582a9290d720fa236a6a8674fee84629.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a32f97d8639c8bc5cd5ed9ee6bd7ecff7e950fd1edd42f68cdeec10fb14f8d5.png",
+      "flavorText": "학자금 대출금도 순조롭게 갚고 있다고 합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eead5b33cfcb2829bbef992527f616ebe85aad2f3846b077236d53c1868b0d4f.png",
+      "keywordIds": [
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 55292,
+      "collectible": 1,
+      "slug": "55292-dwarven-sharpshooter",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 1,
+      "artistName": "Jim Nelson",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "드워프 명사수",
+      "text": "내 영웅 능력의 대상으로 하수인을 지정할 수 있습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/220e1b25172d5a2612c0eaf7ae40be4d9249481ad4fd87d8dbcfe8c6db117460.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afbd2a5657f0671accd802736a9485529291c357ebc971cae0f0a7f92822067a.png",
+      "flavorText": "가위, 나이프, 바늘, 뭐든 말하세요! 바로 장전해서 쏠 겁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5619a5e6fde948470a2defb45e5e378685bb36424b32ac2962631264b6c28749.png"
+    },
+    {
+      "id": 64637,
+      "collectible": 1,
+      "slug": "64637-defend-the-dwarven-district",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1578,
+      "rarityId": 5,
+      "artistName": "Jim Nelson",
+      "manaCost": 1,
+      "name": "드워프 지구 방어",
+      "text": "\u003cb\u003e퀘스트 전개:\u003c/b\u003e 주문 셋으로 피해를 줘야 합니다. \u003cb\u003e보상:\u003c/b\u003e 내 영웅 능력의 대상으로 하수인을 지정할 수 있습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/710e4bdcf060dcc57e2aa5f8820e9bbff1af805220442c6d4e57e8a17cd35ed2.png",
+      "imageGold": "",
+      "flavorText": "눈이 보라색이 될 때까지 쏘지 말고 기다려야 합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad74a99d18ed8f3a9305fc51200c2980154f051f16913d54961d32d620f1db2b.png",
+      "childIds": [
+        64635,
+        64636,
+        67560
+      ],
+      "keywordIds": [
+        96
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 59947,
+      "collectible": 1,
+      "slug": "59947-rattlegore",
+      "classId": 10,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1443,
+      "rarityId": 5,
+      "artistName": "Ivan Fomin",
+      "health": 9,
+      "attack": 9,
+      "manaCost": 9,
+      "name": "들창엄니",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 이 하수인을 -1/-1인 상태로 다시 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/600de1e0905e838bc82f525f520406f9cb1c80eff02fdc4d99554114a9c6fc39.png",
+      "imageGold": "",
+      "flavorText": "지금은 흉측하지만 20/20 때는 꽤 잘생긴 하수인이었습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec8380c4adf22aa2ec25fd910fbd1a6417c452093f8b960564e9b7d2e7e94a75.png",
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 640,
+      "collectible": 1,
+      "slug": "640-hogger",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 5,
+      "artistName": "Laurel Austin",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 6,
+      "name": "들창코",
+      "text": "내 턴이 끝날 때, \u003cb\u003e도발\u003c/b\u003e 능력이 있는 2/2 놀을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ba3cc2ddbcf6da83fec4227347045ab765a0b074748dd33d954aa513556c6c0.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4e066e40ac6c8a3edadb8f77134fc774c3b0fbb8a644b1ed772273c1f6edd75.png",
+      "flavorText": "들창코는 정말 강력합니다. 만약 처치했다면, 그가 \u003ci\u003e봐줬기\u003c/i\u003e 때문입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6cf0693bc017c7fd369705d8a7e88241218325df45df331f03a511e7b0dbc29.png",
+      "childIds": [
+        460
+      ],
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70097,
+      "collectible": 1,
+      "slug": "70097-hogger",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 5,
+      "artistName": "Laurel Austin",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 6,
+      "name": "들창코",
+      "text": "내 턴이 끝날 때, \u003cb\u003e도발\u003c/b\u003e 능력이 있는 2/2 놀을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac2a697a5c082d95779aa4784d19cd7efb51b2d7e54672ce93e84ab1c9b5fe93.png",
+      "imageGold": "",
+      "flavorText": "들창코는 정말 강력합니다. 만약 처치했다면, 그가 \u003ci\u003e봐줬기\u003c/i\u003e 때문입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a6cf0693bc017c7fd369705d8a7e88241218325df45df331f03a511e7b0dbc29.png",
+      "childIds": [
+        460
+      ],
+      "keywordIds": [
+        1
+      ],
+      "copyOfCardId": 640
+    },
+    {
+      "id": 59038,
+      "collectible": 1,
+      "slug": "59038-first-day-of-school",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1443,
+      "rarityId": 1,
+      "artistName": "L. Lullabi \u0026 K. Turovec",
+      "manaCost": 1,
+      "name": "등교 첫날",
+      "text": "비용이 1인 무작위 하수인 둘을 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f3f340661a0789a56dad6aa1d3898a2d906106c1e71a596fcefddfdbc7bbb985.png",
+      "imageGold": "",
+      "flavorText": "\"책은 서점에서 사고, 물약은 연금술사한테서 사고, 그리고 마법봉은... 봉부상한테서?\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f14f66ddb47488dd4aea29cf2d323622914ba89ad430f2000e40351d4be83afb.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 90688,
+      "collectible": 1,
+      "slug": "90688-disco-maul",
+      "classId": 5,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1809,
+      "rarityId": 1,
+      "artistName": "Mooncolony ",
+      "attack": 3,
+      "manaCost": 3,
+      "durability": 2,
+      "name": "디스코 망치",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 무작위 아군 하수인에게 + /+ |1(을,를) 부여합니다. \u003ci\u003e(장착하고 있을 때 하수인을 내면 강화됩니다!)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/01f8c551b8fc02a5f862e81b2c9beb26834800686456ae8eb5d3755a12bceeca.png",
+      "imageGold": "",
+      "flavorText": "네 멋대로 디.스.코.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a9af619853ab0b46a9f7400e83814eab270e886af79d056517bebbd2caa1444a.png",
+      "keywordIds": [
+        12
+      ]
+    },
+    {
+      "id": 102567,
+      "collectible": 1,
+      "slug": "102567-disco-at-the-end-of-time",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1898,
+      "rarityId": 4,
+      "artistName": "Vlad Botos",
+      "manaCost": 6,
+      "name": "디스코와 시간의 끝",
+      "text": "무작위 과거의 \u003cb\u003e비밀\u003c/b\u003e을 다섯 시전합니다. 내 턴이 시작될 때, 그 비밀들을 파괴합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afa84251c5986a7c7a77bc12a53625fcc74df4dc003dd244ed3ffdcb422062ba.png",
+      "imageGold": "",
+      "flavorText": "비밀의 라스트 댄스!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5a557f7bfe162af16836efac506a0337ce31a97f477f502498bca45a7758b2bc.png",
+      "keywordIds": [
+        5
+      ]
+    },
+    {
+      "id": 91066,
+      "collectible": 1,
+      "slug": "91066-funkfin",
+      "classId": 5,
+      "multiClassIds": [],
+      "minionTypeId": 14,
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 1,
+      "artistName": "James Ryman",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "디스코지느러미",
+      "text": "\u003cb\u003e천상의 보호막\u003c/b\u003e 내 \u003cb\u003e천상의 보호막\u003c/b\u003e 하수인들이 공격력을 +2 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f79dfef61dac8335e8adb9988773e3187bf897a2f2b97c50982711ad4203e1d1.png",
+      "imageGold": "",
+      "flavorText": "지느러미를 흔들어! 느낌 있게!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a3b26fbbd67fb5ae20b4b80475b96327e177ce6fccd5687183227a0b6a8da066.png",
+      "keywordIds": [
+        3
+      ]
+    },
+    {
+      "id": 65678,
+      "collectible": 1,
+      "slug": "65678-copycat",
+      "classId": 6,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 3,
+      "artistName": "Dave Allsop",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "따라쟁이",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 상대편이 다음에 내는 카드를 복사하여 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a0721bb9d8e480f9668ca7be585dbbfc6c8a7ee19c81d49b34bf24ee6e37c00.png",
+      "imageGold": "",
+      "flavorText": "무슨 일이 있어도 그 둘이 서로를 만나게 둬서는 안 돼.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/22ece6f97174f740ceaa2a905c589c88c062075a83d1831866109a652a26d107.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 50372,
+      "collectible": 1,
+      "slug": "50372-scarab-egg",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1129,
+      "rarityId": 1,
+      "artistName": "Jim Nelson",
+      "health": 2,
+      "attack": 0,
+      "manaCost": 2,
+      "name": "딱정벌레 알",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 1/1 딱정벌레를 3마리 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/136dbc862a79938c61ebbe6819ef41d21e17dca6d32475b1ae5018330347dd98.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9cde0cda4af049fce5b9bd6679d160baae5114c46cf01a3f225fa2d0ff61acaf.png",
+      "flavorText": "오믈렛은 맛있다고 해서 만들어 보려다가 얼굴이 뜯길 뻔했습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2514f79e2c23a175d3fc449b5fc5e9cdd15bbc9f70dbabfb7f9d797ed44d205c.png",
+      "childIds": [
+        50373
+      ],
+      "keywordIds": [
+        12
+      ]
+    },
+    {
+      "id": 85049,
+      "collectible": 1,
+      "slug": "85049-beetlemancy",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1776,
+      "rarityId": 3,
+      "artistName": "Mooncolony ",
+      "manaCost": 5,
+      "name": "딱정벌레술",
+      "text": "\u003cb\u003e선택\u003c/b\u003e - 방어도를 +12 얻습니다. 또는 \u003cb\u003e도발\u003c/b\u003e 능력이 있는 3/3 딱정벌레를 둘 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e240187f78ac73a6a389396c09b73a62251f82caa1ccd23786aa05b189790a36.png",
+      "imageGold": "",
+      "flavorText": "벌레 벌레 벌레 벌레 벌레 벌레 벌레 벌레",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/18c843e4a302d3e183567a9415ef3f87de7564e3bcb27fa7b2b99d378f61e157.png",
+      "childIds": [
+        86175
+      ],
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 72417,
+      "collectible": 1,
+      "slug": "72417-click-clocker",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "multiTypeIds": [
+        20
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 1,
+      "artistName": "Melvin Chan",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "딸깍가재",
+      "text": "\u003cb\u003e천상의 보호막\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 있는 무작위 기계에게 +1/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ec751b409fce577ac8172a856d1bfd1af01ec20a5225afe3ff97aa8a572f7578.png",
+      "imageGold": "",
+      "flavorText": "설명을 시작해볼까? 푸른색 가재는 애완용으로 인기가 많다는 사실이다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0ce935c30e2c8beb2a8057e2de10bfacc72ffca5779eb2abad0ea98cd2fbb0af.png",
+      "keywordIds": [
+        3,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 41875,
+      "collectible": 1,
+      "slug": "41875-chittering-tunneler",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 27,
+      "rarityId": 4,
+      "artistName": "Slawomir Maniak",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "딸깍거리는 실리시드",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 주문을 \u003cb\u003e발견\u003c/b\u003e합니다. 그 카드의 비용만큼 내 영웅에게 피해를 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6bddf2e28df04c04851068eb735ac7fe79296743a558afab6869293270df40f3.png",
+      "imageGold": "",
+      "flavorText": "땅에 귀를 댄 그는 딸깍거리는 소리를 해석하기 시작했습니다. \"주문이 필요해? 나도 필요해...!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f0b266ea7d6172cbee2201f35e096bb40d3799582d29f9ca4a735de23325dad3.jpg",
+      "keywordIds": [
+        8,
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 56417,
+      "collectible": 1,
+      "slug": "56417-bogstrok-clacker",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1414,
+      "rarityId": 3,
+      "artistName": "Luca Zontini",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "딸깍이 수렁마크루라",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 양옆의 하수인들을 비용이 (1) 높은 무작위 하수인으로 변신시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c4d6e4b1e3d7128eb5a4617c04f110872a1afeb3900b276e683b97ff1713433b.png",
+      "imageGold": "",
+      "flavorText": "조심하세요! 딸깍이는 때깔 나는 딸깍발로 두꺼운 등껍질도 뚫고 따끔한 맛을 보여줄 수 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3eff631b18c5931dfbba7266c7cd3e78c32c72940a31614317c67585b3e7b6a.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 40549,
+      "collectible": 1,
+      "slug": "40549-weasel-tunneler",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 25,
+      "rarityId": 4,
+      "artistName": "Andrew Hou",
+      "health": 1,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "땅굴 족제비",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 이 하수인을 상대편의 덱에 섞어 넣습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d3f6444842867b04928be22fa1e4cedfd6913aad09920d31599cc83cc3402d92.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cbdfaf46ed61fbd4a96472f2c4131f3cb0e2b47dffc242a0e48f5cdbee3c4937.png",
+      "flavorText": "가젯잔 제1은행의 바닥이 강철로 된 건 다 이유가 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/650b935b32b88f3c274d92b62d363ea76ad06be80c033b774ff4dbc792dac4e4.png",
+      "keywordIds": [
+        12
+      ]
+    },
+    {
+      "id": 2890,
+      "collectible": 1,
+      "slug": "2890-tunnel-trogg",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 20,
+      "rarityId": 1,
+      "artistName": "Andrew Hou",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "땅굴 트로그",
+      "text": "내가 \u003cb\u003e과부하\u003c/b\u003e될 때마다 잠기는 마나 수정 하나당 공격력을 +1 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/943a2844b2f367f51607abedc66343eba052ba36ed49ff47406c5d92fb168354.png",
+      "imageGold": "",
+      "flavorText": "못생긴 건 맞습니다. 하지만 땅굴 속에서 햇빛 없이 자신을 가꾸려고 시도해 보세요. 쉽지 않을 걸요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d28a86e186be617ae1569a3a7963cdecd9bd557b708e7ec1438a3b1c9e6d4b3.png",
+      "keywordIds": [
+        14
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 53249,
+      "collectible": 1,
+      "slug": "53249-tunnel-blaster",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1130,
+      "rarityId": 3,
+      "artistName": "Ivan Fomin",
+      "health": 7,
+      "attack": 3,
+      "manaCost": 7,
+      "name": "땅굴 폭파범",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e \u003cb\u003e모든\u003c/b\u003e 하수인에게 피해를 3 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1772ad4f256f934edd6201d3aaa4621d271f6063dd43149e5ce4dd533f54a93.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/338ca4eec103d61f4c01ad7775413c8b7b22ad66c438c02e2e37e499ccbc8c42.png",
+      "flavorText": "다들 왜 머리 위에 양초를 올려놓고 있냐고 비웃었죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/115ca37b94a9d97fbcafe6624251943bad7a081adb53c92bb2408f78cdf1ae98.png",
+      "keywordIds": [
+        1,
+        12
+      ]
+    },
+    {
+      "id": 2587,
+      "collectible": 1,
+      "slug": "2587-beneath-the-grounds",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 15,
+      "rarityId": 4,
+      "artistName": "Daren Bader",
+      "manaCost": 3,
+      "name": "땅속의 위협",
+      "text": "상대편의 덱에 잠복을 셋 섞어 넣습니다. 상대편이 잠복을 뽑으면, 내가 4/4 네루비안을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f53370642c6a1e7018e13f7595590c855a7921f825c7cc8acda520d078fed2e.png",
+      "imageGold": "",
+      "flavorText": "이 알 좀 들어주실래요? 절대로 언데드 거미가 들어있거나 하는 일은 없을 겁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/68853eff8dcd5f5bbe6b7883537e3a1e7deaaf3cf3fa66245d297d30250757e4.jpg",
+      "childIds": [
+        2847,
+        1787,
+        3010,
+        2586,
+        102751,
+        102612
+      ]
+    },
+    {
+      "id": 2070,
+      "collectible": 1,
+      "slug": "2070-tinkertown-technician",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 13,
+      "rarityId": 1,
+      "artistName": "Gabor Szikszai",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "땜장이 마을 기술자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 전장에 기계가 있으면, +1/+1을 얻고 \u003cb\u003e예비 부품\u003c/b\u003e을 내 손으로 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e90bcbcd5e61a3b5ab947ae81380b39b6d9df2fc4b3469ff6847b16bba91c9e.png",
+      "imageGold": "",
+      "flavorText": "땜장이 마을에서 잘 나가는 기술자입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3f75629c378ec2abb6cf7cb336d127f34846b42f0597a520265561ff7d3de77.jpg",
+      "childIds": [
+        2150,
+        2151,
+        2156,
+        2153,
+        2155,
+        2154,
+        2152
+      ],
+      "keywordIds": [
+        8,
+        19
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 2095,
+      "collectible": 1,
+      "slug": "2095-tinkers-sharpsword-oil",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 13,
+      "rarityId": 1,
+      "artistName": "Den",
+      "manaCost": 4,
+      "name": "땜장이의 뾰족칼 기름",
+      "text": "내 무기에 공격력을 +3 부여합니다. \u003cb\u003e연계:\u003c/b\u003e 무작위 아군 하수인에게 공격력을 +3 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/585a1dc6328bc8b9e5af6c01ee8c05c5c468b00ea77e94b558439b4632f6bf35.png",
+      "imageGold": "",
+      "flavorText": "주의: 불똥이 튀면 칼에 불이 붙을 수 있음",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bbdfd1772041e0b1590d13b5ee5dd929cd626db481fac90a74d52a9ccd38674c.png",
+      "keywordIds": [
+        13
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 60023,
+      "collectible": 1,
+      "slug": "60023-cutting-class",
+      "classId": 12,
+      "multiClassIds": [
+        7,
+        10
+      ],
+      "cardTypeId": 5,
+      "cardSetId": 1443,
+      "rarityId": 1,
+      "artistName": "L. Lullabi \u0026 K. Turovec",
+      "manaCost": 5,
+      "name": "땡땡이치기",
+      "text": "카드를 2장 뽑습니다. 내 무기의 공격력만큼 비용이 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6b996fea4fd004ddd2e7d3efe5165cb2d57290bf1842e4e63085150ff07ac8f7.png",
+      "imageGold": "",
+      "flavorText": "허수아비의 이름이 땡땡이라는군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6d0000014c3ca1ca5d7ebbf2883b2e556ae3da212e35ebd69a00f731b785cd1a.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 28
+}

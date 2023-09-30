@@ -1,0 +1,1049 @@
+{
+  "cards": [
+    {
+      "id": 63502,
+      "collectible": 1,
+      "slug": "63502-deviate-dreadfang",
+      "classId": 2,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 3,
+      "artistName": "Mauricio Herrera",
+      "health": 9,
+      "attack": 4,
+      "manaCost": 8,
+      "name": "돌연변이 송곳니천둥매",
+      "text": "내가 자연 주문을 시전한 후에, \u003cb\u003e속공\u003c/b\u003e 능력이 있는 4/2 독사를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a909076891fd0027d2afcc67386668a7e7c4ab02e1b9d183b2d667da8ca52fc.png",
+      "imageGold": "",
+      "flavorText": "날개가 생겼지만, 다리는 아직도 없습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d34a4bb3a0a960227908820e2ec97f63ae487da3104b1ed2871284897af5a67b.png",
+      "childIds": [
+        63503
+      ],
+      "keywordIds": [
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 64629,
+      "collectible": 1,
+      "slug": "64629-metamorfin",
+      "classId": 14,
+      "multiClassIds": [],
+      "minionTypeId": 14,
+      "multiTypeIds": [
+        15
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 1,
+      "artistName": "Nicola Saviori",
+      "health": 2,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "돌연비늘",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 이번 턴에 지옥 주문을 시전했으면 +2/+2를 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/19b9c7cc59d9b1a514c39c5921395a4e64d76d6687ad9026d9dde91fd32351a6.png",
+      "imageGold": "",
+      "flavorText": "변신 영웅이 되고 싶었던 꿈을 이뤘습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/54205c30adf4fa304160a727e0c9af1c37264bcc01d253e54987d1cbcce33324.png",
+      "keywordIds": [
+        1,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 76977,
+      "collectible": 1,
+      "slug": "76977-the-stonewright",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1691,
+      "rarityId": 5,
+      "artistName": "Sergey Tsvelykh",
+      "health": 4,
+      "attack": 5,
+      "manaCost": 4,
+      "name": "돌장인",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이번 게임 동안 내 토템들이 공격력을 +2 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/07e1920daa69146f8b19860ce8973b9763aeddf5817f7eeef7f881c09421b222.png",
+      "imageGold": "",
+      "flavorText": "황금 보기를 돌 같이 하라는 말뜻을 제대로 이해했을까요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/60a159c3750a8d62aa2d9750af4339e3d14f8504d3b20fda705e40da4c1d9e65.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 1686,
+      "collectible": 1,
+      "slug": "1686-boulderfist-ogre",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Brian Despain",
+      "health": 7,
+      "attack": 6,
+      "manaCost": 6,
+      "name": "돌주먹 오우거",
+      "text": "",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ecbddb11f9350e6510c09e038aa37e9570f7cb733e9b0b7328ae5254f722df1a.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2f580a56a92860a4a7acf81ae22193fe59e522c286ab47d9d498b54110bdae5.png",
+      "flavorText": "\"나, 비용에 비해 능력치 좋다!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6440240b8cd07b88906d622969bf2a21547851865dd6b1840360121e4b9f90b.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68406,
+      "collectible": 1,
+      "slug": "68406-boulderfist-ogre",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Brian Despain",
+      "health": 7,
+      "attack": 6,
+      "manaCost": 6,
+      "name": "돌주먹 오우거",
+      "text": "",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a0d76c6b88336e394416e1d7b0943cfa46369d17776dd31c7ca333b932bc4ee.png",
+      "imageGold": "",
+      "flavorText": "\"나, 비용에 비해 능력치 좋다!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6440240b8cd07b88906d622969bf2a21547851865dd6b1840360121e4b9f90b.png",
+      "copyOfCardId": 1686
+    },
+    {
+      "id": 344,
+      "collectible": 1,
+      "slug": "344-charge",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Alex Horley Orlandelli",
+      "manaCost": 3,
+      "name": "돌진",
+      "text": "아군 하수인 하나에게 공격력 +2와 \u003cb\u003e돌진\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/50c64096e337bba3f05634611de9cba148265231ea3ba825d58e06321bee0a00.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d003b710d4097af98d9b01570fb9038a02dafcdce8c75f9902ca2597aae78256.png",
+      "flavorText": "다음 턴까지 안전하리라는 상대의 믿음을 박살냅니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/182e7f76851ee7fdee95c00a6b12f7078fc0fae950b79004a94b30f577b134b5.png",
+      "keywordIds": [
+        4
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68371,
+      "collectible": 1,
+      "slug": "68371-charge",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Alex Horley Orlandelli",
+      "manaCost": 3,
+      "name": "돌진",
+      "text": "아군 하수인 하나에게 공격력 +2와 \u003cb\u003e돌진\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a904fae3cf01b80848b8490ebcd7b1b7667891eaa1594900e3ab80344d0cdacd.png",
+      "imageGold": "",
+      "flavorText": "다음 턴까지 안전하리라는 상대의 믿음을 박살냅니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/182e7f76851ee7fdee95c00a6b12f7078fc0fae950b79004a94b30f577b134b5.png",
+      "keywordIds": [
+        4
+      ],
+      "copyOfCardId": 344
+    },
+    {
+      "id": 40598,
+      "collectible": 1,
+      "slug": "40598-unlicensed-apothecary",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 25,
+      "rarityId": 4,
+      "artistName": "Jon Neimeister",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 3,
+      "name": "돌팔이 연금술사",
+      "text": "내 하수인이 소환된 후에, 내 영웅에게 피해를 5 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d91f0fa0a3805b532e70c37443b22209a95496208ab1950b16cdd4c56f7d12d0.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/56a0eb3e1b6a4e8fa44e464db3d56275036c96dfd29ef439cf697fdfd2bd0cf8.png",
+      "flavorText": "치유 물약에 고작 재료 하나 잘못 넣었다고 면허를 빼앗아가다니. 무슨 동네가 이렇게 팍팍해?!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/afdf910be437e8ff931cb0a1a20f8303a8a4299191d0324252b179bafafdc8f7.png"
+    },
+    {
+      "id": 54956,
+      "collectible": 1,
+      "slug": "54956-squallhunter",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 1,
+      "artistName": "Arthur Gimaldinov",
+      "health": 7,
+      "attack": 5,
+      "manaCost": 4,
+      "name": "돌풍사냥꾼",
+      "text": "\u003cb\u003e주문 공격력 +2\u003c/b\u003e \u003cb\u003e과부하:\u003c/b\u003e (2)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fbe538f60e80a569745bee9863ed9391489a578453786d5c433f23c2bc0fc5dd.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7ffd053042135a148d4a6c13a66e87fe4c4d13d2fbffcc7bfb5f7216280f9e3b.png",
+      "flavorText": "\"세상은 어제와 같고 시간은 흐르고 있고 머리 위로 돌풍이 분다...\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/427578b4efb597ec07641e68e3fb33cb5378142bdbbd0bc402767fa53f888d15.png",
+      "keywordIds": [
+        2,
+        14
+      ]
+    },
+    {
+      "id": 57950,
+      "collectible": 1,
+      "slug": "57950-deep-freeze",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1414,
+      "rarityId": 3,
+      "artistName": "Jim Nelson",
+      "manaCost": 8,
+      "name": "동결",
+      "text": "적을 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다. 3/6 물의 정령을 둘 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/048cf9b2b747deb37e4c31656e8937a62601bdd119a1c46a9a26009057e06f4d.png",
+      "imageGold": "",
+      "flavorText": "\"사티로스와 함께 춤을\"에 야심차게 출연했지만, 현장 분위기는 차가웠다고 하네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0e30aecfd85f388f0a323c84100a282d74675e99d2eaf92e5b08c9077b22584.png",
+      "childIds": [
+        395
+      ],
+      "keywordIds": [
+        10
+      ]
+    },
+    {
+      "id": 43237,
+      "collectible": 1,
+      "slug": "43237-cavern-shinyfinder",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1004,
+      "rarityId": 1,
+      "artistName": "Max Grecke",
+      "health": 1,
+      "attack": 3,
+      "manaCost": 2,
+      "name": "동굴 반짝이탐지꾼",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에서 무기를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/79b7dbbb8dc3c398632e3ec4a803a94739b715f9bcca95e2e64d2b4b6f232306.png",
+      "imageGold": "",
+      "flavorText": "동굴에서 찾은 다른 금속은 다 주머니로 들어간다는 소문이 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5a10a4177b143b48821889f4ef532c1ed332e5fe7a31f18a3b5b6a79da8db78.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 43358,
+      "collectible": 1,
+      "slug": "43358-cave-hydra",
+      "classId": 3,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1004,
+      "rarityId": 1,
+      "artistName": "Peter Stapleton",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "동굴 히드라",
+      "text": "공격하는 대상 양옆의 하수인들에게도 피해를 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/574ea4ee856554a00a24562ba669d97dc3d1ad8365e5f44204a36784598f200f.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/aacae2c82eacc578bfb88ae0a12b7b222fde4338b83331818d36657216b70f1e.png",
+      "flavorText": "동굴 가시지옥으로 변태할 수 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a63f7d1512de0b53be1d51ea816743d7853f7dccab096e26cbda8f17490baf4.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 47895,
+      "collectible": 1,
+      "slug": "47895-unpowered-steambot",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1125,
+      "rarityId": 1,
+      "artistName": "Phil Saunders",
+      "health": 9,
+      "attack": 0,
+      "manaCost": 4,
+      "name": "동력 끊긴 증기로봇",
+      "text": "\u003cb\u003e도발\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5f686b8fde2613edc8e4a2a32e2235cc17598f4d5b4eef587d95743ea7f0bac2.png",
+      "imageGold": "",
+      "flavorText": "동력 충만한 증기로봇이 결국 너프됐군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d41c6dfd9c7624ced0562372bf2f3f5eaa1a203e764496eab8c30c7935d7b7a.png",
+      "keywordIds": [
+        1
+      ]
+    },
+    {
+      "id": 48060,
+      "collectible": 1,
+      "slug": "48060-unpowered-mauler",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1127,
+      "rarityId": 3,
+      "artistName": "Jim Nelson",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "동력 끊긴 투사",
+      "text": "이번 턴에 내가 주문을 시전했을 때에만 공격할 수 있습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a30d23ab63d6ff063ef2af81bd379d83926d012bc12ca7520206beee0507fd1b.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/75aebc3e2e5800989e53589ec54aacb3777952520df2f79de277a269d21089c6.png",
+      "flavorText": "인간이나 기계나 힘든 하루를 보낸 후에는 충전할 곳이 필요합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa3d69b94addb47c70c15ffee8e8e3ae7e73c9b2b553668432ceae165cab142e.png"
+    },
+    {
+      "id": 39839,
+      "collectible": 1,
+      "slug": "39839-zoobot",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 23,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "동물원로봇",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 무작위 아군 야수, 용족, 멀록에게 각각 +1/+1을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0acb79556f571192e1e46b144b683d5275bb121b07e4f7c2149e158c81ef461e.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bcece65c338c2b6ee64cf7fe5873fa0580dcdd0bdbdd9eaa9b159b6fd0b73dad.png",
+      "flavorText": "멀록은 왜 없냐고요? 이 사진을 찍고 있었거든요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9e0d62229cb9e5a79b105b19500fe2b40330d56c297af08709500db92e8f460a.jpg",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 97282,
+      "collectible": 1,
+      "slug": "97282-down-with-the-ship",
+      "classId": 1,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1858,
+      "rarityId": 3,
+      "artistName": "Konstantin Porubov",
+      "manaCost": 2,
+      "name": "동반침몰",
+      "text": "피해를 3 줍니다. 상대편의 덱에 무작위 역병을 둘 섞어 넣습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5c29a6645ae0987d4634a4bf87b420745a5a57dda4427d42e553e533d594439.png",
+      "imageGold": "",
+      "flavorText": "나만 당할 순 없지.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58933398eea7cdde61407e2b93b26f0c12bf1975e142b36a2e15c48a61f9c4ea.png",
+      "childIds": [
+        101924,
+        101928,
+        101927,
+        78608
+      ],
+      "runeCost": {
+        "blood": 0,
+        "frost": 0,
+        "unholy": 1
+      }
+    },
+    {
+      "id": 67833,
+      "collectible": 1,
+      "slug": "67833-frostbite",
+      "classId": 8,
+      "multiClassIds": [],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1626,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "manaCost": 2,
+      "name": "동상",
+      "text": "피해를 3 줍니다. \u003cb\u003e명예로운 일격:\u003c/b\u003e 상대편이 시전하는 다음 주문의 비용이 (2) 증가합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5ce8a1ac1f6f25154299fae24703dfed99c8a2664ee633e8e69ce14d7de73679.png",
+      "imageGold": "",
+      "flavorText": "민트 초코를 너무 많이 먹었습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5c30c8f5e5ef5ff33eba0781a555f1a2477bb88be0150fd3a50b179b49ecb27.png",
+      "keywordIds": [
+        100
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 97051,
+      "collectible": 1,
+      "slug": "97051-fable-stablehand",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1858,
+      "rarityId": 1,
+      "artistName": "Eva Widermann",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "동화 마구간지기",
+      "text": "\u003cb\u003e속공\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 내 전장에 공격력이 4 이상인 하수인이 있으면,+2/+2를 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e69dbe72469bc959561b7c74daeb819fdf5dfd8b60bdafe48f6316cf4faf8738.png",
+      "imageGold": "",
+      "flavorText": "등화 마구간지기의 대타입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ec6d8d930f0aad998fab869373cf93bc890bcf71de9ed1af38ab48834c1ad28.png",
+      "keywordIds": [
+        8,
+        53
+      ]
+    },
+    {
+      "id": 62481,
+      "collectible": 1,
+      "slug": "62481-hog-rancher",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 1,
+      "artistName": "Sean McNally",
+      "health": 2,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "돼지 사육사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e \u003cb\u003e속공\u003c/b\u003e 능력이 있는 2/1 돼지를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8806628f2c305b708ce1d439a638619babe3212095d084204a074c45e4ee6107.png",
+      "imageGold": "",
+      "flavorText": "수상할 정도로 가시멧돼지 마을과 가깝다는 느낌이 드는 건 왜 그럴까요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/666f38a8d8c188414a759df50b4232f1006c6f9b34068ab5f2dc129f3a244f5f.png",
+      "childIds": [
+        63189
+      ],
+      "keywordIds": [
+        8,
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 90592,
+      "collectible": 1,
+      "slug": "90592-rewind",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 1,
+      "cardTypeId": 5,
+      "cardSetId": 1809,
+      "rarityId": 3,
+      "artistName": "Konstantin Porubov",
+      "manaCost": 2,
+      "name": "되감기",
+      "text": "이번 게임에서 내가 시전한 다른 주문을 \u003cb\u003e발견\u003c/b\u003e해서 복사해옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6adc3f3b0658d91d66cfd8bfa36f4548a9b8cc16a5f42d6251d1a52755c7cfc0.png",
+      "imageGold": "",
+      "flavorText": "이 주문이 아닌가요? 그럼 한 번 더 내보세요. 이번에는 다를지도 모르잖아요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b610f0791e932f67908dd6d0e8f29d2ab232ab2042cacce4004f2f4e753484aa.png",
+      "keywordIds": [
+        21
+      ]
+    },
+    {
+      "id": 64357,
+      "collectible": 1,
+      "slug": "64357-two-faced-investor",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 3,
+      "artistName": "Andrew Hou",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "두 얼굴의 투자자",
+      "text": "내 턴이 끝날 때, 내 손에 있는 카드의 비용이 (1) 감소합니다. \u003ci\u003e(50%의 확률로 비용이 증가합니다.)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/650a8b205d129a0a90520dc46f4661ff4b86399a6fe9f86e567c6ca3619ecd71.png",
+      "imageGold": "",
+      "flavorText": "\"공동투자는 하지 말 걸 그랬어...\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6e0b3c65ffea72310e7d57040a7c9405106a5e501e3b5e48fa0a126faed95af.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 39033,
+      "collectible": 1,
+      "slug": "39033-hooded-acolyte",
+      "classId": 6,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 21,
+      "rarityId": 1,
+      "artistName": "Adam Byrne",
+      "health": 6,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "두건 쓴 수행사제",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, 캐릭터가 치유될 때마다 내 크툰에게 +1/+1을 부여합니다. \u003ci\u003e(어디에 있든)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e86f6660d91fc0b15638149fdefa422aec7a1b989c61cc20ea7715675a732f9.png",
+      "imageGold": "",
+      "flavorText": "네? 두건을 쓰지 않는 수행사제도 있다고요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4252209620c2d53ca602ba99e294d4d5477b0619c7794eeebec0158b720c4e1c.png",
+      "keywordIds": [
+        1
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 103216,
+      "collectible": 1,
+      "slug": "103216-hooded-acolyte",
+      "classId": 6,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1898,
+      "rarityId": 1,
+      "artistName": "Adam Byrne",
+      "health": 6,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "두건 쓴 수행사제",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, 캐릭터가 치유될 때마다 내 크툰에게 +1/+1을 부여합니다. \u003ci\u003e(어디에 있든)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58e34b795ce02fceb307fe60376a0ff62a193bffce455a98b2446b471313e4ed.png",
+      "imageGold": "",
+      "flavorText": "네? 두건을 쓰지 않는 수행사제도 있다고요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7e16dd066fc63b519e68c284cbb43bf72da12f479a0428c369f381bee8ca9fd5.png",
+      "keywordIds": [
+        1
+      ],
+      "copyOfCardId": 39033
+    },
+    {
+      "id": 50547,
+      "collectible": 1,
+      "slug": "50547-rain-of-toads",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1129,
+      "rarityId": 1,
+      "artistName": "Cicily He",
+      "manaCost": 6,
+      "name": "두꺼비 소나기",
+      "text": "\u003cb\u003e도발\u003c/b\u003e 능력이 있는 2/4 두꺼비를 셋 소환합니다. \u003cb\u003e과부하:\u003c/b\u003e (3)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ddad5e6ac9229a38411be511a830260cee96bbf16c559e724b715093dcfaaef4.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2436bfbe6c84a9bb614ea31f5fb1a56791a3e7ef50df9956a4aa9ac44e611790.png",
+      "flavorText": "\"아, 종양을 저렇게 전염시키는 거였군요!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2d4c1ed90e180a4e8d048a3e92a1967334457a7616b36bed6c80c1c75b5cd9e9.png",
+      "childIds": [
+        50906
+      ],
+      "keywordIds": [
+        1,
+        14
+      ]
+    },
+    {
+      "id": 59207,
+      "collectible": 1,
+      "slug": "59207-brain-freeze",
+      "classId": 12,
+      "multiClassIds": [
+        4,
+        7
+      ],
+      "spellSchoolId": 3,
+      "cardTypeId": 5,
+      "cardSetId": 1443,
+      "rarityId": 3,
+      "artistName": "Peter Stapleton",
+      "manaCost": 1,
+      "name": "두뇌 빙결",
+      "text": "하수인을 \u003cb\u003e빙결\u003c/b\u003e 상태로 만듭니다. \u003cb\u003e연계:\u003c/b\u003e 그 하수인에게 피해도 3 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4172ad3a040cef0688ce5cc45e1b04b2b5a0bcd963443b3789f9cd2c15cfea31.png",
+      "imageGold": "",
+      "flavorText": "\"교수님이 갑자기 부르셔서 꽁꽁 얼어붙고 말았어!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9456b41cffd5c6ef929d2a93c0e292b0dec1e8a650d305066ef2d0400a669d87.png",
+      "keywordIds": [
+        10,
+        13
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 59027,
+      "collectible": 1,
+      "slug": "59027-steward-of-scrolls",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1443,
+      "rarityId": 1,
+      "artistName": "Ware Lee",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "두루마리 관리자",
+      "text": "\u003cb\u003e주문 공격력 +1\u003c/b\u003e \u003cb\u003e전투의 함성:\u003c/b\u003e 주문을 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d152c6308bdebac8b05b374cc387ed65b4c13e8d0333e55612ad07f71eed79a.png",
+      "imageGold": "",
+      "flavorText": "이런 망할! 잉크 정령이 논문 위에 엎어졌잖아!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eedbaae63d1a996a175bbae25e0f3131d716f492362e27df58424753a57260a5.png",
+      "keywordIds": [
+        2,
+        8,
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 40703,
+      "collectible": 1,
+      "slug": "40703-don-hancho",
+      "classId": 12,
+      "multiClassIds": [
+        3,
+        5,
+        10
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 25,
+      "rarityId": 5,
+      "artistName": "Tyson Murphy",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 5,
+      "name": "두목 한초",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 있는 무작위 하수인에게 +5/+5를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d0510de16c3e50b4efc937bedcc55386865f2a7e982cad85a3871557be84b61.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c1a30487bacc6d951c9334b4a5985769ce99046e00ad99022c203632d1d8f2f.png",
+      "flavorText": "험악한 떡대들의 두목 중 하나인 한은 가끔 초를 그냥 두고 가면 어떨까 생각하지만 그런다면 가슴이 찢어지는 느낌이 들까봐 아직까지 참고 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9466723711797b3e0c37d5733174b952a01e9e1bb62046d19d79efc8ac5a279e.png",
+      "keywordIds": [
+        8,
+        27
+      ]
+    },
+    {
+      "id": 102682,
+      "collectible": 1,
+      "slug": "102682-don-hancho",
+      "classId": 12,
+      "multiClassIds": [
+        3,
+        5,
+        10
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1898,
+      "rarityId": 5,
+      "artistName": "Tyson Murphy",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 5,
+      "name": "두목 한초",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손에 있는 무작위 하수인에게 +5/+5를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5d43b8507cdf866ebd86821169e77ca54105058db240758b0d1cb350ed1f4566.png",
+      "imageGold": "",
+      "flavorText": "험악한 떡대들의 두목 중 하나인 한은 가끔 초를 그냥 두고 가면 어떨까 생각하지만 그런다면 가슴이 찢어지는 느낌이 들까 봐 아직까지 참고 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9466723711797b3e0c37d5733174b952a01e9e1bb62046d19d79efc8ac5a279e.png",
+      "keywordIds": [
+        8,
+        27
+      ],
+      "copyOfCardId": 40703
+    },
+    {
+      "id": 48111,
+      "collectible": 1,
+      "slug": "48111-shudderwock",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1125,
+      "rarityId": 5,
+      "artistName": "Matt Dixon",
+      "health": 6,
+      "attack": 6,
+      "manaCost": 9,
+      "name": "두억시니",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이번 게임에서 내가 낸 다른 전투의 함성 효과들을 반복합니다. \u003ci\u003e(대상은 무작위로 선택)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb1c2fd339df98ed3eadb1b03e17ea48a8e1da02c1280dd6c898553b145e4d5f.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b1d7e7b760252cf3a1e1bd0cd74b192d2c47e4778659a6ea61a6a4123b43b8f6.png",
+      "flavorText": "죽었니, 살았니, 누구니! 무섭니, 두렵니, 두억시니!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/eace83018766e04325c89a78fb6af98abfe5b40c8b00a8a2131a016a99f4523d.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 63029,
+      "collectible": 1,
+      "slug": "63029-thickhide-kodo",
+      "classId": 2,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 1,
+      "artistName": "Zoltan Boros",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "두툼가죽 코도",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e 방어도를 +5 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f42e81106089b3eb473c47057c6664e308f88b665f447943ead4fda6099d9618.png",
+      "imageGold": "",
+      "flavorText": "전문 기술이 도입되자 코도의 개체수가 눈에 띄게 줄었습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d198252bc4b935e6811d67b9723c2aeeb56bcf44197370c4784853811ae7a0a3.png",
+      "keywordIds": [
+        1,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 352,
+      "collectible": 1,
+      "slug": "352-doomhammer",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 3,
+      "rarityId": 4,
+      "artistName": "John Polidora",
+      "attack": 2,
+      "manaCost": 5,
+      "durability": 8,
+      "name": "둠해머",
+      "text": "\u003cb\u003e질풍\u003c/b\u003e \u003cb\u003e과부하:\u003c/b\u003e (2)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/301fb6a9b448df04b53f896c83e2391a00a93ef7e7d1740f32f12ea2ef5b1489.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a06b55a7515ce7bc7dcd493e619db04be4d7f336a55ea55fffa101ae9db1d416.png",
+      "flavorText": "오그림 둠해머는 자신의 전설적인 무기를 스랄에게 주었습니다. 무기와 그의 이름이 같은 건... 그저 우연입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f8cfb18cd5fdd4dbc8ba6ea522204bfc14be24174f2c999f124c30a0b2a3513.png",
+      "keywordIds": [
+        11,
+        14
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69630,
+      "collectible": 1,
+      "slug": "69630-doomhammer",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1637,
+      "rarityId": 4,
+      "artistName": "John Polidora",
+      "attack": 2,
+      "manaCost": 5,
+      "durability": 8,
+      "name": "둠해머",
+      "text": "\u003cb\u003e질풍\u003c/b\u003e \u003cb\u003e과부하:\u003c/b\u003e (2)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1b91ab9bad6cf0cf6963bb32d074646ff48457f8c5ca478d0815789f8b9950b.png",
+      "imageGold": "",
+      "flavorText": "오그림 둠해머는 자신의 전설적인 무기를 스랄에게 주었습니다. 무기와 그의 이름이 같은 건... 그저 우연입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ed12282c1cfeac69f059071066582f46e1be8c2fe6c513879e86c04cb981386.png",
+      "keywordIds": [
+        11,
+        14
+      ],
+      "copyOfCardId": 352,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69981,
+      "collectible": 1,
+      "slug": "69981-doomhammer",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1646,
+      "rarityId": 4,
+      "artistName": "John Polidora",
+      "attack": 2,
+      "manaCost": 5,
+      "durability": 8,
+      "name": "둠해머",
+      "text": "\u003cb\u003e질풍\u003c/b\u003e \u003cb\u003e과부하:\u003c/b\u003e (2)",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b2ed7c6ed5f319696b467434fd80801d8347d5edebff5c0196cf6d34e3c852cd.png",
+      "imageGold": "",
+      "flavorText": "오그림 둠해머는 자신의 전설적인 무기를 스랄에게 주었습니다. 무기와 그의 이름이 같은 건... 그저 우연입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4f8cfb18cd5fdd4dbc8ba6ea522204bfc14be24174f2c999f124c30a0b2a3513.png",
+      "keywordIds": [
+        11,
+        14
+      ],
+      "copyOfCardId": 352
+    },
+    {
+      "id": 41305,
+      "collectible": 1,
+      "slug": "41305-nesting-roc",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 27,
+      "rarityId": 1,
+      "artistName": "Paul Mafayon",
+      "health": 7,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "둥지를 튼 로크",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 전장에 다른 하수인이 둘 이상 있으면, \u003cb\u003e도발\u003c/b\u003e을 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2d24b4b10207b1b93f4d50b1b1c0934f524ee29b5e29529ab5363b771559ac7.png",
+      "imageGold": "",
+      "flavorText": "로크의 알은 오믈렛이나 샌드위치를 만들 때 아주 좋습니다. 밀렵꾼을 유인할 때에도 유용하죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f8cd1644769a7011686c504d56fd6e98effe12967ef865b37530e0855fe700ac.jpg",
+      "keywordIds": [
+        1,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 46088,
+      "collectible": 1,
+      "slug": "46088-rummaging-kobold",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1004,
+      "rarityId": 4,
+      "artistName": "Trent Kaniuga \u0026 James Martin",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 3,
+      "name": "뒤적거리는 코볼트",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 파괴된 내 무기 중 하나를 내 손으로 다시 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08eae70aaf04eef5b033380e7a610cc8ac04cc6a0979cb63232e4cab15fe2bbe.png",
+      "imageGold": "",
+      "flavorText": "\"장검이 부러지니 그로 말미암아 새로운 단검이 생기더라.\" - 코볼트복음 10장 1절",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fffee24e612142138f0589dac0e1427e266cdc064a74437a084d489b26584648.jpg",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 84289,
+      "collectible": 1,
+      "slug": "84289-twisted-tether",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1776,
+      "rarityId": 3,
+      "artistName": "Ramzy Kamen",
+      "manaCost": 4,
+      "name": "뒤틀린 끈",
+      "text": "하수인을 처치합니다. 그 하수인의 능력치를 내 손에 있는 무작위 언데드에게 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/dc905ed7956176d2027c31069b0facb859fd68c2340caa283821ae1fc23c1238.png",
+      "imageGold": "",
+      "flavorText": "끈을 잘못 묶으면 풀기도 어렵죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c32631da1a2a4655d2d4e43945bd4bc617b3eae7e26e364770351dadeda626f5.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 38781,
+      "collectible": 1,
+      "slug": "38781-twisted-worgen",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 21,
+      "rarityId": 1,
+      "artistName": "Trent Kaniuga",
+      "health": 1,
+      "attack": 3,
+      "manaCost": 2,
+      "name": "뒤틀린 늑대인간",
+      "text": "\u003cb\u003e은신\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ff3b7d0c17e892be493dd2f283158d9f7f34735a44a64ccceee835520ae14177.png",
+      "imageGold": "",
+      "flavorText": "고대 신의 타락은 온갖 결과를 초래할 수 있습니다. 물론 공격력이 +1만 오르는 경우도 있습니다. 복권이 모두 대박만 나는 건 아니잖아요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2f7b380a7b4c68b031bb0baf832e7508eff274b039b2dc7996bfed58f310c64a.jpg",
+      "keywordIds": [
+        6
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 100992,
+      "collectible": 1,
+      "slug": "100992-twisted-frostwing",
+      "classId": 3,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1858,
+      "rarityId": 3,
+      "artistName": "Anton Zemskov",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "뒤틀린 서리날개",
+      "text": "\u003cb\u003e속공\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e 이 하수인의 공격력과 능력치가 같은 키메라를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a5329955823951c33ac3f150ec28554090da62a0d885390f88a7a4b9ce27ba25.png",
+      "imageGold": "",
+      "flavorText": "언제부터 변칙전에서 쓸 수 있을까요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8a2ef666ffd88dee0bc500d0aeac6d6ee1886d4e218458d3cd7499189a0fd3e7.png",
+      "childIds": [
+        100994
+      ],
+      "keywordIds": [
+        12,
+        53
+      ]
+    },
+    {
+      "id": 54897,
+      "collectible": 1,
+      "slug": "54897-zzeraku-the-warped",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 5,
+      "artistName": "Slawomir Maniak",
+      "health": 12,
+      "attack": 4,
+      "manaCost": 8,
+      "name": "뒤틀린 제라쿠",
+      "text": "내 영웅이 피해를 받을 때마다 6/6 황천의 비룡을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/abc40e4ffe5b0f597726b57dd9a68c68ea8a50e9dde9b090e71630a02f50c297.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7abe2f0abfe429eb8a9c7eddf35cd3dabd758a9e7ef67fa8ae809b3e9197b88b.png",
+      "flavorText": "뒤틀린 곳에서 있다 보니 자신까지 뒤틀려버렸네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8eacf765a13854463b418e28e4f86b1995c25e7c946071fa7ecc154df01b0041.png",
+      "childIds": [
+        56228
+      ]
+    },
+    {
+      "id": 56109,
+      "collectible": 1,
+      "slug": "56109-twisted-knowledge",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1403,
+      "rarityId": 1,
+      "artistName": "Rafael Zanchetin",
+      "manaCost": 2,
+      "name": "뒤틀린 지식",
+      "text": "흑마법사 카드를 2장 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/939c1d8ebe07f8b02d20faf20a69d6a9a9e4c80650dd0df00baa6488a4803fc1.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/acef8ca26c9af8f44ea0784fb151f32b9b58a5066d022e1e70e9d4f043a22b6a.png",
+      "flavorText": "사람은 일년에 8마리의 거미를 수면 중에 먹는다. 켄타우로스는 흉곽이 두 겹으로 이루어져 있다. 드워프는 티탄의 모조품일 뿐이다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0f406d67f228b75fe913b8b6dc6bb906cbee9c6dbfb08bdf12ed3b1006266540.png",
+      "keywordIds": [
+        21
+      ]
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 27
+}

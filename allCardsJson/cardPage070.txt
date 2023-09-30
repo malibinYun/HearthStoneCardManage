@@ -1,0 +1,1036 @@
+{
+  "cards": [
+    {
+      "id": 68389,
+      "collectible": 1,
+      "slug": "68389-ironforge-rifleman",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Tooth",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "아이언포지 소총병",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 피해를 1 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ab913dc297e231bbea63be2270c023a6de879cde258cade84036d80dccd204b7.png",
+      "imageGold": "",
+      "flavorText": "\"준비! 조준! 마셔!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4a395905731befa04c7dce532b4148c844e02a851a258753226ef279eaf2b1d7.png",
+      "keywordIds": [
+        8
+      ],
+      "copyOfCardId": 339
+    },
+    {
+      "id": 39747,
+      "collectible": 1,
+      "slug": "39747-ironforge-portal",
+      "classId": 10,
+      "multiClassIds": [],
+      "spellSchoolId": 2,
+      "cardTypeId": 5,
+      "cardSetId": 23,
+      "rarityId": 1,
+      "artistName": "Nate Bowden",
+      "manaCost": 4,
+      "name": "아이언포지 차원문",
+      "text": "방어도를 +4 얻습니다. 비용이 4인 무작위 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/254c30a7170bf3e27916e0481671bf08472e39e598c51a01e20743ff7b5e1ae2.png",
+      "imageGold": "",
+      "flavorText": "철로 된 제련소에서 철을 제련하는 아름다운 아이언포지로 오세요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/314d8b7f525279f6b1098fb7a50ca2aa64999a0d0ba76375ea9f6c1b9c6015d5.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 103240,
+      "collectible": 1,
+      "slug": "103240-ironforge-portal",
+      "classId": 10,
+      "multiClassIds": [],
+      "spellSchoolId": 2,
+      "cardTypeId": 5,
+      "cardSetId": 1898,
+      "rarityId": 1,
+      "artistName": "Nate Bowden",
+      "manaCost": 4,
+      "name": "아이언포지 차원문",
+      "text": "방어도를 +4 얻습니다. 비용이 4인 무작위 하수인을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/39fe86d1d86439038d9f930610d631a83ccbf40b66a11f9a7be0a45be32f39f7.png",
+      "imageGold": "",
+      "flavorText": "철로 된 제련소에서 철을 제련하는 아름다운 아이언포지로 오세요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/643a00469a6e8c7a7252cde8596f7c3e2061e5b2db4ef33077ef4270e31676fa.png",
+      "copyOfCardId": 39747
+    },
+    {
+      "id": 42422,
+      "collectible": 1,
+      "slug": "42422-rattling-rascal",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 4,
+      "artistName": "Peter Stapleton",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 4,
+      "name": "아장아장거리는 해골",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 5/5 해골을 소환합니다. \u003cb\u003e죽음의 메아리:\u003c/b\u003e 상대편에게 5/5 해골을 소환해 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d593c0f56dae0e17d1b0eca5797b952903c160abbd391a3bf230ab9344ec0277.png",
+      "imageGold": "",
+      "flavorText": "해골, 포기하지 마세요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9d24f6949a7d4fa8ef5505afe4a2ec7ffbf2b688ccacc97a4ead566a3eb041b7.png",
+      "childIds": [
+        42423
+      ],
+      "keywordIds": [
+        8,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 52415,
+      "collectible": 1,
+      "slug": "52415-azerite-elemental",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "cardTypeId": 4,
+      "cardSetId": 1130,
+      "rarityId": 4,
+      "artistName": "Luca Zontini",
+      "health": 7,
+      "attack": 2,
+      "manaCost": 5,
+      "name": "아제라이트 정령",
+      "text": "내 턴이 시작될 때, \u003cb\u003e주문 공격력 +2\u003c/b\u003e를 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f5c547b6639f75a02b8237c077ffba7767ef290886331fec6ba8dadda8f56f8e.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d6fbaba1b6daf6839abe583595dc2859f0215cac73afe049f6ccd811c7583176.png",
+      "flavorText": "저건 해로운 정령이다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3ec5caa56f783cb33379feed536cdc344c1e421b9ffd02b691d8ccf2972f0fc2.png",
+      "keywordIds": [
+        2
+      ]
+    },
+    {
+      "id": 72926,
+      "collectible": 1,
+      "slug": "72926-azsharan-mooncatcher",
+      "classId": 5,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 3,
+      "artistName": "Evgeniy Dlinnov",
+      "health": 2,
+      "attack": 4,
+      "manaCost": 3,
+      "name": "아즈샤라 달빛잡이",
+      "text": "\u003cb\u003e천상의 보호막\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e \u0027가라앉은 달빛잡이\u0027를 내 덱 맨 아래에 놓습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bdf18c2ad9a837112d415b5497d8ed42e2bd28a93fccf4c9754015fae2416875.png",
+      "imageGold": "",
+      "flavorText": "진아즈샤리의 유적에서 엘룬의 빛이 바랬지만, 보물은 그 빛을 간직하고 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/11697e7da79911682452652b3f90c828483415db0fb7209886cdb775e8284672.png",
+      "childIds": [
+        74957
+      ],
+      "keywordIds": [
+        3,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 77209,
+      "collectible": 1,
+      "slug": "77209-azsharan-scroll",
+      "classId": 8,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1658,
+      "rarityId": 3,
+      "artistName": "Angelina Chernyak",
+      "manaCost": 1,
+      "name": "아즈샤라 두루마리",
+      "text": "화염, 냉기, 자연 주문을 \u003cb\u003e발견\u003c/b\u003e합니다. \u0027가라앉은 두루마리\u0027를 내 덱 맨 아래에 놓습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45e07e85973dad67c6123f027dcf2395559ede08d53cb79afb2312a9362571a8.png",
+      "imageGold": "",
+      "flavorText": "요즘 애들은 허구한 날 고서만 보고 있어.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/45959868416a839d2827b9c79089a6250730f54edc31a8448a1e95abd632eada.png",
+      "childIds": [
+        77211
+      ],
+      "keywordIds": [
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 72113,
+      "collectible": 1,
+      "slug": "72113-azsharan-trident",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1658,
+      "rarityId": 1,
+      "artistName": "Tanamaes Leejiarasaes",
+      "attack": 3,
+      "manaCost": 3,
+      "durability": 2,
+      "name": "아즈샤라 삼지창",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e \u0027가라앉은 삼지창\u0027을 내 덱 맨 아래에 놓습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9cd12540367fc9ea626a1a8aaf9eb401fbf8c142709d8446e8eb0add14655bed.png",
+      "imageGold": "",
+      "flavorText": "잘 만든 무기는 영원히 그 위상을 떨칩니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a2929d383dd7c6f857fad5b32b541b99ee4daffea42eb3e13f9180f3fdf27de.png",
+      "childIds": [
+        72114
+      ],
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 72254,
+      "collectible": 1,
+      "slug": "72254-azsharan-scavenger",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 14,
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 1,
+      "artistName": "Ivan Fomin",
+      "health": 3,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "아즈샤라 수집가",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e \u0027가라앉은 수집가\u0027를 내 덱 맨 아래에 놓습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c7282f74fb79a037a91ee68142d30d9e2c2441adcb28c2cce37b4791516caf06.png",
+      "imageGold": "",
+      "flavorText": "일부 멀록 군집들이 유적의 척박한 환경 속에서 적응하고 살아남은 모습을 관찰한 핀리는 경이로움에 빠졌습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e3b2bfcbbc9adb5aaf61ad297755af8f0af0e3f8fcfaba903b885331eb156b8f.png",
+      "childIds": [
+        78672
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 77374,
+      "collectible": 1,
+      "slug": "77374-azsharan-ritual",
+      "classId": 6,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1658,
+      "rarityId": 3,
+      "artistName": "Maria Trepalina",
+      "manaCost": 4,
+      "name": "아즈샤라 의식",
+      "text": "하수인을 \u003cb\u003e침묵\u003c/b\u003e시키고 복사하여 소환합니다. \u0027가라앉은 의식\u0027을 내 덱 맨 아래에 놓습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/80deaa46d129cd5af5ea50f73026c44690b58b37e38cab77320b42c7323e3baf.png",
+      "imageGold": "",
+      "flavorText": "누구인가? 누가 지금 기침 소리를 내었어?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/83dd7e6fa83e7ea3a69f2bfb1aa9b741979d73ab5e1b2f0ff2abccec925d8e99.png",
+      "childIds": [
+        77378
+      ],
+      "keywordIds": [
+        15
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 72336,
+      "collectible": 1,
+      "slug": "72336-azsharan-gardens",
+      "classId": 2,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1658,
+      "rarityId": 1,
+      "artistName": "Zoltan Boros",
+      "manaCost": 1,
+      "name": "아즈샤라 정원",
+      "text": "내 손에 있는 모든 하수인에게 +1/+1을 부여합니다. \u0027가라앉은 정원\u0027을 내 덱 맨 아래에 놓습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36fe608c92df85c839618479479a571d65f4e2fcfaa3f3fe7edde927c3560927.png",
+      "imageGold": "",
+      "flavorText": "정원에 물을 주라고 했더니 이렇게 많이 주면 어떡해요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bb94e2d7ac937e6ee23dd45dee4359da8703455903020650f1c9908316dec7ed.png",
+      "childIds": [
+        72337
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 77016,
+      "collectible": 1,
+      "slug": "77016-azsharan-sweeper",
+      "classId": 4,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 1,
+      "artistName": "Anton Zemskov",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "아즈샤라 청소로봇",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e \u0027가라앉은 청소로봇\u0027을 내 덱 맨 아래에 놓습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bc03353f60553d215fee2ee2c539dcdc71845b5bf915d2bc92ee5036d4334d3.png",
+      "imageGold": "",
+      "flavorText": "마법이 부여된 진아즈샤리 상품들은 보증 기간이 매우 깁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d1743c9e29ecf7edcc60c5b54af3c33695372a7cc8ba6a01cc87e09cd0e41013.png",
+      "childIds": [
+        77017
+      ],
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 72657,
+      "collectible": 1,
+      "slug": "72657-azsharan-defector",
+      "classId": 14,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 3,
+      "artistName": "Vlad Botos",
+      "health": 3,
+      "attack": 5,
+      "manaCost": 4,
+      "name": "아즈샤라 탈주자",
+      "text": "\u003cb\u003e속공\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e \u0027가라앉은 탈주자\u0027를 내 덱 맨 아래에 놓습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8e6372faff3391b6a8049f96e86c373e2f399dc00fecd028506a444c5fa460f.png",
+      "imageGold": "",
+      "flavorText": "\"여왕이 수상해.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c5a3e349f902092321e118c33dd46d543fe3fce7f3078c12da5105f09fe5346e.png",
+      "childIds": [
+        75064
+      ],
+      "keywordIds": [
+        12,
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 72212,
+      "collectible": 1,
+      "slug": "72212-azsharan-sentinel",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 1,
+      "artistName": "Patrik Bjorkstrom",
+      "health": 6,
+      "attack": 5,
+      "manaCost": 5,
+      "name": "아즈샤라 파수기",
+      "text": "\u003cb\u003e도발\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e \u0027가라앉은 파수기\u0027를 내 덱 맨 아래에 놓습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0573d6fc2c4b82a9c2eb42401ecb654c26adb7606242914ab6b8bfe87300644a.png",
+      "imageGold": "",
+      "flavorText": "누군가에겐 세계의 분리가 문명의 몰락이었지만, 코어 강화 운동으로 받아들인 이들도 있었습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36c7bca3612db2ddd848293ecb48dd316a020d32d6067c3a4df5c1a978656841.png",
+      "childIds": [
+        72213
+      ],
+      "keywordIds": [
+        1,
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 72111,
+      "collectible": 1,
+      "slug": "72111-azsharan-vessel",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1658,
+      "rarityId": 4,
+      "artistName": "Jakub Kasper",
+      "manaCost": 5,
+      "name": "아즈샤라 함선",
+      "text": "\u003cb\u003e은신\u003c/b\u003e 능력이 있는 3/3 해적을 둘 소환합니다. \u0027가라앉은 함선\u0027을 내 덱 맨 아래에 놓습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/abce690bc91c990ea9c073a37a3a38de11627a480da869c7b504a15e0ccda5cd.png",
+      "imageGold": "",
+      "flavorText": "제아무리 견고한 명가의 배라도 세계의 분리 속 거친 물살을 버티진 못했습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c1f0352e296131f474fc153c3050f98bec7a32b94f16431b35b8cebac1d35337.png",
+      "childIds": [
+        72112,
+        72579,
+        72118
+      ],
+      "keywordIds": [
+        6
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 72896,
+      "collectible": 1,
+      "slug": "72896-azsharan-saber",
+      "classId": 3,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 1,
+      "artistName": "Mike Sass",
+      "health": 3,
+      "attack": 4,
+      "manaCost": 4,
+      "name": "아즈샤라 호랑이",
+      "text": "\u003cb\u003e속공\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e \u0027가라앉은 호랑이\u0027를 내 덱 맨 아래에 놓습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4fec1b8a5e9e8168e41d2fd04dc4943b5c717309d4f4407f82b57dac91fcd6b.png",
+      "imageGold": "",
+      "flavorText": "나이트 엘프들은 예부터 고양이에 진심이었나 봅니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/539ab3805d6a817cb28141fcc64d64b346c82cb4be5cf916306dbd10728ffb11.png",
+      "childIds": [
+        78159
+      ],
+      "keywordIds": [
+        12,
+        53
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 72423,
+      "collectible": 1,
+      "slug": "72423-radiance-of-azshara",
+      "classId": 8,
+      "multiClassIds": [],
+      "minionTypeId": 18,
+      "multiTypeIds": [
+        92
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 5,
+      "artistName": "Konstantin Turovec",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "아즈샤라의 광채",
+      "text": "\u003cb\u003e화염 주문 공격력 +2\u003c/b\u003e, 내 자연 주문들의 비용이 (1) 감소합니다. 내가 냉기 주문을 시전한 후에, 방어도를 +3 얻습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b679db75e80b3d4f3c70eb074eec33a04b6e1b4b435cd9139d1bceb391f6a915.png",
+      "imageGold": "",
+      "flavorText": "비전, 화염, 냉기 마법으로 아즈샤라 여왕의 적들을 격퇴합니다. 게다가 피부 관리의 비결이랍니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0d1a841d1bf9a0ee27b703c898938ce66b81480a15ffbf89ab3a3cd8b58dcc9d.png",
+      "keywordIds": [
+        102
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 72929,
+      "collectible": 1,
+      "slug": "72929-gifts-of-azshara",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 1,
+      "cardTypeId": 5,
+      "cardSetId": 1658,
+      "rarityId": 3,
+      "artistName": "James Ryman",
+      "manaCost": 2,
+      "name": "아즈샤라의 선물",
+      "text": "카드를 뽑습니다. 내 손에 있을 때 나가를 냈으면, 반복합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/21401905299f589435da99e30117af486b4e15888577faf31a65334dcb59cfdb.png",
+      "imageGold": "",
+      "flavorText": "\"요새 비전 마력으로 이렇게 마사지 해 주는 게 또 유행이거든요.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/02feae94b38510427312190ee5d564a688e004a21f6808422495a45923d905b4.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 57721,
+      "collectible": 1,
+      "slug": "57721-bulwark-of-azzinoth",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1414,
+      "rarityId": 5,
+      "artistName": "SARIYA",
+      "attack": 1,
+      "manaCost": 3,
+      "durability": 4,
+      "name": "아지노스의 보루 방패",
+      "text": "내 영웅이 피해를 받을 때마다 내구도를 1 잃고 그 피해를 막습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0411f6104a6a585d376db823a5a2a06dbf540531513d8c916077985c5a63f6df.png",
+      "imageGold": "",
+      "flavorText": "단단한 아지노스의 보루로 든든한 아제로스의 하루 보내시길.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d72fe5aed69774450aaed82db20b70fed8d907da6e41e20ce60126d6b58cf316.png"
+    },
+    {
+      "id": 56900,
+      "collectible": 1,
+      "slug": "56900-warglaives-of-azzinoth",
+      "classId": 14,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1414,
+      "rarityId": 4,
+      "artistName": "SARIYA",
+      "attack": 3,
+      "manaCost": 5,
+      "durability": 3,
+      "name": "아지노스의 쌍날검",
+      "text": "내 영웅이 하수인을 공격한 후에, 다시 공격할 수 있습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1340807607b275e2288eaeacedf20f3230ebd599d34e462450cb1cad69dcb5ed.png",
+      "imageGold": "",
+      "flavorText": "보이지 않는 깊은 곳에서부터 초록빛으로 메아리치는 칼날, 그 지옥불꽃의 희미한 빛에서 소용돌이치는 어두운 꿈을 보았네.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e66d0b21c9e605bf1299d2bf89a5e73c27632ce346f7336186d22e294ec8915a.png"
+    },
+    {
+      "id": 56530,
+      "collectible": 1,
+      "slug": "56530-akama",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1414,
+      "rarityId": 5,
+      "artistName": "James Ryman",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "아카마",
+      "text": "\u003cb\u003e은신\u003c/b\u003e, \u003cb\u003e죽음의 메아리:\u003c/b\u003e \u0027아카마 프라임\u0027을 내 덱에 섞어 넣습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4b2997feabf5300a59871049173e905b6825e053645c805a4d06526a17e7ab92.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/903f1dc15a003f6f79ac4aa9b5ba6d30038e50775d49c8a1b36156555ae87a92.png",
+      "flavorText": "\"내 부족 중 몇몇은 나를 배신자... 혹은 일리단의 충견으로 부르곤 하지. 때가 될 때까지는... 잠시 그림자 속에서 기다리고 있겠다. 음, 생각해보니 계속 그림자 속에 있는 게 나을 것 같은데.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b30a22671ad3c18de942e777344256f1d36bd269726eec5f1a5ac17aefcafc9c.png",
+      "childIds": [
+        57156
+      ],
+      "keywordIds": [
+        6,
+        12
+      ]
+    },
+    {
+      "id": 42773,
+      "collectible": 1,
+      "slug": "42773-acherus-veteran",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 1,
+      "artistName": "Luke Mancini",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 1,
+      "name": "아케루스 정예병",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 아군 하수인에게 공격력을 +1 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8973496e9dd204636d43ec551ff24d7bb05f5a12760a2ec8457003697be89189.png",
+      "imageGold": "",
+      "flavorText": "이건 제 룬검입니다. 세상엔 많은 룬검이 있지만 이것이야말로 제 룬검이죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/27c367d387ece3595093dc59e590fa3a8047679423f621f053c7b0fb88aa45fe.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 304,
+      "collectible": 1,
+      "slug": "304-arcanite-reaper",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Stefan Kopinski",
+      "attack": 5,
+      "manaCost": 5,
+      "durability": 2,
+      "name": "아케이나이트 도끼",
+      "text": "",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fa4623ca707aa4f8fcf45d81ff286ac5eb5e67fe333ace22bde4de34424bc051.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2844ea3fda344acac193ca9b1b1e82f44d9b1c56ea6b4ca23d9be7404717b58.png",
+      "flavorText": "세월이 지나도 명품은 명품입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a33906b009940ce8b08cd4b65ef584ce844df5fa4c6aaf1ec0b18df4699877cf.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68377,
+      "collectible": 1,
+      "slug": "68377-arcanite-reaper",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Stefan Kopinski",
+      "attack": 5,
+      "manaCost": 5,
+      "durability": 2,
+      "name": "아케이나이트 도끼",
+      "text": "",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bbdb88f7a77c48ae8ddd40f3b7931cc1f469c9ee83c8b06a823e82561239e5c.png",
+      "imageGold": "",
+      "flavorText": "세월이 지나도 명품은 명품입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a33906b009940ce8b08cd4b65ef584ce844df5fa4c6aaf1ec0b18df4699877cf.png",
+      "copyOfCardId": 304
+    },
+    {
+      "id": 91232,
+      "collectible": 1,
+      "slug": "91232-arcanite-ripper",
+      "classId": 1,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1809,
+      "rarityId": 3,
+      "artistName": "Mooncolony ",
+      "attack": 3,
+      "manaCost": 3,
+      "durability": 2,
+      "name": "아케이나이트 절단도끼",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e \u003cb\u003e생명력 흡수\u003c/b\u003e 능력이 있는 / 언데드를 소환합니다. \u003ci\u003e(장착하고 있을 때 내 턴에 생명력이 바뀌면 강화됩니다!)\u003c/i\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/74b992e5b6c9c883580348a72696777f9eacb391bf0d45f408b5b75df48a5914.png",
+      "imageGold": "",
+      "flavorText": "해골 달린 기타라. 헤드뱅잉에 써먹기 완벽하네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0a16e96aab44bda5516709b1781ea42e7649b82b9e774b99dbcefa8c5d632f19.png",
+      "childIds": [
+        91233
+      ],
+      "keywordIds": [
+        12,
+        38
+      ],
+      "runeCost": {
+        "blood": 1,
+        "frost": 0,
+        "unholy": 0
+      }
+    },
+    {
+      "id": 237,
+      "collectible": 1,
+      "slug": "237-auchenai-soulpriest",
+      "classId": 6,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 3,
+      "artistName": "Doug Alexander",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "아키나이 영혼사제",
+      "text": "생명력을 회복시키는 내 카드와 능력들이 이제 그만큼의 피해를 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4347a2fade6a0792a9b4879955b7afe42bba1bd4ac0d890fdbb908dcadfa3ff1.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/406de3f02683e7632c2ccfe750dc83a123992ff4200ffb6bfd8149e20db9a459.png",
+      "flavorText": "아키나이들은 세상에 종말이 온다는 걸 알고 있습니다. 언제 오는진 잘 모르지만요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b74c153ec6968662ce7fddb4e4abbc8b07d01f51eae1d62cdeda125358869d0.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 70039,
+      "collectible": 1,
+      "slug": "70039-auchenai-soulpriest",
+      "classId": 6,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 3,
+      "artistName": "Doug Alexander",
+      "health": 5,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "아키나이 영혼사제",
+      "text": "생명력을 회복시키는 내 카드와 능력들이 이제 그만큼의 피해를 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5811789627e7d62b5a58baaad417fc12f50c213b8416c6bbe41d1c313bceba29.png",
+      "imageGold": "",
+      "flavorText": "아키나이들은 세상에 종말이 온다는 걸 알고 있습니다. 언제 오는진 잘 모르지만요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2b74c153ec6968662ce7fddb4e4abbc8b07d01f51eae1d62cdeda125358869d0.png",
+      "copyOfCardId": 237
+    },
+    {
+      "id": 50283,
+      "collectible": 1,
+      "slug": "50283-auchenai-phantasm",
+      "classId": 6,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1129,
+      "rarityId": 4,
+      "artistName": "Lemon Sky",
+      "health": 2,
+      "attack": 3,
+      "manaCost": 2,
+      "name": "아키나이 환영",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이번 턴에 생명력을 회복시키는 내 카드와 능력들이 그만큼의 피해를 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0d127c2c31317a7addda50157a96f818d065657ba49f815aa675a5c83161920.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3a95adbb8a229d31b41aa3f29a26692d0abfbf5d55b4ca402b9d77c1170c8a50.png",
+      "flavorText": "\"자, 여러분, 미리 치유하는 건 잊지 않으셨죠?\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1f8f126e7965b826e91252a6ca5d454a03465e3511d9ec4d101007eeb7a973d0.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 52082,
+      "collectible": 1,
+      "slug": "52082-nine-lives",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1130,
+      "rarityId": 4,
+      "artistName": "Anton Zemskov",
+      "manaCost": 3,
+      "name": "아홉 개의 생명",
+      "text": "이번 게임에서 죽은 아군 \u003cb\u003e죽음의 메아리\u003c/b\u003e 하수인을 \u003cb\u003e발견\u003c/b\u003e합니다. 그 하수인의 \u003cb\u003e죽음의 메아리\u003c/b\u003e도 발동시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a8087906b961047bf9c64beebd96639980ab1cb2fd5579d58c8da4b7837b2d36.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28a8d7d2625a2b95dfb1be00f47b0ce5c125db4fa507b45b943bf58c2bc7af6b.png",
+      "flavorText": "영원한 사냥이 시작됩니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a0a2d9263f5e817c111a23e3425a3254dae500ef205a09f07fe08c1b3cf5e1b0.png",
+      "keywordIds": [
+        12,
+        21
+      ]
+    },
+    {
+      "id": 90808,
+      "collectible": 1,
+      "slug": "90808-instrument-tech",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 1,
+      "artistName": "Mike Sass",
+      "health": 2,
+      "attack": 1,
+      "manaCost": 2,
+      "name": "악기 수리원",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 무기를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/40cad0ce2f98acc7611728ca4726108f655d891fabcdc8de3d8fd42cbf3f89ba.png",
+      "imageGold": "",
+      "flavorText": "수리도 교환도 안 된다고요? 완전 사기네.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a272d66497a8cdfd40918734f9ea8156c7db527a4b0f587f10b63f8ea5915240.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 90441,
+      "collectible": 1,
+      "slug": "90441-instrument-smasher",
+      "classId": 14,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1809,
+      "rarityId": 4,
+      "artistName": "Juan Calle",
+      "health": 6,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "악기 파괴자",
+      "text": "내 무기가 파괴될 때마다 무작위 악마사냥꾼 무기를 장착합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4bd11d334b5307c60bcb61d2d40314be95368d0d5c6ddf78da0bdb243642b722.png",
+      "imageGold": "",
+      "flavorText": "모든 악기가 타악기가 됩니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/82116001961770fc89e5daf5fd0f621ae4706984f22a1a17d41940338d08d216.png"
+    },
+    {
+      "id": 56112,
+      "collectible": 1,
+      "slug": "56112-fiendish-servant",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1403,
+      "rarityId": 1,
+      "artistName": "Mike Sass",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 1,
+      "name": "악독한 시종",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 무작위 아군 하수인에게 이 하수인의 공격력을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/bfd77cbe56b407b58ec7ad29ea4e83e5b979c62b62768e5ab202b46ac8192b95.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f2ac47c83aa8ce08cbd90ba89a0b73c34d733ebcbf29a8aa0b7adcff62c52bbf.png",
+      "flavorText": "악한 걸로도 부족하고 독한 걸로도 부족한 시종입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7195863f880c92831905c3435dbfa34982dfbff94e1da9d6103a8a4023553d03.png",
+      "keywordIds": [
+        12
+      ]
+    },
+    {
+      "id": 55251,
+      "collectible": 1,
+      "slug": "55251-fiendish-rites",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1347,
+      "rarityId": 1,
+      "artistName": "Dave Allsop",
+      "manaCost": 3,
+      "name": "악독한 의식",
+      "text": "갈라크론드의 강림을 \u003cb\u003e기원\u003c/b\u003e합니다. 내 하수인들에게 공격력을 +1 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/13057e68952f1d7cd96618e91c3c7592b3514fe6dc54072307af9442de7f69b9.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/98ee9d658630d24e96a500f28569418fc2a71ac10f2b4f6df3310a51b2f16510.png",
+      "flavorText": "\"당신은 아군을 희생할 권리가 있습니다. 아군이 없다면, 대신 희생할 이를 지정해줄 것입니다.\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f48866d69e0c122d2c384774e0f530058e684e0f533e6d19a1ca79f0b179da6b.png",
+      "childIds": [
+        55807,
+        57329,
+        55366,
+        57330,
+        57331,
+        55819
+      ],
+      "keywordIds": [
+        79
+      ]
+    },
+    {
+      "id": 61207,
+      "collectible": 1,
+      "slug": "61207-revenant-rascal",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1466,
+      "rarityId": 4,
+      "artistName": "Cheng Hao",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "악동 망령",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 각 플레이어의 마나 수정을 파괴합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4777a207e8283bdf187aadcff6c69177cc09a59316ece7ce08e348bf05282b8.png",
+      "imageGold": "",
+      "flavorText": "너어는 진짜 나쁜 망령이구나!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/010ae063456a92fbd87dc8a55b6c149e897d403fbca09c6c9090132941a98d0a.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42743,
+      "collectible": 1,
+      "slug": "42743-despicable-dreadlord",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 3,
+      "artistName": "Konstantin Turovec",
+      "health": 5,
+      "attack": 4,
+      "manaCost": 5,
+      "name": "악랄한 공포의 군주",
+      "text": "내 턴이 끝날 때, 모든 적 하수인에게 피해를 1 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/23eb996b019925d4bcf87a9d02b2682ba68900fde8fe5e7850ead065f1fde2ca.png",
+      "imageGold": "",
+      "flavorText": "죽여주게 악랄합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d5334f725e2bc88c2e05e711c82569693541058d94ed9101a94e11de6c197cc4.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 47054,
+      "collectible": 1,
+      "slug": "47054-book-of-specters",
+      "classId": 4,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1125,
+      "rarityId": 4,
+      "artistName": "Dave Allsop",
+      "manaCost": 2,
+      "name": "악령의 책",
+      "text": "카드를 3장 뽑습니다. 주문을 뽑으면, 그 주문을 버립니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/895a3391c40f22a81c90f7acb2e9af6cabc77349e463bc7d32da1e0e09ddf2e8.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/328722907a46097bac3071ae84dfb21229c7f31702e8a1005ea3d8261627b581.png",
+      "flavorText": "여러 땅에서는 도깨비노미콘이라고도 불립니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a4ca7f4a9f48fc723a7db9337e273e9501e27843f40d1cb25e6747c6a2b1f1f0.png"
+    },
+    {
+      "id": 860,
+      "collectible": 1,
+      "slug": "860-sense-demons",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 3,
+      "rarityId": 1,
+      "artistName": "Raven Mimura",
+      "manaCost": 3,
+      "name": "악마 감지",
+      "text": "내 덱에서 악마를 둘 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d2fa01dbf7f01f4e1a51df093fd7534e82e6ae0b27e18fcac62ed23307ec626a.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/551695b0c3f4769c3715481c4aa23f6da4aba52feeacb0ad0428d0b8ed95a9cd.png",
+      "flavorText": "일반적으로 악마들은 굉장히 눈에 띄는 존재여서, 굳이 주문까지 사용하지 않아도 감지할 수 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a860ffde1136f556e8fcca76f264c28895d29a1796a8755ecffb29ca9c61cd4.png",
+      "childIds": [
+        1723
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69922,
+      "collectible": 1,
+      "slug": "69922-sense-demons",
+      "classId": 9,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 1,
+      "artistName": "Raven Mimura",
+      "manaCost": 3,
+      "name": "악마 감지",
+      "text": "내 덱에서 악마를 둘 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7945ac26879c4ed308ced380c09a1b2301bb375d8ee92f7433416e4eb7dc56da.png",
+      "imageGold": "",
+      "flavorText": "일반적으로 악마들은 굉장히 눈에 띄는 존재여서, 굳이 주문까지 사용하지 않아도 감지할 수 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a860ffde1136f556e8fcca76f264c28895d29a1796a8755ecffb29ca9c61cd4.png",
+      "childIds": [
+        1723
+      ],
+      "copyOfCardId": 860
+    },
+    {
+      "id": 59628,
+      "collectible": 1,
+      "slug": "59628-demonic-studies",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1443,
+      "rarityId": 1,
+      "artistName": "Kagi",
+      "manaCost": 1,
+      "name": "악마 탐구",
+      "text": "악마를 \u003cb\u003e발견\u003c/b\u003e합니다. 내 다음 악마의 비용이 (1) 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9fc0b458165ffacfc9361e3ea4c700de512be41dfdeaacfdef08e59658177369.png",
+      "imageGold": "",
+      "flavorText": "\"악마가 필요해? 나도 필요해!\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/58f853b53cc1c178178edfc74dc7f7c71f3c09a3e63841879db298f28a002799.png",
+      "keywordIds": [
+        21
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 50991,
+      "collectible": 1,
+      "slug": "50991-demonbolt",
+      "classId": 9,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1129,
+      "rarityId": 1,
+      "artistName": "Akkapoj T.",
+      "manaCost": 8,
+      "name": "악마 화살",
+      "text": "하수인을 처치합니다. 내 하수인 하나당 비용이 (1)씩 감소합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7d96da91ec7bca50fca8e6bf8b7c5fb7d94c59de606213721b758d790a1181ab.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/70b3f5b149bda34a5c35aeb464d67a4f689e3ec4aca17db93a403619a95e493a.png",
+      "flavorText": "하수인(이었던 것)",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2229cbc1b0121d6a25d0d34e3ec48c13db36c9f189c1bef13cdb9792d71be824.png"
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 70
+}

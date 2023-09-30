@@ -1,0 +1,1058 @@
+{
+  "cards": [
+    {
+      "id": 102530,
+      "collectible": 1,
+      "slug": "102530-malorne",
+      "classId": 2,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1898,
+      "rarityId": 5,
+      "artistName": "Oliver Chipping",
+      "health": 7,
+      "attack": 9,
+      "manaCost": 7,
+      "name": "말로른",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e \u003cb\u003e휴면\u003c/b\u003e 상태가 됩니다. 아군 야수가 둘 죽으면 되살아납니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4d762ebbfe48b9d80271c0b9e81a27b95749b18ba61abcefe952cf57005c8d59.png",
+      "imageGold": "",
+      "flavorText": "거대한 사슴은 순백색으로, 흡사 달빛과 같은 부드러운 빛을 발산합니다. 그는 당신을 깊은 은빛 여울 같은, 태고의 지혜가 느껴지는 눈으로 응시하고 있으며, 존재하는 것만으로도 차분해지는 오라를 내뿜고 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0dd43a355e6d168b20e944bdfee128fa83ec48ef7fe03fb00081c3e597f4aeab.png",
+      "keywordIds": [
+        12
+      ],
+      "copyOfCardId": 2003
+    },
+    {
+      "id": 436,
+      "collectible": 1,
+      "slug": "436-malygos",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 3,
+      "rarityId": 5,
+      "artistName": "Michael Komarck",
+      "health": 12,
+      "attack": 4,
+      "manaCost": 9,
+      "name": "말리고스",
+      "text": "\u003cb\u003e주문 공격력 +5\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1b9fa044f7d27ed4b8c48b2c19f9952263ce7e4b635c4b972010e978c37bb41d.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ef289f7d21e414dc65496ad9cc7217594876535df18a97d31868a3dc516ce00.png",
+      "flavorText": "말리고스는 필멸자들이 마법 쓰는 걸 싫어합니다. 완전 많이 싫어합니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/accec3824212110972cf98da3b3e54cb9b9bacd97c6524224328759c4908fca5.png",
+      "keywordIds": [
+        2
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69979,
+      "collectible": 1,
+      "slug": "69979-malygos",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 24,
+      "cardTypeId": 4,
+      "cardSetId": 1646,
+      "rarityId": 5,
+      "artistName": "Michael Komarck",
+      "health": 12,
+      "attack": 4,
+      "manaCost": 9,
+      "name": "말리고스",
+      "text": "\u003cb\u003e주문 공격력 +5\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6f83d5b37419ce9ef80e60d79b9c6528d9c9efb3105390fa0a3dcde93841e25e.png",
+      "imageGold": "",
+      "flavorText": "말리고스는 필멸자들이 마법 쓰는 걸 싫어합니다. 완전 많이 싫어합니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/accec3824212110972cf98da3b3e54cb9b9bacd97c6524224328759c4908fca5.png",
+      "keywordIds": [
+        2
+      ],
+      "copyOfCardId": 436
+    },
+    {
+      "id": 77056,
+      "collectible": 1,
+      "slug": "77056-mischievous-imp",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 1691,
+      "rarityId": 3,
+      "artistName": "Anton Zemskov",
+      "health": 3,
+      "attack": 3,
+      "manaCost": 4,
+      "name": "말썽쟁이 임프",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 이 하수인을 복사하여 소환합니다. \u003cb\u003e주입 ( ):\u003c/b\u003e 대신 둘 복사하여 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1d953c64d6ca210017044951f06892e9de6bbdbe611d53869b91ae3a0a7d4cfc.png",
+      "imageGold": "",
+      "flavorText": "오늘은 무슨 장난을 꾸밀까.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ac4081b3ea15a2fbd996893714395c7638f4afcf009f187d807d5a1d3c2ad52f.png",
+      "childIds": [
+        79542,
+        79552,
+        79593,
+        78361,
+        79545,
+        537,
+        850,
+        764,
+        62320,
+        79554,
+        79595
+      ],
+      "keywordIds": [
+        8,
+        238
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 39740,
+      "collectible": 1,
+      "slug": "39740-malchezaars-imp",
+      "classId": 9,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "cardTypeId": 4,
+      "cardSetId": 23,
+      "rarityId": 1,
+      "artistName": "Peter Stapleton",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "말체자르의 임프",
+      "text": "내가 카드를 버릴 때마다 카드를 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9a14e5d9b2293d8acc1c196d28bf800d4b81fd55b8e96de978846905b51e0301.png",
+      "imageGold": "",
+      "flavorText": "말체자르에게는 도비라는 임프 심부름꾼이 있었습니다. 하지만 아주 비극적인 사고가 있었죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0314852d75cbdbf8acde25afc807b5b90d822da53b0ab609ca021d19c52b3da0.jpg",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 38739,
+      "collectible": 1,
+      "slug": "38739-malkorok",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 21,
+      "rarityId": 5,
+      "artistName": "E. Guiton \u0026 Nutchapol ",
+      "health": 5,
+      "attack": 6,
+      "manaCost": 7,
+      "name": "말코록",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 무작위 무기를 장착합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6a3d5a5fe457a6161da43ae7b1bf8071264d0efe8a2a36dcc94cb2df92136ccb.png",
+      "imageGold": "",
+      "flavorText": "가로쉬의 절친입니다. 진짜로요. 검색해보세요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08ba98a8ebfadfbcd0d9d226cbda715f0f1a7f4eb8d175c2b304a38e6ab8c28b.jpg",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 63057,
+      "collectible": 1,
+      "slug": "63057-refreshing-spring-water",
+      "classId": 4,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1525,
+      "rarityId": 1,
+      "artistName": "Dave Allsop",
+      "manaCost": 5,
+      "name": "맑은 샘물",
+      "text": "카드를 2장 뽑습니다. 뽑은 주문 1장당 마나 수정을 2개씩 회복합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/66e1fdba19226749fbc033bea811d3106adb2ce003c2cab375d6c1ef804f7249.png",
+      "imageGold": "",
+      "flavorText": "\"마나\"의 다른 이름은 \"전해질\"입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c878e577bb9e53579db9eb54feb9a6fe778632e0fc21b5de85a0be01ec4d5e2a.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 52081,
+      "collectible": 1,
+      "slug": "52081-oblivitron",
+      "classId": 3,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1130,
+      "rarityId": 5,
+      "artistName": "Zoltan Boros",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 6,
+      "name": "망각로봇",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 내 손에 있는 기계를 소환하고, 그 하수인의 \u003cb\u003e죽음의 메아리\u003c/b\u003e를 발동시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/73dfb7b22d09063a7002cbc9415aac4b5443d919785c88a6babc24e07811e68f.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8e7e2357f3964bd59c5589b4fd057acaff625c5b0e99cc5acb541fe58cbf62cc.png",
+      "flavorText": "죽음의 메아리마저 재활용합니다!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9ed697cf77264a58df3ec953f24d87103463e3679d5346932854d92777664a12.png",
+      "keywordIds": [
+        12
+      ]
+    },
+    {
+      "id": 65609,
+      "collectible": 1,
+      "slug": "65609-crows-nest-lookout",
+      "classId": 14,
+      "multiClassIds": [],
+      "minionTypeId": 15,
+      "multiTypeIds": [
+        23
+      ],
+      "cardTypeId": 4,
+      "cardSetId": 1578,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "망루의 망꾼",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 가장 왼쪽과 오른쪽에 있는 적 하수인에게 피해를 2 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/4e8e6a79e6d9ec02361f35e922a0d91d1a297795476fa3b41a69b2ad549bf3f6.png",
+      "imageGold": "",
+      "flavorText": "보는 눈이 더 많아서 더 안전하죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f657348eb7507b01a993d2515da4ac257c5164c7673fd00852cd48657bb4af72.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 84132,
+      "collectible": 1,
+      "slug": "84132-animate-dead",
+      "classId": 6,
+      "multiClassIds": [],
+      "spellSchoolId": 6,
+      "cardTypeId": 5,
+      "cardSetId": 1776,
+      "rarityId": 3,
+      "artistName": "Studio Hive ",
+      "manaCost": 1,
+      "name": "망자 되살리기",
+      "text": "비용이 (3) 이하인 아군 하수인을 부활시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ba745248d5d0db9ff824a9f67e563690a7a33ad0a91adedb261eb20e2d9f454e.png",
+      "imageGold": "",
+      "flavorText": "옛날에는 망자를 한 뼈 한 뼈 모아 되살리곤 했죠. 지금은 다 전산으로 처리합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ddd0e2860c19e94fdf7cd83aeda15f050613653cedf1c6567ba26524709760cd.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 50087,
+      "collectible": 1,
+      "slug": "50087-bwonsamdi-the-dead",
+      "classId": 6,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1129,
+      "rarityId": 5,
+      "artistName": "James Ryman",
+      "health": 7,
+      "attack": 7,
+      "manaCost": 7,
+      "name": "망자 브원삼디",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 손이 가득 찰 때까지 내 덱에서 비용이 1인 하수인을 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8d6cabd8b747b9883a3a3f7b4eefb553c340faaf0b18d0929b1e348c532e335c.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8deb3f7fade0ad19450ba90a80d1be91d25b38e44572d2e41900176b3094f074.png",
+      "flavorText": "외쳐! V13D!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f620fc23730d9d85de1353c30eec2cfd120cb34ff5121e4d902a34a3ad9bb9d3.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 86655,
+      "collectible": 1,
+      "slug": "86655-knight-of-the-dead",
+      "classId": 5,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 1,
+      "artistName": "Paul Mafayon",
+      "health": 5,
+      "attack": 5,
+      "manaCost": 3,
+      "name": "망자의 기사",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 영웅에게 피해를 5 줍니다. \u003cb\u003e마나갈증 (7):\u003c/b\u003e 대신 내 영웅의 생명력을 5 회복시킵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/81bd7c2b040ed404088ca0bd7ffed3775ddb91e5d65b8be309d961ddbb4a91e7.png",
+      "imageGold": "",
+      "flavorText": "성기사는 무슨 일이 있어도 언데드를 처단하겠노라는 서약을 지킵니다. 설령 본인이 언데드로 전락하더라도 말이죠.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9c6107483da82cdc64d5d0f4727bb66f1c9ea0426fee66be3504245605b3216e.png",
+      "keywordIds": [
+        8,
+        257
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42766,
+      "collectible": 1,
+      "slug": "42766-dead-mans-hand",
+      "classId": 10,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1001,
+      "rarityId": 4,
+      "artistName": "L. Lullabi \u0026 K. Turovec",
+      "manaCost": 2,
+      "name": "망자의 손패",
+      "text": "내 손에 있는 카드를 모두 복사하여 내 덱에 섞어 넣습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/5fe94adc660e5b3656512109de00550d7004b1f6c98bcfb6250c8101786873d8.png",
+      "imageGold": "",
+      "flavorText": "나는 라그나로스랑 방어구 제작자 투 페어. 넌 뭐야?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe298bed4e4196db24fc215a89c67f2c1fa183296e52881bb5ad47216aeeeaa8.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 50352,
+      "collectible": 1,
+      "slug": "50352-spirit-of-the-dead",
+      "classId": 6,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1129,
+      "rarityId": 3,
+      "artistName": "James Ryman",
+      "health": 3,
+      "attack": 0,
+      "manaCost": 1,
+      "name": "망자의 혼",
+      "text": "1턴 동안 \u003cb\u003e은신\u003c/b\u003e을 얻습니다. 아군 하수인이 죽은 후에, 그 하수인을 비용이 1인 하수인으로 복사하여 내 덱에 섞어 넣습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/26dd887c2d62dd9e39764376aad02d2be13f79544c2534d6b34db3c271bd8c54.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/de869c3df116590d82a166b8e4b7f9d622f727aace29cc122104f77dd9750e0c.png",
+      "flavorText": "살아서든 죽어서든 그와 함께하게 됩니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e91bbd6d58e79a4b853820e420b465c070d86a7830860400a68c995e040eb137.png",
+      "keywordIds": [
+        6
+      ]
+    },
+    {
+      "id": 39492,
+      "collectible": 1,
+      "slug": "39492-cloaked-huntress",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 23,
+      "rarityId": 1,
+      "artistName": "Arthur Bozonnet",
+      "health": 4,
+      "attack": 3,
+      "manaCost": 3,
+      "name": "망토 두른 여사냥꾼",
+      "text": "내 \u003cb\u003e비밀\u003c/b\u003e의 비용이 (0)이 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad217169a3a804b9df082608252df90e24fd982e516218398c4e3fe451278379.png",
+      "imageGold": "",
+      "flavorText": "이제 머리를 직접 말아보세요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/695ecea2c971c7259248f4c84ed672d929cdc703aee8ef211e8abdc079af28d3.png",
+      "keywordIds": [
+        5
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 56524,
+      "collectible": 1,
+      "slug": "56524-ambush",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1414,
+      "rarityId": 3,
+      "artistName": "Vladimir Kafanov",
+      "manaCost": 2,
+      "name": "매복",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 상대편이 하수인을 낸 후에, \u003cb\u003e독성\u003c/b\u003e 능력이 있는 2/3 매복자를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/55695306671ef5d3013140b73ce0d2c691421fd7cb3fd48006ad82c09967fca0.png",
+      "imageGold": "",
+      "flavorText": "다그닥다그닥, 다그닥다그닥, 따그닥따그닥, 꼴까닥!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/471db33165a00cf1c3d0501ced202d68f22090a36ff8001394a52ecb39a12048.png",
+      "childIds": [
+        57218
+      ],
+      "keywordIds": [
+        5,
+        32
+      ]
+    },
+    {
+      "id": 102202,
+      "collectible": 1,
+      "slug": "102202-ambush",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 3,
+      "artistName": "Vladimir Kafanov",
+      "manaCost": 2,
+      "name": "매복",
+      "text": "\u003cb\u003e비밀:\u003c/b\u003e 상대편이 하수인을 낸 후에, \u003cb\u003e독성\u003c/b\u003e 능력이 있는 2/3 매복자를 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b5965e67532154cbec418506f6cb1d275580f8aff330f31cf6c118655e5886ae.png",
+      "imageGold": "",
+      "flavorText": "다그닥다그닥, 다그닥다그닥, 따그닥따그닥, 꼴까닥!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/114cd30b9e6d4e5fb746d450a4134479e0aa9096f6fca1d2e7245963a32d191d.png",
+      "childIds": [
+        57218
+      ],
+      "keywordIds": [
+        5,
+        32
+      ],
+      "copyOfCardId": 56524,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 87301,
+      "collectible": 1,
+      "slug": "87301-hawkstrider-rancher",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 4,
+      "artistName": "Hideaki Takamura",
+      "health": 5,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "매타조 사육사",
+      "text": "내가 하수인을 낼 때마다 그 하수인에게 +1/+1과 \"\u003cb\u003e죽음의 메아리:\u003c/b\u003e 1/1 매타조를 소환함\" 능력을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/15c9e47bc7b35db542618c614544d41d2eebce8959499af7d4caa38a4071dd90.png",
+      "imageGold": "",
+      "flavorText": "전 치즈색 매타조가 제일 좋아요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d4eba7b54dc170d2944aeb71b1dbd267b1fff08054cacff2fee2b6b17d3b1a9d.png",
+      "childIds": [
+        87303
+      ],
+      "keywordIds": [
+        12
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 1791,
+      "collectible": 1,
+      "slug": "1791-maexxna",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 12,
+      "rarityId": 5,
+      "artistName": "Howard Lyon",
+      "health": 8,
+      "attack": 2,
+      "manaCost": 6,
+      "name": "맥스나",
+      "text": "\u003cb\u003e독성\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/af4a2db4468c92407d70617ecd36a7daf3e7b4da07649b1dedd5ec61ba97ccd3.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a67754f06b01d00c6c3aa1429e8603710a21bdaf6e9dc5a66b8506abe658d29d.png",
+      "flavorText": "맥스나는 사람들이 자신을 \"맵시나\"라고 부르는 걸 싫어합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/004d94549301f1e1d6d4dc1ea257e96247c83a26d936448bb565f695dbd6d2c1.png",
+      "keywordIds": [
+        32
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 61842,
+      "collectible": 1,
+      "slug": "61842-maxima-blastenheimer",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1466,
+      "rarityId": 5,
+      "artistName": "Ivan Fomin",
+      "health": 4,
+      "attack": 4,
+      "manaCost": 6,
+      "name": "맥시마 블라스텐하이머",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 덱에서 하수인을 소환합니다. 그 하수인은 적 영웅을 공격한 후에 죽습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a2a2382eadb10c9387e824f2181302adc07abf5bfae70549694e822e4b6d3eb4.png",
+      "imageGold": "",
+      "flavorText": "믿기지 않으시겠지만, 이 게임은 12세 이용가입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e4f42f9409000ce0f25977241c095483a898c10d9633bb3eab92091240a6f7cb.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 459,
+      "collectible": 1,
+      "slug": "459-deadly-poison",
+      "classId": 7,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1635,
+      "rarityId": 2,
+      "artistName": "Trevor Jacobs",
+      "manaCost": 1,
+      "name": "맹독",
+      "text": "내 무기에 공격력을 +2 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d0519d3d29a415217bda0c2cb843ea2d81074c89c788a5eb4b16adb4554d55b7.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b626faf3575889a9fedaddb7f6c291a7280596f5ccb54dff5bbff62df2cdc0be.png",
+      "flavorText": "도적들의 독 제조술은 극비 사항입니다. 마법사들이 주문에 사용 못 하게 하기 위해서죠. 맹독 화살? 맹독의 비? 맹독 정령? 생각만 해도 끔찍하군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad339b408ae19096986367d6bbf00aa0ddc0dd52ae8162c88693bcb11aa00723.png",
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 68349,
+      "collectible": 1,
+      "slug": "68349-deadly-poison",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 2,
+      "artistName": "Trevor Jacobs",
+      "manaCost": 1,
+      "name": "맹독",
+      "text": "내 무기에 공격력을 +2 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/895e7523fcbb0271bd0af676a071938ac37c5375151f898983867c9428e9cb18.png",
+      "imageGold": "",
+      "flavorText": "도적들의 독 제조술은 극비 사항입니다. 마법사들이 주문에 사용 못 하게 하기 위해서죠. 맹독 화살? 맹독의 비? 맹독 정령? 생각만 해도 끔찍하군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ad339b408ae19096986367d6bbf00aa0ddc0dd52ae8162c88693bcb11aa00723.png",
+      "copyOfCardId": 459
+    },
+    {
+      "id": 69522,
+      "collectible": 1,
+      "slug": "69522-deadly-poison",
+      "classId": 7,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1637,
+      "rarityId": 1,
+      "artistName": "Trevor Jacobs",
+      "manaCost": 1,
+      "name": "맹독",
+      "text": "내 무기에 공격력을 +2 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/2c281d211a95ae8f01d53755eac195454297bc8d3856e8ca0e409de3da667f7b.png",
+      "imageGold": "",
+      "flavorText": "도적들의 독 제조술은 극비 사항입니다. 마법사들이 주문에 사용 못 하게 하기 위해서죠. 맹독 화살? 맹독의 비? 맹독 정령? 생각만 해도 끔찍하군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7b1f8e9abc1154c229a63e67dca24ced53bd8e1f54288822cac60ab948c45eb8.png",
+      "copyOfCardId": 459,
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 78641,
+      "collectible": 1,
+      "slug": "78641-noxious-cadaver",
+      "classId": 1,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1637,
+      "rarityId": 3,
+      "artistName": "Vlad Botos",
+      "health": 2,
+      "attack": 1,
+      "manaCost": 1,
+      "name": "맹독 송장",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 적과 내 영웅에게 피해를 2 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/9759112f1b8e72079b8d4caa51c779dcba90f208ef4f6205c87e884d7990fa60.png",
+      "imageGold": "",
+      "flavorText": "상한 음식을 먹지 말아야 하는 이유입니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/cb323287970f33bab2254438e6ddae035b9799a336d3aaa1792f6bb8ff126c2f.png",
+      "keywordIds": [
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      },
+      "runeCost": {
+        "blood": 1,
+        "frost": 0,
+        "unholy": 0
+      }
+    },
+    {
+      "id": 62486,
+      "collectible": 1,
+      "slug": "62486-venomous-scorpid",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1525,
+      "rarityId": 1,
+      "artistName": "Ian Ameling",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 3,
+      "name": "맹독 전갈",
+      "text": "\u003cb\u003e독성\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 주문을 \u003cb\u003e발견\u003c/b\u003e합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/08e5d0bde25021071b4b1c5a7738421e4aa9044d450802be1b1460eb583a5db2.png",
+      "imageGold": "",
+      "flavorText": "\"아주 귀여운 전갈\"이란 거프의 말을 믿지 마세요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/3d3b843636aff8e802a308327fc07fbb4ce99dfab8ca95bf96082c7836398329.png",
+      "keywordIds": [
+        8,
+        21,
+        32
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 83942,
+      "collectible": 1,
+      "slug": "83942-noxious-infiltrator",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1776,
+      "rarityId": 3,
+      "artistName": "Rafael Zanchetin",
+      "health": 5,
+      "attack": 2,
+      "manaCost": 4,
+      "name": "맹독 침투요원",
+      "text": "\u003cb\u003e독성\u003c/b\u003e, \u003cb\u003e전투의 함성:\u003c/b\u003e 지난 턴 이후에 아군 언데드가 죽었으면, 하수인에게 피해를 1 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/36b1e878d8978a5e31630898ed84799573ae4d05e7322e483de1b8fbe9c94658.png",
+      "imageGold": "",
+      "flavorText": "유독하지만, 독하진 않습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1526b76228bc6c320b0771d8dcad96fd143e3ecf568f1c6c35aa054061be5b51.png",
+      "keywordIds": [
+        8,
+        32
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42648,
+      "collectible": 1,
+      "slug": "42648-toxic-arrow",
+      "classId": 3,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1001,
+      "rarityId": 4,
+      "artistName": "Zoltan Boros",
+      "manaCost": 2,
+      "name": "맹독 화살",
+      "text": "하수인에게 피해를 2 줍니다. 그 하수인이 생존하면, \u003cb\u003e독성\u003c/b\u003e을 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/8479c2f6b87bdf6f523f215a0426568f5f9f9067800d753a681d86314ba03f72.png",
+      "imageGold": "",
+      "flavorText": "당신을 죽일 수 없는 것들은 당신에게 독성을 부여합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/6442e2439ec55068e1ed79aa7b219848a304a4b1467f7fd53ed323206e0f32fd.png",
+      "keywordIds": [
+        32
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 63632,
+      "collectible": 1,
+      "slug": "63632-venomstrike-bow",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 7,
+      "cardSetId": 1525,
+      "rarityId": 3,
+      "artistName": "Jason Kang",
+      "attack": 1,
+      "manaCost": 4,
+      "durability": 2,
+      "name": "맹독 활",
+      "text": "\u003cb\u003e독성\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a39b2fd81dad125aa4bdf757c6600b40c56f3cba0e2d52753cf6b9f3fb8177e7.png",
+      "imageGold": "",
+      "flavorText": "\"활 말고 화살촉에만 독을 발라도 되는 건 알고 있지?\"",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3c02704b689181ea0047458a042e38688321710d38f5a1b09a27eacde24ed8c.png",
+      "keywordIds": [
+        32
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 47842,
+      "collectible": 1,
+      "slug": "47842-venomizer",
+      "classId": 3,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1127,
+      "rarityId": 1,
+      "artistName": "Tyler Walpole",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "맹독로봇",
+      "text": "\u003cb\u003e합체\u003c/b\u003e \u003cb\u003e독성\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ea9cc8411f7d542247001d105dd78fbc5041ba9ee8ad95933990488e560966d8.png",
+      "imageGold": "",
+      "flavorText": "치명적인 매력을 가지고 있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d57067cbc377b66f17c82c3f910f93ade52afbd44e8d3a3959a286f73e7cf8b2.png",
+      "keywordIds": [
+        32,
+        66
+      ]
+    },
+    {
+      "id": 38538,
+      "collectible": 1,
+      "slug": "38538-bilefin-tidehunter",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 14,
+      "cardTypeId": 4,
+      "cardSetId": 21,
+      "rarityId": 1,
+      "artistName": "James Ryman",
+      "health": 1,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "맹독비늘 바다사냥꾼",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e \u003cb\u003e도발\u003c/b\u003e 능력이 있는 1/1 수액을 소환합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c0c55d69648b7d6c75030f59d4c7edebbb45a5cf2f674254f5a68d9c1413ba6f.png",
+      "imageGold": "",
+      "flavorText": "맹독비늘은 생각보다 내구력이 강하답니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/d802653d4f490b46cbeced5a4432b7d391416df8bcb85b33422cf88b024d2a10.jpg",
+      "childIds": [
+        38537
+      ],
+      "keywordIds": [
+        1,
+        8
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 42446,
+      "collectible": 1,
+      "slug": "42446-venomancer",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 11,
+      "cardTypeId": 4,
+      "cardSetId": 1001,
+      "rarityId": 1,
+      "artistName": "James Ryman",
+      "health": 5,
+      "attack": 2,
+      "manaCost": 5,
+      "name": "맹독술사",
+      "text": "\u003cb\u003e독성\u003c/b\u003e",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c52cb491324dfecd4994974f32427293921f399828c37167344a36bd3f230ff7.png",
+      "imageGold": "",
+      "flavorText": "일반 술사들보다 한 여덟 번은 더 죽는 듯합니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/275ff600f6849831bb81faeab1b3014dd772b3fe60cf6d1b68ae72eb08565e09.png",
+      "keywordIds": [
+        32
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 48034,
+      "collectible": 1,
+      "slug": "48034-toxicologist",
+      "classId": 12,
+      "multiClassIds": [],
+      "cardTypeId": 4,
+      "cardSetId": 1127,
+      "rarityId": 1,
+      "artistName": "Brian Despain",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "맹독학자",
+      "text": "\u003cb\u003e전투의 함성:\u003c/b\u003e 내 무기에 공격력을 +1 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe68ba331957f3a8535c258b14c4606f6e0e9a2906fa39c8a831de475b4bef5f.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/fe2e1550cb0d04794efd94eac3973ceb6033ed6bd9cb9d330f2a8506c0563cea.png",
+      "flavorText": "이중전공으로 요리학을 선택한 건 실수 같군요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/da43aae771cc0dea1089abd15ae33b3e4f72b33100a992411f83da4605dfba76.png",
+      "keywordIds": [
+        8
+      ]
+    },
+    {
+      "id": 98051,
+      "collectible": 1,
+      "slug": "98051-relentless-worg",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 20,
+      "cardTypeId": 4,
+      "cardSetId": 1858,
+      "rarityId": 1,
+      "artistName": "Todd Harris",
+      "health": 4,
+      "attack": 2,
+      "manaCost": 3,
+      "name": "맹렬한 검은늑대",
+      "text": "\u003cb\u003e속공\u003c/b\u003e, 이 하수인은 공격하여 다른 하수인을 처치한 후에, 생명력을 모두 회복합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/f30ae5628a591b11907e93540782cd0408ee09f3623b64c79da5fd929ee9ea59.png",
+      "imageGold": "",
+      "flavorText": "검은늑대의 해라고요! 잠시만요, 늑대의 해라니 무슨 소리예요?",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e9fbe72a9cca747f8b09c01f83994e3f4d5eedbae7e876987aac063d304d9a0e.png",
+      "keywordIds": [
+        53
+      ]
+    },
+    {
+      "id": 97739,
+      "collectible": 1,
+      "slug": "97739-furious-furnace",
+      "classId": 10,
+      "multiClassIds": [],
+      "minionTypeId": 17,
+      "cardTypeId": 4,
+      "cardSetId": 1858,
+      "rarityId": 4,
+      "artistName": "Luca Zontini",
+      "health": 3,
+      "attack": 1,
+      "manaCost": 2,
+      "name": "맹렬한 용광로",
+      "text": "\u003cb\u003e합체\u003c/b\u003e, 공격하는 대상 양옆의 하수인들에게도 피해를 줍니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/7857d0d890605d0c2c907585515d69940ac05ff9ca65bc7465eb2fafc912c272.png",
+      "imageGold": "",
+      "flavorText": "열이 머리 끝까지 올랐네요.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e18577aedd405c3ee81a5230f3d7e4d360998e2a0df6bd6bc4b2aad72f38b505.png",
+      "keywordIds": [
+        66
+      ]
+    },
+    {
+      "id": 708,
+      "collectible": 1,
+      "slug": "708-headcrack",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 3,
+      "rarityId": 3,
+      "artistName": "Ludo Lullabi",
+      "manaCost": 3,
+      "name": "머리 후려치기",
+      "text": "적 영웅에게 피해를 2 줍니다. \u003cb\u003e연계:\u003c/b\u003e 다음 턴에 이 카드를 내 손으로 다시 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/701c671c6640d61e42a9b448583be9c9bf393041476c140f5cba17943e1fa442.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/276767de5039a489fdc2570187c89f2fca988f11adf7552ccb5aa2b0984aff30.png",
+      "flavorText": "모든 공격이 실패해도, 머리 후려치기만큼은 당신을 배신하지 않을 겁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00cbf238873b219246ed817619bfb245deea8cad956a3cb8bdbb140e8747b9ec.png",
+      "keywordIds": [
+        13
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 69862,
+      "collectible": 1,
+      "slug": "69862-headcrack",
+      "classId": 7,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1646,
+      "rarityId": 3,
+      "artistName": "Ludo Lullabi",
+      "manaCost": 3,
+      "name": "머리 후려치기",
+      "text": "적 영웅에게 피해를 2 줍니다. \u003cb\u003e연계:\u003c/b\u003e 다음 턴에 이 카드를 내 손으로 다시 가져옵니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/e646751e180cbf06b1d97ecf536ce9bfedd5d59042c44c95d6b553c032672103.png",
+      "imageGold": "",
+      "flavorText": "모든 공격이 실패해도, 머리 후려치기만큼은 당신을 배신하지 않을 겁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/00cbf238873b219246ed817619bfb245deea8cad956a3cb8bdbb140e8747b9ec.png",
+      "keywordIds": [
+        13
+      ],
+      "copyOfCardId": 708
+    },
+    {
+      "id": 76261,
+      "collectible": 1,
+      "slug": "76261-inkveil-ambusher",
+      "classId": 7,
+      "multiClassIds": [],
+      "minionTypeId": 92,
+      "cardTypeId": 4,
+      "cardSetId": 1658,
+      "rarityId": 3,
+      "artistName": "Vika Yarova",
+      "health": 2,
+      "attack": 1,
+      "manaCost": 2,
+      "name": "먹물장막 잠복꾼",
+      "text": "\u003cb\u003e은신\u003c/b\u003e, 공격할 때 공격력을 +3 얻고 \u003cb\u003e면역\u003c/b\u003e 상태가 됩니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/221f986e7b36f0ebf1651940fd4aa0c22686ac6bfb54c00354d27876ad1bacc4.png",
+      "imageGold": "",
+      "flavorText": "착각하고 계시군요. 겁먹은 \u003ci\u003e당신\u003c/i\u003e에게 먹물을 뿜는 겁니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/a32c3ac367c3f8ce361b649be25a5cf55b9357816d069497a0a669981cc486ab.png",
+      "keywordIds": [
+        6,
+        17
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    },
+    {
+      "id": 48524,
+      "collectible": 1,
+      "slug": "48524-juicy-psychmelon",
+      "classId": 2,
+      "multiClassIds": [],
+      "spellSchoolId": 4,
+      "cardTypeId": 5,
+      "cardSetId": 1127,
+      "rarityId": 4,
+      "artistName": "Jason Kang",
+      "manaCost": 4,
+      "name": "먹음직스러운 덥석멜론",
+      "text": "내 덱에서 비용이 7, 8, 9, 10인 하수인을 뽑습니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/1e13efc70dceb5e59687a1e9aab19627021002318148015ead41fb4109c0fcc4.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/168976cc58e9670f87e256ffc2cc1c8dbe3a02233bbffa463f62056ff80b453d.png",
+      "flavorText": "전혀 먹음직스럽지 않습니다. 그렇다고 생각하게 만들고 있는 거예요!",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/471b8306733732282505b4df5119841f2439958a19468985e8a6c97f76c11895.png"
+    },
+    {
+      "id": 55208,
+      "collectible": 1,
+      "slug": "55208-tasty-flyfish",
+      "classId": 12,
+      "multiClassIds": [],
+      "minionTypeId": 14,
+      "cardTypeId": 4,
+      "cardSetId": 1347,
+      "rarityId": 1,
+      "artistName": "Matt Dixon",
+      "health": 2,
+      "attack": 2,
+      "manaCost": 2,
+      "name": "먹음직스런 멀록",
+      "text": "\u003cb\u003e죽음의 메아리:\u003c/b\u003e 내 손에 있는 무작위 용족에게 +2/+2를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/0c0490714d0c6e1af9c90a3accec1375545f87f743bd5f1bf00ad9bfc5071220.png",
+      "imageGold": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/28e679683aecbb0c8c9c4b90cd8a565e9972d50e3f0f42a884f511df63c825ad.png",
+      "flavorText": "비타민도 듬뿍 들어있습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/c3f830ddb12ae281f1d34642c5e1f063481869f29ebd5de3ef347a60f0ee107d.png",
+      "keywordIds": [
+        12
+      ]
+    },
+    {
+      "id": 61846,
+      "collectible": 1,
+      "slug": "61846-dont-feed-the-animals",
+      "classId": 3,
+      "multiClassIds": [],
+      "cardTypeId": 5,
+      "cardSetId": 1466,
+      "rarityId": 4,
+      "artistName": "Zoltan Boros",
+      "manaCost": 2,
+      "name": "먹이를 주지 마시오",
+      "text": "내 손에 있는 모든 야수들에게 +1/+1을 부여합니다. \u003cb\u003e타락:\u003c/b\u003e 대신 +2/+2를 부여합니다.",
+      "image": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/ef9476df86ca03396eedd7a289d9c387c3326ca1edc4340a495273ab664adcf1.png",
+      "imageGold": "",
+      "flavorText": "먹이를 함부로 주지 마세요. 주는 분은 동물 확대범으로 경찰에 신고하겠습니다.",
+      "cropImage": "https://d15f34w2p8l1cc.cloudfront.net/hearthstone/b3782e1cbad4d10859082d93796708ba423643e0f759aa1909ff0def0806da15.png",
+      "childIds": [
+        61848
+      ],
+      "keywordIds": [
+        91
+      ],
+      "duels": {
+        "relevant": true,
+        "constructed": true
+      }
+    }
+  ],
+  "cardCount": 5060,
+  "pageCount": 127,
+  "page": 33
+}
